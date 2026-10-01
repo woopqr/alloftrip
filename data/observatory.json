@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "cursor": 0,
+  "observations": [
+    {
+      "city": "Bali",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-01T15:03:19.268Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "45018131",
+          "name": "Sumitra Luxury Villas & Resort by Pramana",
+          "priceKRW": 19725,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sumitra-hotel-and-resort-a-pramana-experience/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "920599",
+          "name": "Amnaya Resort Kuta",
+          "priceKRW": 9467,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "10328",
+          "name": "Ayodya Resort Bali",
+          "priceKRW": 14068,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ayodya-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "10358",
+          "name": "Bintang Bali Resort",
+          "priceKRW": 6039,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bintang-bali-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "10336",
+          "name": "Griya Santrian a Beach Resort",
+          "priceKRW": 17221,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/griya-santrian-a-beach-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "65538",
+          "name": "The Patra Bali Resort & Villas",
+          "priceKRW": 7702,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    }
+  ]
+}
