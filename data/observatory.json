@@ -53,6 +53,37 @@
           "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
         }
       ]
+    },
+    {
+      "city": "Bali",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-01T20:46:20.129Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "65538",
+          "name": "The Patra Bali Resort & Villas",
+          "priceKRW": 7838,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "49686",
+          "name": "Grand Barong Resort Bali Managed by Soscomma",
+          "priceKRW": 2701,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-barong-resort-bali-managed-by-soscomma/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "1195948",
+          "name": "Jimbaran Bay Beach Resort & Spa by Prabhu",
+          "priceKRW": 5057,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
+        }
+      ]
     }
   ]
 }
