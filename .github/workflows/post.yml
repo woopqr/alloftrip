@@ -1,8 +1,8 @@
 name: All of Trip auto-publish
 
 on:
-  schedule:
-    - cron: '0 */4 * * *'   # 4시간마다(하루 6회) 드립 발행 — 회당 2개, 월 ~180빌드
+  # schedule:  # 2026-10-02 한국어 개편 중 일시 중지
+    # - cron: '0 */4 * * *'   # 4시간마다(하루 6회) 드립 발행 — 회당 2개, 월 ~180빌드
   workflow_dispatch:
     inputs:
       batch:
