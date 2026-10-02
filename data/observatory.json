@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 1,
+  "cursor": 0,
   "observations": [
     {
       "city": "Bali",
@@ -113,6 +113,58 @@
           "priceKRW": 2522,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/grand-barong-resort-bali-managed-by-soscomma/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Phuket",
+      "citySlug": "phuket",
+      "cityId": 16056,
+      "observedAt": "2026-10-02T03:54:16.555Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "28689418",
+          "name": "Panwaburi Beachfront Resort",
+          "priceKRW": 17747,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/panwaburi-beachfront-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "108812",
+          "name": "Dewa Phuket Resort & Villas",
+          "priceKRW": 12511,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/dewa-nai-yang-beach-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10933",
+          "name": "Thavorn Beach Village Resort & Spa Phuket",
+          "priceKRW": 23518,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/thavorn-beach-village-resort-spa-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "182190",
+          "name": "Palmyra Patong Resort",
+          "priceKRW": 7766,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/palmyra-patong-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "1155608",
+          "name": "Patong Bay Hill Resort",
+          "priceKRW": 6882,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/patong-bay-hill-resort_2/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "335179",
+          "name": "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina",
+          "priceKRW": 19725,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/santhiya-koh-yao-yai-resort-and-spa/hotel/phuket-th.html?cid=1925461"
         }
       ]
     }
