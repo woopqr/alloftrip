@@ -1,0 +1,704 @@
+{
+  "slug": "anniversary-mauritius",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "모리셔스",
+  "citySlug": "mauritius",
+  "cityId": 19226,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=19226",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[모리셔스] 특별한 날을 완성하는 5성급 기념일 스테이",
+  "metaDescription": "2026년 11월 모리셔스 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 43%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>힐튼 마우리티어스 리조트 앤 스파</b>입니다 (평점 8.8 · 리뷰 702건 · 1박 약 93만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/857092688.jpg?k=e471849a9349d42989566213401fceb570a7251194884ced41e4c791cb5747f1&o=",
+  "heroAlt": "모리셔스 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "힐튼 마우리티어스 리조트 앤 스파 (Hilton Mauritius Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/hilton-mauritius-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/857092688.jpg?k=e471849a9349d42989566213401fceb570a7251194884ced41e4c791cb5747f1&o=",
+      "score": 8.8,
+      "reviewCount": 702,
+      "reviewCountFmt": "리뷰 702건",
+      "priceText": "₩₩₩ · 1박 약 93만원",
+      "walkMin": 1,
+      "refLabel": "플릭 앙 플락 비치",
+      "star": 5,
+      "propertyId": 59248,
+      "geo": {
+        "lat": -20.307281,
+        "lng": 57.366486
+      },
+      "priceKRW": 928853,
+      "priceStatus": "조회됨",
+      "distanceM": 23,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "플릭 앙 플락 비치"
+      ],
+      "blurb": "평점 8.8 · 리뷰 702건. 플릭 앙 플락 비치까지 도보 1분, ₩₩₩ · 1박 약 93만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 93만원",
+        "📝 리뷰 702건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "P.s. The food in all the restaurants are to die for!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Special Thanks to Jonas and Prem at the welcome lobby.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Wonderful stay at Hilton Mauritius with great staff.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent property with very good and friendly staff",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "A bit away from beach but apart from that a great property!",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "콘스탄스 벨 마 플라주 (Constance Belle Mare Plage)",
+      "agodaUrl": "https://www.agoda.com/constance-belle-mare-plage_6/hotel/all/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/103936927.jpg?k=4359e0ffb1488039c903fe933039029796adbc970fcff6ce369ba933e4e24c68&o=",
+      "score": 8.8,
+      "reviewCount": 3357,
+      "reviewCountFmt": "리뷰 3,357건",
+      "priceText": "₩₩₩ · 1박 약 105만원",
+      "walkMin": 1,
+      "refLabel": "벨리 메어 비치",
+      "star": 5,
+      "propertyId": 3534614,
+      "geo": {
+        "lat": -20.164673,
+        "lng": 57.764168
+      },
+      "priceKRW": 1054252,
+      "priceStatus": "조회됨",
+      "distanceM": 54.22,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 8.8 · 리뷰 3,357건. 벨리 메어 비치까지 도보 1분, ₩₩₩ · 1박 약 105만원.",
+      "metaTags": [
+        "💰 1박 약 105만원",
+        "📝 리뷰 3,357건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "#each day was a new experience to stay here .",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Well maintained beach lot activities to do on beach",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "#walk at the beautiful and calm beach.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Enjoyed my stay .",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Awesome property",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "라 피로그 모리셔스 (La Pirogue Mauritius)",
+      "agodaUrl": "https://www.agoda.com/la-pirogue-a-sun-resort/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/199/199836/199836_15082612520035090088.jpg?ca=5&ce=1",
+      "score": 9,
+      "reviewCount": 979,
+      "reviewCountFmt": "리뷰 979건",
+      "priceText": "₩₩₩ · 1박 약 100만원",
+      "walkMin": 1,
+      "refLabel": "플릭 앙 플락 비치",
+      "star": 5,
+      "propertyId": 199836,
+      "geo": {
+        "lat": -20.298611,
+        "lng": 57.36488
+      },
+      "priceKRW": 996211,
+      "priceStatus": "조회됨",
+      "distanceM": 114.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "플릭 앙 플락 비치"
+      ],
+      "blurb": "평점 9 · 리뷰 979건. 플릭 앙 플락 비치까지 도보 1분, ₩₩₩ · 1박 약 100만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 100만원",
+        "📝 리뷰 979건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I had such a beautiful stay at La Pirogue in Mauritius.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The staff were kind, welcoming, and always helpful.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The bungalows are set amongst beautiful gardens.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The gardens, the staff, the beach, the lagoon, the food.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We had a premium bungalow which was lovely.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "아웃리거 모리셔스 비치 리조트 (Outrigger Mauritius Beach Resort)",
+      "agodaUrl": "https://www.agoda.com/outrigger-mauritius-beach-resort/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/35925366/0/0bb09f64c2c88ffdbc1dc2cd80564fb7.jpg?ce=0",
+      "score": 8,
+      "reviewCount": 854,
+      "reviewCountFmt": "리뷰 854건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 104,
+      "refLabel": "샤마렐 폭포",
+      "star": 5,
+      "propertyId": 630052,
+      "geo": {
+        "lat": -20.510635,
+        "lng": 57.417918
+      },
+      "priceKRW": 432635,
+      "priceStatus": "조회됨",
+      "distanceM": 8327.5,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8 · 리뷰 854건. 샤마렐 폭포까지 도보 104분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 854건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 7.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Their hospitality really made our experience memorable.",
+          "score": "7.2",
+          "country": "South Africa",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Edgewater restaurant made my birthday very special.",
+          "score": "8.4",
+          "country": "South Africa",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The bath tub was ultimate with a open garden tree.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "A wonderful welcome and a great stay with the courteous team",
+          "score": "8.4",
+          "country": "Mauritius",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "I can't recommend it highly enough and can't wait to return!",
+          "score": "10",
+          "country": "المملكة العربية السعودية",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "르 자디스 비치 리조트 앤 웰니스 - 매니지드 바이 반얀트리 호텔 앤 리조트 (Le Jadis Beach Resort & Wellness - Managed by Banyan Tree Hotels & Resorts)",
+      "agodaUrl": "https://www.agoda.com/angsana-balaclava-mauritius_2/hotel/balaclava-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36717352/-1/7c7e55cfa5b0505cb15c7f9c8320aecd.jpg?ce=0",
+      "score": 8.3,
+      "reviewCount": 937,
+      "reviewCountFmt": "리뷰 937건",
+      "priceText": "₩₩ · 1박 약 59만원",
+      "walkMin": 89,
+      "refLabel": "시테 라 큐레 버스터미널",
+      "star": 5,
+      "propertyId": 36717352,
+      "geo": {
+        "lat": -20.09343,
+        "lng": 57.517532
+      },
+      "priceKRW": 589673,
+      "priceStatus": "조회됨",
+      "distanceM": 7090.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 937건. 시테 라 큐레 버스터미널까지 도보 89분, ₩₩ · 1박 약 59만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 59만원",
+        "📝 리뷰 937건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The views are amazing I would highly recommend the resort .",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Quiet, great food, amazing place. We loved this place.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The hotel is beautiful, peaceful, and very well maintained.",
+          "score": "10",
+          "country": "Mauritius",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Otherwise, it is a nice private hotel with good facilities",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The service, staff and facilities was superb.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "La Maison 20 Degrés Sud - Relais & Châteaux",
+      "agodaUrl": "https://www.agoda.com/20-degres-sud-boutique-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/199217/-1/121746fc9bb8246bf87b5c60961299c9.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 397,
+      "reviewCountFmt": "리뷰 397건",
+      "priceText": "₩₩₩ · 1박 약 84만원",
+      "walkMin": 32,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 199217,
+      "geo": {
+        "lat": -20.004875,
+        "lng": 57.570698
+      },
+      "priceKRW": 844022,
+      "priceStatus": "조회됨",
+      "distanceM": 2552.05,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "페레베레 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 397건. Mont Choisy Bus Stop까지 도보 32분, ₩₩₩ · 1박 약 84만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 84만원",
+        "📝 리뷰 397건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Charming rooms and special court yard!",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Spent 4 nights here and really wish we'd had another 4.",
+          "score": "10",
+          "country": "Sweden",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I can def recommend this hotel as well as the spa.",
+          "score": "8.4",
+          "country": "South Africa",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Fantastic hotel with exceptional staff",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing week’s stay at this hotel.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T20:40:15.953Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T20:40:15.953Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

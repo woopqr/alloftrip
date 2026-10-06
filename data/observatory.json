@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 2,
+  "cursor": 3,
   "observations": [
     {
       "city": "몰디브",
@@ -276,6 +276,114 @@
           "key": "399580",
           "name": "더 나카 아일랜드, 어 럭셔리 컬렉션 리조트 앤 스파, 푸켓 (The Naka Island, a Luxury Collection Resort & Spa, Phuket)",
           "priceKRW": 756622,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-naka-island-a-luxury-collection-resort-spa-phuket_7/hotel/phuket-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "푸켓",
+      "citySlug": "phuket",
+      "cityId": 16056,
+      "observedAt": "2026-10-06T20:40:33.179Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "2838322",
+          "name": "로즈우드 푸켓 (Rosewood Phuket)",
+          "priceKRW": 2127092,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rosewood-phuket_3/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "296788",
+          "name": "빌라 반 푸 프라나 (Villa Baan Phu Prana)",
+          "priceKRW": 2010641,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/villa-baan-phu-prana/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3073929",
+          "name": "Trisara Villas & Residences Phuket",
+          "priceKRW": 1899032,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/trisara-sha-plus_2/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "17641654",
+          "name": "V 빌라 푸켓 - 엠갤러리 (V Villas Phuket - Mgallery)",
+          "priceKRW": 1701674,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/v-villas-phuket-mgallery/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "159289",
+          "name": "파레사 리조트 푸켓 (Paresa Resort Phuket)",
+          "priceKRW": 1047955,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/paresa-resort-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "527702",
+          "name": "아난타라 라얀 푸켓 리조트 (SHA Extra Plus) (Anantara Layan Phuket Resort)",
+          "priceKRW": 1042106,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anantara-layan-phuket-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3078894",
+          "name": "Kata Rocks",
+          "priceKRW": 1098797,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kata-rocks-sha-extra-plus_2/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "37161110",
+          "name": "Three Monkeys Villas",
+          "priceKRW": 995550,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/three-monkeys-villas/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3082798",
+          "name": "Andara Resort Villas",
+          "priceKRW": 1019962,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/andara-resort-villas_4/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10936",
+          "name": "더 수린 푸켓 (The Surin Phuket)",
+          "priceKRW": 823914,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-surin-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10884",
+          "name": "반얀트리 푸켓 (Banyan Tree Phuket )",
+          "priceKRW": 796441,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/banyan-tree-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "109870",
+          "name": "아난타라 마이 카오 푸켓 빌라 (SHA Extra Plus) (Anantara Mai Khao Phuket Villas)",
+          "priceKRW": 726295,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anantara-mai-khao-phuket-villas/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "61919855",
+          "name": "카페 델 마르 푸켓 - 스위트 앤 펜트하우스 (Cafe del Mar Phuket -Suite & Penthouse )",
+          "priceKRW": 716796,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cafe-del-mar-hotel/hotel/kammala-th.html?cid=1925461"
+        },
+        {
+          "key": "399580",
+          "name": "더 나카 아일랜드, 어 럭셔리 컬렉션 리조트 앤 스파, 푸켓 (The Naka Island, a Luxury Collection Resort & Spa, Phuket)",
+          "priceKRW": 756299,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/the-naka-island-a-luxury-collection-resort-spa-phuket_7/hotel/phuket-th.html?cid=1925461"
         }
