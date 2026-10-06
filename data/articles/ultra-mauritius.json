@@ -1,0 +1,689 @@
+{
+  "slug": "ultra-mauritius",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "모리셔스",
+  "citySlug": "mauritius",
+  "cityId": 19226,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=19226",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[모리셔스] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 모리셔스 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 77%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>마라디바 빌라 리조트 앤 스파</b>입니다 (평점 9 · 리뷰 360건 · 1박 약 216만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/750293476.jpg?k=a89de8602e473ce9dd3ed2046629877b02cadee7af92946b621e375ca56168de&o=",
+  "heroAlt": "모리셔스 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "마라디바 빌라 리조트 앤 스파 (Maradiva Villas Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/maradiva-villas-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/750293476.jpg?k=a89de8602e473ce9dd3ed2046629877b02cadee7af92946b621e375ca56168de&o=",
+      "score": 9,
+      "reviewCount": 360,
+      "reviewCountFmt": "리뷰 360건",
+      "priceText": "₩₩₩ · 1박 약 216만원",
+      "walkMin": 2,
+      "refLabel": "플릭 앙 플락 비치",
+      "star": 5,
+      "propertyId": 68363,
+      "geo": {
+        "lat": -20.314423,
+        "lng": 57.369671
+      },
+      "priceKRW": 2155378,
+      "priceStatus": "조회됨",
+      "distanceM": 174.03,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "플릭 앙 플락 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 360건. 플릭 앙 플락 비치까지 도보 2분, ₩₩₩ · 1박 약 216만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 216만원",
+        "📝 리뷰 360건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location, great room",
+          "score": "8",
+          "country": "대한민국",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Our stay at this hotel left only the best impressions!",
+          "score": "10",
+          "country": "Россия",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The newly renovated villas are wonderful.",
+          "score": "10",
+          "country": "Россия",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great villa, space and comfort.",
+          "score": "8.4",
+          "country": "Mauritius",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Fabulous, simply fabulous",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "포 시즌스 리조트 모리셔스 앳 아나히타 (Four Seasons Resort Mauritius at Anahita)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-mauritius-at-anahita/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5809978/0/f4abc7ad5e2f3d155676f2704f4e01f5.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 156,
+      "reviewCountFmt": "리뷰 156건",
+      "priceText": "₩₩₩ · 1박 약 204만원",
+      "walkMin": 25,
+      "refLabel": "일 오 세르프",
+      "star": 5,
+      "propertyId": 5809978,
+      "geo": {
+        "lat": -20.283625,
+        "lng": 57.794081
+      },
+      "priceKRW": 2040374,
+      "priceStatus": "조회됨",
+      "distanceM": 1991.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "일 오 세르프",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 156건. 일 오 세르프까지 도보 25분, ₩₩₩ · 1박 약 204만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 204만원",
+        "📝 리뷰 156건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 8.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best place in four seasons",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Absolutely impeccable",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Very nice stay",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Nice staff",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "2) french resturant the best",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "럭스* 그랜드 베이 (LUX* Grand Baie)",
+      "agodaUrl": "https://www.agoda.com/merville-beach-resort-grand-baie/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/190302/0/62ba2bf60cd2282315b60ae85fb2624d.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 1325,
+      "reviewCountFmt": "리뷰 1,325건",
+      "priceText": "₩₩₩ · 1박 약 175만원",
+      "walkMin": 47,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 190302,
+      "geo": {
+        "lat": -20.000452,
+        "lng": 57.582579
+      },
+      "priceKRW": 1751472,
+      "priceStatus": "조회됨",
+      "distanceM": 3797,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "페레베레 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 1,325건. Mont Choisy Bus Stop까지 도보 47분, ₩₩₩ · 1박 약 175만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 175만원",
+        "📝 리뷰 1,325건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "But otherwise restaurants, rooms and beach was superb",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The staff went above and beyond throughout our stay.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is excellent and best service I had stay",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The staff, facilities, beach, everything is almost perfect.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Truly a fabulous hotel, staff, location, food & beverages.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "The Oberoi, Mauritius",
+      "agodaUrl": "https://www.agoda.com/the-oberoi-mauritius-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34629853/0/82f25a9f34128da7d048a52c9723db49.png?ce=3",
+      "score": 9.4,
+      "reviewCount": 474,
+      "reviewCountFmt": "리뷰 474건",
+      "priceText": "₩₩₩ · 1박 약 162만원",
+      "walkMin": 96,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 522630,
+      "geo": {
+        "lat": -20.079149,
+        "lng": 57.512825
+      },
+      "priceKRW": 1619482,
+      "priceStatus": "조회됨",
+      "distanceM": 7704.84,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 474건. Mont Choisy Bus Stop까지 도보 96분, ₩₩₩ · 1박 약 162만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 162만원",
+        "📝 리뷰 474건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had an amazing four-day stay at The Oberoi, Mauritius.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Exceptional stay at The Oberoi Beach Resort",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Accommodation, food and all staff amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend to locals and for tourists",
+          "score": "10",
+          "country": "Mauritius",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Exceptional service and luxury at its best",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "샨티 모리스 리조트 앤 스파 (Shanti Maurice Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/293435/-1/dcbacd955138b01a1b3e7bf82160417b.jpg?ca=10&ce=1",
+      "score": 9.1,
+      "reviewCount": 975,
+      "reviewCountFmt": "리뷰 975건",
+      "priceText": "₩₩₩ · 1박 약 134만원",
+      "walkMin": 122,
+      "refLabel": "라 바닐 자연 공원",
+      "star": 5,
+      "propertyId": 293435,
+      "geo": {
+        "lat": -20.512949,
+        "lng": 57.470878
+      },
+      "priceKRW": 1341114,
+      "priceStatus": "조회됨",
+      "distanceM": 9786.03,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스"
+      ],
+      "blurb": "평점 9.1 · 리뷰 975건. 라 바닐 자연 공원까지 도보 122분, ₩₩₩ · 1박 약 134만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 134만원",
+        "📝 리뷰 975건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the staff were so polite, welcoming and kind.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms are spacious and the views are spectacular!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff were outstanding: warm, attentive, and discreet.",
+          "score": "10",
+          "country": "România",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Would definitely go back again, again and again forever",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "A real luxury stay at a beautiful resort.",
+          "score": "9.2",
+          "country": "South Africa",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "콩스탕스 프랭스 모리스 (Constance Prince Maurice)",
+      "agodaUrl": "https://www.agoda.com/constance-prince-maurice/hotel/all/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/384012543.jpg?k=3b4cc46a37b49a9026d645d4913b0b2c94f4b09dd54aaa5c8de55cd0be9aa630&o=",
+      "score": 9.4,
+      "reviewCount": 1068,
+      "reviewCountFmt": "리뷰 1,068건",
+      "priceText": "₩₩₩ · 1박 약 157만원",
+      "walkMin": 10,
+      "refLabel": "Bras d'Eau Public Beach",
+      "star": 5,
+      "propertyId": 3534613,
+      "geo": {
+        "lat": -20.149633,
+        "lng": 57.746098
+      },
+      "priceKRW": 1567146,
+      "priceStatus": "조회됨",
+      "distanceM": 790.84,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.4 · 리뷰 1,068건. Bras d'Eau Public Beach까지 도보 10분, ₩₩₩ · 1박 약 157만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 157만원",
+        "📝 리뷰 1,068건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Exceptional service and facilities",
+          "score": "8.4",
+          "country": "United Arab Emirates",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Superb hotel with excellent staff.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very personal and she was so happy with the cake.",
+          "score": "10",
+          "country": "Mauritius",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Great hotel to relax",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent Stay",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T14:35:38.466Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T14:35:38.466Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
