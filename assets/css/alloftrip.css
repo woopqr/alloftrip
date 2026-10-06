@@ -85,3 +85,30 @@ body{word-break:keep-all}
 #mz-consent-bar{border-top:2px solid var(--ink)}
 .mz-cc-btns button{border-radius:0}
 footer{border-top:3px solid var(--ink)}
+
+/* ── 로컬: 검증 맛집 · 필수 코스 · 호텔별 가까운 곳 ── */
+.nearby{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;margin:12px 0 4px;padding:10px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-size:.86rem}
+.nearby .nb-t{font-family:var(--display);font-style:italic;color:var(--accent);margin-right:4px}
+.nearby .nb-i b{font-weight:700;color:var(--accent)}
+.localsec{margin:48px 0}
+.localsec h2{font-family:var(--serif);font-weight:900;font-size:1.4rem;letter-spacing:-.02em;padding-top:14px;border-top:2px solid var(--ink)}
+.localsec .dsub{color:var(--muted);font-size:.9rem;margin:8px 0 16px;line-height:1.65}
+.lgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:0;border-top:1px solid var(--line)}
+.lcard{padding:18px 16px 16px 0;border-bottom:1px solid var(--line)}
+.lc-top{display:flex;gap:10px;align-items:flex-start}
+.lc-ic{font-size:1.3rem;line-height:1.2}
+.lcard h3{font-family:var(--serif);font-weight:700;font-size:1.06rem;line-height:1.35}
+.lc-sub{display:block;font-size:.78rem;color:var(--muted);margin-top:2px}
+.lc-why{font-size:.93rem;line-height:1.7;margin:10px 0 8px}
+.lc-proof{display:flex;flex-wrap:wrap;gap:6px}
+.lc-proof a{font-size:.74rem;font-weight:700;color:var(--accent);border:1px solid var(--accent);padding:3px 8px;text-decoration:none}
+.lc-meta{display:flex;flex-wrap:wrap;gap:12px;margin-top:10px;font-size:.82rem;color:var(--muted)}
+.lc-meta a{color:var(--text);text-decoration:underline;text-underline-offset:3px}
+.lc-tip{font-size:.82rem;color:var(--muted);margin-top:8px}
+.spotlist{list-style:none;padding:0;margin:12px 0 0;border-top:1px solid var(--line)}
+.spotlist li{display:grid;grid-template-columns:28px 1fr auto auto;gap:12px;align-items:center;padding:14px 0;border-bottom:1px solid var(--line)}
+.sp-txt b{display:block;font-family:var(--serif);font-weight:700}
+.sp-txt span{font-size:.86rem;color:var(--muted);line-height:1.55}
+.sp-time{font-size:.84rem;font-weight:700;color:var(--accent);white-space:nowrap}
+.sp-map{font-size:.8rem;color:var(--text);text-decoration:underline}
+@media(max-width:560px){.spotlist li{grid-template-columns:24px 1fr}.sp-time,.sp-map{grid-column:2}}

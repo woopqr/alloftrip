@@ -1,0 +1,244 @@
+{
+  "slug": "niseko",
+  "food": [
+    {
+      "name": "소바도코로 라쿠이치",
+      "nameLocal": "そば処 楽一 (Sobadokoro Rakuichi)",
+      "type": "restaurant",
+      "cuisine": "수타 소바 가이세키",
+      "area": "니세코 안누푸리",
+      "address": "431 Niseko, Niseko-cho, Abuta-gun, Hokkaido 048-1511 (北海道虻田郡ニセコ町字ニセコ431)",
+      "why": "메밀가루와 물만으로 매일 직접 뽑는 메밀 100% 소바를 12석 카운터에서 코스로 내는 집입니다. 미쉐린 가이드 홋카이도에 소개된 니세코의 대표 소바집입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홋카이도 2017 특별판 게재",
+          "url": "https://www.ayaniseko.com/news/michelin-guide-2017"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홋카이도 2012 빕 구르망",
+          "url": "https://www.nisekocentral.com/blog/nisekos-sobatei-rakuichi"
+        },
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.26 · 리뷰 60건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1006590/"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "완전 예약제(온라인 예약)이며 12세 미만은 입장할 수 없습니다. 좌석이 12석뿐이라 일찍 예약하세요.",
+      "lat": 42.840148,
+      "lng": 140.633004,
+      "geoSource": "osm"
+    },
+    {
+      "name": "스시 하나요시",
+      "nameLocal": "鮨 花吉 (Sushi Hanayoshi)",
+      "type": "restaurant",
+      "cuisine": "스시·오마카세",
+      "area": "니세코 역 인근",
+      "address": "65 Fujimi, Niseko-cho, Abuta-gun, Hokkaido (北海道虻田郡ニセコ町富士見65)",
+      "why": "이와나이·슷쓰 등 인근 항구와 홋카이도 각지에서 고른 해산물로 쥐는 스시집으로, 점심 바라치라시와 모둠 스시가 인기입니다. 미쉐린 가이드 홋카이도 2017에서 빕 구르망을 받았습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홋카이도 2017 빕 구르망",
+          "url": "https://www.ayaniseko.com/news/michelin-guide-2017"
+        },
+        {
+          "kind": "media",
+          "label": "JCB 한국어 여행 가이드 '니세코 추천 맛집' 소개",
+          "url": "https://www.specialoffers.jcb/kr/tips/japan/travel/niseko-hotels-and-gourmet/"
+        },
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.13 · 리뷰 24건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1002648/"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "월요일, 둘째·넷째 화요일 휴무. 점심도 예약제이며 오마카세는 사전 예약이 필요하고 여름 성수기에는 일찍 마감됩니다.",
+      "lat": 42.804493,
+      "lng": 140.688087,
+      "geoSource": "osm"
+    },
+    {
+      "name": "라멘 나카마",
+      "nameLocal": "ラーメン店 なかま (Ramen Nakama)",
+      "type": "restaurant",
+      "cuisine": "쇼유·우메시오 라멘",
+      "area": "굿찬",
+      "address": "Kita 1-jo Nishi 1, Kutchan-cho, Abuta-gun, Hokkaido (北海道虻田郡倶知安町北1条西1)",
+      "why": "굿찬 역 근처의 9석짜리 라멘집으로, 쇼유 라멘과 매실·차조기 향의 우메시오 라멘, 스태미나 교자가 대표 메뉴입니다. 미쉐린 가이드 홋카이도 2017에 소개됐습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홋카이도 2017 특별판 게재",
+          "url": "https://www.ayaniseko.com/news/michelin-guide-2017"
+        },
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.37 · 리뷰 108건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1003208/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "화·수요일 휴무(화요일 점심은 영업하는 경우 있음). 예전 자리에서 옮긴 매장이니 방문 전 지도에서 위치를 확인하세요.",
+      "lat": 42.926335,
+      "lng": 140.74648,
+      "geoSource": "osm"
+    },
+    {
+      "name": "자가제 우동 고코로",
+      "nameLocal": "自家製うどん ごころ (Jikasei Udon Gokoro)",
+      "type": "restaurant",
+      "cuisine": "수제 우동·텐푸라",
+      "area": "히라후",
+      "address": "5-jo 1-8-4 Niseko Hirafu, Kutchan-cho, Abuta-gun, Hokkaido (北海道虻田郡倶知安町ニセコひらふ5条1-8-4)",
+      "why": "히라후 리조트 지역에서 점심에만 문을 여는 수제 우동집입니다. 지쿠와 텐푸라 붓카케 우동과 미니 텐동이 인기이고 창밖 산 풍경도 좋습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.30 · 리뷰 101건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1043303/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "점심(11:00/11:30~14:00)만 영업, 수요일 휴무. 면이 떨어지면 일찍 닫고 현금만 받으며 예약은 안 됩니다."
+    },
+    {
+      "name": "니세코 다카하시 목장 밀크공방",
+      "nameLocal": "ニセコ髙橋牧場 ミルク工房",
+      "type": "dessert",
+      "cuisine": "슈크림·소프트아이스크림",
+      "area": "니세코",
+      "address": "888-1 Soga, Niseko-cho, Abuta-gun, Hokkaido 048-1522 (北海道虻田郡ニセコ町字曽我888-1)",
+      "lat": 42.836771,
+      "lng": 140.675442,
+      "why": "목장에서 아침에 짠 우유로 만든 디저트 가게로, 진한 커스터드가 든 '고다와리 슈크림'과 소프트아이스크림이 대표 메뉴입니다. 요테이산이 정면으로 보이는 풍경도 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.54 · 리뷰 494건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1001596/"
+        },
+        {
+          "kind": "media",
+          "label": "홋카이도 공식 관광 사이트 한국어판 소개",
+          "url": "https://www.visit-hokkaido.jp/kr/spot/detail_12972.html"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "연중무휴(연말연시 제외), 여름 9:30~18:00·겨울 ~17:30. 같은 부지의 레스토랑 PRATIVO에서 요테이산을 보며 점심 세트를 먹을 수도 있습니다."
+    },
+    {
+      "name": "그라우뷘덴",
+      "nameLocal": "グラウビュンデン (Graubünden)",
+      "type": "cafe",
+      "cuisine": "샌드위치·케이크 카페",
+      "area": "히라후",
+      "address": "5-jo 4-2-6 Niseko Hirafu, Kutchan-cho, Abuta-gun, Hokkaido (北海道虻田郡倶知安町ニセコひらふ5条4-2-6)",
+      "why": "1990년 문을 연 니세코에서 가장 오래된 카페로, 채소를 듬뿍 넣은 두툼한 샌드위치와 크로플, 계절 과일 케이크가 유명합니다. 히라후 숙소에서 아침 겸 점심으로 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.47 · 리뷰 235건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1004841/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "보통 8:00~17:00 영업, 수·목요일 휴무(겨울 시즌은 목요일 휴무, 1~3월은 저녁 영업). 시즌별로 영업시간이 달라지니 공식 사이트를 확인하세요.",
+      "lat": 42.864277,
+      "lng": 140.713278,
+      "geoSource": "osm"
+    },
+    {
+      "name": "블랑제리 진",
+      "nameLocal": "ブーランジェリー ジン (Boulangerie JIN)",
+      "type": "bakery",
+      "cuisine": "하드 계열 빵·크루아상",
+      "area": "마카리 무라",
+      "address": "45-8 Sakuragawa, Makkari-mura, Abuta-gun, Hokkaido (北海道虻田郡真狩村桜川45-8)",
+      "why": "요테이산 남쪽 마카리 마을의 작은 빵집으로, 타베로그 빵 백명점에 여러 차례 선정됐습니다. 크루아상과 무화과·호두 빵이 인기입니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "타베로그 빵 백명점 2017·2018·2019·2020·2022 선정",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1004625/"
+        },
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.58 · 리뷰 274건",
+          "url": "https://tabelog.com/en/hokkaido/A0106/A010603/1004625/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "화~토 9:00~16:00, 일·월 휴무이며 현금만 받습니다. 니세코 역에서 차로 약 25분이고 품절되면 일찍 닫습니다.",
+      "lat": 42.748718,
+      "lng": 140.739799,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "니세코 도큐 그랜드 히라후 스키장",
+      "nameLocal": "ニセコ東急 グラン・ヒラフ (Niseko Tokyu Grand HIRAFU)",
+      "kind": "experience",
+      "address": "9-1 Niseko Hirafu 1-jo 2-chome, Kutchan-cho, Abuta-gun, Hokkaido 044-0080",
+      "why": "니세코 유나이티드에서 가장 큰 스키장으로, 파우더 스노와 야간 스키, 바로 아래 히라후 마을의 레스토랑·바 거리가 함께 있어 니세코 여행의 중심이 됩니다(2026-27 시즌 11/28~5/5 예정).",
+      "lat": 42.8624,
+      "lng": 140.704501,
+      "geoSource": "osm"
+    },
+    {
+      "name": "니세코 하나조노 리조트",
+      "nameLocal": "HANAZONO NISEKO (HANAZONO 308)",
+      "kind": "experience",
+      "address": "328-36 Aza-Iwaobetsu, Kutchan-cho, Abuta-gun, Hokkaido 044-0082",
+      "why": "파크 하얏트 니세코 하나조노가 있는 리조트로, 겨울엔 트리런·가족 스키, 여름엔 집라인과 산악자전거를 즐길 수 있고 요테이산 전망이 좋습니다.",
+      "lat": 42.884514,
+      "lng": 140.70554,
+      "geoSource": "osm"
+    },
+    {
+      "name": "니세코 고시키 온천 료칸",
+      "nameLocal": "ニセコ五色温泉旅館",
+      "kind": "nature",
+      "address": "510 Niseko, Niseko-cho, Abuta-gun, Hokkaido 048-1511",
+      "why": "니세코 안누푸리 산자락 깊은 곳의 유황 온천으로, 당일 입욕(성인 800엔)이 가능해 스키나 드라이브 뒤 노천탕을 즐기러 많이 찾습니다.",
+      "lat": 42.840148,
+      "lng": 140.633004,
+      "geoSource": "osm"
+    },
+    {
+      "name": "미치노에키 니세코 뷰 플라자",
+      "nameLocal": "道の駅 ニセコビュープラザ",
+      "kind": "market",
+      "address": "77-10 Motomachi, Niseko-cho, Abuta-gun, Hokkaido 048-1544",
+      "why": "아침에 수확한 니세코 채소와 유제품·치즈·와인을 파는 휴게소 겸 직매장으로, 마당에서 요테이산을 바라보며 밀크공방 소프트아이스크림도 맛볼 수 있습니다.",
+      "lat": 42.79559,
+      "lng": 140.707548,
+      "geoSource": "osm"
+    },
+    {
+      "name": "오타루 운하",
+      "nameLocal": "小樽運河",
+      "kind": "landmark",
+      "address": "Minato-machi, Otaru-shi, Hokkaido 047-0007",
+      "lat": 43.2025,
+      "lng": 141.0003,
+      "why": "니세코에서 당일치기로 많이 가는 항구 도시 오타루의 상징으로, 석조 창고와 해 질 녘 가스등이 켜지는 운하 풍경이 유명합니다."
+    },
+    {
+      "name": "오타루 오르골당 본관",
+      "nameLocal": "小樽オルゴール堂 本館",
+      "kind": "shopping",
+      "address": "4-1 Sumiyoshi-cho, Otaru-shi, Hokkaido 047-0015",
+      "why": "1912년 붉은 벽돌 건물에 세계 각국의 오르골이 가득한 곳으로, 메르헨 교차로에 있어 오타루 운하와 함께 둘러보기 좋습니다(입장 무료).",
+      "lat": 43.187924,
+      "lng": 141.008268,
+      "geoSource": "osm"
+    }
+  ]
+}

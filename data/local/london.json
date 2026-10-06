@@ -1,0 +1,224 @@
+{
+  "slug": "london",
+  "food": [
+    {
+      "name": "더 리츠 레스토랑",
+      "nameLocal": "The Ritz Restaurant",
+      "type": "restaurant",
+      "cuisine": "클래식 브리티시 · 프렌치 파인다이닝",
+      "area": "세인트 제임스 · 피카딜리",
+      "address": "The Ritz London, 150 Piccadilly, St James's, London W1J 9BR, United Kingdom",
+      "lat": 51.5069929,
+      "lng": -0.1418453,
+      "why": "샹들리에와 금박 장식이 화려한 리츠 호텔의 메인 다이닝으로, 테이블 옆에서 완성하는 게리동 서비스와 정통 브리티시 코스를 경험할 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 영국 2026 2스타",
+          "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/ritz-restaurant"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "정장 드레스코드(남성 재킷·타이)가 있습니다. 같은 호텔 팜 코트의 애프터눈 티는 별도 예약입니다."
+    },
+    {
+      "name": "디슘 코벤트 가든점",
+      "nameLocal": "Dishoom Covent Garden",
+      "type": "restaurant",
+      "cuisine": "봄베이 스타일 인도 요리",
+      "area": "코벤트 가든",
+      "address": "12 Upper St Martin's Lane, London WC2H 9FB, United Kingdom",
+      "why": "1940년대 봄베이의 이란식 카페를 재현한 곳으로, 블랙 달·치킨 루비 커리와 아침 메뉴 베이컨 난 롤이 대표 메뉴입니다. 런던 여행객이 가장 많이 찾는 인도 레스토랑 중 하나입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2.9만+ · 평점 4.7",
+          "url": "https://restaurantguru.com/Dishoom-Covent-Garden-London"
+        },
+        {
+          "kind": "media",
+          "label": "디슘 공식 사이트 매장 안내",
+          "url": "https://www.dishoom.com/covent-garden/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "저녁(18시 이후)은 6인 이상만 예약 가능해 대기가 깁니다. 아침·점심 시간대 방문이 수월합니다.",
+      "lat": 51.512427,
+      "lng": -0.126856,
+      "geoSource": "osm"
+    },
+    {
+      "name": "파델라 버로우 마켓점",
+      "nameLocal": "Padella Borough Market",
+      "type": "restaurant",
+      "cuisine": "생면 파스타",
+      "area": "버로우 마켓 · 런던 브리지",
+      "address": "6 Southwark Street, Borough Market, London SE1 1TQ, United Kingdom",
+      "lat": 51.505121,
+      "lng": -0.0898596,
+      "why": "매일 아침 뽑는 생면 파스타 전문점으로, 2016년 개업 때부터 이어진 소 정강이 라구 파파르델레와 피치 카초 에 페페가 대표 메뉴입니다. 합리적인 가격으로 줄 서는 맛집입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 영국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/padella"
+        },
+        {
+          "kind": "media",
+          "label": "파델라 공식 사이트(시그니처 메뉴·대기 안내)",
+          "url": "https://www.padella.co/borough-market/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "예약 불가, 입구 QR코드나 Dojo 앱으로 가상 대기열에 등록한 뒤 버로우 마켓을 구경하며 기다리면 됩니다."
+    },
+    {
+      "name": "더 울슬리",
+      "nameLocal": "The Wolseley",
+      "type": "restaurant",
+      "cuisine": "유러피언 그랜드 카페",
+      "area": "피카딜리 · 그린 파크",
+      "address": "160 Piccadilly, St James's, London W1J 9EB, United Kingdom",
+      "lat": 51.5074596,
+      "lng": -0.1410245,
+      "why": "옛 자동차 쇼룸을 개조한 웅장한 올데이 레스토랑으로, 잉글리시 브렉퍼스트와 비너 슈니첼, 애플 슈트루델 같은 디저트가 유명합니다. 리츠 호텔 바로 옆입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 영국 선정(Iconic)",
+          "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/the-wolseley"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 8,000+ · 평점 4.4",
+          "url": "https://restaurantguru.com/The-Wolseley-London"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "평일 7시부터 문을 열어 아침 식사 장소로 인기입니다. 예약 권장."
+    },
+    {
+      "name": "룰스",
+      "nameLocal": "Rules",
+      "type": "restaurant",
+      "cuisine": "전통 브리티시 · 수렵육 요리",
+      "area": "코벤트 가든",
+      "address": "35 Maiden Lane, Covent Garden, London WC2E 7LB, United Kingdom",
+      "lat": 51.5108177,
+      "lng": -0.1230649,
+      "why": "1798년 문을 연 런던에서 가장 오래된 레스토랑으로 알려진 곳으로, 스테이크 앤 키드니 파이와 제철 수렵육(사슴·꿩) 요리를 클래식한 분위기에서 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 영국 선정 레스토랑",
+          "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/rules"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "뮤지컬 관람 전 저녁 식사 장소로 좋습니다. 예약 권장."
+    },
+    {
+      "name": "스케치 더 갤러리 (애프터눈 티)",
+      "nameLocal": "Sketch, The Gallery",
+      "type": "dessert",
+      "cuisine": "애프터눈 티 · 모던 브라세리",
+      "area": "메이페어",
+      "address": "9 Conduit Street, Mayfair, London W1S 2XG, United Kingdom",
+      "lat": 51.5127186,
+      "lng": -0.1415128,
+      "why": "핑크빛 인테리어로 유명한 스케치의 갤러리 룸에서 현악 3중주 라이브 연주와 함께 애프터눈 티를 즐길 수 있습니다. 2026년 초 리뉴얼로 조각가 조너선 볼독의 작품이 새로 걸렸습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 영국 선정 레스토랑",
+          "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/sketch-the-gallery"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "애프터눈 티는 사전 예약 필수. 같은 건물 2층 렉처 룸 앤 라이브러리는 미쉐린 3스타입니다."
+    },
+    {
+      "name": "몬머스 커피 버로우점",
+      "nameLocal": "Monmouth Coffee The Borough",
+      "type": "cafe",
+      "cuisine": "스페셜티 커피",
+      "area": "버로우 마켓 · 런던 브리지",
+      "address": "2 Park Street, London SE1 9AB, United Kingdom",
+      "why": "버로우 마켓 입구의 스페셜티 커피 로스터리 카페로, 필터 커피와 플랫 화이트가 유명해 아침부터 줄이 길게 늘어섭니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "The Infatuation 런던 리뷰 소개",
+          "url": "https://www.theinfatuation.com/london/reviews/monmouth-coffee-the-borough"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "좌석이 거의 없어 테이크아웃해 마켓을 둘러보는 것이 일반적입니다.",
+      "lat": 51.505505,
+      "lng": -0.091426,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "해롯 백화점",
+      "nameLocal": "Harrods",
+      "kind": "shopping",
+      "address": "87–135 Brompton Road, Knightsbridge, London SW1X 7XL, United Kingdom",
+      "why": "나이츠브리지의 상징적인 백화점으로, 명품 쇼핑과 푸드홀, 기념품용 해롯 티·테디베어를 사러 들르는 곳입니다.",
+      "lat": 51.49921,
+      "lng": -0.162989,
+      "geoSource": "osm"
+    },
+    {
+      "name": "버로우 마켓",
+      "nameLocal": "Borough Market",
+      "kind": "market",
+      "address": "8 Southwark Street, London SE1 1TL, United Kingdom",
+      "why": "1,000년 역사의 런던 대표 식재료 시장으로, 굴·치즈·길거리 음식을 맛보며 런던 브리지 주변과 함께 둘러보기 좋습니다.",
+      "lat": 51.506086,
+      "lng": -0.090759,
+      "geoSource": "osm"
+    },
+    {
+      "name": "영국박물관",
+      "nameLocal": "The British Museum",
+      "kind": "landmark",
+      "address": "Great Russell Street, London WC1B 3DG, United Kingdom",
+      "why": "로제타석과 파르테논 조각 등을 무료로 관람할 수 있는 세계적인 박물관입니다.",
+      "lat": 51.518111,
+      "lng": -0.126443,
+      "geoSource": "osm"
+    },
+    {
+      "name": "코벤트 가든 마켓",
+      "nameLocal": "Covent Garden Market",
+      "kind": "street",
+      "address": "The Market Building, Covent Garden, London WC2E 8RF, United Kingdom",
+      "why": "아케이드 상점과 거리 공연, 웨스트엔드 극장가가 모여 있어 쇼핑과 뮤지컬 관람을 함께 즐기기 좋습니다.",
+      "lat": 51.512873,
+      "lng": -0.122564,
+      "geoSource": "osm"
+    },
+    {
+      "name": "빅벤 · 웨스트민스터",
+      "nameLocal": "Big Ben & Houses of Parliament",
+      "kind": "landmark",
+      "address": "Westminster, London SW1A 0AA, United Kingdom",
+      "why": "템스강변의 국회의사당과 시계탑은 런던아이·웨스트민스터 사원과 함께 한 번에 둘러볼 수 있는 대표 명소입니다.",
+      "lat": 51.500444,
+      "lng": -0.12654,
+      "geoSource": "osm"
+    },
+    {
+      "name": "비스터 빌리지 아웃렛 (근교)",
+      "nameLocal": "Bicester Village",
+      "kind": "shopping",
+      "address": "50 Pingle Drive, Bicester, Oxfordshire OX26 6WD, United Kingdom",
+      "why": "런던 메릴본역에서 기차로 약 50분 거리의 명품 아웃렛으로, 옥스퍼드와 묶어 당일치기로 많이 다녀옵니다.",
+      "lat": 51.891874,
+      "lng": -1.156019,
+      "geoSource": "osm"
+    }
+  ]
+}

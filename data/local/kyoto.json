@@ -1,0 +1,240 @@
+{
+  "slug": "kyoto",
+  "food": [
+    {
+      "name": "효테이 (난젠지)",
+      "nameLocal": "瓢亭 Hyotei",
+      "type": "restaurant",
+      "cuisine": "교토 가이세키",
+      "area": "난젠지·오카자키",
+      "address": "35 Nanzenji Kusagawacho, Sakyo-ku, Kyoto 606-8437",
+      "why": "난젠지 참배길 찻집에서 시작해 수백 년 이어온 료테이로, 이끼 정원을 바라보며 먹는 가이세키와 반숙 '효테이 달걀'이 상징입니다. 오카자키·히가시야마 쪽 호텔에서 가깝습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 교토 3스타",
+          "url": "https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/hyotei"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "예약 필수. 직접 예약만 받습니다.",
+      "lat": 35.011799,
+      "lng": 135.788812,
+      "geoSource": "osm"
+    },
+    {
+      "name": "이즈우 (기온 고등어초밥)",
+      "nameLocal": "いづう Izuu",
+      "type": "restaurant",
+      "cuisine": "사바즈시(고등어 초밥)",
+      "area": "기온",
+      "address": "367 Kiyomotocho, Higashiyama-ku, Kyoto 605-0084",
+      "why": "1781년 창업해 8대째 이어오는 사바즈시 전문점입니다. 다시마로 감싼 통고등어 초밥이 교토 대표 향토 음식으로 꼽힙니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 교토 빕 구르망",
+          "url": "https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/izuu"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 교토 빕 구르망 목록(한국어판) 게재",
+          "url": "https://guide.michelin.com/kr/ko/kyoto-region/kyoto/restaurants/bib-gourmand"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "화요일 휴무. 포장해서 호텔에서 먹기도 좋습니다.",
+      "lat": 35.005045,
+      "lng": 135.774997,
+      "geoSource": "osm"
+    },
+    {
+      "name": "기온 덕 누들",
+      "nameLocal": "ギオンダックヌードル Gion Duck Noodles",
+      "type": "restaurant",
+      "cuisine": "오리 라멘",
+      "area": "기온",
+      "address": "1F-D, 329 Gionmachi Kitagawa, Higashiyama-ku, Kyoto 605-0073",
+      "why": "프랑스 요리 출신 셰프가 기슈산 오리로 맑은 육수를 낸 오리 라멘과 츠케멘이 대표 메뉴입니다. 야사카 신사 바로 앞이라 기온 산책 중 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.67 · 리뷰 1,014건 · 라멘 WEST 백명점 2023–2025",
+          "url": "https://tabelog.com/en/kyoto/A2601/A260301/26031755/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "9석 카운터, 예약 불가. 오픈 전부터 줄이 생깁니다."
+    },
+    {
+      "name": "교고쿠 카네요 (장어 킨시동)",
+      "nameLocal": "京極かねよ Kyogoku Kaneyo",
+      "type": "restaurant",
+      "cuisine": "장어덮밥",
+      "area": "가와라마치",
+      "address": "456 Matsugaecho, Nakagyo-ku, Kyoto 604-8034 (Rokkaku-dori Shinkyogoku Higashi-iru)",
+      "why": "메이지 시대부터 7대째 이어온 장어집으로, 장어 위에 두툼한 교토식 계란말이를 얹은 '킨시동'이 명물입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 교토 빕 구르망",
+          "url": "https://guide.michelin.com/kr/ko/kyoto-region/kyoto/restaurants/bib-gourmand"
+        },
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.49 · 리뷰 1,495건",
+          "url": "https://tabelog.com/en/kyoto/A2601/A260201/26001330/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "수요일 휴무, 화요일은 점심만 영업합니다.",
+      "lat": 35.007581,
+      "lng": 135.768281,
+      "geoSource": "osm"
+    },
+    {
+      "name": "혼케 다이이치아사히 (교토역 라멘)",
+      "nameLocal": "本家 第一旭 本店 Honke Daiichi Asahi",
+      "type": "restaurant",
+      "cuisine": "교토 쇼유 라멘",
+      "area": "교토역",
+      "address": "845 Higashishiokoji Mukaihatacho, Shimogyo-ku, Kyoto",
+      "why": "교토역 도보 5분의 노포 라멘집으로, 돼지뼈 간장 육수에 차슈와 구조네기(교토 파)를 듬뿍 올린 한 그릇이 교토 라멘의 기준으로 통합니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.73 · 리뷰 6,967건 · 라멘 WEST 백명점 7년 연속(2019–2025)",
+          "url": "https://tabelog.com/en/kyoto/A2601/A260101/26000873/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "목요일 휴무. 오전 6시부터 새벽 1시까지 영업해 이른 아침·늦은 밤에도 갈 수 있습니다.",
+      "lat": 34.986687,
+      "lng": 135.762488,
+      "geoSource": "osm"
+    },
+    {
+      "name": "% 아라비카 교토 히가시야마",
+      "nameLocal": "% ARABICA Kyoto Higashiyama",
+      "type": "cafe",
+      "cuisine": "스페셜티 커피",
+      "area": "히가시야마",
+      "address": "87-5 Hoshinocho, Higashiyama-ku, Kyoto 605-0853",
+      "why": "% 아라비카의 1호점으로, 야사카 탑으로 이어지는 골목에 있습니다. 교토 라테를 들고 니넨자카·산넨자카를 걷는 코스로 인기가 많습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.54 · 리뷰 510건",
+          "url": "https://tabelog.com/en/kyoto/A2601/A260301/26024353/"
+        },
+        {
+          "kind": "media",
+          "label": "% ARABICA 공식 사이트 1호점 소개",
+          "url": "https://arabica.com/en/location/arabica-kyoto-higashiyama/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "좌석 13석의 작은 매장이라 테이크아웃이 대부분입니다. 오전 일찍 가면 줄이 짧습니다.",
+      "lat": 34.998295,
+      "lng": 135.7785,
+      "geoSource": "osm"
+    },
+    {
+      "name": "사료 츠지리 기온 본점",
+      "nameLocal": "茶寮都路里 祇園本店 Saryo Tsujiri",
+      "type": "dessert",
+      "cuisine": "말차 파르페",
+      "area": "기온",
+      "address": "2F–3F Gion Tsujiri Honten, 573-3 Gionmachi Minamigawa, Shijo-dori, Higashiyama-ku, Kyoto",
+      "why": "우지차 전문점 기온 츠지리가 운영하는 찻집으로, 말차·호지차 아이스크림과 젤리를 층층이 쌓은 '특선 츠지리 파르페'가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.54 · 리뷰 1,112건 · 스위츠 WEST 백명점 2018·2019",
+          "url": "https://tabelog.com/en/kyoto/A2601/A260301/26000408/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "연중무휴. 오후에는 대기 줄이 길어 오픈 직후 방문을 권합니다."
+    },
+    {
+      "name": "나카무라 토키치 교토역점",
+      "nameLocal": "中村藤吉本店 京都駅店 Nakamura Tokichi",
+      "type": "cafe",
+      "cuisine": "말차 디저트",
+      "area": "교토역",
+      "address": "3F JR Kyoto Isetan (Eat Paradise, in front of JR West Gate), Karasuma-dori Shiokoji-sagaru, Higashishiokoji-cho, Shimogyo-ku, Kyoto 600-8555",
+      "why": "우지의 노포 찻집 나카무라 토키치의 교토역 지점으로, 대나무 통에 담겨 나오는 말차 젤리와 말차 파르페가 유명합니다. 우지까지 가지 않아도 같은 메뉴를 맛볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.54 · 리뷰 1,488건 · 화과자·감미처 WEST 백명점 2018·2019·2023",
+          "url": "https://tabelog.com/en/kyoto/A2601/A260101/26005903/"
+        },
+        {
+          "kind": "media",
+          "label": "나카무라 토키치 공식 매장 안내",
+          "url": "https://tokichi.jp/en/pages/stores"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "예약 불가. 신칸센 타기 전 들르기 좋지만 식사 시간대에는 대기가 깁니다.",
+      "lat": 34.987436,
+      "lng": 135.758388,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "니시키 시장",
+      "nameLocal": "錦市場 Nishiki Market",
+      "kind": "market",
+      "address": "609 Nishidaimonjicho, Nakagyo-ku, Kyoto 604-8054 (Nishikikoji-dori, between Teramachi and Takakura)",
+      "why": "400년 역사의 '교토의 부엌'으로, 390m 아케이드에서 두부·절임·해산물 꼬치 등 교토 먹거리를 맛볼 수 있습니다. 걸으며 먹지 말고 가게 앞에서 먹는 것이 규칙입니다.",
+      "lat": 35.005024,
+      "lng": 135.76557,
+      "geoSource": "osm"
+    },
+    {
+      "name": "후시미 이나리 타이샤",
+      "nameLocal": "伏見稲荷大社 Fushimi Inari Taisha",
+      "kind": "landmark",
+      "address": "68 Fukakusa Yabunouchi-cho, Fushimi-ku, Kyoto 612-0882",
+      "why": "전국 이나리 신사의 총본사로, 산을 따라 이어지는 붉은 도리이 터널 '센본토리이'를 보러 많이 찾습니다."
+    },
+    {
+      "name": "기요미즈데라",
+      "nameLocal": "清水寺 Kiyomizu-dera",
+      "kind": "landmark",
+      "address": "1-294 Kiyomizu, Higashiyama-ku, Kyoto 605-0862",
+      "why": "오토와산 중턱의 목조 무대에서 교토 시내를 내려다볼 수 있는 대표 사찰로, 니넨자카·산넨자카와 함께 둘러보는 코스가 정석입니다.",
+      "lat": 34.996539,
+      "lng": 135.780087,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아라시야마 대나무숲",
+      "nameLocal": "嵐山 竹林の小径 Arashiyama Bamboo Grove",
+      "kind": "nature",
+      "address": "Sagaogurayama Tabuchiyamacho, Ukyo-ku, Kyoto 616-8394 (path beside Tenryu-ji and Nonomiya Shrine)",
+      "why": "덴류지 북문과 노노미야 신사 사이로 이어지는 대나무 오솔길로, 사람이 적은 이른 아침에 사진을 찍으러 많이 갑니다.",
+      "lat": 35.016556,
+      "lng": 135.670566,
+      "geoSource": "osm"
+    },
+    {
+      "name": "기온 하나미코지",
+      "nameLocal": "花見小路 Hanamikoji-dori",
+      "kind": "street",
+      "address": "Hanamikoji-dori, Gionmachi Minamigawa, Higashiyama-ku, Kyoto 605-0074",
+      "why": "오차야와 요정이 늘어선 기온의 대표 골목으로, 저녁 무렵 게이코·마이코를 볼 수도 있습니다. 사유지 골목 촬영 금지 안내를 지켜야 합니다."
+    },
+    {
+      "name": "돈키호테 시조가와라마치점",
+      "nameLocal": "ドン・キホーテ 四条河原町店",
+      "kind": "shopping",
+      "address": "321 Shioyacho, Kawaramachi-dori Takoyakushi-sagaru, Nakagyo-ku, Kyoto 604-8027",
+      "why": "가와라마치 번화가 한복판에 있어 화장품·의약품·과자 쇼핑과 면세를 한 번에 해결할 수 있고, 새벽 1시까지 영업합니다."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "phu-quoc",
+  "food": [],
+  "spots": [
+    {
+      "name": "푸꾸옥 야시장 (딘꺼우 야시장)",
+      "nameLocal": "Chợ Đêm Dinh Cậu (Phu Quoc Night Market)",
+      "kind": "market",
+      "address": "Chợ Đêm Dinh Cậu, Bạch Đằng, Dương Đông, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 10.2162958,
+      "lng": 103.9605782,
+      "why": "즈엉동 시내의 대표 야시장으로, 해산물 구이와 후추·진주·견과류 같은 푸꾸옥 특산품을 둘러보러 갑니다."
+    },
+    {
+      "name": "선셋타운 · 키스브릿지",
+      "nameLocal": "Sunset Town & Cầu Hôn (Kiss Bridge)",
+      "kind": "landmark",
+      "address": "Cầu Hôn, An Thới, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 10.0282631,
+      "lng": 104.0041947,
+      "why": "지중해풍 건물이 늘어선 남부 신도시로, 바다 위에서 두 다리가 마주 닿는 키스브릿지의 일몰을 보러 갑니다."
+    },
+    {
+      "name": "혼텀 케이블카",
+      "nameLocal": "Cáp treo Hòn Thơm (Sun World Hon Thom)",
+      "kind": "experience",
+      "address": "Ga cáp treo An Thới, Vòng xoay An Thới, An Thới, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 9.9920077,
+      "lng": 104.0124425,
+      "why": "섬과 바다 위를 7.9km 가로지르는 케이블카로 혼텀섬 워터파크·해변까지 이어지는 남부 대표 코스입니다."
+    },
+    {
+      "name": "그랜드월드",
+      "nameLocal": "Grand World Phú Quốc",
+      "kind": "street",
+      "address": "Grand World, Bãi Dài, Gành Dầu, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 10.32555556,
+      "lng": 103.85805556,
+      "why": "운하 곤돌라와 야간 쇼가 열리는 북부의 쇼핑·엔터테인먼트 단지로, 저녁 산책 코스로 인기입니다."
+    },
+    {
+      "name": "빈원더스 푸꾸옥",
+      "nameLocal": "VinWonders Phú Quốc",
+      "kind": "experience",
+      "address": "VinWonders Phú Quốc, Đường tỉnh 975B, Gành Dầu, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 10.3384012,
+      "lng": 103.8546749,
+      "why": "놀이기구와 워터파크, 아쿠아리움을 갖춘 대형 테마파크로 아이와 함께 가는 가족 여행객이 많이 찾습니다."
+    },
+    {
+      "name": "빈펄 사파리",
+      "nameLocal": "Vinpearl Safari Phú Quốc",
+      "kind": "experience",
+      "address": "Vinpearl Safari, Đường tỉnh 974, Gành Dầu, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 10.3393964,
+      "lng": 103.8950113,
+      "why": "버스를 타고 방사형 사육장을 돌아보는 사파리로, 빈원더스·그랜드월드와 함께 북부 일정으로 묶어 갑니다."
+    },
+    {
+      "name": "사오 비치",
+      "nameLocal": "Bãi Sao (Sao Beach)",
+      "kind": "nature",
+      "address": "Bãi Sao, An Thới, Đặc khu Phú Quốc, An Giang, Vietnam",
+      "lat": 10.052473,
+      "lng": 104.0351928,
+      "why": "고운 흰 모래와 맑은 바다로 섬에서 가장 아름다운 해변으로 꼽히며, 제트스키·카약 등 해양 액티비티를 즐길 수 있습니다."
+    }
+  ]
+}

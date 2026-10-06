@@ -1,0 +1,234 @@
+{
+  "slug": "bali",
+  "food": [
+    {
+      "name": "로카보어 NXT",
+      "nameLocal": "Locavore NXT",
+      "type": "restaurant",
+      "cuisine": "하이퍼로컬 인도네시아 테이스팅 코스",
+      "area": "우붓(로트운두)",
+      "address": "Jl. A.A. Gede Rai, Gang Pura Panti Bija, Lodtunduh, Ubud, Gianyar, Bali 80571, Indonesia",
+      "why": "발리 식재료만으로 발효·숙성 요리를 선보이는 우붓의 파인다이닝. 2026년 아시아 50 베스트 레스토랑에 든 인도네시아 유일의 레스토랑입니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "아시아 50 베스트 레스토랑 2026 44위",
+          "url": "https://www.the50.com/asia/en/list/1-50"
+        },
+        {
+          "kind": "award",
+          "label": "Asia's 50 Best 레스토랑 소개 페이지",
+          "url": "https://www.the50.com/restaurants/best-in-asia/the-list/Locavore-NXT.html"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "테이스팅 코스 전용, 공식 홈페이지 사전 예약 필수",
+      "lat": -8.542322,
+      "lng": 115.257186,
+      "geoSource": "osm"
+    },
+    {
+      "name": "너티 누리스 우붓",
+      "nameLocal": "Naughty Nuri's Ubud",
+      "type": "restaurant",
+      "cuisine": "바비큐 폭립",
+      "area": "우붓(산깅안)",
+      "address": "Jl. Raya Sanggingan No.88X, Kedewatan, Ubud, Gianyar, Bali 80571, Indonesia",
+      "lat": -8.492483,
+      "lng": 115.253259,
+      "why": "달큰한 양념을 발라 숯불에 구운 폭립으로 이름난 우붓 본점으로, 구글·트립어드바이저 리뷰가 각각 수천 건에 이릅니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 4,700+ · 평점 4.2 / 트립어드바이저 리뷰 3,400+ · 4.0 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/428110"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "저녁엔 대기가 길어 이른 시간 방문 권장"
+    },
+    {
+      "name": "와룽 바비굴링 박 말렌",
+      "nameLocal": "Warung Babi Guling Pak Malen",
+      "type": "restaurant",
+      "cuisine": "발리식 통돼지 구이(바비굴링)",
+      "area": "스미냑",
+      "address": "Jl. Sunset Road No.554, Seminyak, Kuta, Badung, Bali 80361, Indonesia",
+      "lat": -8.685,
+      "lng": 115.168707,
+      "why": "향신료로 양념해 통으로 구운 돼지의 바삭한 껍질과 고기를 밥과 함께 내는 발리 전통 바비굴링 전문점으로, 스미냑 현지식 중 리뷰 수가 많은 곳입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 9,600+ · 평점 4.4 / 트립어드바이저 리뷰 1,200+ · 4.0 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/60214"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "재료 소진 시 일찍 마감, 점심 방문 권장"
+    },
+    {
+      "name": "메라 푸티",
+      "nameLocal": "Merah Putih",
+      "type": "restaurant",
+      "cuisine": "모던 인도네시안",
+      "area": "스미냑(페티텡겟)",
+      "address": "Jl. Petitenget No.100X, Kerobokan Kelod, Kuta Utara, Badung, Bali 80361, Indonesia",
+      "lat": -8.676707,
+      "lng": 115.154561,
+      "why": "높은 층고의 우아한 공간에서 인도네시아 각 지역 요리를 현대적으로 풀어내는 레스토랑. 스미냑에서 격식 있는 저녁 식사로 꼽힙니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,000+ · 평점 4.5 / 트립어드바이저 리뷰 3,700+ · 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/384942"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "저녁 예약 권장"
+    },
+    {
+      "name": "선선 와룽",
+      "nameLocal": "Sun Sun Warung",
+      "type": "restaurant",
+      "cuisine": "발리 가정식",
+      "area": "우붓 중심",
+      "address": "Jl. Jembawan No.2, Ubud, Gianyar, Bali 80571, Indonesia",
+      "lat": -8.509077,
+      "lng": 115.26677,
+      "why": "우붓 중심가 골목의 아담한 와룽으로, 정갈한 발리 가정식을 합리적인 가격에 내 높은 평점을 유지하고 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 5,900+ · 평점 4.7 / 트립어드바이저 리뷰 968 · 5.0 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/742404"
+        }
+      ],
+      "priceLevel": "₩"
+    },
+    {
+      "name": "시스터필즈",
+      "nameLocal": "Sisterfields",
+      "type": "cafe",
+      "cuisine": "호주식 브런치",
+      "area": "스미냑",
+      "address": "Jl. Kayu Cendana No.7, Seminyak, Kuta Utara, Badung, Bali 80361, Indonesia",
+      "lat": -8.683031,
+      "lng": 115.157552,
+      "why": "에그 베네딕트, 스매시 아보카도 등 호주식 브런치로 스미냑 브런치 문화를 대표하는 카페입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 13,000+ · 평점 4.8 / 트립어드바이저 리뷰 7,400+ · 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/428049"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "주말 오전엔 대기, 이른 아침 방문 추천"
+    },
+    {
+      "name": "리볼버 스미냑",
+      "nameLocal": "Revolver Seminyak",
+      "type": "cafe",
+      "cuisine": "스페셜티 커피",
+      "area": "스미냑",
+      "address": "Jl. Kayu Aya No.51, Seminyak, Kuta Utara, Badung, Bali 80361, Indonesia",
+      "lat": -8.684371,
+      "lng": 115.157976,
+      "why": "좁은 골목 안쪽에 숨은 빈티지 인테리어의 커피 바로, 스미냑에서 가장 이름난 스페셜티 커피 카페 중 하나입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 8,400+ · 평점 4.7 / 트립어드바이저 리뷰 3,500+ · 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/369689"
+        }
+      ],
+      "priceLevel": "₩"
+    },
+    {
+      "name": "구스토 젤라또 & 카페",
+      "nameLocal": "Gusto Gelato & Caffé",
+      "type": "dessert",
+      "cuisine": "젤라또",
+      "area": "스미냑(크로보칸)",
+      "address": "Jl. Mertanadi No.46B, Kerobokan Kelod, Kuta Utara, Badung, Bali 80361, Indonesia",
+      "lat": -8.679779,
+      "lng": 115.16774,
+      "why": "다양한 맛의 수제 젤라또를 고를 수 있는 젤라테리아로, 구글 리뷰 2만 건이 넘는 발리 대표 디저트 가게입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 20,000+ · 평점 4.7 / 트립어드바이저 리뷰 1,800+ · 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/420918"
+        }
+      ],
+      "priceLevel": "₩"
+    }
+  ],
+  "spots": [
+    {
+      "name": "타나롯 사원",
+      "nameLocal": "Pura Tanah Lot",
+      "kind": "landmark",
+      "address": "Beraban, Kediri, Tabanan, Bali 82121, Indonesia",
+      "lat": -8.621213,
+      "lng": 115.086807,
+      "why": "바다 위 바위에 선 해상 사원으로, 발리에서 가장 유명한 일몰 명소입니다."
+    },
+    {
+      "name": "울루와뚜 사원 & 케착 댄스",
+      "nameLocal": "Pura Luhur Uluwatu (Kecak Dance)",
+      "kind": "experience",
+      "address": "Pecatu, South Kuta, Badung, Bali 80361, Indonesia",
+      "lat": -8.829143,
+      "lng": 115.084907,
+      "why": "70m 절벽 위 사원에서 해 질 녘 불꽃 케착 댄스 공연을 볼 수 있는 남부 발리 필수 코스입니다."
+    },
+    {
+      "name": "우붓 몽키 포레스트",
+      "nameLocal": "Sacred Monkey Forest Sanctuary",
+      "kind": "nature",
+      "address": "Jl. Monkey Forest, Ubud, Gianyar, Bali 80571, Indonesia",
+      "lat": -8.519373,
+      "lng": 115.26063,
+      "why": "고목 숲속 사원에 원숭이 수백 마리가 사는 우붓 대표 명소입니다(소지품 주의)."
+    },
+    {
+      "name": "우붓 아트 마켓 & 우붓 왕궁",
+      "nameLocal": "Ubud Art Market & Puri Saren Ubud",
+      "kind": "market",
+      "address": "Jl. Raya Ubud No.35, Ubud, Gianyar, Bali 80571, Indonesia",
+      "lat": -8.507224,
+      "lng": 115.262789,
+      "why": "라탄백·사롱 등 수공예품을 흥정해 사는 시장으로, 길 건너 우붓 왕궁과 함께 둘러보기 좋습니다."
+    },
+    {
+      "name": "캄푸한 릿지 워크",
+      "nameLocal": "Campuhan Ridge Walk",
+      "kind": "nature",
+      "address": "Jl. Raya Campuhan, Kelusa, Ubud, Gianyar, Bali 80571, Indonesia",
+      "why": "우붓 중심에서 걸어갈 수 있는 능선 산책로로, 이른 아침 정글과 계곡 풍경을 즐기기 좋습니다.",
+      "lat": -8.495021,
+      "lng": 115.255837,
+      "geoSource": "osm"
+    },
+    {
+      "name": "스미냑 빌리지",
+      "nameLocal": "Seminyak Village",
+      "kind": "shopping",
+      "address": "Jl. Kayu Cendana No.8, Seminyak, Kuta, Badung, Bali 80361, Indonesia",
+      "lat": -8.683356,
+      "lng": 115.157134,
+      "why": "발리 로컬 디자이너 브랜드와 리조트웨어 매장이 모인 스미냑 중심 쇼핑몰입니다."
+    },
+    {
+      "name": "포테이토 헤드 비치 클럽",
+      "nameLocal": "Potato Head Beach Club",
+      "kind": "nightlife",
+      "address": "Jl. Petitenget No.51B, Seminyak, Kuta Utara, Badung, Bali 80361, Indonesia",
+      "lat": -8.679435,
+      "lng": 115.149934,
+      "why": "인피니티 풀 너머로 일몰을 보며 칵테일을 즐기는 스미냑 대표 비치 클럽입니다."
+    }
+  ]
+}

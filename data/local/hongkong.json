@@ -1,0 +1,270 @@
+{
+  "slug": "hongkong",
+  "food": [
+    {
+      "name": "룽킹힌 (포시즌스 호텔 홍콩)",
+      "nameLocal": "龍景軒 Lung King Heen, Four Seasons Hotel Hong Kong",
+      "type": "restaurant",
+      "cuisine": "광둥요리 · 딤섬",
+      "area": "센트럴",
+      "address": "4/F, Four Seasons Hotel Hong Kong, 8 Finance Street, Central, Hong Kong",
+      "why": "항구 전망을 보며 즐기는 정통 광둥 파인다이닝으로, 점심 딤섬과 진하게 우려낸 더블보일드 수프가 대표 메뉴다. 2009년부터 미쉐린 별을 이어 온 홍콩 광둥요리의 기준점 같은 곳.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 2스타",
+          "url": "https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lung-king-heen"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 전체 리스트 2스타 등재",
+          "url": "https://guide.michelin.com/hk/en/article/michelin-guide-ceremony/hong-kong-macau-full-list"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "점심 딤섬은 예약 필수(OpenTable 또는 +852 3196 8880). 창가 좌석은 예약 시 요청."
+    },
+    {
+      "name": "얏록 (센트럴)",
+      "nameLocal": "一樂燒鵝 Yat Lok (Central)",
+      "type": "restaurant",
+      "cuisine": "광둥식 로스트 구스",
+      "area": "센트럴",
+      "address": "G/F, Conwell House, 34-38 Stanley Street, Central, Hong Kong",
+      "why": "1957년 창업한 로스트 구스 전문점으로, 20단계가 넘는 손질을 거친 바삭한 껍질의 거위구이가 대표 메뉴다. 거위구이 덮밥이나 쌀국수(瀨粉)를 곁들여 먹는다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 1스타",
+          "url": "https://macaonews.org/food-drink/michelin-guide-2026-hong-kong-macao-stars/"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 공식 페이지 1스타",
+          "url": "https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/yat-lok"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "좌석이 좁아 합석이 기본이고 점심시간에는 줄이 길다. 포장도 가능."
+    },
+    {
+      "name": "카우키 (가우기)",
+      "nameLocal": "九記牛腩 Kau Kee",
+      "type": "restaurant",
+      "cuisine": "소고기 양지 국수",
+      "area": "센트럴 (고프 스트리트)",
+      "address": "G/F, 21 Gough Street, Central, Hong Kong",
+      "why": "1930년대부터 이어 온 소고기 양지(牛腩) 국수집으로, 맑은 육수 또는 카레 소스에 부위별 소고기와 면을 골라 먹는다. 밀크티도 함께 주문하는 메뉴.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 빕 구르망",
+          "url": "https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kau-kee"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 전체 리스트 빕 구르망 등재",
+          "url": "https://guide.michelin.com/hk/en/article/michelin-guide-ceremony/hong-kong-macau-full-list"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "현금만 가능, 일요일 휴무(월~토 12:30–22:30). 길에서 줄 서는 것이 일반적.",
+      "lat": 22.284229,
+      "lng": 114.152537,
+      "geoSource": "osm"
+    },
+    {
+      "name": "감스 로스트 구스 (완차이)",
+      "nameLocal": "甘牌燒鵝 Kam's Roast Goose",
+      "type": "restaurant",
+      "cuisine": "광둥식 로스트 구스",
+      "area": "완차이 (애드미럴티 인근)",
+      "address": "G/F, Po Wah Commercial Centre, 226 Hennessy Road, Wan Chai, Hong Kong",
+      "why": "70년 넘게 이어 온 감(甘) 가문의 3대째 로스트 구스 집으로, 바삭한 거위구이와 거위 기름에 비빈 면이 대표 메뉴다. 홍콩에서 가장 저렴하게 즐길 수 있는 미쉐린 스타 식당 중 하나.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 1스타",
+          "url": "https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/kam-s-roast-goose"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 2026 1스타 명단 등재",
+          "url": "https://macaonews.org/food-drink/michelin-guide-2026-hong-kong-macao-stars/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "30석 규모라 대기가 흔하다. 매일 11:30–21:30, 개점 직후 방문 추천.",
+      "lat": 22.27766,
+      "lng": 114.1753,
+      "geoSource": "osm"
+    },
+    {
+      "name": "호홍키 (코즈웨이베이 하이산 플레이스점)",
+      "nameLocal": "何洪記 Ho Hung Kee (Causeway Bay)",
+      "type": "restaurant",
+      "cuisine": "완탕면 · 광둥요리",
+      "area": "코즈웨이베이",
+      "address": "Shop 1204-1205, 12/F, Hysan Place, 500 Hennessy Road, Causeway Bay, Hong Kong",
+      "why": "1940년대 완차이에서 시작한 완탕면 노포로, 탱탱한 에그누들과 맑고 단맛 도는 국물의 완탕면이 대표 메뉴다. 쇼핑몰 안에 있어 쇼핑 동선에 넣기 좋다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 홍콩·마카오 2026 1스타",
+          "url": "https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/ho-hung-kee"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 2026 1스타 명단 등재",
+          "url": "https://macaonews.org/food-drink/michelin-guide-2026-hong-kong-macao-stars/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 11:00–22:00. 예약은 식당에 직접 전화(+852 2577 6028).",
+      "lat": 22.315443,
+      "lng": 113.935832,
+      "geoSource": "osm"
+    },
+    {
+      "name": "오스트레일리아 데어리 컴퍼니",
+      "nameLocal": "澳洲牛奶公司 Australia Dairy Company",
+      "type": "cafe",
+      "cuisine": "차찬텡 (스크램블 에그 토스트 · 우유 푸딩)",
+      "area": "조던 (침사추이 북쪽)",
+      "address": "G/F, 47-49 Parkes Street, Jordan, Kowloon, Hong Kong",
+      "why": "1970년 문을 연 차찬텡으로, 부드러운 스크램블 에그 토스트와 계란흰자 우유 푸딩(蛋白燉鮮奶)이 대표 메뉴다. 빠른 회전과 무뚝뚝한 서비스까지 홍콩다운 경험으로 꼽힌다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "OpenRice 베스트 홍콩식 레스토랑 2021–2025 · 리뷰 3,224건",
+          "url": "https://www.openrice.com/en/hongkong/r-australia-dairy-company-jordan-hong-kong-style-dessert-r90"
+        },
+        {
+          "kind": "media",
+          "label": "CNNGo Best Eats Awards 2010 · 가디언 홍콩 저예산 맛집 톱10",
+          "url": "https://en.wikipedia.org/wiki/Australia_Dairy_Company"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "목요일 휴무, 현금만 가능. 아침 7:30 오픈, 줄은 길지만 빨리 줄어든다.",
+      "lat": 22.304613,
+      "lng": 114.170594,
+      "geoSource": "osm"
+    },
+    {
+      "name": "타이청 베이커리 (센트럴 본점)",
+      "nameLocal": "泰昌餅家 Tai Cheong Bakery (Lyndhurst Terrace)",
+      "type": "bakery",
+      "cuisine": "에그타르트",
+      "area": "센트럴",
+      "address": "G/F, 35 Lyndhurst Terrace, Central, Hong Kong",
+      "why": "1954년 창업한 베이커리로, 쿠키 크러스트 에그타르트가 대표 메뉴다. 마지막 홍콩 총독 크리스 패튼이 '세계 최고의 에그타르트'라 부른 일화로 유명하다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "크리스 패튼 전 홍콩 총독 단골 일화 (위키백과)",
+          "url": "https://en.wikipedia.org/wiki/Lyndhurst_Terrace"
+        },
+        {
+          "kind": "reviews",
+          "label": "OpenRice 리뷰 488건",
+          "url": "https://www.openrice.com/en/hongkong/r-tai-cheong-bakery-central-hong-kong-style-bakery-r5522"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "매일 9:30–19:30. 갓 구운 타르트가 나오는 시간에 맞춰 가면 따뜻하게 먹을 수 있다. 미드레벨 에스컬레이터 바로 옆.",
+      "lat": 22.282628,
+      "lng": 114.153578,
+      "geoSource": "osm"
+    },
+    {
+      "name": "이슌 밀크 컴퍼니 (코즈웨이베이점)",
+      "nameLocal": "義順牛奶公司 Yee Shun Milk Company (Causeway Bay)",
+      "type": "dessert",
+      "cuisine": "우유 푸딩 · 생강 푸딩",
+      "area": "코즈웨이베이",
+      "address": "G/F, 506 Lockhart Road, Causeway Bay, Hong Kong",
+      "why": "마카오에서 시작한 우유 디저트 노포로, 쌍피나이(雙皮奶) 우유 푸딩과 생강 우유 푸딩이 대표 메뉴다. 따뜻하게·차갑게 모두 고를 수 있다.",
+      "proof": [
+        {
+          "kind": "tv",
+          "label": "tvN 「스트리트 푸드 파이터」 홍콩 편 백종원 방문",
+          "url": "https://triple.guide/articles/02bf4f21-23e8-40ef-be90-5f2db94dd5ac"
+        },
+        {
+          "kind": "reviews",
+          "label": "OpenRice 리뷰 342건",
+          "url": "https://www.openrice.com/en/hongkong/r-yee-shun-dairy-company-causeway-bay-hong-kong-style-dessert-r11167"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "매일 12:00–23:00, 현금·옥토퍼스 카드만 가능. 코즈웨이베이역 C출구 도보 2분."
+    }
+  ],
+  "spots": [
+    {
+      "name": "빅토리아 피크 (피크 트램 · 스카이 테라스 428)",
+      "nameLocal": "The Peak Tram (Garden Road Terminus) / Sky Terrace 428, The Peak Tower",
+      "kind": "landmark",
+      "address": "Peak Tram Lower Terminus, 33 Garden Road, Central, Hong Kong (Sky Terrace 428: The Peak Tower, 128 Peak Road, The Peak)",
+      "why": "2022년 새 차량으로 개편된 피크 트램을 타고 올라 해발 428m 전망대에서 홍콩 야경을 보는 대표 코스."
+    },
+    {
+      "name": "스타페리 (침사추이 선착장)",
+      "nameLocal": "Star Ferry Tsim Sha Tsui Pier",
+      "kind": "experience",
+      "address": "Star Ferry Pier, Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+      "why": "몇천 원 정도로 빅토리아 하버를 건너며 센트럴 스카이라인을 보는 1888년부터 운항한 명물 페리.",
+      "lat": 22.293541,
+      "lng": 114.167987,
+      "geoSource": "osm"
+    },
+    {
+      "name": "심포니 오브 라이트 (스타의 거리)",
+      "nameLocal": "A Symphony of Lights, Avenue of Stars",
+      "kind": "nightlife",
+      "address": "Avenue of Stars, Tsim Sha Tsui Promenade, Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+      "why": "매일 밤 8시 약 10분간 하버 양쪽 빌딩이 조명과 음악으로 연출하는 무료 레이저 쇼를 가장 잘 보는 자리."
+    },
+    {
+      "name": "K11 뮤제아",
+      "nameLocal": "K11 MUSEA",
+      "kind": "shopping",
+      "address": "Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+      "why": "명품·디자이너 브랜드와 현대미술 전시가 함께 있는 침사추이 하버프런트의 '예술 쇼핑몰'.",
+      "lat": 22.294701,
+      "lng": 114.175805,
+      "geoSource": "osm"
+    },
+    {
+      "name": "템플 스트리트 야시장",
+      "nameLocal": "Temple Street Night Market",
+      "kind": "market",
+      "address": "Temple Street (between Jordan Road and Kansu Street), Yau Ma Tei / Jordan, Kowloon, Hong Kong",
+      "why": "해 질 무렵부터 노점과 다이파이동 해산물 식당이 늘어서는 홍콩 대표 야시장.",
+      "lat": 22.306397,
+      "lng": 114.169965,
+      "geoSource": "osm"
+    },
+    {
+      "name": "미드레벨 에스컬레이터 · 소호",
+      "nameLocal": "Central–Mid-Levels Escalator / SoHo",
+      "kind": "street",
+      "address": "Central–Mid-Levels Escalator, Queen's Road Central (Central Market end) to Conduit Road, Central, Hong Kong",
+      "why": "세계에서 가장 긴 옥외 에스컬레이터를 따라 소호의 바·카페·벽화 골목과 타이청 베이커리, 카우키를 한 번에 둘러볼 수 있다.",
+      "lat": 22.279875,
+      "lng": 114.150821,
+      "geoSource": "osm"
+    },
+    {
+      "name": "만모 사원",
+      "nameLocal": "文武廟 Man Mo Temple",
+      "kind": "landmark",
+      "address": "124-126 Hollywood Road, Sheung Wan, Hong Kong",
+      "why": "천장에 매달린 거대한 나선형 향이 인상적인 1847년 건립 도교 사원으로, 할리우드 로드 골동품 거리와 함께 둘러보기 좋다.",
+      "lat": 22.283871,
+      "lng": 114.150158,
+      "geoSource": "osm"
+    }
+  ]
+}

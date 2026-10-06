@@ -1,0 +1,218 @@
+{
+  "slug": "langkawi",
+  "food": [
+    {
+      "name": "더 클리프 랑카위",
+      "nameLocal": "The Cliff Langkawi",
+      "type": "restaurant",
+      "cuisine": "말레이·아시안·웨스턴",
+      "area": "판타이 체낭",
+      "address": "Lot 63 & 40, Jalan Pantai Cenang, Mukim Kedawang, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.287199,
+      "lng": 99.727283,
+      "why": "체낭 해변과 텡아 해변 사이 바위 절벽 위 레스토랑으로, 안다만해 일몰을 보며 말레이·아시안 요리를 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,500+ · 평점 4.0 / 트립어드바이저 리뷰 1,600+ · 4.1 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/410994"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "일몰 시간대 창가·테라스 자리는 예약 권장"
+    },
+    {
+      "name": "오키드 리아 시푸드",
+      "nameLocal": "Orkid Ria Seafood Restaurant",
+      "type": "restaurant",
+      "cuisine": "중화풍 해산물",
+      "area": "판타이 텡아",
+      "address": "Lot 418, Jalan Pantai Tengah, Mukim Kedawang, 07100 Langkawi, Kedah, Malaysia",
+      "lat": 6.279059,
+      "lng": 99.732701,
+      "why": "수조에서 고른 랍스터·새우·생선을 버터갈릭, 찜 등 원하는 방식으로 요리해 주는 랑카위의 오래된 해산물 식당입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,600+ · 평점 4.3 / 트립어드바이저 리뷰 2,700+ · 4.0 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/838500"
+        },
+        {
+          "kind": "media",
+          "label": "Time Out 쿠알라룸푸르 랑카위 가이드에서 '이름난 해산물 식당'으로 언급",
+          "url": "https://wanderlog.com/list/geoCategory/74207/where-to-eat-best-restaurants-in-pantai-cenang"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "해산물은 무게 단위 시가, 주문 전 가격 확인"
+    },
+    {
+      "name": "원더랜드 푸드 스토어",
+      "nameLocal": "Wonderland Food Store",
+      "type": "restaurant",
+      "cuisine": "중화풍 해산물",
+      "area": "쿠아",
+      "address": "179-181 Persiaran Mutiara 2, Pusat Perdagangan Kelana Mas, 07000 Kuah, Langkawi, Kedah, Malaysia",
+      "lat": 6.32469,
+      "lng": 99.843878,
+      "why": "쿠아 시내 켈라나 마스 상가에 있는 중화풍 해산물 식당으로, 랑카위 해산물 식당 가운데 리뷰 수와 평점이 모두 높은 편입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,500+ · 평점 4.4 / 트립어드바이저 리뷰 1,200+ · 4.4 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/1902271"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "방문 전 영업시간 확인 권장"
+    },
+    {
+      "name": "야스민 시리안 레스토랑",
+      "nameLocal": "Yasmin Syrian Restaurant",
+      "type": "restaurant",
+      "cuisine": "시리아·중동 요리",
+      "area": "판타이 체낭",
+      "address": "Lot 1225, Jalan Pantai Cenang, Kampung Tanjung Mali, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.296009,
+      "lng": 99.723813,
+      "why": "샤와르마, 후무스, 그릴 케밥을 내는 체낭의 시리아 레스토랑으로, 랑카위에서 평점과 리뷰 수 모두 높은 편입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,600+ · 평점 4.6 / 트립어드바이저 리뷰 1,200+ · 4.6 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/1187643"
+        }
+      ],
+      "priceLevel": "₩₩"
+    },
+    {
+      "name": "스마일링 버팔로 카페",
+      "nameLocal": "Smiling Buffalo Cafe Langkawi",
+      "type": "cafe",
+      "cuisine": "브런치·커피",
+      "area": "판타이 체낭",
+      "address": "965 Jalan Pantai Cenang, Mukim Kedawang, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.304537,
+      "lng": 99.72194,
+      "why": "체낭 해변 북쪽의 아늑한 브런치 카페로, 커피와 아침 식사 메뉴로 높은 평점을 받고 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2,200+ · 평점 4.4 / 트립어드바이저 리뷰 236 · 4.4 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/1422835"
+        }
+      ],
+      "priceLevel": "₩"
+    },
+    {
+      "name": "레드 토마토",
+      "nameLocal": "Red Tomato Langkawi",
+      "type": "cafe",
+      "cuisine": "웨스턴·브런치",
+      "area": "판타이 체낭",
+      "address": "No. 5 Casa Fina, Jalan Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.286614,
+      "lng": 99.730095,
+      "why": "체낭 중심가 카사 피나 상가의 캐주얼 레스토랑 겸 카페로, 서양식 아침 식사를 찾는 여행자에게 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,600+ · 평점 4.2 / 트립어드바이저 리뷰 2,000+ · 4.1 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/1187700"
+        }
+      ],
+      "priceLevel": "₩₩"
+    },
+    {
+      "name": "아츠 카페 랑카위",
+      "nameLocal": "Arts Cafe Langkawi",
+      "type": "cafe",
+      "cuisine": "카페·로컬 가정식",
+      "area": "쿠아",
+      "address": "54 Jalan Pandak Mayah 5, Kuah, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.321763,
+      "lng": 99.851519,
+      "why": "쿠아 시내에서 아침 식사와 커피를 즐기기 좋은 카페로, 트립어드바이저 평점 4.5를 유지하고 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 900+ · 평점 4.3 / 트립어드바이저 리뷰 523 · 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/494852"
+        }
+      ],
+      "priceLevel": "₩"
+    },
+    {
+      "name": "옐로 비치 클럽",
+      "nameLocal": "Yellow Beach Club Langkawi",
+      "type": "bar",
+      "cuisine": "비치 바·그릴",
+      "area": "판타이 체낭",
+      "address": "Jalan Pantai Cenang, Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.289385,
+      "lng": 99.727346,
+      "why": "체낭 해변 모래사장 위 좌석에서 일몰과 칵테일을 즐기는 랑카위 대표 비치 바입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 4,000+ · 평점 4.1 / 트립어드바이저 리뷰 1,500+ · 4.0 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/502668"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "17:00 오픈(화요일 휴무), 일몰 전 도착 추천"
+    }
+  ],
+  "spots": [
+    {
+      "name": "스카이캡 & 스카이브리지",
+      "nameLocal": "SkyCab (Langkawi Cable Car) & Langkawi Sky Bridge, Oriental Village",
+      "kind": "experience",
+      "address": "Oriental Village, Burau Bay (Teluk Burau), 07000 Langkawi, Kedah, Malaysia",
+      "why": "마친창산 정상(708m)까지 오르는 케이블카와 곡선형 스카이브리지에서 안다만해와 열대우림을 내려다볼 수 있는 랑카위 대표 명소입니다."
+    },
+    {
+      "name": "킬림 지오포레스트 파크 맹그로브 투어",
+      "nameLocal": "Kilim Karst Geoforest Park",
+      "kind": "nature",
+      "address": "Kilim Geoforest Park Jetty, Kampung Kilim, 07000 Langkawi, Kedah, Malaysia",
+      "why": "유네스코 세계지질공원의 석회암 지형과 맹그로브 숲을 보트로 돌며 독수리 먹이 주기, 박쥐 동굴을 보는 투어입니다.",
+      "lat": 6.405003,
+      "lng": 99.858433,
+      "geoSource": "osm"
+    },
+    {
+      "name": "독수리 광장",
+      "nameLocal": "Dataran Lang (Eagle Square)",
+      "kind": "landmark",
+      "address": "Dataran Lang, Jalan Persiaran Putra, Pusat Bandar Kuah, 07000 Kuah, Langkawi, Kedah, Malaysia",
+      "why": "쿠아 항구 앞 거대한 독수리 조형물이 있는 랑카위의 상징으로, 페리 터미널에서 가깝습니다."
+    },
+    {
+      "name": "쿠아 면세 쇼핑",
+      "nameLocal": "Kuah Town Duty-Free Shopping",
+      "kind": "shopping",
+      "address": "Pusat Bandar Kuah, 07000 Kuah, Langkawi, Kedah, Malaysia",
+      "why": "섬 전체가 면세 구역인 랑카위에서 초콜릿·주류·화장품을 저렴하게 사려면 쿠아 시내 면세점과 쇼핑몰을 찾습니다."
+    },
+    {
+      "name": "판타이 체낭 해변",
+      "nameLocal": "Pantai Cenang",
+      "kind": "nature",
+      "address": "Jalan Pantai Cenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+      "why": "리조트·식당·바가 늘어선 랑카위 메인 해변으로, 일몰과 해양 액티비티를 즐기기 좋습니다.",
+      "lat": 6.291336,
+      "lng": 99.72894,
+      "geoSource": "osm"
+    },
+    {
+      "name": "체낭 몰",
+      "nameLocal": "Cenang Mall",
+      "kind": "shopping",
+      "address": "Lot 2605, Jalan Pantai Cenang, Mukim Kedawang, 07000 Langkawi, Kedah, Malaysia",
+      "lat": 6.290723,
+      "lng": 99.727803,
+      "why": "체낭 해변 앞 쇼핑몰로 면세 초콜릿·주류 매장과 카페가 모여 있어 해변 일정 중 들르기 편합니다."
+    }
+  ]
+}

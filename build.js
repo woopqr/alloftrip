@@ -10,6 +10,7 @@
 const fs = require('fs');
 const path = require('path');
 const agoda = require('./lib/agoda');
+const LOCAL = require('./lib/local');
 
 const ROOT = __dirname;
 const TPL = fs.readFileSync(path.join(ROOT, 'templates/article.template.html'), 'utf8');
@@ -163,6 +164,13 @@ function buildContext(data) {
     locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? '조회됨' : '위치 상세 확인 필요'),
     sampleCount: h.travelerTypes?.total || (h.travelerTypes?.distribution || []).reduce((n, d) => n + (d.count || 0), 0),
   }));
+  // 로컬 정보: 호텔별 가까운 명소·맛집 + 검증 맛집/꼭 가볼 곳 섹션(1위 숙소 기준 이동 시간)
+  const local = LOCAL.loadLocal(data.citySlug);
+  hotels.forEach(h => {
+    const near = LOCAL.nearestFor(h.geo, local, 3);
+    h.nearbyHtml = near.length ? `<div class="nearby"><span class="nb-t">가까운 곳</span>${near.map(x => `<span class="nb-i">${x.icon} ${escapeHtml(x.name)} <b>${x.time}</b></span>`).join('')}</div>` : '';
+  });
+  const localCtx = LOCAL.localSections(local, hotels);
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;
   const fetchedAt = data.methodology?.fetchedAt || data._meta?.fetchedAt || data.updated;
   const sampleTotal = data.aggregate?.total || 0;
@@ -170,6 +178,7 @@ function buildContext(data) {
   const metaDescription = editorialDescription(data);
   return {
     ...data, title, metaDescription, site: SITE, hotels,
+    local: localCtx, hasLocalFood: !!localCtx?.hasFood, hasLocalSpots: !!localCtx?.hasSpots,
     intro: uniqueIntro(data),
     hasAggregate: !!data.aggregate,
     aggregateChartHtml: aggregateChart(data.aggregate, themeKey),

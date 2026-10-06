@@ -14,7 +14,7 @@
   "metaDescription": "2026년 11월 발리 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
   "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
   "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
-  "verdict": "이 숙소들의 리뷰 중 약 73%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>불가리 리조트 발리</b>입니다 (평점 9.3 · 리뷰 701건 · 1박 약 256만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 73%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>불가리 리조트 발리</b>입니다 (평점 9.3 · 리뷰 698건 · 1박 약 254만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -44,24 +44,28 @@
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+  "heroImg": "https://pix8.agoda.net/hotelImages/77182/-1/26d011f3e8e8c551e3622bfd200cfc3e.jpg?va=1&ce=0",
   "heroAlt": "발리 울트라 럭셔리 최고급 숙소",
-  "updated": "2026-10-02",
+  "updated": "2026-10-06",
   "hotels": [
     {
       "rank": 1,
       "name": "불가리 리조트 발리 (Bvlgari Resort Bali)",
       "agodaUrl": "https://www.agoda.com/bulgari-resort-bali/hotel/bali-id.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+      "img": "https://pix8.agoda.net/hotelImages/77182/-1/26d011f3e8e8c551e3622bfd200cfc3e.jpg?va=1&ce=0",
       "score": 9.3,
-      "reviewCount": 701,
-      "reviewCountFmt": "리뷰 701건",
-      "priceText": "₩₩₩ · 1박 약 256만원",
+      "reviewCount": 698,
+      "reviewCountFmt": "리뷰 698건",
+      "priceText": "₩₩₩ · 1박 약 254만원",
       "walkMin": 53,
       "refLabel": "울루와투 사원",
       "star": 5,
       "propertyId": 77182,
-      "priceKRW": 2563568,
+      "geo": {
+        "lat": -8.843925,
+        "lng": 115.120697
+      },
+      "priceKRW": 2537022,
       "priceStatus": "조회됨",
       "distanceM": 4263.21,
       "locationStatus": "조회됨",
@@ -74,10 +78,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 701건. 울루와투 사원까지 도보 53분, ₩₩₩ · 1박 약 256만원. 연인·커플 리뷰 비중 80%.",
+      "blurb": "평점 9.3 · 리뷰 698건. 울루와투 사원까지 도보 53분, ₩₩₩ · 1박 약 254만원. 연인·커플 리뷰 비중 80%.",
       "metaTags": [
-        "💰 1박 약 256만원",
-        "📝 리뷰 701건",
+        "💰 1박 약 254만원",
+        "📝 리뷰 698건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
         "👥 연인·커플 선호"
@@ -104,39 +108,39 @@
       },
       "reviews": [
         {
-          "text": "우리 집사인 라남은 특히 우리의 요구를 잘 들어주었습니다.",
+          "text": "Our butler, Lanam was especially accommodating to our needs,",
           "score": "10",
           "country": "United States",
           "date": "2022.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "방이 정말 마음에 들어서 방에서 보이는 풍경은 말로 표현할 수 없을 정도입니다.",
+          "text": "Loving the room, the view from the room is indescribable.",
           "score": "10",
           "country": "Singapore",
           "date": "2022.07",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "풀사이드 피자와 트러플 감자튀김이 너무 맛있었어요!! <3",
+          "text": "Poolside pizza and truffle fries were so delicious!! <3",
           "score": "10",
           "country": "Singapore",
           "date": "2022.07",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "전반적으로 저는 여전히 불가리 리조트 발리를 매우 높게 평가하고 있습니다.",
+          "text": "Overall, I still rate Bvlgari Resort Bali very highly.",
           "score": "10",
           "country": "Taiwan",
           "date": "2025.12",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "호텔은 정말 아름답고 우아하며 고급스럽습니다.",
+          "text": "The hotel is truly beautiful, elegant, and luxurious.",
           "score": "9.6",
           "country": "United Arab Emirates",
           "date": "2026.06",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -151,16 +155,20 @@
       "rank": 2,
       "name": "만다파, 어 리츠칼튼 리저브 (Mandapa, a Ritz-Carlton Reserve)",
       "agodaUrl": "https://www.agoda.com/mandapa-a-ritz-carlton-reserve/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/984267/0/f49d102e237e8c5140eb3041a31d9ae9.jpg?ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/984267/0/f49d102e237e8c5140eb3041a31d9ae9.jpg?va=1&ce=2",
       "score": 9.5,
       "reviewCount": 340,
       "reviewCountFmt": "리뷰 340건",
-      "priceText": "₩₩₩ · 1박 약 229만원",
+      "priceText": "₩₩₩ · 1박 약 227만원",
       "walkMin": 28,
       "refLabel": "짬뿌한 리지 워크",
       "star": 5,
       "propertyId": 984267,
-      "priceKRW": 2288900,
+      "geo": {
+        "lat": -8.485557,
+        "lng": 115.245491
+      },
+      "priceKRW": 2265199,
       "priceStatus": "조회됨",
       "distanceM": 2242.78,
       "locationStatus": "조회됨",
@@ -173,9 +181,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.5 · 리뷰 340건. 짬뿌한 리지 워크까지 도보 28분, ₩₩₩ · 1박 약 229만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.5 · 리뷰 340건. 짬뿌한 리지 워크까지 도보 28분, ₩₩₩ · 1박 약 227만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 229만원",
+        "💰 1박 약 227만원",
         "📝 리뷰 340건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -195,39 +203,39 @@
       },
       "reviews": [
         {
-          "text": "Kubu 레스토랑은 커플이 저녁 식사를 즐기기에 가장 좋은 전망을 제공합니다.",
+          "text": "Kubu restaurant is the best view for couple for dinner.",
           "score": "9.2",
           "country": "Thailand",
           "date": "2022.10",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "인상적인 호텔은 다음번에도 꼭 다시 머물고 싶습니다.",
+          "text": "Impressive hotel will definitely stay there again next time.",
           "score": "10",
           "country": "Indonesia",
           "date": "2025.06",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "버틀러는 우리를 숙박 경험의 또 다른 단계로 안내합니다.",
+          "text": "Butler brings us to another stage of stay-experience.",
           "score": "10",
           "country": "日本",
           "date": "2024.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "휴식과 재충전을 위한 완벽한 호텔입니다.",
+          "text": "Perfect hotel to just relax and recharge.",
           "score": "8.8",
           "country": "Philippines",
           "date": "2024.01",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "우리가 그곳에 도착하자마자 집처럼 편안하고 환영받는 느낌을 받았습니다.",
+          "text": "Feels home and welcoming immediately when we arrived there.",
           "score": "9.6",
           "country": "Malaysia",
           "date": "2025.09",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -242,16 +250,20 @@
       "rank": 3,
       "name": "울라만 에코 럭셔리 리조트 (Ulaman Eco Luxury Resort)",
       "agodaUrl": "https://www.agoda.com/ulaman-eco-retreat/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/34474011/-1/05e5a71bc689504785139f5263c5154c.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/34474011/-1/05e5a71bc689504785139f5263c5154c.jpg?va=1&ce=0",
       "score": 8.9,
-      "reviewCount": 876,
-      "reviewCountFmt": "리뷰 876건",
-      "priceText": "₩₩₩ · 1박 약 194만원",
+      "reviewCount": 872,
+      "reviewCountFmt": "리뷰 872건",
+      "priceText": "₩₩₩ · 1박 약 189만원",
       "walkMin": 119,
       "refLabel": "Ubung Bus Terminal",
       "star": 5,
       "propertyId": 34474011,
-      "priceKRW": 1939565,
+      "geo": {
+        "lat": -8.592965,
+        "lng": 115.130562
+      },
+      "priceKRW": 1893464,
       "priceStatus": "조회됨",
       "distanceM": 9542.22,
       "locationStatus": "조회됨",
@@ -266,10 +278,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 8.9 · 리뷰 876건. Ubung Bus Terminal까지 도보 119분, ₩₩₩ · 1박 약 194만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 8.9 · 리뷰 872건. Ubung Bus Terminal까지 도보 119분, ₩₩₩ · 1박 약 189만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 194만원",
-        "📝 리뷰 876건",
+        "💰 1박 약 189만원",
+        "📝 리뷰 872건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
         "👥 연인·커플 선호"
@@ -283,45 +295,45 @@
             "label": "연인·커플",
             "count": 5,
             "pct": 100,
-            "rating": 9.8
+            "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "맛은 풍부하고 정통하며 전문적으로 준비되었습니다.",
+          "text": "The flavors were rich, authentic, and expertly prepared.",
           "score": "10",
           "country": "Canada",
           "date": "2024.04",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "발리를 방문한다면 울라만 에코 리조트(Ulaman Eco Resort)는 필수입니다.",
+          "text": "Ulaman Eco Resort is a must if you're visiting Bali.",
           "score": "10",
           "country": "United States",
           "date": "2022.09",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "스카이 빌라는 우리가 본 어떤 것과도 다릅니다.",
+          "text": "The Sky Villa is unlike anything we've ever seen.",
           "score": "10",
           "country": "United States",
           "date": "2022.09",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "직원, 음식, 녹지, 외모가 최고 수준입니다.",
+          "text": "The staff, the food, the greenery, the looks, are top notch.",
           "score": "10",
           "country": "Australia",
           "date": "2024.11",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "호텔에는 다양한 스파 옵션과 기타 활동이 있습니다.",
-          "score": "9.2",
-          "country": "India",
-          "date": "2023.02",
-          "translated": true
+          "text": "Their dedication to service truly enhances the experience.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
         }
       ],
       "quality": {
@@ -334,111 +346,22 @@
     },
     {
       "rank": 4,
-      "name": "부아한, 어 바니안트리 이스케이프 (Buahan, a Banyan Tree Escape)",
-      "agodaUrl": "https://www.agoda.com/buahan-a-banyan-tree-escape/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/32018578/0/7290b80d81d36bc4c8212a0b75e36a72.jpg?ce=0",
-      "score": 9.2,
-      "reviewCount": 365,
-      "reviewCountFmt": "리뷰 365건",
-      "priceText": "₩₩₩ · 1박 약 187만원",
-      "walkMin": 111,
-      "refLabel": "뜨갈라랑 라이스 테라스",
-      "star": 5,
-      "propertyId": 31491241,
-      "priceKRW": 1867743,
-      "priceStatus": "조회됨",
-      "distanceM": 8894.46,
-      "locationStatus": "조회됨",
-      "facilities": [
-        "수영장",
-        "공항 이동 교통편 서비스",
-        "무료 Wi-Fi (모든 객실)",
-        "일일 청소 서비스",
-        "Wi-Fi (무료)",
-        "개폐식 창문",
-        "발코니/테라스",
-        "책상",
-        "전용 수영장"
-      ],
-      "blurb": "평점 9.2 · 리뷰 365건. 뜨갈라랑 라이스 테라스까지 도보 111분, ₩₩₩ · 1박 약 187만원. 연인·커플 리뷰 비중 100%.",
-      "metaTags": [
-        "💰 1박 약 187만원",
-        "📝 리뷰 365건",
-        "⭐ 5성급",
-        "👥 연인·커플 선호"
-      ],
-      "travelerTypes": {
-        "topLabel": "연인·커플",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "연인·커플",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.7
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "모든 것이 흠잡을 데가 없었고, 정말 즐거운 시간을 보냈습니다.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2025.04",
-          "translated": true
-        },
-        {
-          "text": "호텔 직원은 훌륭하고 매우 개인적인 서비스를 제공했습니다.",
-          "score": "8.4",
-          "country": "Singapore",
-          "date": "2022.12",
-          "translated": true
-        },
-        {
-          "text": "직원들은 예외적이었고 항상 세심하고 친절했습니다.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2025.04",
-          "translated": true
-        },
-        {
-          "text": "휴양지에서의 요리 경험은 훌륭했습니다.",
-          "score": "10",
-          "country": "Australia",
-          "date": "2025.02",
-          "translated": true
-        },
-        {
-          "text": "우리는 요가, 스파, 사이클링, 칵테일 만들기 수업을 했습니다.",
-          "score": "10",
-          "country": "加拿大",
-          "date": "2026.02",
-          "translated": true
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
       "name": "카펠라 우붓 (Capella Ubud)",
       "agodaUrl": "https://www.agoda.com/capella-ubud/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/534/5347453/5347453_18072315540067066889.jpg?ca=0&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/534/5347453/5347453_18072315540067066889.jpg?va=1&ca=0&ce=1",
       "score": 9.4,
       "reviewCount": 127,
       "reviewCountFmt": "리뷰 127건",
-      "priceText": "₩₩₩ · 1박 약 200만원",
+      "priceText": "₩₩₩ · 1박 약 233만원",
       "walkMin": 119,
       "refLabel": "로카 스라나 버스터미널",
       "star": 5,
       "propertyId": 5347453,
-      "priceKRW": 2004656,
+      "geo": {
+        "lat": -8.447693,
+        "lng": 115.268545
+      },
+      "priceKRW": 2333855,
       "priceStatus": "조회됨",
       "distanceM": 9484.77,
       "locationStatus": "조회됨",
@@ -453,9 +376,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.4 · 리뷰 127건. 로카 스라나 버스터미널까지 도보 119분, ₩₩₩ · 1박 약 200만원. 연인·커플 리뷰 비중 20%.",
+      "blurb": "평점 9.4 · 리뷰 127건. 로카 스라나 버스터미널까지 도보 119분, ₩₩₩ · 1박 약 233만원. 연인·커플 리뷰 비중 20%.",
       "metaTags": [
-        "💰 1박 약 200만원",
+        "💰 1박 약 233만원",
         "📝 리뷰 127건",
         "⭐ 5성급",
         "👥 가족 선호"
@@ -482,39 +405,136 @@
       },
       "reviews": [
         {
-          "text": "내가 가본 최고의 호텔.",
+          "text": "Best hotel ive ever go.",
           "score": "10",
           "country": "대한민국",
           "date": "2025.01",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "Dewa Arta, Sony, Mario는 우리를 여왕처럼 대했습니다!",
+          "text": "Dewa Arta, Sony, and Mario treated us like queens!",
           "score": "10",
           "country": "United States",
           "date": "2023.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "놀라운 직원이 있는 멋진 숙소!",
+          "text": "Gorgeous property with an amazing staff!",
           "score": "10",
           "country": "United States",
           "date": "2023.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "일생에 한 번뿐인 놀라운 숙박!",
+          "text": "Incredible, once-in-a-lifetime stay!",
           "score": "10",
           "country": "United States",
           "date": "2023.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "내 인생 최고의 호텔 숙박!",
+          "text": "Best hotel stay of my life!",
           "score": "10",
           "country": "United States",
           "date": "2023.08",
-          "translated": true
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "부아한, 어 바니안트리 이스케이프 (Buahan, a Banyan Tree Escape)",
+      "agodaUrl": "https://www.agoda.com/buahan-a-banyan-tree-escape/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32018578/0/7290b80d81d36bc4c8212a0b75e36a72.jpg?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 363,
+      "reviewCountFmt": "리뷰 363건",
+      "priceText": "₩₩₩ · 1박 약 199만원",
+      "walkMin": 111,
+      "refLabel": "뜨갈라랑 라이스 테라스",
+      "star": 5,
+      "propertyId": 31491241,
+      "geo": {
+        "lat": -8.365112,
+        "lng": 115.238274
+      },
+      "priceKRW": 1993375,
+      "priceStatus": "조회됨",
+      "distanceM": 8894.46,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 363건. 뜨갈라랑 라이스 테라스까지 도보 111분, ₩₩₩ · 1박 약 199만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 199만원",
+        "📝 리뷰 363건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everything was spotless, making our stay truly enjoyable.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel staff provided a great and very personal service.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were exceptional, always attentive and friendly.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The culinary experience at the retreat was outstanding.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Unexpectedly our favorite hotel we’ve ever stayed at",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": false
         }
       ],
       "quality": {
@@ -531,14 +551,18 @@
       "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-sayan/hotel/bali-id.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/83160592.jpg?k=6d0c8a818604f0a31545186425f6adcb74e5146b6fb5ab88877adbad4457a905&o=",
       "score": 9.3,
-      "reviewCount": 382,
-      "reviewCountFmt": "리뷰 382건",
-      "priceText": "₩₩₩ · 1박 약 160만원",
+      "reviewCount": 341,
+      "reviewCountFmt": "리뷰 341건",
+      "priceText": "₩₩₩ · 1박 약 177만원",
       "walkMin": 15,
       "refLabel": "짬뿌한 리지 워크",
       "star": 5,
       "propertyId": 48716,
-      "priceKRW": 1602886,
+      "geo": {
+        "lat": -8.501527,
+        "lng": 115.243797
+      },
+      "priceKRW": 1771532,
       "priceStatus": "조회됨",
       "distanceM": 1220.88,
       "locationStatus": "조회됨",
@@ -553,10 +577,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 382건. 짬뿌한 리지 워크까지 도보 15분, ₩₩₩ · 1박 약 160만원. 연인·커플 리뷰 비중 40%.",
+      "blurb": "평점 9.3 · 리뷰 341건. 짬뿌한 리지 워크까지 도보 15분, ₩₩₩ · 1박 약 177만원. 연인·커플 리뷰 비중 40%.",
       "metaTags": [
-        "💰 1박 약 160만원",
-        "📝 리뷰 382건",
+        "💰 1박 약 177만원",
+        "📝 리뷰 341건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
         "👥 연인·커플 선호"
@@ -590,39 +614,39 @@
       },
       "reviews": [
         {
-          "text": "우리는 호텔에서 놀라운 숙박을 보냈습니다.",
+          "text": "We had an amazing stay at the hotel.",
           "score": "10",
           "country": "Singapore",
           "date": "2022.06",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "우리는 Four Seasons Bali Sayan에서 멋진 4박을 보냈습니다.",
+          "text": "We had a wonderful 4 nights stay at Four Seasons Bali Sayan.",
           "score": "10",
           "country": "United Arab Emirates",
           "date": "2026.07",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "우리가 머물렀던 최고의 호텔 중 하나였습니다.",
+          "text": "It was one of the best hotel we have ever stayed.",
           "score": "10",
           "country": "United Arab Emirates",
           "date": "2026.07",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "늦은 체크아웃에도 유연하게 대처해 주셔서 감사합니다.",
+          "text": "Thank you also for the great flexibility for late check-out.",
           "score": "10",
           "country": "Türkiye",
           "date": "2022.05",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "그들은 항상 내 상태를 걱정하고 도움을 주었습니다.",
+          "text": "They always concerned my condition and offered their help.",
           "score": "9.2",
           "country": "中國香港",
           "date": "2026.07",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -636,16 +660,16 @@
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-02T06:10:04.750Z",
+    "fetchedAt": "2026-10-06T05:54:48.579Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-02T06:10:04.750Z",
+    "fetchedAt": "2026-10-06T05:54:48.579Z",
     "source": "agoda citySearch",
-    "daysAhead": 45,
+    "daysAhead": 41,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

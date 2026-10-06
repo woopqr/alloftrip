@@ -14,45 +14,137 @@
   "metaDescription": "2026년 11월 푸켓 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
   "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
   "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
-  "verdict": "이 숙소들의 리뷰 중 약 46%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>더 나카 푸켓, 어 멤버 오브 디자인 호텔스</b>입니다 (평점 8.6 · 리뷰 4,539건 · 1박 약 72만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 54%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>Keemala</b>입니다 (평점 9.1 · 리뷰 814건 · 1박 약 106만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
   "aggregate": {
     "total": 26,
     "distribution": [
       {
         "key": "couple",
         "label": "연인·커플",
-        "count": 12,
-        "pct": 46
+        "count": 14,
+        "pct": 54
       },
       {
         "key": "solo",
         "label": "혼행",
-        "count": 6,
-        "pct": 23
+        "count": 4,
+        "pct": 15
       },
       {
         "key": "family",
         "label": "가족",
-        "count": 5,
-        "pct": 19
+        "count": 4,
+        "pct": 15
       },
       {
         "key": "group",
         "label": "그룹·단체",
-        "count": 3,
-        "pct": 12
+        "count": 4,
+        "pct": 15
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/411297/0/6f8bbaf04756cf3e8c1cb61066891159.jpeg?ce=3",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/922229904.jpg?k=efa2c1fc191223e36c6c469ad6e7fc505894ef83a791a04907c66da85e84d0ba&o=",
   "heroAlt": "푸켓 기념일 여행 최고급 숙소",
-  "updated": "2026-10-02",
+  "updated": "2026-10-06",
   "hotels": [
     {
       "rank": 1,
+      "name": "Keemala",
+      "agodaUrl": "https://www.agoda.com/keemala-sha-plus_3/hotel/all/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/922229904.jpg?k=efa2c1fc191223e36c6c469ad6e7fc505894ef83a791a04907c66da85e84d0ba&o=",
+      "score": 9.1,
+      "reviewCount": 814,
+      "reviewCountFmt": "리뷰 814건",
+      "priceText": "₩₩₩ · 1박 약 106만원",
+      "walkMin": 24,
+      "refLabel": "푸켓 판타 씨",
+      "star": 5,
+      "propertyId": 3072111,
+      "geo": {
+        "lat": 7.93976,
+        "lng": 98.281281
+      },
+      "priceKRW": 1057917,
+      "priceStatus": "조회됨",
+      "distanceM": 1952.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "빠통 비치"
+      ],
+      "blurb": "평점 9.1 · 리뷰 814건. 푸켓 판타 씨까지 도보 24분, ₩₩₩ · 1박 약 106만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 106만원",
+        "📝 리뷰 814건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It is easily one of the best resorts we have ever visited.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We felt so welcomed and cared for throughout our stay.",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Our stay at Keemala was absolutely amazing!",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Room service was exceptionally amazing.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous amenities and so relaxing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
       "name": "더 나카 푸켓, 어 멤버 오브 디자인 호텔스 (The Naka Phuket, a member of Design Hotels)",
       "agodaUrl": "https://www.agoda.com/the-naka-phuket-villa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/411297/0/6f8bbaf04756cf3e8c1cb61066891159.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/411297/0/6f8bbaf04756cf3e8c1cb61066891159.jpeg?va=1&ce=3",
       "score": 8.6,
       "reviewCount": 4539,
       "reviewCountFmt": "리뷰 4,539건",
@@ -61,7 +153,11 @@
       "refLabel": "빠통 비치",
       "star": 5,
       "propertyId": 411297,
-      "priceKRW": 724801,
+      "geo": {
+        "lat": 7.926419,
+        "lng": 98.267883
+      },
+      "priceKRW": 715610,
       "priceStatus": "조회됨",
       "distanceM": 3883.41,
       "locationStatus": "조회됨",
@@ -105,127 +201,39 @@
       },
       "reviews": [
         {
-          "text": "옥상 바와 레스토랑은 멋진 전망을 자랑합니다.",
+          "text": "Roof top bar and restaurant is great with superb views.",
           "score": "9.6",
           "country": "Australia",
           "date": "2025.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "해변 라운지로 음료와 음식이 배달됩니다.",
+          "text": "Drinks and food delivered to the lounges on the beach.",
           "score": "9.6",
           "country": "Australia",
           "date": "2025.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "인피니티 풀은 아시아 최고 중 하나입니다.",
+          "text": "The infinity pool is one of the best in asia.",
           "score": "7.2",
           "country": "中國香港",
           "date": "2023.10",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "부담 없이 묵을 수 있는 푸켓 최고의 호텔",
+          "text": "The best hotel in Phuket where you can stay without hesitate",
           "score": "10",
           "country": "Kuwait",
           "date": "2023.06",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "나카 푸켓(Naka Phuket)은 럭셔리함과 평온함의 정의입니다.",
+          "text": "The Naka Phuket is the definition of luxury and tranquility.",
           "score": "9.6",
           "country": "Thailand",
           "date": "2024.09",
-          "translated": true
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
-      "name": "Keemala",
-      "agodaUrl": "https://www.agoda.com/keemala-sha-plus_3/hotel/all/phuket-th.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/922229904.jpg?k=efa2c1fc191223e36c6c469ad6e7fc505894ef83a791a04907c66da85e84d0ba&o=",
-      "score": 9.1,
-      "reviewCount": 813,
-      "reviewCountFmt": "리뷰 813건",
-      "priceText": "₩₩₩ · 1박 약 105만원",
-      "walkMin": 24,
-      "refLabel": "푸켓 판타 씨",
-      "star": 5,
-      "propertyId": 3072111,
-      "priceKRW": 1053168,
-      "priceStatus": "조회됨",
-      "distanceM": 1952.38,
-      "locationStatus": "조회됨",
-      "facilities": [
-        "공항 이동 교통편 서비스",
-        "무료 Wi-Fi (모든 객실)",
-        "사우나",
-        "빠통 비치"
-      ],
-      "blurb": "평점 9.1 · 리뷰 813건. 푸켓 판타 씨까지 도보 24분, ₩₩₩ · 1박 약 105만원. 연인·커플 리뷰 비중 100%.",
-      "metaTags": [
-        "💰 1박 약 105만원",
-        "📝 리뷰 813건",
-        "⭐ 5성급",
-        "👥 연인·커플 선호"
-      ],
-      "travelerTypes": {
-        "topLabel": "연인·커플",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "연인·커플",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.4
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "그것은 우리가 방문한 최고의 리조트 중 하나입니다.",
-          "score": "10",
-          "country": "ישראל",
-          "date": "2026.08",
-          "translated": true
-        },
-        {
-          "text": "우리는 머무는 동안 매우 환영받고 보살핌을 받는 느낌을 받았습니다.",
-          "score": "8.4",
-          "country": "Saudi Arabia",
-          "date": "2026.09",
-          "translated": true
-        },
-        {
-          "text": "Keemala에서의 숙박은 정말 놀라웠습니다!",
-          "score": "8.4",
-          "country": "Saudi Arabia",
-          "date": "2026.09",
-          "translated": true
-        },
-        {
-          "text": "룸서비스는 매우 훌륭했습니다.",
-          "score": "10",
-          "country": "India",
-          "date": "2025.11",
-          "translated": true
-        },
-        {
-          "text": "화려한 편의 시설과 매우 편안합니다.",
-          "score": "10",
-          "country": "Australia",
-          "date": "2026.08",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -238,27 +246,143 @@
     },
     {
       "rank": 3,
+      "name": "스리 판와 푸켓 럭셔리 풀 빌라 호텔 (Sri Panwa Phuket Luxury Pool Villa Hotel)",
+      "agodaUrl": "https://www.agoda.com/sri-panwa-phuket-luxury-pool-villa-hotel/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/74388/-1/0a97c8286715f9d4d7b0cde81ba29967.jpg?ca=0&ce=1",
+      "score": 8.9,
+      "reviewCount": 3799,
+      "reviewCountFmt": "리뷰 3,799건",
+      "priceText": "₩₩₩ · 1박 약 75만원",
+      "walkMin": 116,
+      "refLabel": "푸켓타운 제1 로컬 버스 터미널",
+      "star": 5,
+      "propertyId": 74388,
+      "geo": {
+        "lat": 7.801942,
+        "lng": 98.411041
+      },
+      "priceKRW": 754458,
+      "priceStatus": "조회됨",
+      "distanceM": 9267.57,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,799건. 푸켓타운 제1 로컬 버스 터미널까지 도보 116분, ₩₩₩ · 1박 약 75만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 75만원",
+        "📝 리뷰 3,799건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "What really sets Sri Panwa apart, though, is the service.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The luxury villa with its amenities and the wonderful staff.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "My stay at the resort was nothing short of extraordinary.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "I cannot put into words the beauty of this property.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The staffs are very attentive and provide excellent service.",
+          "score": "8.8",
+          "country": "ไทย",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
       "name": "Three Monkeys Villas",
       "agodaUrl": "https://www.agoda.com/three-monkeys-villas/hotel/all/phuket-th.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/482580973.jpg?k=715e01bee02ca38a3b517843243bfa9b8e452e75d82a132492511f29df36b856&o=",
       "score": 9,
       "reviewCount": 563,
       "reviewCountFmt": "리뷰 563건",
-      "priceText": "₩₩₩ · 1박 약 82만원",
+      "priceText": "₩₩₩ · 1박 약 81만원",
       "walkMin": 90,
       "refLabel": "미니버스정류장",
       "star": 5,
       "propertyId": 37161110,
-      "priceKRW": 821772,
+      "geo": {
+        "lat": 7.88141,
+        "lng": 98.301369
+      },
+      "priceKRW": 811142,
       "priceStatus": "조회됨",
       "distanceM": 7216.12,
       "locationStatus": "조회됨",
       "facilities": [
         "빠통 비치"
       ],
-      "blurb": "평점 9 · 리뷰 563건. 미니버스정류장까지 도보 90분, ₩₩₩ · 1박 약 82만원. 연인·커플 리뷰 비중 40%.",
+      "blurb": "평점 9 · 리뷰 563건. 미니버스정류장까지 도보 90분, ₩₩₩ · 1박 약 81만원. 연인·커플 리뷰 비중 40%.",
       "metaTags": [
-        "💰 1박 약 82만원",
+        "💰 1박 약 81만원",
         "📝 리뷰 563건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
@@ -293,39 +417,39 @@
       },
       "reviews": [
         {
-          "text": "Patong 뒤의 언덕 기슭에 있는 멋진 위치입니다.",
+          "text": "Stunning location at the foot of the hills behind Patong.",
           "score": "10",
           "country": "Australia",
           "date": "2026.03",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "직원들은 훌륭하고 당신을 돕기 위해 최선을 다합니다.",
+          "text": "The staff are amazing and go out of their way to help you.",
           "score": "8.8",
           "country": "United Kingdom",
           "date": "2024.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "직원들은 완벽했고, 청결도도 훌륭했습니다.",
+          "text": "The staff was perfect, and the cleanliness was excellent.",
           "score": "9.6",
           "country": "ישראל",
           "date": "2025.10",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "나는 이미 그 장소를 다시 방문할 계획을 세우고 있다.",
+          "text": "I'm already scheduling to visit the place again.",
           "score": "9.6",
           "country": "Philippines",
           "date": "2024.12",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "내가 가본 최고의 장소 중 하나입니다.",
+          "text": "One of the best places i've ever been to.",
           "score": "9.6",
           "country": "Philippines",
           "date": "2024.12",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -337,19 +461,23 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "아난타라 마이 카오 푸켓 빌라 (SHA Extra Plus) (Anantara Mai Khao Phuket Villas)",
       "agodaUrl": "https://www.agoda.com/anantara-mai-khao-phuket-villas/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/109870/0/be4cac00fea10f12444c7d5768baf281.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/109870/0/be4cac00fea10f12444c7d5768baf281.jpeg?va=1&ce=3",
       "score": 9.1,
-      "reviewCount": 1548,
-      "reviewCountFmt": "리뷰 1,548건",
-      "priceText": "₩₩₩ · 1박 약 74만원",
+      "reviewCount": 1547,
+      "reviewCountFmt": "리뷰 1,547건",
+      "priceText": "₩₩₩ · 1박 약 73만원",
       "walkMin": 4,
       "refLabel": "Sai Kaew Beach",
       "star": 5,
       "propertyId": 109870,
-      "priceKRW": 739766,
+      "geo": {
+        "lat": 8.169162,
+        "lng": 98.295494
+      },
+      "priceKRW": 725473,
       "priceStatus": "조회됨",
       "distanceM": 287.53,
       "locationStatus": "조회됨",
@@ -364,10 +492,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.1 · 리뷰 1,548건. Sai Kaew Beach까지 도보 4분, ₩₩₩ · 1박 약 74만원. 연인·커플 리뷰 비중 40%.",
+      "blurb": "평점 9.1 · 리뷰 1,547건. Sai Kaew Beach까지 도보 4분, ₩₩₩ · 1박 약 73만원. 연인·커플 리뷰 비중 40%.",
       "metaTags": [
-        "💰 1박 약 74만원",
-        "📝 리뷰 1,548건",
+        "💰 1박 약 73만원",
+        "📝 리뷰 1,547건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
         "👥 연인·커플 선호"
@@ -401,39 +529,39 @@
       },
       "reviews": [
         {
-          "text": "머물기에 아주 좋은 경험이었습니다. 우리는 다시 돌아올 것입니다.",
+          "text": "Very good experience to stay, we will come back again.",
           "score": "10",
           "country": "Hong Kong SAR, China",
           "date": "2023.09",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "최고의 호텔 중 하나이며 직원들은 훌륭했습니다.",
+          "text": "One of the best hotels and the staff were amazing.",
           "score": "8.8",
           "country": "Saudi Arabia",
           "date": "2025.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "아난타라 마이카오 푸켓 빌라는 모든 기대를 뛰어넘었습니다!",
+          "text": "Anantara Mai Khao Phuket Villas exceeded all expectations!",
           "score": "10",
           "country": "India",
           "date": "2024.09",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "2베드룸 빌라에 묵었는데 정말 마음에 들었습니다.",
+          "text": "Stayed in the two-bedroom villa and absolutely loved it.",
           "score": "9.2",
           "country": "Malaysia",
           "date": "2022.07",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "훌륭한 호텔, 아름다운 환경, 최고의 직원!",
+          "text": "Great hotel, beautiful settings & best staff!",
           "score": "9.6",
           "country": "Thailand",
           "date": "2024.06",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -445,19 +573,23 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "카페 델 마르 푸켓 - 스위트 앤 펜트하우스 (Cafe del Mar Phuket -Suite & Penthouse )",
       "agodaUrl": "https://www.agoda.com/cafe-del-mar-hotel/hotel/kammala-th.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/61919855/0/37e579c78d6e4842b5233dac404af256.jpg?va=1&ce=2",
       "score": 9.3,
-      "reviewCount": 85,
-      "reviewCountFmt": "리뷰 85건",
-      "priceText": "₩₩ · 1박 약 65만원",
+      "reviewCount": 86,
+      "reviewCountFmt": "리뷰 86건",
+      "priceText": "₩₩ · 1박 약 64만원",
       "walkMin": 7,
       "refLabel": "푸켓 판타 씨",
       "star": 5,
       "propertyId": 61919855,
-      "priceKRW": 652613,
+      "geo": {
+        "lat": 7.961046,
+        "lng": 98.284361
+      },
+      "priceKRW": 640085,
       "priceStatus": "조회됨",
       "distanceM": 521.99,
       "locationStatus": "조회됨",
@@ -472,10 +604,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 85건. 푸켓 판타 씨까지 도보 7분, ₩₩ · 1박 약 65만원.",
+      "blurb": "평점 9.3 · 리뷰 86건. 푸켓 판타 씨까지 도보 7분, ₩₩ · 1박 약 64만원.",
       "metaTags": [
-        "💰 1박 약 65만원",
-        "📝 리뷰 85건",
+        "💰 1박 약 64만원",
+        "📝 리뷰 86건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
         "👥 혼행 선호"
@@ -495,112 +627,11 @@
       },
       "reviews": [
         {
-          "text": "태국에서 꼭 방문해야 할 비치클럽",
+          "text": "A must visit beach club in Thailand",
           "score": "10",
           "country": "Thailand",
           "date": "2025.12",
-          "translated": true
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "더 차바 리조트 (The Chava Resort)",
-      "agodaUrl": "https://www.agoda.com/the-chava-resort/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/109/109079/109079_14052816280019611485.jpg?va=1&ca=2&ce=1",
-      "score": 9.1,
-      "reviewCount": 158,
-      "reviewCountFmt": "리뷰 158건",
-      "priceText": "₩₩ · 1박 약 60만원",
-      "walkMin": 31,
-      "refLabel": "푸켓 판타 씨",
-      "star": 5,
-      "propertyId": 109079,
-      "priceKRW": 604575,
-      "priceStatus": "조회됨",
-      "distanceM": 2488.32,
-      "locationStatus": "조회됨",
-      "facilities": [
-        "수영장",
-        "공항 이동 교통편 서비스",
-        "무료 Wi-Fi (모든 객실)",
-        "카말라 비치",
-        "Wi-Fi (무료)",
-        "개폐식 창문",
-        "발코니/테라스",
-        "책상",
-        "전용 수영장"
-      ],
-      "blurb": "평점 9.1 · 리뷰 158건. 푸켓 판타 씨까지 도보 31분, ₩₩ · 1박 약 60만원.",
-      "metaTags": [
-        "💰 1박 약 60만원",
-        "📝 리뷰 158건",
-        "⭐ 5성급",
-        "🏝️ 리조트·빌라",
-        "👥 가족 선호"
-      ],
-      "travelerTypes": {
-        "topLabel": "가족",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "family",
-            "label": "가족",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.5
-          },
-          {
-            "key": "solo",
-            "label": "혼행",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "푸켓 최고의 숙박! 친구와 가족에게 추천",
-          "score": "10",
-          "country": "中国",
-          "date": "2025.01",
-          "translated": true
-        },
-        {
-          "text": "그리고 가족여행으로 꼭 다시 올게요!!",
-          "score": "10",
-          "country": "中国",
-          "date": "2025.01",
-          "translated": true
-        },
-        {
-          "text": "조용하고 깨끗하며 수린 해변까지 도보로 3분 거리입니다.",
-          "score": "9.6",
-          "country": "India",
-          "date": "2025.12",
-          "translated": true
-        },
-        {
-          "text": "우리는 이곳에 머물면서 멋진 경험을 했습니다.",
-          "score": "9.6",
-          "country": "India",
-          "date": "2025.12",
-          "translated": true
-        },
-        {
-          "text": "직원들은 매우 친절하고 전문적입니다.",
-          "score": "9.2",
-          "country": "영국",
-          "date": "2025.02",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -614,16 +645,16 @@
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-02T06:11:25.427Z",
+    "fetchedAt": "2026-10-06T05:53:51.196Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-02T06:11:25.427Z",
+    "fetchedAt": "2026-10-06T05:53:51.196Z",
     "source": "agoda citySearch",
-    "daysAhead": 45,
+    "daysAhead": 41,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

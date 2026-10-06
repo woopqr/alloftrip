@@ -1,0 +1,193 @@
+{
+  "slug": "nice",
+  "food": [
+    {
+      "name": "르 샹트클레 (르 네그레스코 호텔)",
+      "nameLocal": "Le Chantecler – Hôtel Le Negresco",
+      "type": "restaurant",
+      "cuisine": "모던 프렌치 파인다이닝",
+      "area": "프롬나드 데 장글레",
+      "address": "Le Negresco, 37 Promenade des Anglais, 06000 Nice, France",
+      "lat": 43.6943565,
+      "lng": 7.2580138,
+      "why": "프랑스 명장(MOF 2015) 비르지니 바슬로 셰프가 이끄는 네그레스코 호텔의 메인 다이닝으로, 지중해 아귀·노랑촉수 등 현지 해산물을 섬세하게 풀어낸 코스가 특징입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 프랑스 2026 1스타",
+          "url": "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/le-chantecler"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "저녁(수~일)만 운영하며 월·화요일 휴무입니다. 예약 필수."
+    },
+    {
+      "name": "라 로통드 (르 네그레스코 호텔)",
+      "nameLocal": "La Rotonde – Hôtel Le Negresco",
+      "type": "restaurant",
+      "cuisine": "지중해 브라세리",
+      "area": "프롬나드 데 장글레",
+      "address": "Le Negresco, 37 Promenade des Anglais, 06000 Nice, France",
+      "lat": 43.6942999,
+      "lng": 7.2579981,
+      "why": "네그레스코 호텔의 원형 홀 브라세리로, 르 샹트클레의 바슬로 셰프가 메뉴를 맡아 니스 전통을 살린 지중해 요리를 보다 편하게 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 프랑스 선정 레스토랑",
+          "url": "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/la-rotonde-1184636"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "아침·점심·저녁 매일 운영해 바다 산책 전후 들르기 좋습니다."
+    },
+    {
+      "name": "비스트로 당투안",
+      "nameLocal": "Bistrot d'Antoine",
+      "type": "restaurant",
+      "cuisine": "남프랑스 비스트로",
+      "area": "니스 구시가지",
+      "address": "27 Rue de la Préfecture, 06300 Nice, France",
+      "lat": 43.69635,
+      "lng": 7.2762832,
+      "why": "구시가지의 활기찬 비스트로로, 크리미한 폴렌타를 곁들인 돼지고기 스튜와 손으로 다진 비프 타르타르 같은 클래식 메뉴를 합리적인 가격에 냅니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 프랑스 2026 빕 구르망",
+          "url": "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/bistrot-d-antoine"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "늘 붐비는 곳이라 전화 예약 권장. 일·월요일 휴무."
+    },
+    {
+      "name": "라 메렌다",
+      "nameLocal": "La Merenda",
+      "type": "restaurant",
+      "cuisine": "니스 향토 요리",
+      "area": "니스 구시가지",
+      "address": "4 Rue Raoul Bosio, 06000 Nice, France",
+      "lat": 43.696531,
+      "lng": 7.2730239,
+      "why": "도미니크 르 스탕 셰프의 작은 식당으로, 피살라디에르·근대 파이·스톡피시 등 니스 전통 요리와 레몬 타르트를 맛볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 프랑스 2026 빕 구르망",
+          "url": "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/la-merenda"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "평일 점심만 영업(토·일 휴무), 전화가 없어 lamerenda.net에서 예약합니다. 현금만 받습니다."
+    },
+    {
+      "name": "페이셰스 오페라점",
+      "nameLocal": "Peixes Opéra",
+      "type": "restaurant",
+      "cuisine": "해산물 타파스 · 세비체",
+      "area": "니스 구시가지 · 오페라",
+      "address": "4 Rue Jacques Médecin, 06300 Nice, France",
+      "lat": 43.69589,
+      "lng": 7.27104,
+      "why": "푸른 타일 인테리어의 해산물 비스트로로, 세비체·카르파초·타타키와 대구 튀김 등 지중해와 남미풍을 섞은 작은 접시 요리가 인기입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 프랑스 선정 레스토랑",
+          "url": "https://guide.michelin.com/en/provence-alpes-cote-dazur/nice/restaurant/peixes-opera"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약을 받지 않아 식사 시간대에는 대기가 생깁니다."
+    },
+    {
+      "name": "페노키오 로세티 광장점",
+      "nameLocal": "Glacier Fenocchio – Place Rossetti",
+      "type": "dessert",
+      "cuisine": "젤라토 · 아이스크림",
+      "area": "니스 구시가지",
+      "address": "2 Place Rossetti, 06300 Nice, France",
+      "why": "1966년 문을 연 3대째 아이스크림 가게로, 96가지가 넘는 독창적인 맛을 고를 수 있습니다. 생트 레파라트 대성당 앞 광장에 있습니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "프랑스 아이스크림 대회 'Bol d'Or' 수상(공식 사이트)",
+          "url": "https://www.fenocchio.fr/"
+        },
+        {
+          "kind": "media",
+          "label": "공식 매장 안내",
+          "url": "https://www.fenocchio.fr/boutiques/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "쿠르 살레야 근처 6 rue de la Poissonnerie에도 매장이 있습니다.",
+      "lat": 43.69732,
+      "lng": 7.276304,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "쿠르 살레야 시장",
+      "nameLocal": "Marché aux Fleurs Cours Saleya",
+      "kind": "market",
+      "address": "Cours Saleya, 06300 Nice, France",
+      "why": "꽃과 과일, 프로방스 향신료가 가득한 구시가지 아침 시장으로, 월요일에는 골동품 시장이 열립니다.",
+      "lat": 43.695686,
+      "lng": 7.273566,
+      "geoSource": "osm"
+    },
+    {
+      "name": "프롬나드 데 장글레",
+      "nameLocal": "Promenade des Anglais",
+      "kind": "street",
+      "address": "Promenade des Anglais, 06000 Nice, France",
+      "why": "니스 해안을 따라 7km 이어진 산책로로, 파란 의자에 앉아 지중해를 바라보는 것이 니스 여행의 상징입니다.",
+      "lat": 43.69515,
+      "lng": 7.262451,
+      "geoSource": "osm"
+    },
+    {
+      "name": "콜린 뒤 샤토 (캐슬 힐)",
+      "nameLocal": "Colline du Château",
+      "kind": "nature",
+      "address": "Montée du Château, 06300 Nice, France",
+      "why": "구시가지 끝 언덕 공원으로, 니스 해변과 천사의 만이 한눈에 내려다보이는 대표 전망 포인트입니다.",
+      "lat": 43.784675,
+      "lng": 7.27622,
+      "geoSource": "osm"
+    },
+    {
+      "name": "니스 구시가지",
+      "nameLocal": "Vieux Nice",
+      "kind": "street",
+      "address": "Place Rossetti, 06300 Nice, France",
+      "why": "파스텔 톤 건물 사이 좁은 골목에 생트 레파라트 대성당, 소카 가게와 젤라토 가게가 모여 있습니다.",
+      "lat": 43.697259,
+      "lng": 7.276316,
+      "geoSource": "osm"
+    },
+    {
+      "name": "에즈 마을 (근교)",
+      "nameLocal": "Èze Village",
+      "kind": "experience",
+      "address": "Èze Village, 06360 Èze, France",
+      "why": "해발 400m 절벽 위 중세 마을로, 열대 정원에서 내려다보는 지중해 전망 때문에 니스에서 반나절 코스로 인기입니다.",
+      "lat": 43.730239,
+      "lng": 7.361361,
+      "geoSource": "osm"
+    },
+    {
+      "name": "모나코 몬테카를로 (근교)",
+      "nameLocal": "Monte-Carlo, Monaco",
+      "kind": "experience",
+      "address": "Place du Casino, 98000 Monaco",
+      "why": "니스에서 기차로 약 20분 거리로, 카지노 광장과 대공궁, 항구의 요트를 보러 당일치기로 많이 다녀옵니다.",
+      "lat": 43.73916,
+      "lng": 7.428023,
+      "geoSource": "osm"
+    }
+  ]
+}

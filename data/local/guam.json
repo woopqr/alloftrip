@@ -1,0 +1,258 @@
+{
+  "slug": "guam",
+  "food": [
+    {
+      "name": "프로아 투몬점",
+      "nameLocal": "PROA Restaurant (Tumon)",
+      "type": "restaurant",
+      "cuisine": "차모로식 바비큐·퓨전",
+      "area": "투몬",
+      "address": "429 Pale San Vitores Rd, Tumon, Tamuning, Guam 96913",
+      "why": "이파오 비치 공원 입구에 있는 차모로 퓨전 레스토랑으로, 히바치 스타일 쇼트립·립 바비큐 플래터와 레드 라이스가 대표 메뉴입니다. 디저트로는 타로 치즈케이크가 자주 언급됩니다.",
+      "proof": [
+        {
+          "kind": "tv",
+          "label": "「배틀트립」 괌 편 소개",
+          "url": "https://www.hanbit.co.kr/channel/view.html?cmscode=CMS1347750490"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2,096개 · 평점 4.0 / 트립어드바이저 1,376개",
+          "url": "https://wanderlog.com/ko/place/details/418782/프로아"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "점심 11:00–14:00, 저녁 17:00–21:00로 브레이크 타임이 있습니다. 일요일 휴무로 표기한 곳도 있어 방문 전 확인을 권합니다.",
+      "lat": 13.50551,
+      "lng": 144.799523,
+      "geoSource": "osm"
+    },
+    {
+      "name": "메스클라 차모루 퓨전 비스트로",
+      "nameLocal": "Meskla Chamoru Fusion Bistro (Hagåtña)",
+      "type": "restaurant",
+      "cuisine": "차모로 퓨전",
+      "area": "하갓냐",
+      "address": "130 E Marine Corps Dr, Ste 103, Hagåtña, Guam 96910",
+      "why": "2009년 문을 연 괌 최초의 차모로 퓨전 레스토랑으로, 셰프 피터 두에냐스가 이끕니다. 티날라 카트네(훈제 육포), 문어 수프, 여러 요리를 맛볼 수 있는 피에스타 플래터가 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 568개 · 평점 4.4 / 트립어드바이저 144개",
+          "url": "https://wanderlog.com/place/details/418771/meskla-chamoru-fusion-bistro-hagatna"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "토요일은 저녁만, 일요일은 브런치(10:00–14:00)만 운영합니다. 예약하면 대기 없이 들어갈 수 있습니다.",
+      "lat": 13.47653,
+      "lng": 144.755284,
+      "geoSource": "osm"
+    },
+    {
+      "name": "자메이칸 그릴 투몬점",
+      "nameLocal": "Jamaican Grill Tumon",
+      "type": "restaurant",
+      "cuisine": "저크 바비큐",
+      "area": "투몬",
+      "address": "588 Pale San Vitores Rd, Tumon, Tamuning, Guam 96913",
+      "why": "1994년부터 영업한 괌의 바비큐 전문점으로, 자메이카식 저크 양념에 괌 로컬 스타일을 더한 폭립과 치킨, 레드빈 라이스가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,106개 · 평점 4.2",
+          "url": "https://wanderlog.com/ko/list/geoCategory/205995/%EA%B4%8C%EC%9D%98-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91"
+        },
+        {
+          "kind": "media",
+          "label": "괌 관광청 공식 리스팅",
+          "url": "https://www.visitguam.com/listing/jamaican-grill/161/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 10:00부터 영업합니다. 양이 많아 여럿이 나눠 먹기 좋습니다.",
+      "lat": 13.501704,
+      "lng": 144.791497,
+      "geoSource": "osm"
+    },
+    {
+      "name": "모사스 조인트",
+      "nameLocal": "Mosa's Joint",
+      "type": "restaurant",
+      "cuisine": "수제 버거",
+      "area": "하갓냐",
+      "address": "324 W Soledad Ave, Hagåtña, Guam 96910",
+      "why": "하갓냐의 수제 버거·펍으로, 큼직한 버거와 매일 바뀌는 스페셜 메뉴로 현지인과 여행자 모두에게 인기가 높습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,970개 · 평점 4.6",
+          "url": "https://wanderlog.com/list/geoCategory/375027/best-restaurants-to-have-dinner-in-guam"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "lat": 13.476979,
+      "lng": 144.745403,
+      "geoSource": "osm"
+    },
+    {
+      "name": "타시 그릴 (두짓타니 괌)",
+      "nameLocal": "Tasi Grill, Dusit Thani Guam Resort",
+      "type": "restaurant",
+      "cuisine": "오션뷰 그릴",
+      "area": "투몬",
+      "address": "Dusit Thani Guam Resort, 1227 Pale San Vitores Rd, Tumon, Tamuning, Guam 96913",
+      "why": "두짓타니 괌 리조트의 해변 쪽 그릴 레스토랑으로, 투몬 베이를 바라보며 스테이크와 해산물을 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 603개 · 평점 4.1",
+          "url": "https://wanderlog.com/ko/list/geoCategory/205995/%EA%B4%8C%EC%9D%98-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "저녁 시간에는 예약을 권합니다.",
+      "lat": 13.513799,
+      "lng": 144.805006,
+      "geoSource": "osm"
+    },
+    {
+      "name": "더 비치 레스토랑 & 바",
+      "nameLocal": "The Beach Restaurant & Bar",
+      "type": "bar",
+      "cuisine": "비치 바·버거·해산물",
+      "area": "투몬 (건비치)",
+      "address": "Gun Beach Rd, Tumon, Tamuning, Guam 96913",
+      "why": "건비치 바로 앞에 있는 괌에서 가장 큰 비치 바입니다. 시그니처 버거, 새우 스캠피 파스타와 칵테일을 곁들여 석양을 보기 좋습니다.",
+      "proof": [
+        {
+          "kind": "tv",
+          "label": "「원나잇 푸드트립」,「맛있는 녀석들」 소개",
+          "url": "https://www.hanbit.co.kr/channel/view.html?cmscode=CMS1347750490"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2,576개 · 평점 4.2",
+          "url": "https://wanderlog.com/list/geoCategory/375027/best-restaurants-to-have-dinner-in-guam"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "평일은 16:00, 주말은 12:00에 문을 엽니다. 해 질 무렵이 가장 붐빕니다.",
+      "lat": 13.522228,
+      "lng": 144.80455,
+      "geoSource": "osm"
+    },
+    {
+      "name": "피카스 카페",
+      "nameLocal": "Pika's Cafe (Star Building)",
+      "type": "cafe",
+      "cuisine": "로컬 브런치",
+      "area": "타무닝 (어퍼 투몬)",
+      "address": "Star Bldg, 888 N Marine Corps Dr, Ste 114, Tamuning, Guam 96913",
+      "why": "차모로 소시지를 올린 차모로 베네딕트, 로코모코, 티낙탁 버거가 대표 메뉴인 브런치 카페로, 한국 여행자에게 특히 인기가 많습니다.",
+      "proof": [
+        {
+          "kind": "tv",
+          "label": "「배틀트립」 소개 (방송에는 분점 리틀 피카스 출연) (리틀 피카스 지점 소개)",
+          "url": "https://www.hanbit.co.kr/channel/view.html?cmscode=CMS1347750490"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,596개 · 평점 4.4 / 트립어드바이저 618개",
+          "url": "https://wanderlog.com/ko/place/details/418770/pikas-cafe"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 07:30–15:00 영업하며 아침·점심만 합니다. 오전 10시 전후가 비교적 덜 붐빕니다.",
+      "lat": 13.507891,
+      "lng": 144.810059,
+      "geoSource": "osm"
+    },
+    {
+      "name": "더 크랙드 에그",
+      "nameLocal": "The Kracked Egg",
+      "type": "cafe",
+      "cuisine": "브런치·팬케이크",
+      "area": "투몬",
+      "address": "1051 Pale San Vitores Rd, Tumon, Tamuning, Guam 96913",
+      "why": "투몬 중심가의 브런치 전문점으로, 누텔라 베이컨 프렌치토스트, 타로·레드벨벳 팬케이크, 에그 베네딕트가 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,254개 · 평점 4.2 / 트립어드바이저 422개",
+          "url": "https://wanderlog.com/place/details/2622509/the-kracked-egg"
+        },
+        {
+          "kind": "media",
+          "label": "트리플 「괌 브런치 & 커피 맛집」 소개",
+          "url": "https://triple.guide/articles/8b6faddb-5fce-4a1d-adb9-d2d528bc0b34"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "주말은 06:00, 평일은 07:00에 문을 열고 14:00에 닫습니다.",
+      "lat": 13.50551,
+      "lng": 144.799523,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "투몬 베이 · 이파오 비치",
+      "nameLocal": "Tumon Bay / Ypao Beach (Gov. Joseph Flores Memorial Park)",
+      "kind": "nature",
+      "address": "Ypao Beach Park, Pale San Vitores Rd, Tumon, Tamuning, Guam 96913",
+      "why": "리조트 호텔이 늘어선 잔잔한 산호초 해변으로, 호텔에서 걸어 나가 스노클링과 석양을 즐길 수 있는 괌 여행의 중심지입니다."
+    },
+    {
+      "name": "사랑의 절벽",
+      "nameLocal": "Two Lovers Point (Puntan Dos Amantes)",
+      "kind": "landmark",
+      "address": "Puntan Dos Amantes, Tumon, Tamuning, Guam 96913",
+      "lat": 13.534992,
+      "lng": 144.802453,
+      "why": "투몬 베이 북쪽 약 113m 높이의 절벽 전망대로, 차모로 연인 전설과 탁 트인 바다 풍경을 보러 대부분의 여행자가 들르는 명소입니다."
+    },
+    {
+      "name": "차모로 빌리지 수요일 야시장",
+      "nameLocal": "Chamorro Village Wednesday Night Market",
+      "kind": "market",
+      "address": "Chamorro Village, W Marine Corps Dr, Hagåtña, Guam 96910",
+      "why": "매주 수요일 17:30–21:30에 열리는 야시장으로, 차모로 바비큐 꼬치와 로컬 디저트, 공연을 무료 입장으로 즐길 수 있습니다."
+    },
+    {
+      "name": "마이크로네시아 몰",
+      "nameLocal": "Micronesia Mall",
+      "kind": "shopping",
+      "address": "1088 W Marine Corps Dr, Dededo, Guam 96929",
+      "lat": 13.5194611,
+      "lng": 144.8174417,
+      "why": "괌 최대 쇼핑몰로, 하와이 서쪽 유일의 메이시스와 로스, 푸드코트가 모여 있어 한 번에 쇼핑하기 좋습니다."
+    },
+    {
+      "name": "괌 프리미어 아울렛 (GPO)",
+      "nameLocal": "Guam Premier Outlets",
+      "kind": "shopping",
+      "address": "199 Chalan San Antonio, Tamuning, Guam 96913",
+      "why": "괌 유일의 아울렛 몰로, 로스와 캘빈클라인·타미힐피거·나이키 등 미국 브랜드를 할인가에 살 수 있습니다.",
+      "lat": 13.489546,
+      "lng": 144.781044,
+      "geoSource": "osm"
+    },
+    {
+      "name": "케이마트 괌",
+      "nameLocal": "Kmart Tamuning",
+      "kind": "shopping",
+      "address": "404 N Marine Corps Dr, Tamuning, Guam 96913",
+      "why": "미국에 몇 곳 남지 않은 케이마트 중 하나로 24시간 영업하며, 간식·기념품·생활용품을 사려는 한국 여행자의 필수 코스입니다.",
+      "lat": 13.498096,
+      "lng": 144.796563,
+      "geoSource": "osm"
+    },
+    {
+      "name": "리티디안 포인트",
+      "nameLocal": "Ritidian Point, Guam National Wildlife Refuge",
+      "kind": "nature",
+      "address": "Guam National Wildlife Refuge – Ritidian Unit, end of Route 3A, Yigo, Guam 96929",
+      "why": "괌 최북단의 야생동물 보호구역 해변으로, 개발되지 않은 하얀 모래사장과 맑은 바다를 볼 수 있습니다. 월·화요일과 연방 공휴일은 휴무이고 파도가 높으면 임시 폐쇄됩니다."
+    }
+  ]
+}

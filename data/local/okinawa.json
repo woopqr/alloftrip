@@ -1,0 +1,229 @@
+{
+  "slug": "okinawa",
+  "food": [
+    {
+      "name": "키시모토 식당 본점",
+      "nameLocal": "きしもと食堂",
+      "type": "restaurant",
+      "cuisine": "오키나와 소바",
+      "area": "모토부",
+      "address": "5 Toguchi, Motobu-cho, Kunigami-gun, Okinawa 905-0214, Japan (沖縄県国頭郡本部町渡久地5)",
+      "why": "1905년 창업한 오키나와 소바 노포로, 진한 가쓰오부시 육수와 쫄깃한 면이 특징입니다. 츄라우미 수족관 가는 길에 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.67 · 리뷰 1,410건",
+          "url": "https://tabelog.com/en/okinawa/A4702/A470202/47000068/"
+        },
+        {
+          "kind": "media",
+          "label": "트립스토어 오키나와 맛집 리스트 소개",
+          "url": "https://www.tripstore.kr/blog/%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80-%EB%A7%9B%EC%A7%91-%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%B6%80%ED%84%B0-%EC%86%8C%EB%B0%94%EA%B9%8C%EC%A7%80-%EC%8B%A4%ED%8C%A8-%EC%97%86%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "11:00~17:00, 수요일 휴무, 재료 소진 시 마감. 현금만 가능하며 오픈 전부터 줄이 생깁니다.",
+      "lat": 26.660324,
+      "lng": 127.895895,
+      "geoSource": "osm"
+    },
+    {
+      "name": "슈리 소바",
+      "nameLocal": "首里そば",
+      "type": "restaurant",
+      "cuisine": "오키나와 소바",
+      "area": "슈리",
+      "address": "1-7 Shuri Akata-cho, Naha, Okinawa 903-0816, Japan (沖縄県那覇市首里赤田町1-7 ギャラリーしろま内)",
+      "why": "손으로 친 면과 맑은 가쓰오 육수로 유명한 슈리성 근처 소바집입니다. 기본 슈리 소바와 니츠케(조림)를 함께 주문하는 손님이 많습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.57 · 리뷰 1,185건",
+          "url": "https://tabelog.com/en/okinawa/A4701/A470102/47000012/"
+        },
+        {
+          "kind": "media",
+          "label": "트립스토어 오키나와 맛집 리스트 소개",
+          "url": "https://www.tripstore.kr/blog/%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80-%EB%A7%9B%EC%A7%91-%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%B6%80%ED%84%B0-%EC%86%8C%EB%B0%94%EA%B9%8C%EC%A7%80-%EC%8B%A4%ED%8C%A8-%EC%97%86%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "11:00~14:00 점심 영업만, 목·일요일 휴무, 재료 소진 시 마감. 현금만 가능. 유이레일 슈리역 도보 5분.",
+      "lat": 26.219603,
+      "lng": 127.71594,
+      "geoSource": "osm"
+    },
+    {
+      "name": "잭스 스테이크 하우스",
+      "nameLocal": "ジャッキー ステーキハウス (JACK'S STEAK HOUSE)",
+      "type": "restaurant",
+      "cuisine": "철판 스테이크",
+      "area": "나하 니시",
+      "address": "1-7-3 Nishi, Naha, Okinawa 900-0036, Japan (沖縄県那覇市西1-7-3)",
+      "why": "1953년 문을 연 오키나와 스테이크 문화의 원조격 노포입니다. 텐더로인 스테이크와 수프·샐러드 세트가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "타베로그 스테이크·철판구이 WEST 백명점 2024 선정 · 리뷰 3,822건",
+          "url": "https://tabelog.com/en/okinawa/A4701/A470101/47000054/"
+        },
+        {
+          "kind": "media",
+          "label": "트립스토어 오키나와 맛집 리스트 소개",
+          "url": "https://www.tripstore.kr/blog/%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80-%EB%A7%9B%EC%A7%91-%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%B6%80%ED%84%B0-%EC%86%8C%EB%B0%94%EA%B9%8C%EC%A7%80-%EC%8B%A4%ED%8C%A8-%EC%97%86%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약 불가, 수요일 휴무. 저녁 시간대에는 대기가 길어 이른 시간 방문을 권합니다. 유이레일 아사히바시역 도보 6분.",
+      "lat": 26.213713,
+      "lng": 127.672089,
+      "geoSource": "osm"
+    },
+    {
+      "name": "유난기",
+      "nameLocal": "ゆうなんぎい",
+      "type": "restaurant",
+      "cuisine": "오키나와 향토 요리",
+      "area": "나하 쿠모지",
+      "address": "3-3-3 Kumoji, Naha, Okinawa 900-0015, Japan (沖縄県那覇市久茂地3-3-3)",
+      "why": "1970년 창업한 오키나와 가정식 이자카야로, 라후테(돼지 조림)·고야 참푸루 등 향토 요리를 한 번에 맛볼 수 있습니다. 국제거리 바로 옆이라 접근성이 좋습니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "타베로그 이자카야 백명점 2021 선정 · 3.56 · 리뷰 1,299건",
+          "url": "https://tabelog.com/en/okinawa/A4701/A470101/47000017/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "2025년 9월부로 점심 영업 종료, 현재 17:00~21:30 저녁 영업. 예약 불가, 현금만 가능.",
+      "lat": 26.214465,
+      "lng": 127.68186,
+      "geoSource": "osm"
+    },
+    {
+      "name": "포타마 마키시 시장점",
+      "nameLocal": "ポーたま 牧志市場店 (ポークたまごおにぎり)",
+      "type": "restaurant",
+      "cuisine": "포크 타마고 오니기리",
+      "area": "나하 마키시",
+      "address": "2-8-35 Matsuo, Naha, Okinawa 900-0014, Japan (沖縄県那覇市松尾2-8-35)",
+      "why": "스팸과 달걀부침을 밥과 김으로 감싼 오키나와식 주먹밥 전문점으로, 국제거리 아침 식사로 인기가 많습니다. 고야 튀김이나 아부라미소를 넣은 메뉴도 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.41 · 리뷰 919건",
+          "url": "https://tabelog.com/en/okinawa/A4701/A470101/47015021/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "07:00~20:00 연중무휴. 현재 매장 내 취식 공간은 운영하지 않아 포장만 가능합니다.",
+      "lat": 26.213561,
+      "lng": 127.687333,
+      "geoSource": "osm"
+    },
+    {
+      "name": "블루씰 마키미나토 본점",
+      "nameLocal": "BLUE SEAL 牧港本店",
+      "type": "dessert",
+      "cuisine": "아이스크림",
+      "area": "우라소에 마키미나토",
+      "address": "5-5-6 Makiminato, Urasoe, Okinawa 901-2131, Japan (沖縄県浦添市牧港5-5-6)",
+      "why": "1963년 문을 연 블루씰 1호점으로, 2024년 7월 리뉴얼 오픈했습니다. 베니이모(자색고구마)·소금 쿠키 등 오키나와 한정 맛을 본점 분위기에서 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.54 · 리뷰 590건",
+          "url": "https://tabelog.com/en/okinawa/A4703/A470404/47000176/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "10:00~22:00 연중무휴, 주차 가능. 나하에서 북부 리조트로 가는 58번 국도변에 있습니다.",
+      "lat": 26.267571,
+      "lng": 127.716553,
+      "geoSource": "osm"
+    },
+    {
+      "name": "센니치",
+      "nameLocal": "千日",
+      "type": "dessert",
+      "cuisine": "오키나와 젠자이(빙수)",
+      "area": "나하 쿠메",
+      "address": "1-7-14 Kume, Naha, Okinawa 900-0033, Japan (沖縄県那覇市久米1-7-14)",
+      "why": "약 25cm 높이로 쌓은 고운 얼음 아래 달게 조린 긴토키콩을 넣은 오키나와 젠자이 노포입니다. 레트로한 분위기에서 시원한 디저트를 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.52 · 리뷰 357건",
+          "url": "https://tabelog.com/en/okinawa/A4701/A470101/47001481/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "11:30~20:00(겨울 19:00까지), 월요일 휴무. 현금만 가능.",
+      "lat": 26.217745,
+      "lng": 127.673267,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "국제거리",
+      "nameLocal": "国際通り (Kokusai-dori)",
+      "kind": "street",
+      "address": "Kokusai-dori, Makishi / Matsuo / Kumoji, Naha, Okinawa 900-0013, Japan",
+      "why": "나하 중심 약 1.6km 대로로 기념품 숍·맛집·시장 골목이 모여 있어 오키나와 여행의 기본 코스입니다.",
+      "lat": 26.215702,
+      "lng": 127.686419,
+      "geoSource": "osm"
+    },
+    {
+      "name": "돈키호테 국제거리점",
+      "nameLocal": "ドン・キホーテ 国際通り店",
+      "kind": "shopping",
+      "address": "2-8-19 Matsuo, Naha, Okinawa 900-0014, Japan (沖縄県那覇市松尾2-8-19)",
+      "why": "09:00~05:00 영업으로 늦은 밤에도 오키나와 한정 과자·화장품·면세 쇼핑을 한 번에 할 수 있습니다.",
+      "lat": 26.215068,
+      "lng": 127.68403,
+      "geoSource": "osm"
+    },
+    {
+      "name": "제1마키시 공설시장",
+      "nameLocal": "那覇市第一牧志公設市場",
+      "kind": "market",
+      "address": "2-10-1 Matsuo, Naha, Okinawa 900-0014, Japan (沖縄県那覇市松尾2-10-1)",
+      "why": "1층에서 산 해산물을 2층 식당에서 바로 조리해 먹는 '모치아게' 방식으로 유명한 나하의 부엌입니다.",
+      "lat": 26.214546,
+      "lng": 127.688288,
+      "geoSource": "osm"
+    },
+    {
+      "name": "슈리성 공원",
+      "nameLocal": "首里城公園",
+      "kind": "landmark",
+      "address": "1-2 Shuri Kinjo-cho, Naha, Okinawa 903-0815, Japan (沖縄県那覇市首里金城町1-2)",
+      "why": "류큐 왕국의 왕성이자 세계유산으로, 화재 후 재건 중인 정전이 2026년 가을 완공을 앞두고 있어 복원 과정을 가까이서 볼 수 있습니다.",
+      "lat": 26.217434,
+      "lng": 127.719103,
+      "geoSource": "osm"
+    },
+    {
+      "name": "츄라우미 수족관",
+      "nameLocal": "沖縄美ら海水族館",
+      "kind": "experience",
+      "address": "424 Ishikawa, Motobu-cho, Kunigami-gun, Okinawa 905-0206, Japan (沖縄県国頭郡本部町石川424)",
+      "why": "고래상어와 만타가 헤엄치는 대형 수조 '쿠로시오의 바다'로 유명한 오키나와 대표 관광지입니다.",
+      "lat": 26.694369,
+      "lng": 127.878038,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아메리칸 빌리지",
+      "nameLocal": "美浜アメリカンビレッジ",
+      "kind": "shopping",
+      "address": "15-69 Mihama, Chatan-cho, Nakagami-gun, Okinawa 904-0115, Japan (沖縄県中頭郡北谷町美浜15-69)",
+      "why": "미국 서부 해안 분위기의 쇼핑·식당 단지로, 관람차와 선셋 비치의 노을 풍경이 인기입니다.",
+      "lat": 26.314643,
+      "lng": 127.757988,
+      "geoSource": "osm"
+    }
+  ]
+}

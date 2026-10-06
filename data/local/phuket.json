@@ -1,0 +1,225 @@
+{
+  "slug": "phuket",
+  "food": [
+    {
+      "name": "푸루(PRU) 트리사라",
+      "nameLocal": "PRU, Trisara Phuket",
+      "type": "restaurant",
+      "cuisine": "팜투테이블 컨템퍼러리",
+      "area": "나이톤 비치(트리사라)",
+      "address": "60/1 Mu 6, Srisoonthorn Road, Choeng Thale, Thalang, Phuket 83110, Thailand",
+      "lat": 8.0384939,
+      "lng": 98.2765202,
+      "why": "푸켓 유일의 미쉐린 1스타. 리조트 자체 농장과 태국 산지 식재료로 구성한 시즌 테이스팅 코스를 내며, 두리안·캐비아·바다포도를 올린 시그니처 접시가 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 1스타",
+          "url": "https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/pru"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "디너 코스 전용, 사전 예약 필수"
+    },
+    {
+      "name": "원춘 카페 & 레스토랑",
+      "nameLocal": "One Chun Cafe & Restaurant",
+      "type": "restaurant",
+      "cuisine": "푸켓·남부 태국 가정식",
+      "area": "푸켓 올드타운",
+      "address": "48/1 Thep Krasattri Road, Talat Yai, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.88518,
+      "lng": 98.39069,
+      "why": "19세기 숍하우스에서 집안 레시피로 요리하는 미쉐린 빕 구르망 식당. 게살을 듬뿍 넣은 옐로 커리(깽뿌)와 달큰한 돼지고기 조림 무홍이 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/one-chun"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 6,500+ · 평점 4.4 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/list/geoCategory/50801/best-ice-cream-shops-in-phuket-town"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "점심·저녁 피크엔 대기, 화요일은 21시까지"
+    },
+    {
+      "name": "더 참 다이닝 갤러리",
+      "nameLocal": "The Charm Dining Gallery",
+      "type": "restaurant",
+      "cuisine": "남부 태국·페라나칸",
+      "area": "푸켓 올드타운",
+      "address": "93 Dibuk Road, Talat Nuea, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.8863938,
+      "lng": 98.3861705,
+      "why": "자개 가구와 샹들리에로 꾸민 페라나칸 저택에서 남부 태국 요리를 내는 빕 구르망 식당. 수제 굴소스를 바른 돼지갈비 튀김이 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/us/en/phuket-region/phuket/restaurant/the-charm"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "수요일 휴무, 11:00–21:00"
+    },
+    {
+      "name": "고벤츠 (카오똠 야식)",
+      "nameLocal": "Go Benz",
+      "type": "restaurant",
+      "cuisine": "카오똠·돼지고기 쌀국수 야식",
+      "area": "푸켓 올드타운",
+      "address": "163 Krabi Road, Talat Nuea, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.8848536,
+      "lng": 98.3825498,
+      "why": "저녁 5시부터 새벽까지 여는 빕 구르망 야식집. 후추 향 진한 돼지고기 국물에 말아 먹는 쌀국수와 크리스피 포크를 올린 카오똠이 20년 넘은 간판 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/go-benz"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "월요일 휴무, 현금만 가능. 오픈 직후 가면 대기가 짧음"
+    },
+    {
+      "name": "모무동",
+      "nameLocal": "Mor Mu Dong",
+      "type": "restaurant",
+      "cuisine": "남부 태국 해산물",
+      "area": "찰롱",
+      "address": "9/4 Mu 3 Soi Pa Lai, Chao Fa Road, Chalong, Mueang Phuket, Phuket 83130, Thailand",
+      "lat": 7.843128,
+      "lng": 98.37198,
+      "why": "맹그로브 숲 위 원두막 좌석에서 활어 수조의 해산물을 남부식으로 요리해 주는 빕 구르망 식당. 3–4가지를 시켜 나눠 먹기 좋습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/mor-mu-dong"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 10:00–21:00, 단체는 전화 예약 권장"
+    },
+    {
+      "name": "넘버식스(No.6) 레스토랑",
+      "nameLocal": "No.6 Restaurant",
+      "type": "restaurant",
+      "cuisine": "태국 대중식(팟타이·커리)",
+      "area": "빠통",
+      "address": "186 Rat-U-Thit 200 Pi Road, Patong, Kathu, Phuket 83150, Thailand",
+      "lat": 7.893902,
+      "lng": 98.298432,
+      "why": "방라로드·정실론에서 걸어갈 수 있는 20년 넘은 로컬 식당. 팟타이, 똠얌, 그린·파낭 커리를 저렴하게 내 늘 줄이 서는 빠통 대표 맛집입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 5,600+ · 평점 4.3 / 트립어드바이저 리뷰 4,300+ · 4.0 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/410794"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "에어컨 없는 오픈형 식당, 대기 시 언덕 위 2호점 무료 툭툭 이용 가능"
+    },
+    {
+      "name": "토리스 아이스크림 부티크",
+      "nameLocal": "Torry's Ice Cream Boutique",
+      "type": "dessert",
+      "cuisine": "수제 아이스크림",
+      "area": "푸켓 올드타운(소이 롬마니)",
+      "address": "16 Soi Rommani, Thalang Road, Talat Yai, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.88543,
+      "lng": 98.38923,
+      "why": "핑크빛 숍하우스에서 푸켓 전통 디저트를 아이스크림으로 재해석한 곳. 흑찹쌀·코코넛 맛 등 로컬 플레이버가 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2,900+ · 평점 4.4 / 트립어드바이저 리뷰 176 · 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/515755"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "소이 롬마니 산책 코스와 함께, 오후엔 번호표 대기"
+    },
+    {
+      "name": "캠퍼스 커피 로스터스 올드타운",
+      "nameLocal": "Campus Coffee Roasters - Phuket Old Town",
+      "type": "cafe",
+      "cuisine": "스페셜티 커피",
+      "area": "푸켓 올드타운",
+      "address": "6 Krabi Road, Talat Nuea, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.885054,
+      "lng": 98.387357,
+      "why": "복원한 숍하우스에서 태국 북부 싱글 오리진 원두를 직접 로스팅하는 카페. 올드타운 카페 중 구글 평점과 리뷰 수가 가장 높은 편입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,300+ · 평점 4.6 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/413781"
+        }
+      ],
+      "priceLevel": "₩"
+    }
+  ],
+  "spots": [
+    {
+      "name": "푸켓 올드타운 탈랑 로드 & 일요 워킹스트리트",
+      "nameLocal": "Phuket Old Town – Thalang Road (Lard Yai Sunday Walking Street)",
+      "kind": "street",
+      "address": "Thalang Road, Talat Yai, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.885877,
+      "lng": 98.390546,
+      "why": "알록달록한 시노-포르투갈 숍하우스와 소이 롬마니 골목을 걷고, 일요일 저녁엔 워킹스트리트 야시장까지 즐길 수 있습니다."
+    },
+    {
+      "name": "빅 붓다",
+      "nameLocal": "Phuket Big Buddha",
+      "kind": "landmark",
+      "address": "Karon, Mueang Phuket, Phuket 83100, Thailand",
+      "lat": 7.827576,
+      "lng": 98.312842,
+      "why": "나칸커드 언덕 위 45m 대리석 불상으로, 찰롱만과 안다만해가 내려다보이는 푸켓 대표 전망 명소입니다."
+    },
+    {
+      "name": "프롬텝 곶 (일몰 명소)",
+      "nameLocal": "Promthep Cape",
+      "kind": "nature",
+      "address": "Promthep Cape, Rawai, Mueang Phuket, Phuket 83100, Thailand",
+      "lat": 7.761826,
+      "lng": 98.305349,
+      "why": "섬 최남단 곶으로 푸켓에서 가장 유명한 일몰 포인트입니다."
+    },
+    {
+      "name": "정실론 쇼핑몰",
+      "nameLocal": "Jungceylon",
+      "kind": "shopping",
+      "address": "181 Rat-U-Thit 200 Pi Road, Patong, Kathu, Phuket 83150, Thailand",
+      "lat": 7.892474,
+      "lng": 98.298615,
+      "why": "빠통 중심의 대형 쇼핑몰로 빅C 마트에서 기념품·간식 쇼핑을 하기 좋고, 바로 뒤 반잔 시장과 이어집니다."
+    },
+    {
+      "name": "방라 로드",
+      "nameLocal": "Bangla Road",
+      "kind": "nightlife",
+      "address": "Bangla Road, Patong, Kathu, Phuket 83150, Thailand",
+      "lat": 7.893546,
+      "lng": 98.296802,
+      "why": "밤이면 차량이 통제되고 바·클럽이 늘어서는 푸켓 대표 나이트라이프 거리입니다."
+    },
+    {
+      "name": "나카 주말 야시장",
+      "nameLocal": "Naka Weekend Market",
+      "kind": "market",
+      "address": "Wirat Hong Yok Road, Wichit, Mueang Phuket, Phuket 83000, Thailand",
+      "lat": 7.880705,
+      "lng": 98.365729,
+      "why": "주말 저녁에만 열리는 푸켓 최대 야시장으로 길거리 음식과 저렴한 의류·소품 쇼핑을 함께 즐길 수 있습니다."
+    }
+  ]
+}

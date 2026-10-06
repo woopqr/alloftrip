@@ -1,0 +1,219 @@
+{
+  "slug": "danang",
+  "food": [
+    {
+      "name": "마담란",
+      "nameLocal": "Madame Lân",
+      "type": "restaurant",
+      "cuisine": "베트남 중부 가정식",
+      "area": "한강변(하이쩌우)",
+      "address": "4 Bach Dang Street, Hai Chau Ward, Da Nang 550000, Vietnam",
+      "lat": 16.0812954,
+      "lng": 108.2232854,
+      "why": "호이안풍 등불로 꾸민 노란 건물의 대형 베트남 식당으로, 다낭식 생선튀김 쌈말이와 소고기 볶음 등을 다양하게 맛볼 수 있습니다. 메뉴가 많아 가족 여행객이 찾기 좋습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 다낭 선정 레스토랑",
+          "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/madame-lan"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 06:30–21:30. 카드 결제 가능, 주차장 있음."
+    },
+    {
+      "name": "벱헨",
+      "nameLocal": "Bếp Hên",
+      "type": "restaurant",
+      "cuisine": "베트남 가정식",
+      "area": "하이쩌우",
+      "address": "47 Le Hong Phong Street, Hai Chau Ward, Da Nang 840236, Vietnam",
+      "lat": 16.0641288,
+      "lng": 108.2209519,
+      "why": "1990년대 분위기로 꾸민 가족 운영 식당으로, 마늘 새우튀김과 모닝글로리 마늘볶음 같은 집밥 메뉴가 인기입니다. 여럿이 나눠 먹기 좋은 메뉴 구성입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 다낭 선정 레스토랑",
+          "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/bep-hen"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "점심(10:00–15:00)에만 영업하며 현금만 받습니다."
+    },
+    {
+      "name": "베만 해산물 식당",
+      "nameLocal": "Bé Mặn",
+      "type": "restaurant",
+      "cuisine": "해산물",
+      "area": "미케 해변(선짜)",
+      "address": "Lot 9, Vo Nguyen Giap Street, Son Tra Ward, Da Nang 550000, Vietnam",
+      "lat": 16.0817651,
+      "lng": 108.2472366,
+      "why": "수조에서 해산물을 직접 고르고 조리법을 정하는 미케 해변의 해산물 식당입니다. 미쉐린은 생강·양파를 넣은 오징어찜을 추천합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 다낭 선정 레스토랑",
+          "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/be-man"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "매일 09:00–24:00. 해산물은 무게 단위로 계산되니 주문 전 가격을 확인하세요."
+    },
+    {
+      "name": "반쎄오 바즈엉",
+      "nameLocal": "Bánh Xèo Bà Dưỡng",
+      "type": "restaurant",
+      "cuisine": "반쎄오 · 넴루이",
+      "area": "호아끄엉",
+      "address": "280/23 Hoang Dieu Street, Hoa Cuong Ward, Da Nang 550000, Vietnam",
+      "why": "30년 넘게 골목 안에서 영업해 온 반쎄오 전문점으로, 라이스페이퍼에 반쎄오와 돼지고기 꼬치를 싸서 땅콩 소스에 찍어 먹습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 다낭 선정 레스토랑",
+          "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/banh-xeo-ba-duong"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "매일 09:30–21:30, 현금 결제. 골목 안쪽에 있어 차량은 입구에서 내리는 편이 편합니다.",
+      "lat": 16.058803,
+      "lng": 108.216035,
+      "geoSource": "osm"
+    },
+    {
+      "name": "분짜까 109",
+      "nameLocal": "Bún Chả Cá 109",
+      "type": "restaurant",
+      "cuisine": "어묵 쌀국수(분짜까)",
+      "area": "하이쩌우",
+      "address": "109 Nguyen Chi Thanh Street, Hai Chau Ward, Da Nang 550000, Vietnam",
+      "lat": 16.0745199,
+      "lng": 108.2207547,
+      "why": "3대째 50년 넘게 이어온 다낭 향토 음식 분짜까 전문점으로, 직접 만든 어묵과 파인애플·토마토로 낸 새콤달콤한 국물이 특징입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 다낭 빕 구르망",
+          "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/bun-cha-ca-109"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "매일 06:00–22:00, 현금 결제. 아침 식사로 들르기 좋습니다."
+    },
+    {
+      "name": "라 메종 1888",
+      "nameLocal": "La Maison 1888",
+      "type": "restaurant",
+      "cuisine": "컨템퍼러리 프렌치 파인다이닝",
+      "area": "선짜 반도",
+      "address": "InterContinental Danang Sun Peninsula Resort, Bai Bac, Son Tra Ward, Da Nang 550000, Vietnam",
+      "why": "인터컨티넨탈 다낭 선 페닌슐라 리조트 안의 프렌치 레스토랑으로, 다낭 유일의 미쉐린 1스타입니다. 베트남·프랑스·일본 식재료로 5코스 또는 8코스를 냅니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 다낭 1스타",
+          "url": "https://guide.michelin.com/vn/en/da-nang-region/da-nang_2984390/restaurant/la-maison-1888"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "저녁 18:30–21:00 운영, 예약 필수. 미쉐린 페이지 기준 현재 리조트 클럽 라운지로 임시 이전해 운영 중입니다.",
+      "lat": 16.122101,
+      "lng": 108.306018,
+      "geoSource": "osm"
+    },
+    {
+      "name": "콩카페 박당점",
+      "nameLocal": "Cộng Cà Phê (96 Bạch Đằng)",
+      "type": "cafe",
+      "cuisine": "코코넛 커피 · 베트남 커피",
+      "area": "한강변(하이쩌우)",
+      "address": "96 Bạch Đằng, Phường Hải Châu, Đà Nẵng, Vietnam",
+      "why": "코코넛 스무디에 진한 베트남 커피를 더한 '코코넛 커피'로 유명한 베트남 카페 체인으로, 한국에도 진출했습니다. 한강변 지점은 한시장과 가까워 쇼핑 중 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "나무위키 '콩카페' 문서(2018년 서울 연남동 한국 1호점 진출)",
+          "url": "https://namu.wiki/w/%EC%BD%A9%EC%B9%B4%ED%8E%98"
+        },
+        {
+          "kind": "media",
+          "label": "콩카페 공식 매장 목록(다낭 박당점)",
+          "url": "https://congcaphe.com/stores/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "공식 매장 목록 기준 매일 07:00–23:30.",
+      "lat": 16.077609,
+      "lng": 108.224012,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "한시장",
+      "nameLocal": "Chợ Hàn (Han Market)",
+      "kind": "market",
+      "address": "119 Trần Phú, Phường Hải Châu, Đà Nẵng, Vietnam",
+      "lat": 16.0683525,
+      "lng": 108.224283,
+      "why": "말린 망고·커피·라탄백 같은 기념품과 아오자이 맞춤 쇼핑을 하러 한국 여행객이 가장 많이 찾는 시장입니다."
+    },
+    {
+      "name": "꼰시장",
+      "nameLocal": "Chợ Cồn (Con Market)",
+      "kind": "market",
+      "address": "290 Hùng Vương, Phường Hải Châu, Đà Nẵng, Vietnam",
+      "lat": 16.0681275,
+      "lng": 108.2145213,
+      "why": "현지인이 이용하는 다낭 최대 재래시장으로, 먹자골목에서 반짱·쩨 같은 길거리 간식을 맛볼 수 있습니다."
+    },
+    {
+      "name": "바나힐 (골든브릿지)",
+      "nameLocal": "Sun World Ba Na Hills",
+      "kind": "experience",
+      "address": "Thôn An Sơn, Xã Bà Nà (formerly Hòa Ninh, Hòa Vang), Đà Nẵng, Vietnam",
+      "lat": 15.9958569,
+      "lng": 107.9890712,
+      "why": "거대한 손이 받친 '골든브릿지'와 프랑스 마을 테마파크를 케이블카로 오르는 다낭 대표 근교 코스입니다."
+    },
+    {
+      "name": "오행산 (마블마운틴)",
+      "nameLocal": "Ngũ Hành Sơn (Marble Mountains)",
+      "kind": "nature",
+      "address": "52 Huyền Trân Công Chúa, Phường Ngũ Hành Sơn, Đà Nẵng, Vietnam",
+      "why": "다섯 개의 대리석 산 가운데 투이선의 동굴 사원과 전망대를 둘러보며, 호이안 가는 길에 함께 들르기 좋습니다.",
+      "lat": 16.000858,
+      "lng": 108.263368,
+      "geoSource": "osm"
+    },
+    {
+      "name": "호이안 구시가지",
+      "nameLocal": "Hội An Ancient Town",
+      "kind": "street",
+      "address": "Phường Hội An, Đà Nẵng (formerly Minh An, Hội An, Quảng Nam), Vietnam",
+      "lat": 15.8771291,
+      "lng": 108.3286631,
+      "why": "유네스코 세계유산으로 지정된 옛 무역항으로, 저녁 등불 거리와 투본강 소원배 체험이 인기입니다."
+    },
+    {
+      "name": "롯데마트 다낭점",
+      "nameLocal": "Lotte Mart Đà Nẵng",
+      "kind": "shopping",
+      "address": "6 Nại Nam, Phường Hòa Cường, Đà Nẵng, Vietnam",
+      "lat": 16.0349347,
+      "lng": 108.2292291,
+      "why": "한국인 여행객이 귀국 전 커피·견과류·라면 등 기념품을 한꺼번에 사는 대형마트입니다."
+    },
+    {
+      "name": "용다리",
+      "nameLocal": "Cầu Rồng (Dragon Bridge)",
+      "kind": "landmark",
+      "address": "Cầu Rồng, Nguyễn Văn Linh – Võ Văn Kiệt, Đà Nẵng, Vietnam",
+      "lat": 16.06111111,
+      "lng": 108.22666667,
+      "why": "한강을 가로지르는 용 모양 다리로, 주말(토·일) 밤 9시에 용머리에서 불과 물을 뿜는 쇼가 열립니다."
+    }
+  ]
+}

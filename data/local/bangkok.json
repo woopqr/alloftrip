@@ -1,0 +1,205 @@
+{
+  "slug": "bangkok",
+  "food": [
+    {
+      "name": "쩨파이 (란 쩨파이)",
+      "nameLocal": "Jay Fai (Raan Jay Fai)",
+      "type": "restaurant",
+      "cuisine": "태국 길거리 음식 · 게살 오믈렛",
+      "area": "구시가지(프라나콘)",
+      "address": "327 Maha Chai Road, Samran Rat, Phra Nakhon, Bangkok 10200, Thailand",
+      "lat": 13.752571,
+      "lng": 100.5046981,
+      "why": "고글을 쓴 셰프가 숯불 웍으로 만드는 바삭한 게살 오믈렛(카이지오 뿌)이 대표 메뉴입니다. 길거리 식당으로는 드물게 미쉐린 1스타를 유지하고 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 1스타",
+          "url": "https://guide.michelin.com/jp/en/article/michelin-guide-ceremony/full-list-michelin-stars-michelin-guide-thailand-2026"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 레스토랑 페이지",
+          "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/jay-fai"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "수~토 09:00–19:30만 영업, 현금 결제. 대기 시간이 길어 오픈 전 도착을 권합니다."
+    },
+    {
+      "name": "르 두",
+      "nameLocal": "Le Du",
+      "type": "restaurant",
+      "cuisine": "컨템퍼러리 타이 파인다이닝",
+      "area": "실롬",
+      "address": "399/3 Soi Si Lom 7, Si Lom, Bang Rak, Bangkok 10500, Thailand",
+      "lat": 13.7288536,
+      "lng": 100.5347961,
+      "why": "셰프 톤(Thitid Tassanakajohn)이 제철 태국 식재료로 꾸리는 코스로, 강새우를 올린 카오 끌룩 까삐 등이 유명합니다. 아시아 베스트 레스토랑 50에 꾸준히 이름을 올리는 곳입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 1스타",
+          "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/le-du"
+        },
+        {
+          "kind": "award",
+          "label": "아시아 베스트 레스토랑 50 2026 36위",
+          "url": "https://www.the50.com/asia/en/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "월~토 저녁(18:00–23:00)만 운영, 일요일 휴무. 예약 필수."
+    },
+    {
+      "name": "쏨분 씨푸드 수라웡점",
+      "nameLocal": "Somboon Seafood (Surawong)",
+      "type": "restaurant",
+      "cuisine": "태국식 해산물 · 뿌팟퐁커리",
+      "area": "실롬·방락",
+      "address": "169, 169/7-12 Surawong Road, Suriyawong, Bang Rak, Bangkok 10500, Thailand",
+      "lat": 13.7283257,
+      "lng": 100.5266804,
+      "why": "1969년 문을 연 해산물 노포로, 커리 크랩(뿌팟퐁커리)이 대표 메뉴입니다. 미쉐린 가이드가 여러 지점 중 가장 낫다고 평가한 지점입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 선정 레스토랑",
+          "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/somboon-seafood-surawong"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 11:00–21:30. 저녁 시간대는 붐비니 일찍 가는 편이 좋습니다. 카드 결제 가능."
+    },
+    {
+      "name": "룽르엉 쌀국수 (수쿰윗 26)",
+      "nameLocal": "Rung Rueang Tung Pork Noodle",
+      "type": "restaurant",
+      "cuisine": "돼지고기 쌀국수",
+      "area": "수쿰윗(프롬퐁)",
+      "address": "21/2 Soi Sukhumvit 26, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+      "lat": 13.7284488,
+      "lng": 100.5706711,
+      "why": "다진 돼지고기를 넣은 맑은 국물 쌀국수로 유명한 집으로, 면 종류와 국물(맑은/똠얌)을 골라 주문합니다. 프롬퐁 엠포리움 쇼핑과 묶어 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/guay-tiew-mu-rung-rueang"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "매일 08:00–17:00. 골목 안 맞은편에 이름이 비슷한 가게가 있으니 수쿰윗 대로에서 들어가며 왼쪽 가게인지 확인하세요."
+    },
+    {
+      "name": "꼬파닛 망고 찰밥",
+      "nameLocal": "K. Panich",
+      "type": "dessert",
+      "cuisine": "망고 찰밥(카오니아오 마무앙)",
+      "area": "구시가지(사오칭차)",
+      "address": "431-433 Tanao Road, Sao Chingcha, Phra Nakhon, Bangkok 10200, Thailand",
+      "why": "80년 넘게 이어온 레시피의 망고 찰밥 전문점으로, 코코넛 밀크로 지은 찰밥의 풍미가 특징입니다. 왕궁·왓포 일정과 함께 들르기 좋은 위치입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/k-panich"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "월~토 07:00–18:00, 일요일 휴무. 현금만 받습니다.",
+      "lat": 13.752084,
+      "lng": 100.498382,
+      "geoSource": "osm"
+    },
+    {
+      "name": "애프터유 시암파라곤점",
+      "nameLocal": "After You Dessert Café (Siam Paragon)",
+      "type": "dessert",
+      "cuisine": "빙수(카키고리) · 디저트",
+      "area": "시암",
+      "address": "Siam Paragon G Floor, 991 Rama I Road, Pathum Wan, Bangkok 10330, Thailand",
+      "why": "망고 찰밥을 빙수로 재해석한 '망고 스티키 라이스 카키고리'가 대표 메뉴입니다. 시암파라곤 쇼핑 중 쉬어 가기 좋은 디저트 카페입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립닷컴 평점 4.6",
+          "url": "https://us.trip.com/moments/poi-after-you-dessert-cafe-17041114/"
+        },
+        {
+          "kind": "media",
+          "label": "태국 여행 커뮤니티 태사랑 방문기(2016)",
+          "url": "https://thailove.net/bbs/board.php?bo_table=eat&wr_id=56357"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 10:00–22:00. 주말 저녁에는 번호표를 받고 기다리는 경우가 많습니다."
+    }
+  ],
+  "spots": [
+    {
+      "name": "아이콘시암",
+      "nameLocal": "ICONSIAM",
+      "kind": "shopping",
+      "address": "299 Charoen Nakhon Soi 5, Khlong Ton Sai, Khlong San, Bangkok 10600, Thailand",
+      "lat": 13.72669444,
+      "lng": 100.5105,
+      "why": "짜오프라야 강변의 대형 쇼핑몰로, 실내 수상시장 '쑥시암'과 강변 야경을 한 번에 즐길 수 있습니다."
+    },
+    {
+      "name": "왕궁",
+      "nameLocal": "The Grand Palace (Phra Borom Maha Ratchawang)",
+      "kind": "landmark",
+      "address": "Na Phra Lan Road, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+      "lat": 13.7501,
+      "lng": 100.492,
+      "why": "에메랄드 사원(왓 프라깨우)이 있는 방콕 대표 명소로, 복장 규정(긴 바지·어깨 가림)을 지켜야 입장할 수 있습니다."
+    },
+    {
+      "name": "왓포",
+      "nameLocal": "Wat Pho (Wat Phra Chetuphon)",
+      "kind": "landmark",
+      "address": "2 Sanam Chai Road, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200, Thailand",
+      "lat": 13.74638889,
+      "lng": 100.49361111,
+      "why": "46m 길이의 와불상과 전통 타이 마사지 학교로 유명해 왕궁과 함께 묶어 방문합니다."
+    },
+    {
+      "name": "짜뚜짝 주말시장",
+      "nameLocal": "Chatuchak Weekend Market",
+      "kind": "market",
+      "address": "Kamphaeng Phet 2 Road, Chatuchak, Bangkok 10900, Thailand",
+      "lat": 13.80083333,
+      "lng": 100.55138889,
+      "why": "1만 개가 넘는 점포가 모인 태국 최대 시장으로, 토·일요일에 소품·의류·기념품 쇼핑을 하러 갑니다."
+    },
+    {
+      "name": "아시아티크 더 리버프론트",
+      "nameLocal": "Asiatique The Riverfront",
+      "kind": "nightlife",
+      "address": "2194 Charoen Krung Road, Wat Phraya Krai, Bang Kho Laem, Bangkok 10120, Thailand",
+      "lat": 13.7041568,
+      "lng": 100.5027137,
+      "why": "강변 창고를 개조한 야시장 겸 쇼핑 단지로, 대관람차와 강변 야경을 즐기며 저녁을 보내기 좋습니다."
+    },
+    {
+      "name": "터미널21 아속",
+      "nameLocal": "Terminal 21 Asok",
+      "kind": "shopping",
+      "address": "88 Sukhumvit Soi 19, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+      "lat": 13.7375,
+      "lng": 100.56055556,
+      "why": "층마다 세계 도시를 테마로 꾸민 쇼핑몰로, 저렴한 푸드코트 '피어21'이 특히 인기입니다."
+    },
+    {
+      "name": "빅씨 라차담리점",
+      "nameLocal": "Big C Supercenter Ratchadamri",
+      "kind": "shopping",
+      "address": "97/11 Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+      "why": "센트럴월드 맞은편 대형마트로, 말린 망고·과자·기념품 등을 한 번에 사 가는 쇼핑 코스입니다.",
+      "lat": 13.732577,
+      "lng": 100.537918,
+      "geoSource": "osm"
+    }
+  ]
+}

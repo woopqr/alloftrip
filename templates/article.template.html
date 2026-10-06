@@ -83,6 +83,7 @@
       <p class="blurb">{{blurb}}</p>
       <p class="field-status">가격: {{priceStatus}} · 위치: {{locationStatus}} · 유형 표본: {{sampleCount}}건</p>
       <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
+      {{{nearbyHtml}}}
       {{#hasTypes}}{{{typeBarsHtml}}}{{/hasTypes}}
       {{#hasReviews}}
       <div class="reviews">
@@ -99,6 +100,31 @@
     <p class="bt">🔎 이렇게 골랐습니다</p>
     <p>아고다 검색 응답의 5성급 숙소 가운데 세금·봉사료 포함 1박 요금, 누적 평점과 리뷰 수, 리조트·풀빌라 여부를 함께 반영해 순위를 매겼습니다. 개인 렌탈 숙소와 호텔명이 공개되지 않는 특가 상품은 제외했고, 여행자 유형 적합도는 검색 응답의 리뷰 표본으로만 계산했습니다. 확인되지 않은 가격·시설·위치는 추정하지 않습니다. 순위는 위 조회 조건 기준이므로, 예약 전 실시간 요금과 객실 조건을 다시 확인하세요.</p>
   </div>
+
+  {{#hasLocalFood}}{{#local}}
+  <section class="localsec">
+    <h2>🍽️ {{city}}에서 꼭 가볼 검증 맛집·카페</h2>
+    <p class="dsub">미쉐린 가이드·방송 출연·리뷰 수 등 <b>근거가 확인된 곳만</b> 골랐습니다. 이동 시간은 이 글에 소개한 숙소 중 가장 가까운 곳 기준으로, 직선거리를 바탕으로 추정한 값이라 교통 상황에 따라 달라질 수 있습니다.</p>
+    <div class="lgrid">
+      {{#food}}<article class="lcard">
+        <div class="lc-top"><span class="lc-ic">{{icon}}</span><div><h3>{{name}}</h3><span class="lc-sub">{{nameLocal}} · {{cuisine}} · {{area}}</span></div></div>
+        <p class="lc-why">{{why}}</p>
+        <div class="lc-proof">{{#proof}}{{#hasUrl}}<a href="{{url}}" target="_blank" rel="noopener nofollow">✔ {{label}}</a>{{/hasUrl}}{{/proof}}</div>
+        <div class="lc-meta">{{#timeLabel}}<span>🚗 {{timeLabel}}</span>{{/timeLabel}}{{#priceLevel}}<span>{{priceLevel}}</span>{{/priceLevel}}<a href="{{mapUrl}}" target="_blank" rel="noopener nofollow">지도 보기 →</a></div>
+        {{#tip}}<p class="lc-tip">💡 {{tip}}</p>{{/tip}}
+      </article>{{/food}}
+    </div>
+  </section>
+  {{/local}}{{/hasLocalFood}}
+
+  {{#hasLocalSpots}}{{#local}}
+  <section class="localsec">
+    <h2>📍 숙소에서 가는 {{city}} 필수 코스</h2>
+    <ul class="spotlist">
+      {{#spots}}<li><span class="sp-ic">{{icon}}</span><div class="sp-txt"><b>{{name}}</b><span>{{why}}</span></div><span class="sp-time">{{timeLabel}}</span><a class="sp-map" href="{{mapUrl}}" target="_blank" rel="noopener nofollow">지도</a></li>{{/spots}}
+    </ul>
+  </section>
+  {{/local}}{{/hasLocalSpots}}
 
   <div class="outro">
     <h2>🌙 {{city}} 여행을 준비 중이라면</h2>

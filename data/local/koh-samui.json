@@ -1,0 +1,212 @@
+{
+  "slug": "koh-samui",
+  "food": [
+    {
+      "name": "롱따이 (데이비드 톰슨)",
+      "nameLocal": "Long Dtai, Cape Fahn Hotel",
+      "type": "restaurant",
+      "cuisine": "남부 태국 파인다이닝",
+      "area": "보풋(케이프 판)",
+      "address": "Cape Fahn Hotel, 24/269 Mu 5, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "why": "태국 요리 대가 데이비드 톰슨이 이끄는 남부 태국 레스토랑. 강황·코코넛밀크에 재운 오징어 구이처럼 단순해 보이지만 섬세한 요리를 바다 전망 테라스에서 냅니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 선정(셀렉티드)",
+          "url": "https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/long-dtai"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "수요일 휴무, 디너(17:00–23:00)만 운영, 예약 권장"
+    },
+    {
+      "name": "사프란 (반얀트리 사무이)",
+      "nameLocal": "Saffron, Banyan Tree Samui",
+      "type": "restaurant",
+      "cuisine": "모던 타이",
+      "area": "라마이 북쪽(마렛)",
+      "address": "Banyan Tree Samui, 99/9 Mu 4, Maret, Ko Samui, Surat Thani 84310, Thailand",
+      "lat": 9.4752063,
+      "lng": 100.0692198,
+      "why": "반얀트리 리조트의 시그니처 타이 레스토랑. 리치·파인애플 콩포트를 곁들인 오리 레드 커리와 소프트셸 크랩 샐러드가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 선정(셀렉티드)",
+          "url": "https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/saffron-1206156"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "18:00–23:00, 전화 예약 필요(+66 77 915 333)"
+    },
+    {
+      "name": "펜시리 타이 레스토랑",
+      "nameLocal": "Phensiri Thai Restaurant",
+      "type": "restaurant",
+      "cuisine": "태국·남부 태국",
+      "area": "차웽",
+      "address": "80/30 Mu 3, Suan Uthit Road, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.5117039,
+      "lng": 100.0550677,
+      "why": "차웽 해변 남쪽 끝에서 현지 식재료로 균형 잡힌 태국 요리를 내는 곳. 맵기 조절이 가능하고 영어 응대가 돼 첫 사무이 식사로 무난합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 선정(셀렉티드)",
+          "url": "https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/phensiri"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2,500+ · 평점 4.4 / 트립어드바이저 리뷰 1,700+ · 4.6 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/1181652"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 12:00–22:00"
+    },
+    {
+      "name": "카피 사토",
+      "nameLocal": "Kapi Sator (Soi Had Chaweng 5)",
+      "type": "restaurant",
+      "cuisine": "남부 태국",
+      "area": "차웽",
+      "address": "25/236 Mu 6, Soi Had Chaweng 5, Tawirat Phakdi Road, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.5355491,
+      "lng": 100.0434024,
+      "why": "보풋 시장과 남부 지방에서 받아 온 식재료로 요리하는 남부 태국 식당. 사토(쓴콩)와 새우페이스트로 볶은 새우, 달콤한 오징어 볶음이 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 선정(셀렉티드)",
+          "url": "https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/kapi-sator"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 10:00–22:00, 저녁엔 자리가 빨리 참"
+    },
+    {
+      "name": "쭌홈",
+      "nameLocal": "Jun Hom",
+      "type": "restaurant",
+      "cuisine": "남부 태국 해산물",
+      "area": "매남",
+      "address": "8/3 Mu 5, Mae Nam, Ko Samui, Surat Thani 84330, Thailand",
+      "lat": 9.5798039,
+      "lng": 99.9559792,
+      "why": "매남 해변 바로 앞 소박한 해산물 식당으로 2026년 빕 구르망에 올랐습니다. 남부식 허브를 넣은 게살 코코넛 커리가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 태국 2026 빕 구르망",
+          "url": "https://guide.michelin.com/th/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurants"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 12:00–20:00, 현금만 가능, 주문 후 조리라 시간이 걸림"
+    },
+    {
+      "name": "코코 탐스",
+      "nameLocal": "Coco Tam's",
+      "type": "bar",
+      "cuisine": "비치 바·칵테일",
+      "area": "보풋 피셔맨스 빌리지",
+      "address": "62 Fisherman's Village, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.561068,
+      "lng": 100.02767,
+      "why": "피셔맨스 빌리지 해변에 자리한 비치 바 겸 레스토랑으로, 모래사장 좌석에서 일몰과 칵테일을 즐기려는 여행자로 붐빕니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 6,700+ · 평점 4.4 / 트립어드바이저 리뷰 1,000+ · 4.4 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/375068"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "일몰 전 도착해야 해변 앞자리 확보 가능"
+    },
+    {
+      "name": "더 코쿤 사무이 뷰포인트",
+      "nameLocal": "The Cocoon – Samui Viewpoint",
+      "type": "cafe",
+      "cuisine": "전망 카페·브런치",
+      "area": "보풋 언덕(차웽 북쪽)",
+      "address": "33, 67 Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.552084,
+      "lng": 100.072587,
+      "why": "언덕 위에서 섬 동쪽 바다를 내려다보는 전망 카페 겸 레스토랑으로, 사무이에서 구글 리뷰가 가장 많은 축에 드는 포토 스폿입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 10,000+ · 평점 4.7 / 트립어드바이저 리뷰 2,100+ · 4.8 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/737057"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "경사가 급해 차량·택시 이동 권장"
+    },
+    {
+      "name": "킹 오브 브레드 보풋",
+      "nameLocal": "King of Bread Bophut",
+      "type": "bakery",
+      "cuisine": "베이커리·브런치",
+      "area": "보풋",
+      "address": "122/11 Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.554456,
+      "lng": 100.032529,
+      "why": "매일 굽는 빵과 브런치 메뉴로 인기인 사무이 로컬 베이커리 체인의 보풋점으로, 피셔맨스 빌리지와 가깝습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,200+ · 평점 4.5 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/place/details/1257273"
+        }
+      ],
+      "priceLevel": "₩"
+    }
+  ],
+  "spots": [
+    {
+      "name": "피셔맨스 빌리지 워킹스트리트",
+      "nameLocal": "Fisherman's Village Night Market (Bophut Walking Street)",
+      "kind": "market",
+      "address": "Fisherman's Village, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.558458,
+      "lng": 100.031377,
+      "why": "매주 금요일 저녁 옛 어촌 거리가 야시장으로 바뀌는 사무이 최대 워킹스트리트로, 길거리 음식과 기념품 쇼핑을 함께 즐길 수 있습니다."
+    },
+    {
+      "name": "빅 붓다 사원 (왓 프라 야이)",
+      "nameLocal": "Wat Phra Yai (Big Buddha Temple)",
+      "kind": "landmark",
+      "address": "Wat Phra Yai, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.570783,
+      "lng": 100.059798,
+      "why": "작은 섬 위에 앉은 12m 황금 불상으로, 사무이를 상징하는 대표 사원입니다."
+    },
+    {
+      "name": "왓 플라이 램",
+      "nameLocal": "Wat Plai Laem",
+      "kind": "landmark",
+      "address": "Wat Plai Laem, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.571284,
+      "lng": 100.067288,
+      "why": "호수 위에 18개의 팔을 가진 관음상이 서 있는 화려한 사원으로, 빅 붓다와 함께 둘러보기 좋습니다."
+    },
+    {
+      "name": "센트럴 사무이",
+      "nameLocal": "Central Samui (Central Festival Samui)",
+      "kind": "shopping",
+      "address": "209, 209/1-2 Mu 2, Bo Phut, Ko Samui, Surat Thani 84320, Thailand",
+      "lat": 9.532237,
+      "lng": 100.060987,
+      "why": "차웽 중심의 섬 최대 쇼핑몰로, 마트·드럭스토어 쇼핑과 에어컨 식당가를 한 번에 이용할 수 있습니다."
+    },
+    {
+      "name": "앙통 국립해양공원 투어",
+      "nameLocal": "Mu Ko Ang Thong National Marine Park",
+      "kind": "experience",
+      "address": "Mu Ko Ang Thong National Marine Park, Surat Thani, Thailand (day tours depart from Ko Samui piers)",
+      "why": "42개 섬으로 이뤄진 해양공원으로, 사무이에서 출발하는 일일 보트 투어로 에메랄드 호수 전망대와 카약·스노클링을 즐깁니다."
+    }
+  ]
+}

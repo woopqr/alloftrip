@@ -1,0 +1,242 @@
+{
+  "slug": "honolulu",
+  "food": [
+    {
+      "name": "마루가메 우동 와이키키점",
+      "nameLocal": "Marugame Udon Waikiki (Marukame Udon)",
+      "type": "restaurant",
+      "cuisine": "사누키 우동·튀김",
+      "area": "와이키키",
+      "address": "2310 Kuhio Ave #124, Honolulu, HI 96815, USA",
+      "why": "매장에서 직접 뽑는 쫄깃한 면발에 니쿠타마·카케 우동, 셀프로 고르는 튀김과 무스비를 저렴하게 즐길 수 있어 와이키키 첫 끼로 꼽히는 곳입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1만 3천+ · 평점 4.5 / 트립어드바이저 4,093건 · 4.4",
+          "url": "https://wanderlog.com/place/details/116049/%EB%A7%88%EB%A3%A8%EC%B9%B4%EB%A9%94%EC%9A%B0%EB%8F%99"
+        },
+        {
+          "kind": "reviews",
+          "label": "트리플 리뷰 207건 · 와이키키 대표 우동집",
+          "url": "https://triple.guide/restaurants/429b1640-5b49-47e7-989e-edcf34d28e5b"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "점심·저녁 피크에 줄이 길지만 회전이 빠릅니다. 오후 2~4시가 비교적 한산합니다."
+    },
+    {
+      "name": "헬레나스 하와이안 푸드",
+      "nameLocal": "Helena's Hawaiian Food",
+      "type": "restaurant",
+      "cuisine": "하와이 전통 음식",
+      "area": "칼리히(호놀룰루 북부)",
+      "address": "1240 N School St, Honolulu, HI 96817, USA",
+      "why": "1946년 문을 연 가족 식당으로, 짭짤달콤하게 말린 갈비 '피피카울라'와 칼루아 포크, 로미 연어 등 하와이 전통 메뉴를 맛볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "제임스 비어드 재단 '아메리카스 클래식' 수상(2000) — 하와이 유일",
+          "url": "https://www.jamesbeard.org/stories/9-restaurants-you-have-to-try-in-honolulu"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,655건 · 평점 4.5",
+          "url": "https://wanderlog.com/place/details/114671/helenas-hawaiian-food"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "화~금요일만 영업(10:00~19:30). 추수감사절·연말에는 장기 휴무가 있으니 공식 사이트를 확인하세요. 와이키키에서 차로 15~20분 거리입니다.",
+      "lat": 21.330886,
+      "lng": -157.865245,
+      "geoSource": "osm"
+    },
+    {
+      "name": "듀크스 와이키키",
+      "nameLocal": "Duke's Waikiki",
+      "type": "restaurant",
+      "cuisine": "해산물·스테이크(비치프런트)",
+      "area": "와이키키",
+      "address": "2335 Kalakaua Ave #116, Honolulu, HI 96815, USA (Outrigger Waikiki Beach Resort)",
+      "why": "와이키키 해변 모래사장 바로 앞에서 라이브 음악과 함께 식사할 수 있는 곳으로, 마카다미아 아이스크림에 퍼지를 얹은 디저트 '훌라 파이'가 유명합니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1만 9천+ · 평점 4.4 / 트립어드바이저 1만 6천+ · 4.3",
+          "url": "https://wanderlog.com/place/details/24687/dukes-waikiki"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "선셋 시간대는 예약을 권합니다. 바(Barefoot Bar) 좌석은 예약 없이 이용할 수 있습니다.",
+      "lat": 21.276842,
+      "lng": -157.827792,
+      "geoSource": "osm"
+    },
+    {
+      "name": "오노 씨푸드",
+      "nameLocal": "Ono Seafood",
+      "type": "restaurant",
+      "cuisine": "아히 포케",
+      "area": "카파훌루",
+      "address": "747 Kapahulu Ave, Honolulu, HI 96816, USA",
+      "why": "그날 손질한 참치로 만드는 쇼유·스파이시 아히 포케 볼로 이름난 테이크아웃 전문점입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 2,788건 · 평점 4.6 / 트립어드바이저 844건",
+          "url": "https://wanderlog.com/place/details/116050/ono-seafood"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "화~토 09:00~16:00 영업, 일·월 휴무. 인기 메뉴는 일찍 소진되니 오전 방문을 권합니다.",
+      "lat": 21.280732,
+      "lng": -157.81404,
+      "geoSource": "osm"
+    },
+    {
+      "name": "울프강 스테이크하우스 와이키키",
+      "nameLocal": "Wolfgang's Steakhouse Waikiki",
+      "type": "restaurant",
+      "cuisine": "드라이에이징 스테이크",
+      "area": "와이키키",
+      "address": "Royal Hawaiian Center Bldg C, Level 3, 2301 Kalakaua Ave, Honolulu, HI 96815, USA",
+      "why": "자체 숙성고에서 드라이에이징한 포터하우스와 립아이가 대표 메뉴인 뉴욕식 스테이크하우스로, 크림 스피니치·매시드 포테이토를 곁들이는 것이 정석입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 4,457건 · 평점 4.2 / 트립어드바이저 2,234건",
+          "url": "https://wanderlog.com/place/details/813737/wolfgangs-steakhouse-waikiki"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "저녁은 예약을 권합니다. 평일 오후 바·라운지 해피아워를 이용하면 비교적 합리적인 가격에 맛볼 수 있습니다.",
+      "lat": 21.278326,
+      "lng": -157.828409,
+      "geoSource": "osm"
+    },
+    {
+      "name": "무스비 카페 이야스메 (쿠히오점)",
+      "nameLocal": "Musubi Cafe IYASUME",
+      "type": "restaurant",
+      "cuisine": "스팸 무스비·주먹밥",
+      "area": "와이키키",
+      "address": "2427 Kuhio Ave, Honolulu, HI 96815, USA",
+      "why": "아보카도·베이컨·에그 스팸 무스비 등 30여 가지 무스비를 아침 일찍부터 파는 곳으로, 해변 피크닉용 간식으로 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1,621건 · 평점 4.5",
+          "url": "https://wanderlog.com/place/details/1698479/musubi-cafe-iyasume"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "07:00~20:00 영업, 테이크아웃 위주. 와이키키 비치 워크(227 Lewers St)에도 지점이 있습니다.",
+      "lat": 21.276475,
+      "lng": -157.823706,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아일랜드 빈티지 커피 와이키키",
+      "nameLocal": "Island Vintage Coffee Waikiki",
+      "type": "cafe",
+      "cuisine": "코나 커피·아사이 볼",
+      "area": "와이키키",
+      "address": "2301 Kalakaua Ave #C215, Honolulu, HI 96815, USA (Royal Hawaiian Center 2F)",
+      "why": "수제 그래놀라와 꿀을 올린 아사이 볼, 코나 모카와 아일랜드 라테가 대표 메뉴인 와이키키 대표 카페입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,760건 · 평점 4.4 / 트립어드바이저 1,682건",
+          "url": "https://wanderlog.com/place/details/807017/island-vintage-coffee-waikiki"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "아침 줄이 길어 앱으로 미리 주문하면 편합니다.",
+      "lat": 21.278323,
+      "lng": -157.828665,
+      "geoSource": "osm"
+    },
+    {
+      "name": "코나 커피 퍼베이어스",
+      "nameLocal": "Kona Coffee Purveyors",
+      "type": "cafe",
+      "cuisine": "코나 커피·퀸아망",
+      "area": "와이키키",
+      "address": "2330 Kalakaua Ave #160, Honolulu, HI 96815, USA (International Market Place, Kuhio Ave entrance)",
+      "why": "그린웰 농장의 코나 원두로 내린 커피와 샌프란시스코 b. patisserie의 퀸아망·크루아상을 함께 맛볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 4,075건 · 평점 4.4 / 트립어드바이저 492건 · 4.6",
+          "url": "https://wanderlog.com/place/details/109991/kona-coffee-purveyors"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "07:00~16:00 영업. 오전 8~10시가 가장 붐비며, 흑임자 퀸아망이 인기입니다.",
+      "lat": 21.278822,
+      "lng": -157.825763,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "알라모아나 센터",
+      "nameLocal": "Ala Moana Center",
+      "kind": "shopping",
+      "address": "1450 Ala Moana Blvd, Honolulu, HI 96814, USA",
+      "why": "350여 개 매장과 백화점이 모인 세계 최대급 야외 쇼핑센터로, 명품·브랜드 쇼핑과 푸드코트를 한곳에서 해결할 수 있습니다.",
+      "lat": 21.291468,
+      "lng": -157.843776,
+      "geoSource": "osm"
+    },
+    {
+      "name": "돈키호테 카헤카점",
+      "nameLocal": "Don Quijote Honolulu (Kaheka)",
+      "kind": "shopping",
+      "address": "801 Kaheka St, Honolulu, HI 96814, USA",
+      "why": "24시간 영업하는 일본계 대형 마트로, 마카다미아 초콜릿·하와이 기념품과 도시락을 저렴하게 사기 좋습니다.",
+      "lat": 21.2936,
+      "lng": -157.838703,
+      "geoSource": "osm"
+    },
+    {
+      "name": "다이아몬드 헤드 주립 기념물",
+      "nameLocal": "Diamond Head State Monument",
+      "kind": "nature",
+      "address": "Diamond Head Rd, Honolulu, HI 96815, USA",
+      "why": "분화구 정상에서 와이키키 해변과 호놀룰루 시내를 내려다보는 하이킹 명소로, 비거주자는 사전 예약(입장 $5·주차 $10)이 필요합니다.",
+      "lat": 21.269601,
+      "lng": -157.806668,
+      "geoSource": "osm"
+    },
+    {
+      "name": "KCC 파머스 마켓",
+      "nameLocal": "KCC Farmers Market (Kapiʻolani Community College)",
+      "kind": "market",
+      "address": "4303 Diamond Head Rd, Honolulu, HI 96816, USA",
+      "why": "토요일 아침(07:30~11:00)에만 열리는 하와이산 농산물·먹거리 시장으로, 다이아몬드 헤드 하이킹과 함께 묶어 가기 좋습니다.",
+      "lat": 21.270825,
+      "lng": -157.800082,
+      "geoSource": "osm"
+    },
+    {
+      "name": "와이키키 해변 (쿠히오 비치·듀크 동상)",
+      "nameLocal": "Waikiki Beach (Kuhio Beach / Duke Kahanamoku Statue)",
+      "kind": "nature",
+      "address": "2400 Kalakaua Ave, Honolulu, HI 96815, USA",
+      "why": "서핑 강습과 해수욕, 선셋 산책을 즐길 수 있는 하와이 여행의 상징 같은 해변입니다.",
+      "lat": 21.275977,
+      "lng": -157.825409,
+      "geoSource": "osm"
+    },
+    {
+      "name": "로열 하와이안 센터",
+      "nameLocal": "Royal Hawaiian Center",
+      "kind": "shopping",
+      "address": "2201 Kalakaua Ave, Honolulu, HI 96815, USA",
+      "why": "와이키키 중심가에 있는 쇼핑몰로 명품 매장과 맛집이 모여 있고, 훌라·레이 만들기 같은 무료 문화 강좌도 열립니다.",
+      "lat": 21.27846,
+      "lng": -157.829284,
+      "geoSource": "osm"
+    }
+  ]
+}

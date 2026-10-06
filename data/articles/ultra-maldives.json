@@ -55,6 +55,10 @@
       "refLabel": "OBLU by Atmosphere at Helengeli Beach",
       "star": 5,
       "propertyId": 23738295,
+      "geo": {
+        "lat": 4.604176,
+        "lng": 73.580399
+      },
       "priceKRW": 6587147,
       "priceStatus": "조회됨",
       "distanceM": 3624.98,
@@ -110,17 +114,17 @@
           "translated": false
         },
         {
-          "text": "Secondly, the activities were amazing.",
-          "score": "10",
-          "country": "ญี่ปุ่น",
-          "date": "2023.04",
-          "translated": false
-        },
-        {
           "text": "What a surprise hotel for me",
           "score": "10",
           "country": "Malaysia",
           "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Secondly, the activities were amazing.",
+          "score": "10",
+          "country": "ญี่ปุ่น",
+          "date": "2023.04",
           "translated": false
         },
         {
@@ -147,12 +151,16 @@
       "score": 9.7,
       "reviewCount": 112,
       "reviewCountFmt": "리뷰 112건",
-      "priceText": "₩₩₩ · 1박 약 586만원",
+      "priceText": "₩₩₩ · 1박 약 584만원",
       "walkMin": 1,
       "refLabel": "Kudadhoo Maldives Beach",
       "star": 5,
       "propertyId": 5750598,
-      "priceKRW": 5856246,
+      "geo": {
+        "lat": 5.502619,
+        "lng": 73.433556
+      },
+      "priceKRW": 5842963,
       "priceStatus": "조회됨",
       "distanceM": 39.28,
       "locationStatus": "조회됨",
@@ -167,9 +175,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.7 · 리뷰 112건. Kudadhoo Maldives Beach까지 도보 1분, ₩₩₩ · 1박 약 586만원. 연인·커플 리뷰 비중 80%.",
+      "blurb": "평점 9.7 · 리뷰 112건. Kudadhoo Maldives Beach까지 도보 1분, ₩₩₩ · 1박 약 584만원. 연인·커플 리뷰 비중 80%.",
       "metaTags": [
-        "💰 1박 약 586만원",
+        "💰 1박 약 584만원",
         "📝 리뷰 112건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -243,7 +251,7 @@
       "rank": 3,
       "name": "더 세인트 레지스 몰디브 봄물리 리조트 (The St. Regis Maldives Vommuli Resort)",
       "agodaUrl": "https://www.agoda.com/the-st-regis-maldives-vommuli-resort/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/887095640.jpg?k=f73165809df851cef80c7aba13a2e491273c01b5c0f167bdfbb89ee30e8a0192&o=",
+      "img": "https://pix8.agoda.net/hotelImages/4880847/1154079662/20f58bb41379b5b1d884c1ae545bce0d.jpeg?ce=3",
       "score": 9.6,
       "reviewCount": 63,
       "reviewCountFmt": "리뷰 63건",
@@ -252,6 +260,10 @@
       "refLabel": "Rinbudhoo Beach",
       "star": 5,
       "propertyId": 1267405,
+      "geo": {
+        "lat": 2.911319,
+        "lng": 72.866104
+      },
       "priceKRW": 5742767,
       "priceStatus": "조회됨",
       "distanceM": 3327.61,
@@ -296,6 +308,10 @@
       "refLabel": "OBLU by Atmosphere at Helengeli Beach",
       "star": 5,
       "propertyId": 22139529,
+      "geo": {
+        "lat": 4.623052,
+        "lng": 73.568916
+      },
       "priceKRW": 5523494,
       "priceStatus": "조회됨",
       "distanceM": 1182.03,
@@ -371,18 +387,72 @@
     },
     {
       "rank": 5,
+      "name": "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives)",
+      "agodaUrl": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186617/-1/09ade07dcc28c32ffec99a0ab58b19d3.jpg?ca=24&ce=0",
+      "score": 9.6,
+      "reviewCount": 95,
+      "reviewCountFmt": "리뷰 95건",
+      "priceText": "₩₩₩ · 1박 약 533만원",
+      "walkMin": 87,
+      "refLabel": "Makunufushi Cocoa Island Beach",
+      "star": 5,
+      "propertyId": 186617,
+      "geo": {
+        "lat": 3.971175,
+        "lng": 73.506437
+      },
+      "priceKRW": 5330102,
+      "priceStatus": "조회됨",
+      "distanceM": 6999.33,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 95건. Makunufushi Cocoa Island Beach까지 도보 87분, ₩₩₩ · 1박 약 533만원.",
+      "metaTags": [
+        "💰 1박 약 533만원",
+        "📝 리뷰 95건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
       "name": "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi)",
       "agodaUrl": "https://www.agoda.com/waldorf-astoria-maldives-ithaafushi/hotel/maldives-islands-mv.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/8545711/0/800b4985dd8402f597a14da27494ee70.jpeg?ce=0",
       "score": 9.3,
       "reviewCount": 154,
       "reviewCountFmt": "리뷰 154건",
-      "priceText": "₩₩₩ · 1박 약 486만원",
+      "priceText": "₩₩₩ · 1박 약 470만원",
       "walkMin": null,
       "refLabel": "중심가",
       "star": 5,
       "propertyId": 6601321,
-      "priceKRW": 4860885,
+      "geo": {
+        "lat": 4.013,
+        "lng": 73.382736
+      },
+      "priceKRW": 4696711,
       "priceStatus": "조회됨",
       "distanceM": null,
       "locationStatus": "위치 상세 확인 필요",
@@ -395,9 +465,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 154건. ₩₩₩ · 1박 약 486만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.3 · 리뷰 154건. ₩₩₩ · 1박 약 470만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 486만원",
+        "💰 1박 약 470만원",
         "📝 리뷰 154건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -447,64 +517,18 @@
         "priceStatus": "confirmed",
         "locationStatus": "unavailable"
       }
-    },
-    {
-      "rank": 6,
-      "name": "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives)",
-      "agodaUrl": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/186617/-1/09ade07dcc28c32ffec99a0ab58b19d3.jpg?ca=24&ce=0",
-      "score": 9.6,
-      "reviewCount": 95,
-      "reviewCountFmt": "리뷰 95건",
-      "priceText": "₩₩₩ · 1박 약 480만원",
-      "walkMin": 87,
-      "refLabel": "Makunufushi Cocoa Island Beach",
-      "star": 5,
-      "propertyId": 186617,
-      "priceKRW": 4800314,
-      "priceStatus": "조회됨",
-      "distanceM": 6999.33,
-      "locationStatus": "조회됨",
-      "facilities": [
-        "수영장",
-        "공항 이동 교통편 서비스",
-        "사우나",
-        "체육관/피트니스",
-        "Wi-Fi (무료)",
-        "개폐식 창문",
-        "발코니/테라스",
-        "책상",
-        "전용 수영장"
-      ],
-      "blurb": "평점 9.6 · 리뷰 95건. Makunufushi Cocoa Island Beach까지 도보 87분, ₩₩₩ · 1박 약 480만원.",
-      "metaTags": [
-        "💰 1박 약 480만원",
-        "📝 리뷰 95건",
-        "⭐ 5성급"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
     }
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-06T04:43:34.049Z",
+    "fetchedAt": "2026-10-06T05:55:27.404Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T04:43:34.049Z",
+    "fetchedAt": "2026-10-06T05:55:27.404Z",
     "source": "agoda citySearch",
     "daysAhead": 41,
     "targetMonth": "2026-11",
@@ -514,8 +538,8 @@
       "errors": [],
       "warnings": [
         "더 세인트 레지스 몰디브 봄물리 리조트 (The St. Regis Maldives Vommuli Resort): reviewSample",
-        "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi): location",
-        "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives): reviewSample"
+        "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives): reviewSample",
+        "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi): location"
       ]
     }
   }

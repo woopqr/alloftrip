@@ -1,0 +1,255 @@
+{
+  "slug": "maui-wailea",
+  "food": [
+    {
+      "name": "마마스 피쉬 하우스",
+      "nameLocal": "Mama's Fish House",
+      "type": "restaurant",
+      "cuisine": "하와이안 시푸드",
+      "area": "파이아(쿠아우 코브)",
+      "address": "799 Poho Pl, Paia, HI 96779, USA",
+      "why": "1973년부터 같은 자리에서 영업해 온 마우이 대표 오션프런트 레스토랑으로, 메뉴에 그날 잡은 어부 이름과 어획 장소가 적힙니다. 마카다미아 크러스트 마히마히, 랍스터 테일을 곁들인 크랩 스터프드 마히마히가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "Restaurantji 평점 4.8 · 리뷰 1,284개",
+          "url": "https://www.restaurantji.com/hi/paia/mamas-fish-house-/"
+        },
+        {
+          "kind": "media",
+          "label": "트리플 마우이 맛집 등록(한국어 가이드)",
+          "url": "https://triple.guide/restaurants/a35f649c-179a-4fa3-ad52-29edd5ee0c5c"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "예약 필수(수개월 전 예약 권장). 와일레아에서 차로 약 40~50분, 로드 투 하나 출발 전후로 들르기 좋습니다. 수영복·탱크톱 차림 제한.",
+      "lat": 20.929057,
+      "lng": -156.366978,
+      "geoSource": "osm"
+    },
+    {
+      "name": "몽키팟 키친 와일레아점",
+      "nameLocal": "Monkeypod Kitchen by Merriman – Wailea",
+      "type": "restaurant",
+      "cuisine": "하와이안 팜투테이블·피자",
+      "area": "와일레아",
+      "address": "10 Wailea Gateway Pl, Unit B-201, Kihei, HI 96753, USA",
+      "why": "하와이 지역 요리의 개척자 피터 메리먼 셰프의 캐주얼 레스토랑입니다. 릴리코이 허니 폼을 올린 시그니처 마이타이, 칼루아 포크 피자, 크림 파이가 유명합니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 7,749개 · 평점 4.5 / 오픈테이블 리뷰 11,795개 · 4.7 (Restaurant Guru 집계)",
+          "url": "https://restaurantguru.com/Monkeypod-Kitchen-by-Merriman-Kihei"
+        },
+        {
+          "kind": "media",
+          "label": "MauiHawaii.org 와일레아 레스토랑 소개",
+          "url": "https://www.mauihawaii.org/restaurants/monkeypod-kitchen/"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "더 숍스 앳 와일레아 위쪽 와일레아 게이트웨이 센터에 있습니다. 해피아워 시간대에 피자·마이타이를 저렴하게 즐길 수 있고, 저녁은 예약 권장."
+    },
+    {
+      "name": "모리모토 마우이",
+      "nameLocal": "Morimoto Maui (Andaz Maui at Wailea)",
+      "type": "restaurant",
+      "cuisine": "일식·스시 퓨전",
+      "area": "와일레아",
+      "address": "Andaz Maui at Wailea Resort, 3550 Wailea Alanui Dr, Wailea, HI 96753, USA",
+      "why": "「아이언 셰프」로 알려진 모리모토 마사하루 셰프의 레스토랑으로 2013년 안다즈 마우이에 문을 열었습니다. 오션뷰 테라스에서 스시와 와규, 돼지 삼겹 카쿠니 플랫브레드 등을 맛볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "GAYOT 하와이 베스트 일식·스시 레스토랑 선정",
+          "url": "https://www.gayot.com/restaurants/morimoto-maui-wailea-hi-96753_16hi140404-02.html"
+        },
+        {
+          "kind": "media",
+          "label": "MauiHawaii.org 소개(셰프 모리모토, 「아이언 셰프」 출연)",
+          "url": "https://www.mauihawaii.org/restaurants/morimoto/"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "저녁은 예약 권장. 로비에서 야외 계단으로 내려가야 하며 엘리베이터가 없습니다.",
+      "lat": 20.692745,
+      "lng": -156.442469,
+      "geoSource": "osm"
+    },
+    {
+      "name": "파이아 피시 마켓 (파이아 본점)",
+      "nameLocal": "Paia Fish Market – Paia",
+      "type": "restaurant",
+      "cuisine": "피시 타코·생선 버거",
+      "area": "파이아",
+      "address": "100 Hana Hwy, Paia, HI 96779, USA",
+      "why": "1989년 문을 연 파이아 마을의 생선 요리집으로, 당일 생선으로 만든 피시 타코와 피시 버거를 합석 테이블에서 먹는 캐주얼한 곳입니다. 푸드 네트워크 방송에 소개됐습니다.",
+      "proof": [
+        {
+          "kind": "tv",
+          "label": "미국 푸드 네트워크 방송 소개(커티스 스톤, 피시 타코)",
+          "url": "https://www.foodnetwork.com/restaurants/hi/paia/paia-fish-market-restaurant"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 평점 4.6 · 리뷰 3,972개 / 트립어드바이저 2,702개 (TripExpert 집계)",
+          "url": "https://www.tripexpert.com/hawaii/restaurants/paia-fish-market-1993893"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약 불가, 식사 시간엔 줄이 깁니다. 와일레아에서 가까운 키헤이 지점(1913 S Kihei Rd)도 운영 중.",
+      "lat": 20.915856,
+      "lng": -156.381303,
+      "geoSource": "osm"
+    },
+    {
+      "name": "날루스 사우스 쇼어 그릴",
+      "nameLocal": "Nalu's South Shore Grill",
+      "type": "restaurant",
+      "cuisine": "하와이안 브런치·포케",
+      "area": "키헤이",
+      "address": "Azeka Makai, 1280 S Kihei Rd, Kihei, HI 96753, USA",
+      "why": "라이브 하와이안 음악이 흐르는 오픈에어 캐주얼 식당으로, 로코모코·포케 볼·콘플레이크 크러스트 프렌치토스트가 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 평점 4.7 · 리뷰 5,231개 (Restaurant Guru 집계)",
+          "url": "https://restaurantguru.com/Nalus-South-Shore-Grill-Kihei"
+        },
+        {
+          "kind": "reviews",
+          "label": "Restaurantji 평점 4.7 · 리뷰 966개",
+          "url": "https://www.restaurantji.com/hi/kihei/nalus-south-shore-grill-/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약 없이 카운터 주문. 오전 8시부터 영업해 아침 식사로도 좋습니다.",
+      "lat": 20.749391,
+      "lng": -156.456819,
+      "geoSource": "osm"
+    },
+    {
+      "name": "키헤이 카페 (본점)",
+      "nameLocal": "Kihei Caffe",
+      "type": "cafe",
+      "cuisine": "하와이안 아침 식사",
+      "area": "키헤이",
+      "address": "Kalama Village, 1945 S Kihei Rd, Kihei, HI 96753, USA",
+      "why": "해변 앞 작은 노천 카페로, 바나나 마카다미아 팬케이크와 칼루아 포크 로코모코, 서퍼 샌드위치를 먹으려는 아침 줄이 늘 생기는 곳입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "Restaurantji 평점 4.2 · 리뷰 878개",
+          "url": "https://www.restaurantji.com/hi/kihei/kihei-caffe-/"
+        },
+        {
+          "kind": "media",
+          "label": "GAYOT 리뷰 등재",
+          "url": "https://www.gayot.com/restaurants/kihei-caffe-kihei-hi-96753_16hi070205.html"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "오전 6시~오후 2시 영업, 예약 불가. 줄은 빨리 줄어듭니다. 마우이 코스트 호텔(2259 S Kihei Rd)에 2호점이 있습니다.",
+      "lat": 20.731301,
+      "lng": -156.451761,
+      "geoSource": "osm"
+    },
+    {
+      "name": "코모다 스토어 앤 베이커리",
+      "nameLocal": "T. Komoda Store & Bakery",
+      "type": "bakery",
+      "cuisine": "크림퍼프·스틱 도넛",
+      "area": "마카와오",
+      "address": "3674 Baldwin Ave, Makawao, HI 96768, USA",
+      "why": "1916년 창업한 업컨트리의 노포 베이커리로, 창업 당시 레시피의 크림퍼프와 꼬치에 꽂은 스틱 도넛이 대표 메뉴입니다. 2022년 마우이 시장이 '코모다 데이'를 선포했습니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "Maui Magazine 「Sweet Memories」 특집",
+          "url": "https://www.mauimagazine.net/komoda-store/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "오전 7시~오후 1시, 수·일 휴무. 현금 준비 권장, 오전 중 매진되는 경우가 많아 할레아칼라 일출 후 들르기 좋습니다.",
+      "lat": 20.85405,
+      "lng": -156.310659,
+      "geoSource": "osm"
+    },
+    {
+      "name": "울룰라니스 하와이안 셰이브 아이스 키헤이점",
+      "nameLocal": "Ululani's Hawaiian Shave Ice – Kihei",
+      "type": "dessert",
+      "cuisine": "하와이안 셰이브 아이스",
+      "area": "키헤이",
+      "address": "61 S Kihei Rd, Kihei, HI 96753, USA",
+      "why": "2008년 시작한 마우이 대표 셰이브 아이스 가게로, 코코넛·망고·릴리코이 조합의 '노 카 오이'에 마우이산 로젤라니 아이스크림과 모찌 토핑을 올려 먹습니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "Pride of Maui 「마우이 셰이브 아이스 TOP 10」 1위",
+          "url": "https://www.prideofmaui.com/blog/maui/top-10-places-for-shave-ice-in-maui/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "오전 10시 30분~오후 6시 30분 영업. 북키헤이에 있어 공항이나 마알라에아 항구 오가는 길에 들르기 좋습니다.",
+      "lat": 20.781743,
+      "lng": -156.462469,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "할레아칼라 국립공원 정상 일출",
+      "nameLocal": "Haleakalā National Park – Summit District",
+      "kind": "nature",
+      "address": "30000 Haleakala Hwy, Kula, HI 96790, USA",
+      "why": "해발 3,055m 분화구 위로 떠오르는 일출을 보러 가는 마우이 대표 코스로, 오전 3~7시 입장은 recreation.gov에서 최대 60일 전에 사전 예약해야 합니다(와일레아에서 정상까지 차로 약 3시간이라는 NPS 안내 참고).",
+      "lat": 20.786019,
+      "lng": -156.307265,
+      "geoSource": "osm"
+    },
+    {
+      "name": "로드 투 하나",
+      "nameLocal": "Road to Hana (Hana Highway, HI-36/360)",
+      "kind": "experience",
+      "address": "Hana Hwy (HI-36), starting at Paia, HI 96779, USA",
+      "why": "파이아에서 하나까지 이어지는 해안 도로로, 600여 개의 커브를 따라 폭포·흑사 해변·열대 우림을 차례로 지나는 하루 드라이브 코스입니다.",
+      "geoSource": "osm",
+      "noGeo": true
+    },
+    {
+      "name": "더 숍스 앳 와일레아",
+      "nameLocal": "The Shops at Wailea",
+      "kind": "shopping",
+      "address": "3750 Wailea Alanui Dr, Wailea, HI 96753, USA",
+      "why": "명품 브랜드와 하와이 로컬 숍, 레스토랑 70여 곳이 모인 와일레아 리조트 단지 중심의 쇼핑몰로, 대부분의 호텔에서 걸어갈 수 있습니다(매일 10:00~21:00).",
+      "lat": 20.687134,
+      "lng": -156.440536,
+      "geoSource": "osm"
+    },
+    {
+      "name": "몰로키니 분화구 스노클링",
+      "nameLocal": "Molokini Crater Snorkel Tour (Māʻalaea Harbor)",
+      "kind": "experience",
+      "address": "Maalaea Harbor, 101 Maalaea Rd, Wailuku, HI 96793, USA",
+      "why": "바다 위에 반달 모양으로 솟은 화산 분화구에서 맑은 물속 열대어를 보고, 바다거북이 모이는 '터틀 타운'까지 함께 도는 오전 투어가 인기입니다(마알라에아 항구 출발)."
+    },
+    {
+      "name": "와일레아 비치 & 와일레아 비치 패스",
+      "nameLocal": "Wailea Beach / Wailea Beach Path",
+      "kind": "nature",
+      "address": "Wailea Beach Public Access, Wailea Alanui Dr, Wailea, HI 96753, USA",
+      "why": "그랜드 와일레아·포시즌스 앞의 잔잔한 백사장과, 리조트들을 따라 해안선을 잇는 약 2.4km 산책로에서 일몰과 겨울철 혹등고래를 볼 수 있습니다."
+    },
+    {
+      "name": "마케나 빅 비치",
+      "nameLocal": "Oneloa (Big Beach), Mākena State Park",
+      "kind": "nature",
+      "address": "Makena State Park, Makena Alanui Rd, Kihei, HI 96753, USA",
+      "why": "개발되지 않은 넓은 백사장이 펼쳐진 마우이 최고의 자연 해변 중 하나로, 비거주자는 1인 $5 입장료와 주차비 $10를 냅니다(05:00~19:00, 파도가 강한 날은 입수 주의).",
+      "lat": 21.004147,
+      "lng": -156.658371,
+      "geoSource": "osm"
+    }
+  ]
+}

@@ -50,7 +50,7 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?ce=0",
   "heroAlt": "두바이 울트라 럭셔리 최고급 숙소",
   "updated": "2026-10-06",
   "hotels": [
@@ -58,7 +58,7 @@
       "rank": 1,
       "name": "더 빌트모어 호텔 빌라 두바이 (The Biltmore Hotel Villas Dubai)",
       "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?ce=0",
       "score": 9.5,
       "reviewCount": 109,
       "reviewCountFmt": "리뷰 109건",
@@ -67,6 +67,10 @@
       "refLabel": "몰 오브 에미레이츠역",
       "star": 5,
       "propertyId": 59031518,
+      "geo": {
+        "lat": 25.114389,
+        "lng": 55.198681
+      },
       "priceKRW": 2889146,
       "priceStatus": "조회됨",
       "distanceM": 787.55,
@@ -105,7 +109,7 @@
       "rank": 2,
       "name": "주메이라 자빌 사라이 두바이 (Jumeirah Zabeel Saray Dubai)",
       "agodaUrl": "https://www.agoda.com/jumeirah-zabeel-saray-royal-residences-h16254932/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046751/-1/dbe305b1bee990ce66a298ddeee29e81.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?va=1&ce=3",
       "score": 8.7,
       "reviewCount": 2833,
       "reviewCountFmt": "리뷰 2,833건",
@@ -114,6 +118,10 @@
       "refLabel": "Al Ittihad Park Station",
       "star": 5,
       "propertyId": 41046751,
+      "geo": {
+        "lat": 25.098204,
+        "lng": 55.123679
+      },
       "priceKRW": 2761723,
       "priceStatus": "조회됨",
       "distanceM": 2441.23,
@@ -214,6 +222,10 @@
       "refLabel": "몰 오브 에미레이츠역",
       "star": 5,
       "propertyId": 41046756,
+      "geo": {
+        "lat": 25.13606,
+        "lng": 55.187927
+      },
       "priceKRW": 2468505,
       "priceStatus": "조회됨",
       "distanceM": 2067.66,
@@ -314,6 +326,10 @@
       "refLabel": "퍼스트 걸프 뱅크역",
       "star": 5,
       "propertyId": 60156122,
+      "geo": {
+        "lat": 25.144979,
+        "lng": 55.189058
+      },
       "priceKRW": 2468505,
       "priceStatus": "조회됨",
       "distanceM": 2752.35,
@@ -360,6 +376,10 @@
       "refLabel": "Business Bay Metro Bus Stop Seaside",
       "star": 5,
       "propertyId": 5059899,
+      "geo": {
+        "lat": 25.211012,
+        "lng": 55.234707
+      },
       "priceKRW": 2021014,
       "priceStatus": "조회됨",
       "distanceM": 3274.69,
@@ -452,13 +472,17 @@
       "agodaUrl": "https://www.agoda.com/jumeirah-dar-al-masyaf-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/41046747/0/0efa9fe58d8c259f9cf52c988c72a4cc.jpeg?va=1&ce=3",
       "score": 9.3,
-      "reviewCount": 1011,
-      "reviewCountFmt": "리뷰 1,011건",
+      "reviewCount": 1010,
+      "reviewCountFmt": "리뷰 1,010건",
       "priceText": "₩₩₩ · 1박 약 219만원",
       "walkMin": 27,
       "refLabel": "Mashreq Metro Station",
       "star": 5,
       "propertyId": 41046747,
+      "geo": {
+        "lat": 25.132417,
+        "lng": 55.182762
+      },
       "priceKRW": 2192705,
       "priceStatus": "조회됨",
       "distanceM": 2156.78,
@@ -474,10 +498,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 1,011건. Mashreq Metro Station까지 도보 27분, ₩₩₩ · 1박 약 219만원. 연인·커플 리뷰 비중 20%.",
+      "blurb": "평점 9.3 · 리뷰 1,010건. Mashreq Metro Station까지 도보 27분, ₩₩₩ · 1박 약 219만원. 연인·커플 리뷰 비중 20%.",
       "metaTags": [
         "💰 1박 약 219만원",
-        "📝 리뷰 1,011건",
+        "📝 리뷰 1,010건",
         "⭐ 5성급",
         "👥 그룹·단체 선호"
       ],
@@ -563,14 +587,14 @@
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-06T04:43:22.296Z",
+    "fetchedAt": "2026-10-06T05:55:01.888Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T04:43:22.296Z",
+    "fetchedAt": "2026-10-06T05:55:01.888Z",
     "source": "agoda citySearch",
     "daysAhead": 41,
     "targetMonth": "2026-11",

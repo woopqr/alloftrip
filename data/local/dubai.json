@@ -1,0 +1,250 @@
+{
+  "slug": "dubai",
+  "food": [
+    {
+      "name": "트레신드 스튜디오",
+      "nameLocal": "Trèsind Studio",
+      "type": "restaurant",
+      "cuisine": "인도 파인다이닝",
+      "area": "팜 주메이라",
+      "address": "St. Regis Gardens, The Palm Jumeirah, Dubai, UAE",
+      "why": "15석 규모의 루프톱 카운터에서 인도 각지의 맛을 재해석한 서프라이즈 테이스팅 메뉴를 선보입니다. 인도 레스토랑으로는 세계 최초로 미쉐린 3스타를 받았습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 두바이 2026 3스타",
+          "url": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tresind-studio"
+        },
+        {
+          "kind": "award",
+          "label": "MENA's 50 Best Restaurants 2026 3위",
+          "url": "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "공식 홈페이지(tresindstudio.com)에서 직접 예약해야 하며, 좌석이 적어 일찍 마감됩니다."
+    },
+    {
+      "name": "오르팔리 브로스",
+      "nameLocal": "Orfali Bros",
+      "type": "restaurant",
+      "cuisine": "현대 중동 요리",
+      "area": "주메이라",
+      "address": "Wasl 51 Mall, Jumeirah 1, Dubai, UAE",
+      "lat": 25.2187895,
+      "lng": 55.2613791,
+      "why": "시리아 알레포 출신 삼형제가 운영하며, 2층 오픈 키친에서 시리아·튀르키예·아르메니아 풍미를 담은 테이스팅 메뉴를 냅니다. 시그니처 OG 메뉴의 '콘 밤'과 푸아그라 요리가 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 두바이 2026 1스타",
+          "url": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/orfali-bros"
+        },
+        {
+          "kind": "award",
+          "label": "MENA's 50 Best Restaurants 2026 4위",
+          "url": "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "화요일 휴무. 디너는 17:45부터, 일요일은 점심(13:30–16:00) 운영으로 예약이 필요합니다."
+    },
+    {
+      "name": "키노야",
+      "nameLocal": "Kinoya",
+      "type": "restaurant",
+      "cuisine": "일본 이자카야·라멘",
+      "area": "더 그린스",
+      "address": "The Onyx Tower 2, The Greens, Sheikh Zayed Road, Dubai, UAE",
+      "why": "8가지 라멘과 로바타 구이, 스시를 합리적인 가격에 내는 이자카야로, 2026년 MENA 베스트 레스토랑 2위에 올랐습니다. 카운터석에서 조리 과정을 볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 두바이 선정 레스토랑",
+          "url": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/kinoya"
+        },
+        {
+          "kind": "award",
+          "label": "MENA's 50 Best Restaurants 2026 2위",
+          "url": "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "월요일 휴무, 화–일 12:00–01:00. 카운터석은 미리 예약하는 편이 좋습니다."
+    },
+    {
+      "name": "주마 두바이 DIFC",
+      "nameLocal": "Zuma Dubai (DIFC)",
+      "type": "restaurant",
+      "cuisine": "모던 일식",
+      "area": "DIFC",
+      "address": "Gate Village 6, Dubai International Financial Centre (DIFC), Dubai, UAE",
+      "why": "3개 층에 스시 카운터와 로바타 그릴을 갖춘 두바이 대표 모던 일식당으로, 활기찬 분위기와 사케 리스트가 강점입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 두바이 선정 레스토랑",
+          "url": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/zuma-516177"
+        },
+        {
+          "kind": "award",
+          "label": "MENA's 50 Best Restaurants 2026 34위",
+          "url": "https://www.the50.com/restaurants/best-in-middle-east-and-north-africa/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "매일 12:00–02:00(토요일 13:30 오픈). 주말 저녁과 브런치는 예약 권장."
+    },
+    {
+      "name": "알 카이마 헤리티지 레스토랑",
+      "nameLocal": "Al Khayma Heritage Restaurant",
+      "type": "restaurant",
+      "cuisine": "에미라티 전통 요리",
+      "area": "알 파히디 역사지구",
+      "address": "Villa 54-44, Al Fahidi Historical District, Bur Dubai, Dubai, UAE",
+      "lat": 25.2638088,
+      "lng": 55.3004585,
+      "why": "전통 가옥 안뜰에서 양고기 마크부스와 디저트 루가이마트 등 에미라티 가정식을 맛볼 수 있습니다. 2022년 미쉐린 두바이 첫 발간 때부터 빕 구르망에 선정됐습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 두바이 빕 구르망",
+          "url": "https://guide.michelin.com/us/en/dubai-emirate/dubai/restaurant/al-khayma"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 08:00–23:00. 알 파히디 역사지구를 둘러본 뒤 들르기 좋습니다."
+    },
+    {
+      "name": "알 우스타드 스페셜 케밥",
+      "nameLocal": "Al Ustad Special Kabab",
+      "type": "restaurant",
+      "cuisine": "이란식 케밥",
+      "area": "부르 두바이",
+      "address": "Ground Floor, Bahwan Plaza, Al Mussallah Road, Al Hamriya, Bur Dubai, Dubai, UAE",
+      "lat": 25.259931,
+      "lng": 55.298895,
+      "why": "1978년 문을 연 가족 경영 이란식 케밥집으로, 요거트에 재운 양고기·닭고기 케밥과 버터 사프란 라이스가 대표 메뉴입니다. 벽을 채운 손님 사진으로도 유명합니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1만 3천+ · 평점 4.4 (Wanderlog 집계)",
+          "url": "https://wanderlog.com/list/geoCategory/1544338/best-kebab-spots-in-dubai"
+        },
+        {
+          "kind": "media",
+          "label": "재경일보 '두바이 가성비 맛집 TOP 10' 소개",
+          "url": "https://news.jkn.co.kr/post/1009078"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "1인 40–70디르함 선. 11:00 오픈."
+    },
+    {
+      "name": "아라비안 티 하우스 알 파히디점",
+      "nameLocal": "Arabian Tea House (Al Fahidi)",
+      "type": "cafe",
+      "cuisine": "아랍식 티·브런치",
+      "area": "알 파히디 역사지구",
+      "address": "50, 78 Sikka, Al Souq Al Kabeer, Al Fahidi Historical Neighbourhood, Bur Dubai, Dubai, UAE",
+      "why": "두바이 옛 동네의 전통 가옥 안뜰에서 카락 차이, 아랍식 아침 식사, 루가이마트를 즐길 수 있는 카페입니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "두바이 관광청 Visit Dubai 추천 (리뷰 241건)",
+          "url": "https://www.visitdubai.com/en/restaurants/arabian-tea-house"
+        },
+        {
+          "kind": "reviews",
+          "label": "2GIS 평점 4.5 · 리뷰 120건",
+          "url": "https://2gis.ae/dubai/search/Arabian%20Tea%20House"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "1인 평균 50디르함 선. 낮 더위를 피해 오전이나 해 질 무렵이 좋습니다.",
+      "lat": 25.150258,
+      "lng": 55.196675,
+      "geoSource": "osm"
+    },
+    {
+      "name": "카페 바틸 두바이몰점",
+      "nameLocal": "Café Bateel (The Dubai Mall)",
+      "type": "cafe",
+      "cuisine": "대추야자 디저트·카페",
+      "area": "다운타운",
+      "address": "The Dubai Mall, Mohammed Bin Rashid Boulevard, Za'abeel 2, Downtown Dubai, UAE",
+      "why": "고급 대추야자 브랜드 바틸이 운영하는 카페로, 대추야자 디저트와 커피를 맛보고 선물용 대추야자를 함께 살 수 있습니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "두바이 관광청 Visit Dubai 추천 (리뷰 204건)",
+          "url": "https://www.visitdubai.com/en/restaurants/cafe-bateel"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "대추야자 선물 세트는 같은 몰의 바틸 부티크에서도 살 수 있습니다.",
+      "lat": 25.113602,
+      "lng": 55.139539,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "부르즈 할리파 앳 더 톱",
+      "nameLocal": "At the Top, Burj Khalifa",
+      "kind": "landmark",
+      "address": "Burj Khalifa, 1 Mohammed Bin Rashid Boulevard, Downtown Dubai, UAE (entrance via The Dubai Mall, Lower Ground)",
+      "why": "세계에서 가장 높은 빌딩의 124·125층(및 148층) 전망대로, 일몰 시간대 사진을 찍으러 가장 많이 찾습니다.",
+      "lat": 25.197034,
+      "lng": 55.274133,
+      "geoSource": "osm"
+    },
+    {
+      "name": "두바이몰 & 두바이 분수",
+      "nameLocal": "The Dubai Mall & The Dubai Fountain",
+      "kind": "shopping",
+      "address": "The Dubai Mall, 3 Mohammed Bin Rashid Boulevard, Za'abeel 2, Downtown Dubai, UAE",
+      "why": "명품 쇼핑과 아쿠아리움, 저녁마다 부르즈 할리파 앞 호수에서 열리는 분수 쇼를 한 번에 볼 수 있습니다."
+    },
+    {
+      "name": "두바이 골드 수크",
+      "nameLocal": "Dubai Gold Souk",
+      "kind": "market",
+      "address": "82/1 Sikkat Al Khail Road, Al Buteen, Deira, Dubai, UAE",
+      "why": "금은방 수백 곳이 늘어선 전통 시장으로, 금 시세 구경과 흥정 체험을 위해 찾습니다.",
+      "lat": 25.26998,
+      "lng": 55.298125,
+      "geoSource": "osm"
+    },
+    {
+      "name": "스파이스 수크",
+      "nameLocal": "Dubai Spice Souk",
+      "kind": "market",
+      "address": "28, 34 Street, Al Ras, Deira, Dubai, UAE",
+      "why": "사프란, 향신료, 대추야자를 파는 골목 시장으로, 골드 수크와 아브라(수상 택시) 탑승을 묶어 둘러보기 좋습니다.",
+      "lat": 25.267493,
+      "lng": 55.297076,
+      "geoSource": "osm"
+    },
+    {
+      "name": "알 파히디 역사지구",
+      "nameLocal": "Al Fahidi Historical Neighbourhood",
+      "kind": "street",
+      "address": "31, 54b Sikka, Al Souq Al Kabeer, Bur Dubai, Dubai, UAE",
+      "why": "바람탑이 있는 옛 가옥과 골목, 갤러리가 남아 있어 고층 빌딩 이전의 두바이를 볼 수 있는 곳입니다.",
+      "lat": 25.26423,
+      "lng": 55.30017,
+      "geoSource": "osm"
+    },
+    {
+      "name": "글로벌 빌리지",
+      "nameLocal": "Global Village",
+      "kind": "experience",
+      "address": "23 Sheikh Mohammed Bin Zayed Road, Wadi Al Safa 4, Dubailand, Dubai, UAE",
+      "why": "세계 각국 파빌리온과 길거리 음식, 놀이기구가 모인 야외 축제장으로, 시즌 31은 2026년 10월 14일부터 2027년 5월까지 열립니다(시즌 외 휴장).",
+      "lat": 25.068753,
+      "lng": 55.306833,
+      "geoSource": "osm"
+    }
+  ]
+}

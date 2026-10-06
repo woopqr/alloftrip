@@ -1,0 +1,243 @@
+{
+  "slug": "paris",
+  "food": [
+    {
+      "name": "르 쥘 베른 (에펠탑)",
+      "nameLocal": "Le Jules Verne",
+      "type": "restaurant",
+      "cuisine": "모던 프렌치 파인다이닝",
+      "area": "에펠탑 · 7구",
+      "address": "Tour Eiffel, 2e étage, 6 Avenue Gustave Eiffel, 75007 Paris, France",
+      "why": "에펠탑 2층(해발 125m)에 자리한 프레데릭 앙통 셰프의 레스토랑으로, 전용 엘리베이터로 올라가 파리 전경을 보며 랑구스틴 라비올리 등 코스를 즐길 수 있습니다. 디저트 완성도도 높게 평가받습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 프랑스 2026 2스타",
+          "url": "https://guide.michelin.com/en/ile-de-france/paris/restaurant/le-jules-verne"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "기념일 수요가 많아 수주 전 온라인 예약 권장. 에펠탑 남쪽 기둥 전용 입구로 입장합니다.",
+      "lat": 48.85756,
+      "lng": 2.29462
+    },
+    {
+      "name": "르 를레 드 랑트르코트 생제르맹점",
+      "nameLocal": "Le Relais de l'Entrecôte (Saint-Germain-des-Prés)",
+      "type": "restaurant",
+      "cuisine": "스테이크 프리트",
+      "area": "생제르맹데프레 · 6구",
+      "address": "20 Rue Saint-Benoît, 75006 Paris, France",
+      "why": "메뉴는 호두 샐러드와 비밀 소스를 끼얹은 등심 스테이크·감자튀김 단 하나. 고기를 두 번에 나눠 서빙해 끝까지 따뜻하게 먹을 수 있어 한국 여행객 사이에서도 파리 스테이크 맛집으로 꼽힙니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3,000+ · 평점 4.2 (FoodyParis 집계)",
+          "url": "https://www.foodyparis.com/places/12464242/le-relais-de-l-entrecote"
+        },
+        {
+          "kind": "media",
+          "label": "Frommer's 1스타 (Restaurant Guru 인용)",
+          "url": "https://restaurantguru.com/Le-Relais-de-lEntrecote-Paris"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약을 받지 않아 오픈 시간(12:00, 18:45) 전에 줄 서는 것이 좋습니다.",
+      "lat": 48.854651,
+      "lng": 2.332827,
+      "geoSource": "osm"
+    },
+    {
+      "name": "부이용 샤르티에 그랑 불바르점",
+      "nameLocal": "Bouillon Chartier Grands Boulevards",
+      "type": "restaurant",
+      "cuisine": "전통 프렌치 비스트로",
+      "area": "그랑 불바르 · 9구",
+      "address": "7 Rue du Faubourg Montmartre, 75009 Paris, France",
+      "why": "1896년 문을 연 벨에포크 양식의 대형 식당으로, 에스카르고·양파 수프·콩피 드 카나르 같은 프랑스 가정식을 저렴하게 맛볼 수 있습니다. 오페라·갤러리 라파예트에서 걸어갈 수 있는 거리입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 3.3만+ · 평점 4.1",
+          "url": "https://restaurantguru.com/Bouillon-Chartier-Paris"
+        },
+        {
+          "kind": "media",
+          "label": "위키백과 등재 (1896년 창업 역사 식당)",
+          "url": "https://en.wikipedia.org/wiki/Bouillon_Chartier"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "예약 없이 줄을 서는 방식이며 회전이 빠릅니다. 매일 11:30~자정 영업.",
+      "lat": 48.871936,
+      "lng": 2.343014,
+      "geoSource": "osm"
+    },
+    {
+      "name": "라스 뒤 팔라펠",
+      "nameLocal": "L'As du Fallafel",
+      "type": "restaurant",
+      "cuisine": "팔라펠 피타 샌드위치",
+      "area": "마레 · 4구",
+      "address": "34 Rue des Rosiers, 75004 Paris, France",
+      "why": "1979년부터 마레 유대인 지구 로지에 거리를 지켜온 팔라펠 집으로, 튀긴 가지와 후무스를 듬뿍 넣은 팔라펠 피타가 대표 메뉴입니다. 마레 산책 중 테이크아웃으로 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1.4만+ · 평점 4.3",
+          "url": "https://restaurantguru.com/Ropa-Usada-Y-Falafel-Paris"
+        },
+        {
+          "kind": "media",
+          "label": "Paris by Mouth 소개",
+          "url": "https://parisbymouth.com/las-du-falafel/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "토요일 휴무, 금요일은 오후 일찍 문을 닫습니다. 테이크아웃 줄이 더 빠릅니다.",
+      "lat": 48.85741,
+      "lng": 2.359049,
+      "geoSource": "osm"
+    },
+    {
+      "name": "카페 드 플로르",
+      "nameLocal": "Café de Flore",
+      "type": "cafe",
+      "cuisine": "클래식 파리 카페",
+      "area": "생제르맹데프레 · 6구",
+      "address": "172 Boulevard Saint-Germain, 75006 Paris, France",
+      "why": "사르트르·보부아르 등 예술가와 철학자들이 드나들던 19세기 카페로, 테라스에서 핫초콜릿이나 크로크무슈를 즐기며 생제르맹 분위기를 느끼기 좋습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1.4만+ · 평점 3.9",
+          "url": "https://restaurantguru.com/Cafe-de-Flore-Paris"
+        },
+        {
+          "kind": "media",
+          "label": "카페 드 플로르 공식 사이트(1887년경 개업 · 사르트르 등 단골)",
+          "url": "https://cafedeflore.fr/en/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "매일 7:30~다음 날 1:30 영업. 바로 옆 레 되 마고와 함께 둘러보기 좋습니다.",
+      "lat": 48.854128,
+      "lng": 2.33255,
+      "geoSource": "osm"
+    },
+    {
+      "name": "안젤리나 리볼리 본점",
+      "nameLocal": "Angelina Paris – Rivoli",
+      "type": "dessert",
+      "cuisine": "핫초콜릿 · 몽블랑",
+      "area": "튈르리 · 1구",
+      "address": "226 Rue de Rivoli, 75001 Paris, France",
+      "why": "1903년 문을 연 살롱 드 테로, 진하고 걸쭉한 핫초콜릿 '라프리캥'과 머랭·밤 크림으로 만든 몽블랑이 대표 메뉴입니다. 루브르·튈르리 정원과 가깝습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 1.8만+ · 평점 4.3 / 트립어드바이저 1.1만+",
+          "url": "https://restaurantguru.com/Angelina-Paris-3"
+        },
+        {
+          "kind": "media",
+          "label": "안젤리나 공식 매장 페이지",
+          "url": "https://salon-de-the.angelina-paris.fr/en/pastry-shop/rue-de-rivoli-paris-1/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "티룸 대기가 길다면 입구 옆 부티크에서 테이크아웃이 가능합니다.",
+      "lat": 48.865078,
+      "lng": 2.32841,
+      "geoSource": "osm"
+    },
+    {
+      "name": "뒤 팽 에 데 이데",
+      "nameLocal": "Du Pain et des Idées",
+      "type": "bakery",
+      "cuisine": "불랑제리 · 비에누아즈리",
+      "area": "생마르탱 운하 · 10구",
+      "address": "34 Rue Yves Toudic, 75010 Paris, France",
+      "why": "1875년 건물의 문화유산 빵집으로, 피스타치오·초콜릿 '에스카르고' 페이스트리와 대형 빵 '팽 데 자미'가 유명합니다. 고미요(Gault & Millau) 파리 최고 제빵사(2008) 수상 이력이 있습니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "Gault & Millau 파리 최고의 제빵사 2008",
+          "url": "https://www.dupainetdesidees.com/en/boulangerie"
+        },
+        {
+          "kind": "reviews",
+          "label": "구글 리뷰 4,400+ · 평점 4.3",
+          "url": "https://restaurantguru.com/Du-Pain-et-des-Idees-Paris"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "주말(토·일) 휴무, 평일 7:00~19:30 영업. 인기 페이스트리는 오후에 품절되기 쉽습니다.",
+      "lat": 48.871197,
+      "lng": 2.362886,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "갤러리 라파예트 오스만 본점",
+      "nameLocal": "Galeries Lafayette Paris Haussmann",
+      "kind": "shopping",
+      "address": "40 Boulevard Haussmann, 75009 Paris, France",
+      "why": "명품 브랜드가 한곳에 모인 백화점으로, 스테인드글라스 돔과 무료 루프탑 전망대가 있고 택스리펀드 처리도 편리합니다.",
+      "lat": 48.873646,
+      "lng": 2.332127,
+      "geoSource": "osm"
+    },
+    {
+      "name": "에펠탑",
+      "nameLocal": "Tour Eiffel",
+      "kind": "landmark",
+      "address": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",
+      "why": "파리를 대표하는 랜드마크로, 정각마다 반짝이는 야경은 트로카데로 광장에서 보는 것이 정석입니다.",
+      "lat": 48.85826,
+      "lng": 2.294501,
+      "geoSource": "osm"
+    },
+    {
+      "name": "루브르 박물관",
+      "nameLocal": "Musée du Louvre",
+      "kind": "landmark",
+      "address": "Rue de Rivoli, 75001 Paris, France",
+      "why": "모나리자·밀로의 비너스를 소장한 세계 최대 규모 박물관으로, 시간 지정 온라인 예약이 필수입니다.",
+      "lat": 48.862401,
+      "lng": 2.336384,
+      "geoSource": "osm"
+    },
+    {
+      "name": "샹젤리제 거리",
+      "nameLocal": "Avenue des Champs-Élysées",
+      "kind": "street",
+      "address": "Avenue des Champs-Élysées, 75008 Paris, France",
+      "why": "개선문에서 콩코르드 광장까지 이어지는 대로로, 플래그십 매장과 라뒤레 등이 모여 있어 쇼핑과 산책을 함께 즐기기 좋습니다.",
+      "lat": 48.864911,
+      "lng": 2.301715,
+      "geoSource": "osm"
+    },
+    {
+      "name": "몽마르트르 · 사크레쾨르 대성당",
+      "nameLocal": "Basilique du Sacré-Cœur de Montmartre",
+      "kind": "landmark",
+      "address": "35 Rue du Chevalier de la Barre, 75018 Paris, France",
+      "why": "파리 시내가 내려다보이는 언덕 위 성당과 화가들의 광장 테르트르가 있어 노을 무렵 방문하기 좋습니다.",
+      "lat": 48.887107,
+      "lng": 2.343491,
+      "geoSource": "osm"
+    },
+    {
+      "name": "라 발레 빌리지 아웃렛",
+      "nameLocal": "La Vallée Village",
+      "kind": "shopping",
+      "address": "3 Cours de la Garonne, 77700 Serris, France",
+      "why": "파리 근교 명품 아웃렛으로, 시내에서 RER A선이나 셔틀로 약 40분이면 닿아 반나절 쇼핑 코스로 인기입니다.",
+      "lat": 48.853973,
+      "lng": 2.785342,
+      "geoSource": "osm"
+    }
+  ]
+}

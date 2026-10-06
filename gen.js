@@ -206,6 +206,7 @@ const shortName = s => String(s).split('(')[0].trim();
       priceText: h.priceText, walkMin: h.walkMin, refLabel,
       star: h.star || null,
       propertyId: h.propertyId,
+      geo: h.geo && h.geo.latitude ? { lat: +Number(h.geo.latitude).toFixed(6), lng: +Number(h.geo.longitude).toFixed(6) } : null,
       priceKRW: h.priceKRW || null,
       priceStatus: h.priceKRW ? '조회됨' : '조회 시점 가격 확인 불가',
       distanceM: h.distanceM ?? null,

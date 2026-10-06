@@ -1,0 +1,191 @@
+{
+  "slug": "singapore",
+  "food": [
+    {
+      "name": "오데트",
+      "nameLocal": "Odette",
+      "type": "restaurant",
+      "cuisine": "컨템퍼러리 프렌치 파인다이닝",
+      "area": "시빅 디스트릭트(마리나베이 인근)",
+      "address": "National Gallery Singapore, #01-04, 1 St. Andrew's Road, Singapore 178957",
+      "why": "셰프 쥘리앵 로이에(Julien Royer)가 이끄는 미쉐린 3스타 프렌치로, 내셔널 갤러리 안에 있습니다. 정교한 코스와 와인 리스트로 특별한 날 찾는 곳입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 싱가포르 3스타",
+          "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/odette"
+        },
+        {
+          "kind": "award",
+          "label": "아시아 베스트 레스토랑 50 2026 19위",
+          "url": "https://www.the50.com/asia/en/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "예약 필수. 기념일 방문이라면 몇 주 전에 예약하는 편이 안전합니다.",
+      "lat": 1.289947,
+      "lng": 103.851523,
+      "geoSource": "osm"
+    },
+    {
+      "name": "레자미",
+      "nameLocal": "Les Amis",
+      "type": "restaurant",
+      "cuisine": "모던 프렌치 파인다이닝",
+      "area": "오차드",
+      "address": "Shaw Centre, #01-16, 1 Scotts Road, Singapore 228208",
+      "lat": 1.30626,
+      "lng": 103.83204,
+      "why": "식재료 대부분을 프랑스에서 들여와 클래식 프렌치를 선보이는 미쉐린 3스타 레스토랑입니다. 오차드 호텔 투숙객이 걸어서 가기 좋습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 싱가포르 3스타",
+          "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/les-amis"
+        },
+        {
+          "kind": "award",
+          "label": "아시아 베스트 레스토랑 50 2026 38위",
+          "url": "https://www.the50.com/asia/en/list/1-50"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "예약 필수, 드레스 코드를 미리 확인하세요."
+    },
+    {
+      "name": "송파 바쿠테 뉴브리지로드 본점",
+      "nameLocal": "Song Fa Bak Kut Teh (New Bridge Road)",
+      "type": "restaurant",
+      "cuisine": "바쿠테(후추 돼지갈비탕)",
+      "area": "클락키·차이나타운",
+      "address": "#01-01, 11 New Bridge Road, Singapore 059386",
+      "lat": 1.2890223,
+      "lng": 103.8477147,
+      "why": "후추 향이 진한 맑은 국물에 돼지갈비를 넣은 바쿠테가 대표 메뉴이며, 국물을 다 먹으면 다시 채워 줍니다. 10곳이 넘는 지점 중 미쉐린이 가장 낫다고 평가한 본점입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 싱가포르 빕 구르망",
+          "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/song-fa-bak-kut-teh-new-bridge-road"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "식사 시간대에는 줄을 서는 경우가 많습니다. 클락키 MRT역에서 가깝습니다."
+    },
+    {
+      "name": "티엔티엔 치킨라이스 (맥스웰 푸드센터)",
+      "nameLocal": "Tian Tian Hainanese Chicken Rice",
+      "type": "restaurant",
+      "cuisine": "하이난 치킨라이스",
+      "area": "차이나타운",
+      "address": "Maxwell Food Centre, #01-10/11, 1 Kadayanallur Street, Singapore 069184",
+      "lat": 1.2804903,
+      "lng": 103.8448118,
+      "why": "부드러운 닭고기와 닭 육수로 지은 밥이 특징인 치킨라이스 대표 노점입니다. 반 마리를 시켜 나눠 먹는 방법을 미쉐린도 추천합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 싱가포르 빕 구르망",
+          "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/tian-tian-hainanese-chicken-rice"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "월요일 휴무, 화~일 10:00–20:00. 점심 피크에는 대기가 깁니다."
+    },
+    {
+      "name": "J2 커리퍼프 (아모이 스트리트 푸드센터)",
+      "nameLocal": "J2 Famous Crispy Curry Puff",
+      "type": "bakery",
+      "cuisine": "커리퍼프",
+      "area": "탄종파가·차이나타운",
+      "address": "Amoy Street Food Centre, #01-21, 7 Maxwell Road, Singapore 069111",
+      "why": "바삭한 패스트리 안에 치킨 감자, 블랙페퍼 치킨, 타로, 칠리 정어리 등 네 가지 소를 채운 커리퍼프 노점입니다. 간식이나 아침으로 사 가기 좋습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 싱가포르 빕 구르망",
+          "url": "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/j2-famous-crispy-curry-puff"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "평일 08:00–15:00만 영업하고 주말은 쉽니다. 현금 결제.",
+      "lat": 1.279324,
+      "lng": 103.846577,
+      "geoSource": "osm"
+    },
+    {
+      "name": "야쿤 카야토스트 파이스트스퀘어 본점",
+      "nameLocal": "Ya Kun Kaya Toast (Far East Square)",
+      "type": "cafe",
+      "cuisine": "카야 토스트 · 코피(커피)",
+      "area": "텔록아이어·차이나타운",
+      "address": "18 China Street, #01-01 Far East Square, Singapore 049560",
+      "why": "1944년 시작된 싱가포르 대표 아침 메뉴 '카야 토스트+반숙란+코피' 세트로 유명한 곳입니다. 파이스트스퀘어 점포가 브랜드의 원조 자리를 이은 매장입니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "영문 위키백과 등재(1944년 창업, 국내외 70여 개 매장)",
+          "url": "https://en.wikipedia.org/wiki/Ya_Kun_Kaya_Toast"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "아침 시간대에 현지 직장인으로 붐빕니다."
+    }
+  ],
+  "spots": [
+    {
+      "name": "가든스 바이 더 베이",
+      "nameLocal": "Gardens by the Bay",
+      "kind": "nature",
+      "address": "18 Marina Gardens Drive, Singapore 018953",
+      "lat": 1.28472222,
+      "lng": 103.865,
+      "why": "슈퍼트리 그로브와 플라워 돔·클라우드 포레스트 온실이 있는 싱가포르 대표 명소로, 저녁 조명 쇼 '가든 랩소디'가 인기입니다."
+    },
+    {
+      "name": "마리나 베이 샌즈 스카이파크",
+      "nameLocal": "Marina Bay Sands SkyPark Observation Deck",
+      "kind": "landmark",
+      "address": "Marina Bay Sands Hotel Tower 3, 10 Bayfront Avenue, Singapore 018956",
+      "lat": 1.2825,
+      "lng": 103.86,
+      "why": "57층 전망대에서 마리나베이와 도심 스카이라인을 내려다볼 수 있어 야경 명소로 꼽힙니다."
+    },
+    {
+      "name": "멀라이언 파크",
+      "nameLocal": "Merlion Park",
+      "kind": "landmark",
+      "address": "1 Fullerton Road, Singapore 049213",
+      "lat": 1.2869646,
+      "lng": 103.8544639,
+      "why": "싱가포르의 상징 멀라이언 상과 마리나 베이 샌즈를 한 프레임에 담는 기념사진 명소입니다."
+    },
+    {
+      "name": "주얼 창이",
+      "nameLocal": "Jewel Changi Airport",
+      "kind": "shopping",
+      "address": "78 Airport Boulevard, Singapore 819666",
+      "lat": 1.3602243,
+      "lng": 103.9896749,
+      "why": "세계 최대 실내 폭포 '레인 보텍스'가 있는 공항 복합몰로, 출국 전 쇼핑과 식사를 함께 해결할 수 있습니다."
+    },
+    {
+      "name": "무스타파 센터",
+      "nameLocal": "Mustafa Centre",
+      "kind": "shopping",
+      "address": "145 Syed Alwi Road, Singapore 207704",
+      "lat": 1.3101174,
+      "lng": 103.8553229,
+      "why": "리틀인디아의 24시간 대형 쇼핑센터로, 초콜릿·과자·향신료 등 기념품을 저렴하게 사 가는 곳입니다."
+    },
+    {
+      "name": "하지 레인",
+      "nameLocal": "Haji Lane",
+      "kind": "street",
+      "address": "Haji Lane, Kampong Glam, Singapore 189248",
+      "lat": 1.3012268,
+      "lng": 103.8587337,
+      "why": "벽화와 편집숍, 카페가 모인 캄퐁글램의 좁은 골목으로, 술탄 모스크와 함께 둘러보며 사진을 남기기 좋습니다."
+    }
+  ]
+}

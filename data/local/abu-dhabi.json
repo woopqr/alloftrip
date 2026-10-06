@@ -1,0 +1,272 @@
+{
+  "slug": "abu-dhabi",
+  "food": [
+    {
+      "name": "하카산 아부다비 (에미레이트 팰리스)",
+      "nameLocal": "Hakkasan Abu Dhabi",
+      "type": "restaurant",
+      "cuisine": "모던 광둥 요리",
+      "area": "알 라스 알 아크다르 (에미레이트 팰리스)",
+      "address": "Emirates Palace Mandarin Oriental, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi, UAE",
+      "why": "에미레이트 팰리스 안의 미쉐린 1스타 중식당입니다. 베이징 덕, 꿀 소스 칠레 농어, 프리미엄 딤섬이 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 2026 1스타",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurant/hakkasan-514821"
+        },
+        {
+          "kind": "award",
+          "label": "FACT Dining Awards 아부다비 2026 후보(팬아시안·야외 다이닝)",
+          "url": "https://diningawards.factmagazines.com/fact-dining-awards-abu-dhabi-2026-nominees/"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "디너 위주 영업, 딤섬은 토요일 점심에만 운영합니다. 예약 권장.",
+      "lat": 24.462205,
+      "lng": 54.318397,
+      "geoSource": "osm"
+    },
+    {
+      "name": "탈레아 바이 안토니오 귀다",
+      "nameLocal": "Talea by Antonio Guida",
+      "type": "restaurant",
+      "cuisine": "이탈리안",
+      "area": "알 라스 알 아크다르 (에미레이트 팰리스)",
+      "address": "Emirates Palace Mandarin Oriental, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi, UAE",
+      "lat": 24.4625137,
+      "lng": 54.316228,
+      "why": "밀라노 출신 셰프 안토니오 귀다의 '가정식 이탈리안'을 내세운 미쉐린 1스타입니다. 랍스터 링귀네와 호텔 정원 꿀로 만든 디저트 '미엘레 에 폴리네'가 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 2026 1스타",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurant/talea-by-antonio-guida"
+        },
+        {
+          "kind": "award",
+          "label": "FACT Dining Awards 아부다비 2026 이탈리안 부문 후보",
+          "url": "https://diningawards.factmagazines.com/fact-dining-awards-abu-dhabi-2026-nominees/"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "화·수요일 휴무, 점심은 주말(토·일)만 운영합니다."
+    },
+    {
+      "name": "에르스 (카스르 알 호스느)",
+      "nameLocal": "Erth Restaurant",
+      "type": "restaurant",
+      "cuisine": "모던 에미라티 요리",
+      "area": "알 호스느 (다운타운)",
+      "address": "Qasr Al Hosn cultural site (North Parking), Al Hosn, Abu Dhabi, UAE",
+      "why": "아부다비에서 가장 오래된 건축물인 카스르 알 호스느 단지 안에 있는 미쉐린 1스타 에미라티 레스토랑입니다. 데리야키풍으로 천천히 익힌 양고기 마크부스와 리와 대추야자 디저트가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 2026 1스타",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurant/erth"
+        },
+        {
+          "kind": "award",
+          "label": "FACT Dining Awards 아부다비 2026 에미라티·조식 부문 후보",
+          "url": "https://diningawards.factmagazines.com/fact-dining-awards-abu-dhabi-2026-nominees/"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "매일 12:00–23:00 영업. 예약은 레스토랑에 직접 연락해야 합니다(+971 58 600 6922).",
+      "lat": 24.483855,
+      "lng": 54.356668,
+      "geoSource": "osm"
+    },
+    {
+      "name": "카페 밀라노 (포시즌스 알 마리야 아일랜드)",
+      "nameLocal": "Cafe Milano, Four Seasons Hotel Abu Dhabi at Al Maryah Island",
+      "type": "restaurant",
+      "cuisine": "이탈리안",
+      "area": "알 마리야 아일랜드",
+      "address": "Level 1, The Galleria Luxury Collection, Four Seasons Hotel Abu Dhabi at Al Maryah Island, Abu Dhabi, UAE",
+      "why": "워싱턴 D.C. 명소의 아부다비 지점으로, 미쉐린 가이드에 선정된 이탈리안입니다. 이탈리아 셰프가 만드는 수제 파스타가 강점이며 테라스에서 수변 전망을 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 2026 선정(셀렉티드)",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurant/cafe-milano"
+        },
+        {
+          "kind": "award",
+          "label": "FACT Dining Awards 아부다비 2026 이탈리안 부문 후보",
+          "url": "https://diningawards.factmagazines.com/fact-dining-awards-abu-dhabi-2026-nominees/"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "갤러리아 쇼핑과 묶어 방문하기 좋습니다. OpenTable 예약 가능."
+    },
+    {
+      "name": "3필스 아부다비",
+      "nameLocal": "3Fils Abu Dhabi",
+      "type": "restaurant",
+      "cuisine": "모던 일식·아시안",
+      "area": "알 바틴 (아부다비 에디션)",
+      "address": "The Abu Dhabi EDITION, Al Bateen Marina, Al Bateen, Abu Dhabi, UAE",
+      "lat": 24.4524199,
+      "lng": 54.3365533,
+      "why": "두바이 인기 레스토랑의 아부다비 지점으로, 미쉐린 2026에서 빕 구르망과 '올해의 오프닝' 상을 받았습니다. 숯불 영계구이, 사시미, 초콜릿 디저트 'Take Me To The Moon'이 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 2026 빕 구르망 · 올해의 오프닝 상",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurants"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 레스토랑 상세",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurant/3fils-abu-dhabi"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "주류는 제공하지 않습니다. 예약은 레스토랑에 직접 연락(+971 56 591 1772)."
+    },
+    {
+      "name": "알 마르잡",
+      "nameLocal": "Al Mrzab Restaurant",
+      "type": "restaurant",
+      "cuisine": "에미라티 가정식",
+      "area": "에어포트 로드 (시내)",
+      "address": "Airport Road (Sheikh Rashid Bin Saeed Street), Abu Dhabi, UAE",
+      "why": "미쉐린 빕 구르망에 꾸준히 이름을 올린 현지인 맛집입니다. 주문 즉시 튀겨 꿀을 뿌린 쌀가루 도넛 '칸파루시'와 에미라티 아침 메뉴가 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 2026 빕 구르망",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurants"
+        },
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 아부다비 레스토랑 상세",
+          "url": "https://guide.michelin.com/us/en/abu-dhabi-emirate/abu-dhabi/restaurant/al-mrzab"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "매일 07:00–23:00. 손님이 많아 대기가 생기며, 주류는 없습니다.",
+      "lat": 24.456907,
+      "lng": 54.382693,
+      "geoSource": "osm"
+    },
+    {
+      "name": "르 카페 (에미레이트 팰리스 금가루 카푸치노)",
+      "nameLocal": "Le Café, Emirates Palace Mandarin Oriental",
+      "type": "cafe",
+      "cuisine": "카페·애프터눈 티",
+      "area": "알 라스 알 아크다르 (에미레이트 팰리스)",
+      "address": "Emirates Palace Mandarin Oriental, West Corniche Road, Al Ras Al Akhdar, Abu Dhabi, UAE",
+      "why": "금박을 뿌린 '팰리스 카푸치노'로 한국 여행자 사이에서도 '금가루 커피'로 유명한 호텔 라운지 카페입니다. 낙타유로 만든 카멜치노와 애프터눈 티도 함께 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "media",
+          "label": "시사포커스 「금가루 커피로 유명한 아부다비 에미리트 팰리스 호텔」(2024)",
+          "url": "https://www.sisafocus.co.kr/news/articleView.html?idxno=314882"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "호텔은 목적 없는 방문객 입장을 제한하므로 르 카페 예약 후 방문하는 편이 안전합니다."
+    },
+    {
+      "name": "카페 지노리 (세인트 레지스 사디야트)",
+      "nameLocal": "Café Ginori, The St. Regis Saadiyat Island Resort",
+      "type": "cafe",
+      "cuisine": "이탈리안 카페·애프터눈 티",
+      "area": "사디야트 아일랜드",
+      "address": "The St. Regis Saadiyat Island Resort, Saadiyat Island, Abu Dhabi, UAE",
+      "why": "이탈리아 도자기 브랜드 지노리 1735와 세인트 레지스가 만든 중동 첫 카페입니다. 지노리 도자기에 담겨 나오는 애프터눈 티와 스폴리아텔라·카놀리 같은 이탈리아 디저트가 인기입니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "FACT Dining Awards 아부다비 2026 애프터눈 티 부문 후보",
+          "url": "https://diningawards.factmagazines.com/fact-dining-awards-abu-dhabi-2026-nominees/"
+        },
+        {
+          "kind": "media",
+          "label": "dscvr.ae 중동 첫 카페 지노리 오픈 기사(2025)",
+          "url": "https://dscvr.ae/dining/the-regions-first-cafe-ginori-opens-in-abu-dhabi/"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "매일 09:00–23:00 영업. 바다 전망 좌석이 있으며 매장에서 지노리 도자기도 구매할 수 있습니다.",
+      "lat": 24.539254,
+      "lng": 54.425062,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "셰이크 자이드 그랜드 모스크",
+      "nameLocal": "Sheikh Zayed Grand Mosque",
+      "kind": "landmark",
+      "address": "Sheikh Rashid Bin Saeed Street, Al Rawdah, Abu Dhabi, UAE",
+      "why": "흰 대리석과 82개 돔이 어우러진 세계 최대급 모스크로, 아부다비 여행에서 가장 먼저 꼽히는 명소입니다(노출 없는 복장 필수).",
+      "lat": 24.418308,
+      "lng": 54.475391,
+      "geoSource": "osm"
+    },
+    {
+      "name": "루브르 아부다비",
+      "nameLocal": "Louvre Abu Dhabi",
+      "kind": "landmark",
+      "address": "Saadiyat Cultural District, Saadiyat Island, Abu Dhabi, UAE",
+      "why": "장 누벨의 '빛의 비' 돔 아래에서 세계 미술사를 한 번에 볼 수 있는 미술관으로, 사디야트 리조트에서 가깝습니다(월요일 휴관).",
+      "lat": 24.533681,
+      "lng": 54.398606,
+      "geoSource": "osm"
+    },
+    {
+      "name": "팀랩 페노메나 아부다비",
+      "nameLocal": "teamLab Phenomena Abu Dhabi",
+      "kind": "experience",
+      "address": "Saadiyat Cultural District, Saadiyat Island, Abu Dhabi, UAE",
+      "why": "도쿄 팀랩의 대형 몰입형 미디어아트 전시관으로, 루브르와 함께 사디야트 문화 지구에서 묶어 방문하기 좋습니다.",
+      "lat": 24.52747,
+      "lng": 54.405032,
+      "geoSource": "osm"
+    },
+    {
+      "name": "카스르 알 와탄 (대통령궁)",
+      "nameLocal": "Qasr Al Watan",
+      "kind": "landmark",
+      "address": "Al Ras Al Akhdar, Abu Dhabi, UAE (next to Emirates Palace Mandarin Oriental)",
+      "why": "35만 개 크리스털 샹들리에와 거대한 돔 홀을 갖춘 실제 대통령궁으로, 에미레이트 팰리스와 바로 이웃해 함께 둘러보기 좋습니다.",
+      "lat": 24.462588,
+      "lng": 54.306829,
+      "geoSource": "osm"
+    },
+    {
+      "name": "페라리 월드 아부다비 (야스 아일랜드)",
+      "nameLocal": "Ferrari World Abu Dhabi",
+      "kind": "experience",
+      "address": "Yas Leisure Drive, Yas Island, Abu Dhabi, UAE",
+      "why": "세계 최고속급 롤러코스터 '포뮬러 로사'가 있는 실내 테마파크로, 야스 워터월드·워너브라더스 월드와 함께 야스 아일랜드 일정의 중심입니다.",
+      "lat": 24.486133,
+      "lng": 54.608098,
+      "geoSource": "osm"
+    },
+    {
+      "name": "더 갤러리아 알 마리야 아일랜드",
+      "nameLocal": "The Galleria Al Maryah Island",
+      "kind": "shopping",
+      "address": "Al Maryah Island, Abu Dhabi, UAE",
+      "why": "명품 부티크와 수변 레스토랑이 모인 아부다비 대표 럭셔리 쇼핑몰로, 포시즌스·로즈우드 호텔과 연결돼 있습니다.",
+      "lat": 24.501449,
+      "lng": 54.389055,
+      "geoSource": "osm"
+    },
+    {
+      "name": "코니시 비치",
+      "nameLocal": "Corniche Beach (Abu Dhabi Corniche)",
+      "kind": "nature",
+      "address": "Corniche Road West, Abu Dhabi, UAE",
+      "why": "도심 스카이라인을 배경으로 약 8km 해안 산책로와 블루 플래그 해변이 이어져, 해 질 녘 산책과 자전거 코스로 인기입니다.",
+      "lat": 24.47678,
+      "lng": 54.3206,
+      "geoSource": "osm"
+    }
+  ]
+}

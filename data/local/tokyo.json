@@ -1,0 +1,260 @@
+{
+  "slug": "tokyo",
+  "food": [
+    {
+      "name": "덴푸라 콘도 긴자",
+      "nameLocal": "てんぷら近藤 (Tempura Kondo)",
+      "type": "restaurant",
+      "cuisine": "에도마에 덴푸라 오마카세",
+      "area": "긴자",
+      "address": "9F, 5-5-13 Ginza, Chuo-ku, Tokyo 104-0061",
+      "why": "곤도 후미오 셰프가 채소 덴푸라를 끌어올린 카운터 덴푸라집으로, 고구마·당근 덴푸라와 제철 생선 튀김이 대표 메뉴입니다. 미쉐린 2스타를 받은 긴자의 대표 덴푸라 명가입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 도쿄 2스타",
+          "url": "https://guide.michelin.com/us/en/tokyo-region/tokyo/restaurant/tempura-kondo"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "예약 필수. 미쉐린 기준 월~토 점심(12:00~15:00) 영업, 일요일 휴무이니 방문 전 공식 사이트에서 영업시간을 확인하세요.",
+      "lat": 35.670593,
+      "lng": 139.763494,
+      "geoSource": "osm"
+    },
+    {
+      "name": "노다이와 아자부이이쿠라 본점",
+      "nameLocal": "野田岩 麻布飯倉本店 (Nodaiwa Azabu Iikura Honten)",
+      "type": "restaurant",
+      "cuisine": "장어 덮밥·장어구이",
+      "area": "아자부다이·롯폰기",
+      "address": "1-5-4 Higashiazabu, Minato-ku, Tokyo 106-0044",
+      "why": "에도 시대부터 이어진 장어 전문점으로, 양념 없이 굽는 시라야키와 대대로 이어온 소스의 가바야키·우나주가 대표 메뉴입니다. 5대째 주인 가네모토 겐지로 셰프는 미쉐린 2026 멘토 셰프상을 받았습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 도쿄 1스타",
+          "url": "https://guide.michelin.com/us/en/tokyo-region/tokyo/restaurant/nodaiwa-azabu-Iikura-honten-1194124"
+        },
+        {
+          "kind": "award",
+          "label": "미쉐린 가이드 도쿄 2026 멘토 셰프상(가네모토 겐지로)",
+          "url": "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/michelin-guide-tokyo-2026-stars-reveal"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "미쉐린 기준 점심 위주 영업(평일 11:00~13:30, 토 11:00~14:00), 일요일 휴무. 아자부다이힐스·도라노몬 호텔에서 가깝습니다.",
+      "lat": 35.656266,
+      "lng": 139.740169,
+      "geoSource": "osm"
+    },
+    {
+      "name": "주카소바 긴자 하치고",
+      "nameLocal": "銀座 八五 (Chukasoba Ginza Hachigou)",
+      "type": "restaurant",
+      "cuisine": "프렌치 기법의 쇼유 라멘",
+      "area": "긴자(히가시긴자)",
+      "address": "1F Daiichi Hanabusa Bldg, 3-14-2 Ginza, Chuo-ku, Tokyo 104-0061",
+      "why": "프렌치 콩소메처럼 맑게 뽑은 국물에 하몽의 짠맛을 더한 '한 그릇 코스' 같은 라멘으로, 푸아그라·트러플 완탕을 올린 메뉴가 유명합니다. 미쉐린 1스타를 두 번 받았고 현재 빕 구르망에 올라 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 도쿄 빕 구르망",
+          "url": "https://guide.michelin.com/us/en/tokyo-region/tokyo/restaurant/chukasoba-ginza-hachigo"
+        },
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.93 · 리뷰 2,532건 · 라멘 TOKYO 백명점 2019~2025",
+          "url": "https://tabelog.com/en/tokyo/A1301/A130101/13228602/"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "점심 장사(11:00~16:00)만 하며 월요일(부정기 화요일) 휴무. 오픈 전부터 줄이 생기니 일찍 가세요.",
+      "lat": 35.672013,
+      "lng": 139.76472,
+      "geoSource": "osm"
+    },
+    {
+      "name": "후운지 신주쿠 본점",
+      "nameLocal": "風雲児 新宿本店 (Fuunji)",
+      "type": "restaurant",
+      "cuisine": "닭·어패류 츠케멘",
+      "area": "신주쿠(미나미신주쿠)",
+      "address": "B1F Hokuto Daiichi Bldg, 2-14-3 Yoyogi, Shibuya-ku, Tokyo 151-0053",
+      "why": "닭을 8시간 끓인 진한 국물에 어패류 육수를 더한 츠케멘 전문점으로, 대표 메뉴는 토쿠세이 츠케멘입니다. 신주쿠역 남쪽 출구 근처라 여행자 줄이 늘 있지만 회전이 빠릅니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.76 · 리뷰 5,401건 · 라멘 TOKYO 백명점 2025",
+          "url": "https://tabelog.com/13044091/A1304/A130401/13044091/dtlratings/"
+        },
+        {
+          "kind": "award",
+          "label": "타베로그 라멘 TOKYO 백명점 2025 선정",
+          "url": "https://award.tabelog.com/hyakumeiten/ramen_tokyo"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "11:00~15:00, 17:00~21:00 영업, 카운터 15석. 면 곱빼기가 무료입니다.",
+      "lat": 35.68689,
+      "lng": 139.696686,
+      "geoSource": "osm"
+    },
+    {
+      "name": "우메가오카 스시노미도리 긴자점",
+      "nameLocal": "梅丘寿司の美登利総本店 銀座店",
+      "type": "restaurant",
+      "cuisine": "스시",
+      "area": "긴자",
+      "address": "1F Tokyo Kosoku Doro Yamashita Bldg, 8-3 Ginza, Chuo-ku, Tokyo 104-0061",
+      "why": "합리적인 가격에 큼직한 네타의 스시 세트를 내는 집으로, 한국 여행자 사이에서 '미도리스시'로 불리는 도쿄 대표 가성비 스시집입니다. 니기리 세트 메뉴가 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.52 · 리뷰 964건",
+          "url": "https://tabelog.com/en/tokyo/A1301/A130101/13004995/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "평일 11:00~15:00, 17:00~21:00 / 주말 11:00~21:00. 웨이팅이 길어 TableCheck 예약이나 오픈 직후 방문을 권합니다.",
+      "lat": 35.672013,
+      "lng": 139.76472,
+      "geoSource": "osm"
+    },
+    {
+      "name": "센트레 더 베이커리 긴자",
+      "nameLocal": "CENTRE THE BAKERY (セントル ザ・ベーカリー)",
+      "type": "bakery",
+      "cuisine": "식빵·샌드위치",
+      "area": "긴자(긴자잇초메)",
+      "address": "1F Tokyo Kosoku Doro Konya Bldg, 1-2-1 Ginza, Chuo-ku, Tokyo 104-0061",
+      "why": "긴자잇초메의 식빵 전문점으로, 굽지 않고 먹는 각식빵과 토스트용 영국식 식빵, 과일 샌드위치가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.85 · 리뷰 2,891건",
+          "url": "https://tabelog.com/en/tokyo/A1301/A130101/13157424/"
+        },
+        {
+          "kind": "award",
+          "label": "타베로그 빵 TOKYO 백명점 2026 선정",
+          "url": "https://award.tabelog.com/hyakumeiten/bread_tokyo"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "9:00~18:00, 현금만 가능. 식빵은 1인 3개 한정이고 품절되면 일찍 문을 닫습니다. 화요일은 빵 판매만 합니다.",
+      "lat": 35.672013,
+      "lng": 139.76472,
+      "geoSource": "osm"
+    },
+    {
+      "name": "에쉬레 메종 뒤 뵈르 마루노우치",
+      "nameLocal": "ÉCHIRÉ MAISON DU BEURRE (エシレ・メゾン デュ ブール)",
+      "type": "bakery",
+      "cuisine": "버터 크루아상·피낭시에",
+      "area": "마루노우치",
+      "address": "1F Marunouchi Brick Square, 2-6-1 Marunouchi, Chiyoda-ku, Tokyo",
+      "why": "프랑스 AOP 발효 버터 에쉬레의 세계 첫 전문점으로, 에쉬레 버터를 듬뿍 쓴 크루아상과 피낭시에·마들렌을 사려는 줄이 아침부터 이어집니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.79 · 리뷰 2,586건",
+          "url": "https://tabelog.com/en/tokyo/A1302/A130201/13096439/"
+        },
+        {
+          "kind": "award",
+          "label": "타베로그 스위츠 TOKYO 백명점 2026 선정",
+          "url": "https://award.tabelog.com/hyakumeiten/sweets_tokyo"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "10:00~19:00, 포장만 가능. 크루아상은 오전에 품절되는 날이 많습니다.",
+      "lat": 35.67907,
+      "lng": 139.765299,
+      "geoSource": "osm"
+    },
+    {
+      "name": "시세이도 팔러 긴자 본점 살롱 드 카페",
+      "nameLocal": "資生堂パーラー 銀座本店 サロン・ド・カフェ",
+      "type": "dessert",
+      "cuisine": "제철 과일 파르페",
+      "area": "긴자",
+      "address": "3F Tokyo Ginza Shiseido Bldg, 8-8-3 Ginza, Chuo-ku, Tokyo 104-0061",
+      "why": "1902년 긴자에서 시작한 시세이도 팔러 본점의 카페로, 계절마다 바뀌는 제철 과일 파르페가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "타베로그 3.51 · 리뷰 975건",
+          "url": "https://tabelog.com/en/tokyo/A1301/A130103/13004937/"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "화~토 11:00~21:00, 일·공휴일 11:00~20:00, 월요일 휴무(공휴일 제외). 예약을 받지 않아 주말엔 대기가 있습니다.",
+      "lat": 35.674008,
+      "lng": 139.772141,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "메가 돈키호테 시부야 본점",
+      "nameLocal": "MEGA ドン・キホーテ 渋谷本店",
+      "kind": "shopping",
+      "address": "28-6 Udagawacho, Shibuya-ku, Tokyo 150-0042",
+      "why": "24시간 영업하는 대형 돈키호테로, 의약품·화장품·과자 기념품을 면세로 한 번에 살 수 있어 한국 여행자들이 꼭 들르는 곳입니다.",
+      "lat": 35.660447,
+      "lng": 139.697841,
+      "geoSource": "osm"
+    },
+    {
+      "name": "시부야 스카이",
+      "nameLocal": "SHIBUYA SKY (渋谷スクランブルスクエア)",
+      "kind": "landmark",
+      "address": "14F/45F–Rooftop Shibuya Scramble Square, 2-24-12 Shibuya, Shibuya-ku, Tokyo 150-0002",
+      "why": "높이 약 230m 옥상 전망대에서 스크램블 교차로와 도쿄 야경을 한눈에 볼 수 있어, 일몰 시간대 예약이 가장 먼저 마감됩니다.",
+      "lat": 35.658379,
+      "lng": 139.702216,
+      "geoSource": "osm"
+    },
+    {
+      "name": "시부야 스크램블 교차로",
+      "nameLocal": "渋谷スクランブル交差点",
+      "kind": "street",
+      "address": "In front of Shibuya Station Hachiko Exit, 2-2 Dogenzaka, Shibuya-ku, Tokyo 150-0043",
+      "why": "신호가 바뀔 때마다 수천 명이 동시에 건너는 도쿄의 상징적인 풍경으로, 하치코 동상과 함께 시부야 여행의 출발점입니다.",
+      "lat": 35.659495,
+      "lng": 139.700498,
+      "geoSource": "osm"
+    },
+    {
+      "name": "츠키지 장외시장",
+      "nameLocal": "築地場外市場 (Tsukiji Outer Market)",
+      "kind": "market",
+      "address": "4-16-2 Tsukiji, Chuo-ku, Tokyo 104-0045 (Plat Tsukiji information centre)",
+      "why": "긴자에서 걸어갈 수 있는 수산 시장 거리로, 아침에 계란말이·참치 꼬치·해산물 덮밥을 맛보러 많이 찾습니다. 가게마다 영업시간이 달라 오전 방문이 좋습니다.",
+      "lat": 35.665091,
+      "lng": 139.770828,
+      "geoSource": "osm"
+    },
+    {
+      "name": "팀랩 보더리스 아자부다이힐스",
+      "nameLocal": "森ビル デジタルアート ミュージアム：エプソン チームラボボーダレス",
+      "kind": "experience",
+      "address": "B1 Azabudai Hills Garden Plaza B, 1-2-4 Azabudai, Minato-ku, Tokyo 106-0041",
+      "why": "작품이 방을 넘나들며 움직이는 몰입형 디지털 아트 뮤지엄으로, 사진 명소로 유명해 사전 예매가 필요합니다. 아자부다이·롯폰기 호텔에서 가깝습니다.",
+      "lat": 35.662002,
+      "lng": 139.743418,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아사쿠사 센소지",
+      "nameLocal": "浅草寺 (Senso-ji)",
+      "kind": "landmark",
+      "address": "2-3-1 Asakusa, Taito-ku, Tokyo 111-0032",
+      "why": "도쿄에서 가장 오래된 사찰로, 가미나리몬의 대형 등과 나카미세 거리의 길거리 간식이 한국 여행자들의 필수 코스입니다.",
+      "lat": 35.717597,
+      "lng": 139.797563,
+      "geoSource": "osm"
+    }
+  ]
+}
