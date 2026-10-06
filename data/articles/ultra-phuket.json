@@ -1,0 +1,575 @@
+{
+  "slug": "ultra-phuket",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "푸켓",
+  "citySlug": "phuket",
+  "cityId": 16056,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16056",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[푸켓] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 푸켓 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 58%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>로즈우드 푸켓</b>입니다 (평점 9.1 · 리뷰 247건 · 1박 약 239만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 19,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 11,
+        "pct": 58
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 5,
+        "pct": 26
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 16
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/2838322/0/0624cc0b1b921df4acf51e93466668cd.jpeg?ce=3",
+  "heroAlt": "푸켓 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "로즈우드 푸켓 (Rosewood Phuket)",
+      "agodaUrl": "https://www.agoda.com/rosewood-phuket_3/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2838322/0/0624cc0b1b921df4acf51e93466668cd.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 247,
+      "reviewCountFmt": "리뷰 247건",
+      "priceText": "₩₩₩ · 1박 약 239만원",
+      "walkMin": 103,
+      "refLabel": "미니버스정류장",
+      "star": 5,
+      "propertyId": 2838322,
+      "priceKRW": 2394813,
+      "priceStatus": "조회됨",
+      "distanceM": 8206.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "빠통 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 247건. 미니버스정류장까지 도보 103분, ₩₩₩ · 1박 약 239만원. 연인·커플 리뷰 비중 50%.",
+      "metaTags": [
+        "💰 1박 약 239만원",
+        "📝 리뷰 247건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 50,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 50,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 50,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "긴장을 풀고 조용한 탈출을 즐기기에 완벽한 장소입니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "따뜻하고 전문적인 서비스!",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.09",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "빌라 반 푸 프라나 (Villa Baan Phu Prana)",
+      "agodaUrl": "https://www.agoda.com/villa-baan-phu-prana/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/296788/0/69be792179a037b6d73b2b421acecbcd.jpeg?ce=0",
+      "score": 9,
+      "reviewCount": 287,
+      "reviewCountFmt": "리뷰 287건",
+      "priceText": "₩₩₩ · 1박 약 201만원",
+      "walkMin": 24,
+      "refLabel": "푸켓 판타 씨",
+      "star": 5,
+      "propertyId": 296788,
+      "priceKRW": 2007401,
+      "priceStatus": "조회됨",
+      "distanceM": 1944.31,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "카말라 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 287건. 푸켓 판타 씨까지 도보 24분, ₩₩₩ · 1박 약 201만원.",
+      "metaTags": [
+        "💰 1박 약 201만원",
+        "📝 리뷰 287건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "내가 머물렀던 최고의 빌라 중 하나라면",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "환상적인 빌라",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Trisara Villas & Residences Phuket",
+      "agodaUrl": "https://www.agoda.com/trisara-sha-plus_2/hotel/all/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/361751114.jpg?k=cf34be186e1fa1874365841c81800c1f5ed9a25699a1fa6f89461ba0c32ca5bd&o=",
+      "score": 8.8,
+      "reviewCount": 135,
+      "reviewCountFmt": "리뷰 135건",
+      "priceText": "₩₩₩ · 1박 약 189만원",
+      "walkMin": 116,
+      "refLabel": "푸켓 판타 씨",
+      "star": 5,
+      "propertyId": 3073929,
+      "priceKRW": 1892189,
+      "priceStatus": "조회됨",
+      "distanceM": 9292.44,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 135건. 푸켓 판타 씨까지 도보 116분, ₩₩₩ · 1박 약 189만원.",
+      "metaTags": [
+        "💰 1박 약 189만원",
+        "📝 리뷰 135건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "V 빌라 푸켓 - 엠갤러리 (V Villas Phuket - Mgallery)",
+      "agodaUrl": "https://www.agoda.com/v-villas-phuket-mgallery/hotel/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/920377739.jpg?k=b22cadc1aade37f6647bc6b55771c9a46d5f98018a08f2358392fb17c8daa665&o=",
+      "score": 9.2,
+      "reviewCount": 308,
+      "reviewCountFmt": "리뷰 308건",
+      "priceText": "₩₩₩ · 1박 약 172만원",
+      "walkMin": 96,
+      "refLabel": "푸켓타운 제1 로컬 버스 터미널",
+      "star": 5,
+      "propertyId": 17641654,
+      "priceKRW": 1724265,
+      "priceStatus": "조회됨",
+      "distanceM": 7687.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 308건. 푸켓타운 제1 로컬 버스 터미널까지 도보 96분, ₩₩₩ · 1박 약 172만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 172만원",
+        "📝 리뷰 308건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Qwan 집사는 예외적이었고 우리를 잘 보살펴주었습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "아마도 얻을 수 있는 최선일 것입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "레스토랑의 Dana는 매우 도움이 되고 정중했습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 편안함",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "정말 놀라운 서비스!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 수린 푸켓 (The Surin Phuket)",
+      "agodaUrl": "https://www.agoda.com/the-surin-phuket/hotel/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/187902096.jpg?k=d54d56683f4fe5e7e2471a9343dcac08d6c5e9493b7af1bfb157e5018d7433fa&o=",
+      "score": 9.1,
+      "reviewCount": 1376,
+      "reviewCountFmt": "리뷰 1,376건",
+      "priceText": "₩₩₩ · 1박 약 134만원",
+      "walkMin": 36,
+      "refLabel": "푸켓 판타 씨",
+      "star": 5,
+      "propertyId": 10936,
+      "priceKRW": 1338535,
+      "priceStatus": "조회됨",
+      "distanceM": 2874.02,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "카말라 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,376건. 푸켓 판타 씨까지 도보 36분, ₩₩₩ · 1박 약 134만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 134만원",
+        "📝 리뷰 1,376건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "수영장은 우리가 예상했던 것보다 실제 생활에서 더 좋고 더 큽니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "바다가 내려다보이는 멋지고 넓은 전용 빌라",
+          "score": "8",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전용 해변은 우리 경험의 큰 하이라이트였습니다.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "전용 해변으로 바로 연결되는 놀라운 바다 전망.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "낭만적인 휴가를 위해 꼭 추천해 드립니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "파레사 리조트 푸켓 (Paresa Resort Phuket)",
+      "agodaUrl": "https://www.agoda.com/paresa-resort-phuket/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/159289/0/bb8b23d2c81acd95d05a95e12003c602.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 1816,
+      "reviewCountFmt": "리뷰 1,816건",
+      "priceText": "₩₩₩ · 1박 약 97만원",
+      "walkMin": 46,
+      "refLabel": "푸켓 판타 씨",
+      "star": 5,
+      "propertyId": 159289,
+      "priceKRW": 972576,
+      "priceStatus": "조회됨",
+      "distanceM": 3675.14,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "빠통 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 1,816건. 푸켓 판타 씨까지 도보 46분, ₩₩₩ · 1박 약 97만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 97만원",
+        "📝 리뷰 1,816건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친절한 직원, 객실은 특히 수영장이 매우 좋았습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "직원분들도 친절하시고 방도 깨끗해요 🙏❤️",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "Paresa는 개조 공사를 거쳤으며 빌라는 꿈입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "뛰어난 직원이 있는 뛰어난 장소를 적극 권장합니다.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "Foodddddd:지금까지 시내 최고입니다(푸켓 5일 여행 기준)",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.06",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-02T06:10:43.277Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-02T06:10:43.277Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Trisara Villas & Residences Phuket: reviewSample"
+      ]
+    }
+  }
+}

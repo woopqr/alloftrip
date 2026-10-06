@@ -1,0 +1,527 @@
+{
+  "slug": "anniversary-maldives",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "몰디브",
+  "citySlug": "maldives",
+  "cityId": 17759,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17759",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[몰디브] 두 사람만을 위한 럭셔리 기념일 리조트",
+  "metaDescription": "2026년 11월 몰디브 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 41%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>아난타라 키하바 몰디브 빌라</b>입니다 (평점 9.5 · 리뷰 189건 · 1박 약 311만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 17,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 41
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 35
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 24
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570630039.jpg?k=35ca21c11ad0d68264d79dd91f004eab9ff16822418381c44c1f36f3f3215950&o=",
+  "heroAlt": "몰디브 기념일 여행 최고급 숙소",
+  "updated": "2026-10-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아난타라 키하바 몰디브 빌라 (Anantara Kihavah Maldives Villas)",
+      "agodaUrl": "https://www.agoda.com/anantara-kihavah-maldives-villas/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570630039.jpg?k=35ca21c11ad0d68264d79dd91f004eab9ff16822418381c44c1f36f3f3215950&o=",
+      "score": 9.5,
+      "reviewCount": 189,
+      "reviewCountFmt": "리뷰 189건",
+      "priceText": "₩₩₩ · 1박 약 311만원",
+      "walkMin": 38,
+      "refLabel": "Four Seasons Voavah Beach",
+      "star": 5,
+      "propertyId": 178294,
+      "priceKRW": 3111921,
+      "priceStatus": "조회됨",
+      "distanceM": 3049.93,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 189건. Four Seasons Voavah Beach까지 도보 38분, ₩₩₩ · 1박 약 311만원.",
+      "metaTags": [
+        "💰 1박 약 311만원",
+        "📝 리뷰 189건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "멋진 해변, 아름다운 천연 산호, 친절한 직원",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "내가 가본 최고의 장소.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.08",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "인터컨티넨탈 몰디브 마무나가우 리조트 위드 클럽 베네핏 바이 IHG (Intercontinental Maldives Maamunagau Resort with Club benefits By IHG)",
+      "agodaUrl": "https://www.agoda.com/intercontinental-maldives-maamunagau-resort/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6890324/-1/67b3debaf8b395b632cddb12031c8190.jpg?va=1&ce=0",
+      "score": 9.7,
+      "reviewCount": 129,
+      "reviewCountFmt": "리뷰 129건",
+      "priceText": "₩₩₩ · 1박 약 323만원",
+      "walkMin": 122,
+      "refLabel": "Heritance Aarah Beach",
+      "star": 5,
+      "propertyId": 6890324,
+      "priceKRW": 3226315,
+      "priceStatus": "조회됨",
+      "distanceM": 9793.71,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.7 · 리뷰 129건. Heritance Aarah Beach까지 도보 122분, ₩₩₩ · 1박 약 323만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 323만원",
+        "📝 리뷰 129건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "내가 스크루바 다이빙을 하기 전에 그것을 말리고 조끼를 나에게 가져오십시오.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "Nonik의 내부와 외부가 모두 아름다워서 매우 특별한 감사를 드립니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "그는 그냥 내 방으로 가서 그것을 집어 들고 올 것입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "그는 너무 다정하고 인내심이 기본적으로 내가 원하는 것은 무엇이든 얻습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭했고 환대가 가득했습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "칸돌루 몰디브 (Kandolhu Maldives)",
+      "agodaUrl": "https://www.agoda.com/kandolhu-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/564118/0/2707cf3a4c76057f14f529d64537bb87.jpg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 118,
+      "reviewCountFmt": "리뷰 118건",
+      "priceText": "₩₩₩ · 1박 약 281만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 564118,
+      "priceKRW": 2806018,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 118건. ₩₩₩ · 1박 약 281만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 281만원",
+        "📝 리뷰 118건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "섬의 레스토랑도 똑같이 인상적입니다.",
+          "score": "9.6",
+          "country": "中国",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "섬과 빌라는 훌륭합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "두 번째로 오기를 기다릴 수 없습니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "나는 이 섬을 꼭 추천하고 싶습니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "이곳을 꼭 추천합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Patina Maldives",
+      "agodaUrl": "https://www.agoda.com/patina-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/67594597/0/caa18abf224d63291484dcd4a860170d.jpeg?va=1&ce=0",
+      "score": 9.7,
+      "reviewCount": 58,
+      "reviewCountFmt": "리뷰 58건",
+      "priceText": "₩₩₩ · 1박 약 311만원",
+      "walkMin": 11,
+      "refLabel": "OBLU by Atmosphere at Helengeli Beach",
+      "star": 5,
+      "propertyId": 67594597,
+      "priceKRW": 3114274,
+      "priceStatus": "조회됨",
+      "distanceM": 911.16,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.7 · 리뷰 58건. OBLU by Atmosphere at Helengeli Beach까지 도보 11분, ₩₩₩ · 1박 약 311만원.",
+      "metaTags": [
+        "💰 1박 약 311만원",
+        "📝 리뷰 58건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "풀만 몰디브 마무타 올-인클루시브 리조트 (Pullman Maldives Maamutaa All-Inclusive Resort)",
+      "agodaUrl": "https://www.agoda.com/pullman-maldives-maamutaa-resort/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9612246/-1/13cbe83c220dbdee6bc4af863a3490d9.jpg?va=1&ca=10&ce=1",
+      "score": 9.1,
+      "reviewCount": 215,
+      "reviewCountFmt": "리뷰 215건",
+      "priceText": "₩₩₩ · 1박 약 241만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 9612246,
+      "priceKRW": 2412071,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 215건. ₩₩₩ · 1박 약 241만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 241만원",
+        "📝 리뷰 215건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "솔라이징: 정말 이 섬 최고의 레스토랑이에요.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "식사: 팀은 귀하의 희망을 충족시키기 위해 최선을 다하고 있습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "특히 그들의 뛰어난 노력에 감사를 표하고 싶습니다.",
+          "score": "8.8",
+          "country": "Qatar",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "올인클루시브는 그 이름에 걸맞게 살았고 관대함을 느꼈습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "부동산은 방대하고 제공할 것이 너무 많습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "JW 메리어트 몰디브 카푸 아톨 아일랜드 리조트 (JW Marriott Maldives Kaafu Atoll Island Resort)",
+      "agodaUrl": "https://www.agoda.com/jw-marriott-maldives-kaafu-atoll-island-resort/hotel/maldive-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/61870202/0/1adb75f4fc5a3af1c63c078558dfd338.jpeg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 93,
+      "reviewCountFmt": "리뷰 93건",
+      "priceText": "₩₩₩ · 1박 약 277만원",
+      "walkMin": 123,
+      "refLabel": "Villingili Public Beach",
+      "star": 5,
+      "propertyId": 61870202,
+      "priceKRW": 2772838,
+      "priceStatus": "조회됨",
+      "distanceM": 9857.41,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 93건. Villingili Public Beach까지 도보 123분, ₩₩₩ · 1박 약 277만원.",
+      "metaTags": [
+        "💰 1박 약 277만원",
+        "📝 리뷰 93건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-02T06:09:40.330Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-02T06:09:40.330Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "칸돌루 몰디브 (Kandolhu Maldives): location",
+        "Patina Maldives: reviewSample",
+        "풀만 몰디브 마무타 올-인클루시브 리조트 (Pullman Maldives Maamutaa All-Inclusive Resort): location",
+        "JW 메리어트 몰디브 카푸 아톨 아일랜드 리조트 (JW Marriott Maldives Kaafu Atoll Island Resort): reviewSample"
+      ]
+    }
+  }
+}

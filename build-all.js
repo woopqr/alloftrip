@@ -9,7 +9,7 @@
  */
 const fs = require('fs');
 const path = require('path');
-const { buildOne, buildSpecial, editorialTitle, editorialDescription, isCurrentOrFuture } = require('./build');
+const { buildOne, buildSpecial, buildMagazine, MAG_KINDS, editorialTitle, editorialDescription, isCurrentOrFuture } = require('./build');
 
 const ROOT = __dirname;
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
@@ -21,7 +21,8 @@ const BASE = `https://${SITE.domain}`;
 // 카테고리 정의(테마 순서 = 노출 순서). 실제 글이 있는 카테고리만 노출.
 // '국내 특별 여행지'(domestic)는 자동 테마가 아닌 에디토리얼 기획 카테고리로 맨 앞에 노출.
 const SPECIALS = path.join(ROOT, 'data/specials');
-const CATS = [{ id: 'celebrity', label: 'Celebrity & Screen', emoji: '🎬' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
+const MAGAZINE = path.join(ROOT, 'data/magazine');
+const CATS = [{ id: 'news', label: '럭셔리 트래블 뉴스', emoji: '📰' }, { id: 'insider', label: '럭셔리 여행 가이드', emoji: '📖' }, { id: 'celebrity', label: '셀럽 & 스크린', emoji: '🎬' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
 
 // 특별기획 글은 이미지가 없으므로 지역명 타이포 카드(SVG data-URI)를 썸네일로 사용
 function specialCardImg(region) {
@@ -41,6 +42,29 @@ function specialMetas() {
   });
 }
 
+// 매거진 카드: 샴페인 골드 타이포 카드(이미지 없음)
+function magazineCardImg(title, kicker) {
+  const esc = v => String(v).replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  const fs_ = /[가-힣]/.test(title) ? 58 : (String(title).length > 8 ? 54 : 64);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141110"/><stop offset="1" stop-color="#3a1219"/></linearGradient></defs><rect width="600" height="400" fill="url(#g)"/><rect x="24" y="24" width="552" height="352" fill="none" stroke="#e2c9a8" stroke-opacity=".45" stroke-width="1.5"/><text x="50%" y="47%" fill="#f6efe1" font-family="Georgia,'Apple SD Gothic Neo','Noto Serif KR',serif" font-size="${fs_}" font-weight="700" text-anchor="middle">${esc(title)}</text><text x="50%" y="62%" fill="#d0606f" font-family="Georgia,serif" font-size="19" letter-spacing="6" text-anchor="middle">${esc(String(kicker).toUpperCase())}</text></svg>`;
+  return 'data:image/svg+xml,' + encodeURIComponent(svg);
+}
+function magazineMetas() {
+  if (!fs.existsSync(MAGAZINE)) return [];
+  return fs.readdirSync(MAGAZINE).filter(f => f.endsWith('.json')).map(f => {
+    const d = JSON.parse(fs.readFileSync(path.join(MAGAZINE, f), 'utf8'));
+    const K = MAG_KINDS[d.kind] || MAG_KINDS.guide;
+    const cat = CATS.find(c => c.id === K.catId);
+    return {
+      slug: d.slug, theme: K.catId, title: d.title, description: d.metaDescription,
+      audience: cat.label, emoji: cat.emoji, city: d.region || '', season: d.region || '', travelMonthLabel: '',
+      heroImg: magazineCardImg(d.cardTitle || d.region || 'All of Trip', d.cardKicker || (d.kind === 'news' ? 'Travel News' : 'Insider')),
+      updated: d.newsDate && d.kind === 'news' ? d.newsDate : (d.updated || ''), sortKey: d.published || d.updated || '',
+    };
+  // 홈 노출 순서: 뉴스(보도일 최신순) → 가이드(발행일 최신순)
+  }).sort((a, b) => (a.theme === 'news' ? 0 : 1) - (b.theme === 'news' ? 0 : 1) || String(b.updated).localeCompare(String(a.updated)) || String(b.sortKey).localeCompare(String(a.sortKey)));
+}
+
 function articleMetas() {
   if (!fs.existsSync(ART)) return [];
   return fs.readdirSync(ART).filter(f => f.endsWith('.json')).map(f => {
@@ -55,7 +79,7 @@ function articleMetas() {
 
 function cardHtml(m) {
   return `      <a class="card" href="/articles/${m.slug}">
-        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy"><span class="ctag">${m.emoji} ${m.audience}</span></div>
+        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy"><span class="ctag">${m.audience}</span></div>
         <div class="cbody"><span class="cmeta">${[m.season, m.travelMonthLabel].filter(Boolean).join(' · ')}</span><h2>${m.title}</h2></div>
       </a>`;
 }
@@ -92,8 +116,8 @@ function pagerHtml(base, cur, total) {
 
 function catnavHtml(activeCats, currentId) {
   const chip = (href, label, on) => `<a class="cchip${on ? ' on' : ''}" href="${href}">${label}</a>`;
-  let html = chip('/', 'All', currentId === 'all');
-  activeCats.forEach(c => { html += chip(`/category/${c.id}`, `${c.emoji} ${c.label}`, currentId === c.id); });
+  let html = chip('/', '전체', currentId === 'all');
+  activeCats.forEach(c => { html += chip(`/category/${c.id}`, c.label, currentId === c.id); });
   return html;
 }
 
@@ -128,9 +152,9 @@ function writePages(shell, ctx, activeCats) {
     };
     if (ctx.kind === 'category') {
       opts.seclabel = `${ctx.label}`;
-      opts.title = `${ctx.label}${p > 1 ? ` (${p})` : ''} | All of Trip — The world's finest luxury stays`;
+      opts.title = `${ctx.label}${p > 1 ? ` (${p}페이지)` : ''} | 올오브트립 All of Trip — 해외 최고급 럭셔리 여행`;
     } else if (p > 1) {
-      opts.title = `All of Trip — page ${p} · The world's finest luxury stays`;
+      opts.title = `올오브트립 All of Trip — ${p}페이지 · 해외 최고급 럭셔리 여행`;
     }
     const html = applyShell(shell, opts);
     if (ctx.kind === 'home') {
@@ -154,7 +178,9 @@ function cleanDir(dir, re) {
 }
 
 function regenAll(metas) {
-  const shell = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8');
+  const now = new Date(Date.now() + 9 * 3600000);
+  const shell = fs.readFileSync(path.join(ROOT, 'index.html'), 'utf8')
+    .replace(/(<span class="dl-issue">)[^<]*(<\/span>)/, `$1${now.getUTCFullYear()}년 ${now.getUTCMonth() + 1}월호$2`);
 
   // 활성 카테고리(글 1개 이상)
   const byCat = {};
@@ -203,7 +229,7 @@ function regenSitemap(metas, info) {
     for (let p = 2; p <= c.total; p++) urls.push({ loc: `${BASE}/category/${c.id}/${p}`, pri: '0.4', cf: 'weekly' });
   });
   // 국내 특별기획(domestic)은 우선순위 상향(트래픽 핵심)
-  metas.filter(m => m.theme === 'domestic' || m.indexable !== false).forEach(m => urls.push({ loc: `${BASE}/articles/${m.slug}`, pri: m.theme === 'domestic' ? '0.9' : '0.8', cf: 'monthly', last: m.updated }));
+  metas.filter(m => m.theme === 'domestic' || m.indexable !== false).forEach(m => urls.push({ loc: `${BASE}/articles/${m.slug}`, pri: (m.theme === 'domestic' || m.theme === 'news' || m.theme === 'insider') ? '0.9' : '0.8', cf: 'monthly', last: m.updated }));
   const body = urls.map(u =>
     `  <url><loc>${u.loc}</loc><lastmod>${String(u.last || today).slice(0, 10)}</lastmod><changefreq>${u.cf}</changefreq><priority>${u.pri}</priority></url>`).join('\n');
   fs.writeFileSync(path.join(ROOT, 'sitemap.xml'),
@@ -212,10 +238,11 @@ function regenSitemap(metas, info) {
 
 function rebuildAll() {
   if (fs.existsSync(ART)) fs.readdirSync(ART).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
+  if (fs.existsSync(MAGAZINE)) fs.readdirSync(MAGAZINE).filter(f => f.endsWith('.json')).forEach(f => buildMagazine(f.replace(/\.json$/, '')));
   if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
   // 특별 기획(국내)은 홈 상단에 고정 노출(최신순), 그 아래 자동 큐레이션(최신순)
   const specials = specialMetas().sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
-  const metas = [...specials, ...articleMetas()];
+  const metas = [...specials, ...magazineMetas(), ...articleMetas()];
   const info = regenAll(metas);
   regenSearchIndex(metas);
   regenSitemap(metas, info);

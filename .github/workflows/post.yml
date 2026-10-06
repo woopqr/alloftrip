@@ -1,8 +1,8 @@
-name: All of Trip auto-publish
+name: All of Trip auto-publish (KO)
 
 on:
-  # schedule:  # 2026-10-02 한국어 개편 중 일시 중지
-    # - cron: '0 */4 * * *'   # 4시간마다(하루 6회) 드립 발행 — 회당 2개, 월 ~180빌드
+  schedule:
+    - cron: '0 */4 * * *'   # 4시간마다(하루 6회) — 회당 신규 2개 + 가장 오래된 글 1개 갱신
   workflow_dispatch:
     inputs:
       batch:
@@ -29,6 +29,7 @@ jobs:
       - name: Generate + build (batched)
         env:
           BATCH: ${{ github.event.inputs.batch || '2' }}
+          REFRESH: '1'
         run: node publish.js
 
       - name: Commit & push if changed

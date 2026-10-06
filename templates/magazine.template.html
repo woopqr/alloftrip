@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}} | {{site.name}}</title>
+<meta name="description" content="{{metaDescription}}">
+<meta name="keywords" content="{{keywordsCsv}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{metaDescription}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:site_name" content="{{site.name}}">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2">
+<script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
+<script defer src="/assets/consent.js?v=20261002"></script>
+<link rel="stylesheet" href="/assets/css/article.css?v=20261002"><link rel="stylesheet" href="/assets/css/alloftrip.css?v=20261006">
+<script type="application/ld+json">{{{jsonld}}}</script>
+</head>
+<body>
+<button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 모드 전환" onclick="__mzToggle()">
+  <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+</button>
+
+<article class="post special guide">
+  <a class="backbar" href="/">← {{site.name}} 홈</a>
+  <nav class="crumb" aria-label="Breadcrumb"><a href="/">홈</a> <span>›</span> <a href="/category/{{catId}}">{{catLabel}}</a> <span>›</span> <span>{{region}}</span></nav>
+
+  <header class="sp-hero">
+    <span class="sp-eyebrow">{{eyebrow}}</span>
+    <h1 class="sp-title">{{title}}</h1>
+    <p class="sp-sub">{{sub}}</p>
+  </header>
+  <p class="byline gd-byline">올오브트립 에디터 · {{#isNews}}보도일 {{newsDateLabel}} · {{/isNews}}업데이트 {{updatedLabel}} · {{readMin}}분 읽기 · <a href="/pages/editorial-policy.html">편집 원칙</a></p>
+
+  <p class="lede sp-intro">{{{intro}}}</p>
+
+  {{#hasKeyPoints}}
+  <aside class="gd-keys">
+    <span class="gd-keys-label">{{keysLabel}}</span>
+    <ul>{{#keyPoints}}<li>{{{.}}}</li>{{/keyPoints}}</ul>
+  </aside>
+  {{/hasKeyPoints}}
+
+  {{#showToc}}
+  <nav class="gd-toc" aria-label="목차">
+    <span class="gd-keys-label">목차</span>
+    <ol>{{#sections}}<li><a href="#{{id}}">{{h2}}</a></li>{{/sections}}</ol>
+  </nav>
+  {{/showToc}}
+
+  {{#sections}}
+  <section class="sp-sec" id="{{id}}">
+    <h2>{{h2}}</h2>
+    <div class="sp-body gd-body">{{{body}}}</div>
+  </section>
+  {{/sections}}
+
+  {{#hasStays}}
+  <section class="sp-sec">
+    <h2>{{staysHeading}}</h2>
+    <div class="sp-stays">
+      {{#stays}}
+      <a class="staycard" href="{{url}}" target="_blank" rel="noopener sponsored nofollow">
+        <span class="st-area">{{area}}</span>
+        <span class="st-name">{{name}}</span>
+        <span class="st-blurb">{{blurb}}</span>
+        <span class="st-cta">아고다에서 요금 비교 →</span>
+      </a>
+      {{/stays}}
+    </div>
+  </section>
+  {{/hasStays}}
+
+  {{#hasRelated}}
+  <section class="sp-sec">
+    <h2>함께 보면 좋은 최고급 숙소 큐레이션</h2>
+    <ul class="gd-related">{{#related}}<li><a href="/articles/{{slug}}">{{emoji}} {{title}}</a></li>{{/related}}</ul>
+  </section>
+  {{/hasRelated}}
+
+  {{#hasFaq}}
+  <section class="sp-sec sp-faq">
+    <h2>자주 묻는 질문</h2>
+    {{#faq}}
+    <div class="faq-item">
+      <h3>{{q}}</h3>
+      <p>{{a}}</p>
+    </div>
+    {{/faq}}
+  </section>
+  {{/hasFaq}}
+
+  {{#hasSources}}
+  <section class="sp-sec gd-sources">
+    <h2>출처</h2>
+    <ul>{{#sources}}<li><a href="{{url}}" target="_blank" rel="noopener nofollow">{{name}}</a></li>{{/sources}}</ul>
+  </section>
+  {{/hasSources}}
+
+  <p class="disc">{{disc}}</p>
+
+  <nav class="pagenav">
+    <a href="/category/{{catId}}">← {{catLabel}} 더 보기</a>
+    <span><a href="/pages/about.html">소개</a> · <a href="/pages/methodology.html">선정 방법</a> · <a href="/pages/privacy.html">개인정보처리방침</a> · <a href="/pages/contact.html">문의</a></span>
+  </nav>
+</article>
+
+<script>function __mzToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('mz-theme',next);}catch(e){}}</script>
+</body>
+</html>

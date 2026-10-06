@@ -1,0 +1,642 @@
+{
+  "slug": "honeymoon-bali",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "발리",
+  "citySlug": "bali",
+  "cityId": 17193,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17193",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[발리] 신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+  "metaDescription": "2026년 11월 발리 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 78%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>래플스 발리</b>입니다 (평점 9.1 · 리뷰 166건 · 1박 약 168만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 27,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 78
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 15
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?ce=0",
+  "heroAlt": "발리 허니문 최고급 숙소",
+  "updated": "2026-10-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "래플스 발리 (Raffles Bali)",
+      "agodaUrl": "https://www.agoda.com/raffles-bali-h16361748/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 166,
+      "reviewCountFmt": "리뷰 166건",
+      "priceText": "₩₩₩ · 1박 약 168만원",
+      "walkMin": 79,
+      "refLabel": "워터봄 공원",
+      "star": 5,
+      "propertyId": 14654956,
+      "priceKRW": 1678834,
+      "priceStatus": "조회됨",
+      "distanceM": 6353.73,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 166건. 워터봄 공원까지 도보 79분, ₩₩₩ · 1박 약 168만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 168만원",
+        "📝 리뷰 166건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "개인 여행을 위한 정말 훌륭한 서비스와 경험입니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 수용적이고 친절했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "리조트의 위치는 정말 놀랍습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스, 정말 프리미엄 리조트",
+          "score": "8.8",
+          "country": "台灣",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "최고의 호텔과 최고의 서비스",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "물리아 빌라 (Mulia Villas)",
+      "agodaUrl": "https://www.agoda.com/mulia-villas_11/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6546934/-1/761513ef809947d465d930a1993e055b.jpg?ce=0",
+      "score": 9.4,
+      "reviewCount": 1122,
+      "reviewCountFmt": "리뷰 1,122건",
+      "priceText": "₩₩₩ · 1박 약 114만원",
+      "walkMin": 37,
+      "refLabel": "누사 두아 비치",
+      "star": 5,
+      "propertyId": 6546934,
+      "priceKRW": 1139470,
+      "priceStatus": "조회됨",
+      "distanceM": 2998.76,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "누사 두아 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 1,122건. 누사 두아 비치까지 도보 37분, ₩₩₩ · 1박 약 114만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 114만원",
+        "📝 리뷰 1,122건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 다른 한국 여행자들에게 이곳을 꼭 추천합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "2박을 빌라에 묵으며 완벽한 휴가를 보냈습니다",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "멋진 빌라와 리조트에서의 놀라운 숙박이었습니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "모든 레스토랑의 훌륭한 음식과 훌륭한 옵션.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "그냥 호텔에 묵으시면 친절하게 서비스해 주실 거예요.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "아야나 빌라 발리 (AYANA Villas Bali)",
+      "agodaUrl": "https://www.agoda.com/the-villas-at-ayana-resort-bali_3/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/478524/0/17718b8f18fbf43b1e10e19881878906.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 969,
+      "reviewCountFmt": "리뷰 969건",
+      "priceText": "₩₩₩ · 1박 약 108만원",
+      "walkMin": 89,
+      "refLabel": "쿠타 비치",
+      "star": 5,
+      "propertyId": 478524,
+      "priceKRW": 1080919,
+      "priceStatus": "조회됨",
+      "distanceM": 7153.99,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 969건. 쿠타 비치까지 도보 89분, ₩₩₩ · 1박 약 108만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 108만원",
+        "📝 리뷰 969건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "빌라는 훌륭하고 전반적인 서비스가 훌륭합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "레스토랑, 바, 수영장 모두 매우 좋습니다.",
+          "score": "9.2",
+          "country": "Taiwan",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "세가라의 직원들은 완벽하게 도움이 되고 친절합니다!!",
+          "score": "10",
+          "country": "中國澳門",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설, 깨끗하고 다양한 옵션을 제공합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "이 호텔, 직원 및 위치는 정말 놀랍습니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2023.10",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "코모 샴발라 에스테이트 (COMO Shambhala Estate)",
+      "agodaUrl": "https://www.agoda.com/como-shambhala-estate/hotel/bali-id.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630208945.jpg?k=b95f5112609f6e5326b56b1f343819fab8df5525cace978ba2d33c7fd226c50d&o=",
+      "score": 9,
+      "reviewCount": 191,
+      "reviewCountFmt": "리뷰 191건",
+      "priceText": "₩₩₩ · 1박 약 133만원",
+      "walkMin": 65,
+      "refLabel": "뜨갈라랑 라이스 테라스",
+      "star": 5,
+      "propertyId": 73539,
+      "priceKRW": 1327544,
+      "priceStatus": "조회됨",
+      "distanceM": 5166.47,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 191건. 뜨갈라랑 라이스 테라스까지 도보 65분, ₩₩₩ · 1박 약 133만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 133만원",
+        "📝 리뷰 191건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우붓에서 가본 호텔 중 최고였어요",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 생활 경험",
+          "score": "10",
+          "country": "澳大利亚",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "포 시즌스 리조트 발리 앳 짐바란 베이  (Four Seasons Resort Bali at Jimbaran Bay)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-jimbaran-bay/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48672/-1/60eeceea05cc55b075a410af45ac1ae8.jpg?ce=0",
+      "score": 9.3,
+      "reviewCount": 859,
+      "reviewCountFmt": "리뷰 859건",
+      "priceText": "₩₩₩ · 1박 약 94만원",
+      "walkMin": 79,
+      "refLabel": "워터봄 공원",
+      "star": 5,
+      "propertyId": 48672,
+      "priceKRW": 942087,
+      "priceStatus": "조회됨",
+      "distanceM": 6349.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 859건. 워터봄 공원까지 도보 79분, ₩₩₩ · 1박 약 94만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 94만원",
+        "📝 리뷰 859건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그들의 미소와 태도에 정말 감동받았습니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "음식은 믿을 수 없을 정도로 훌륭하고 서비스는 흠 잡을 데가 없습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 나는 이 호텔을 친구들에게 추천하고 싶습니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "내 인생에서 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "그들은 항상 웃는 얼굴로 매우 친절합니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Equipoise Resort- Luxury Eco Bamboo Resort in Ubud by iNi Vie Hospitality",
+      "agodaUrl": "https://www.agoda.com/equipoise-resort-ubud-by-ini-vie-hospitality/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/78363497/0/b76f73178fcd9c1253445fa2d2f1648c.jpg?ce=3",
+      "score": 9.4,
+      "reviewCount": 197,
+      "reviewCountFmt": "리뷰 197건",
+      "priceText": "₩₩₩ · 1박 약 90만원",
+      "walkMin": 88,
+      "refLabel": "로카 스라나 버스터미널",
+      "star": 5,
+      "propertyId": 78363497,
+      "priceKRW": 904607,
+      "priceStatus": "조회됨",
+      "distanceM": 7041.49,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "뜨갈라랑 라이스 테라스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 197건. 로카 스라나 버스터미널까지 도보 88분, ₩₩₩ · 1박 약 90만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 90만원",
+        "📝 리뷰 197건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Equipoise Resort Ubud에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.09",
+          "translated": true
+        },
+        {
+          "text": "나는 그들의 서비스와 환대에 진심으로 깊은 인상을 받았습니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2026.09",
+          "translated": true
+        },
+        {
+          "text": "크루아상을 꼭 먹어보세요. 정말 놀라웠어요!",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2026.09",
+          "translated": true
+        },
+        {
+          "text": "특히 직원인 Intan이 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "서비스는 정말 훌륭하고 직원들도 정말 친절합니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-02T06:10:21.592Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-02T06:10:21.592Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "slug": "wellness-phuket",
+  "theme": "wellness",
+  "audience": "웰니스·스파",
+  "emoji": "🧖",
+  "city": "푸켓",
+  "citySlug": "phuket",
+  "cityId": 16056,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16056",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[푸켓] 고요함과 럭셔리가 만나는 스파 리조트",
+  "metaDescription": "2026년 11월 푸켓 웰니스·스파 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+  "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 50%가 연인·커플 여행자의 리뷰입니다. 웰니스·스파 기준 1순위는 <b>더 나카 아일랜드, 어 럭셔리 컬렉션 리조트 앤 스파, 푸켓</b>입니다 (평점 9.2 · 리뷰 899건 · 1박 약 74만원). 가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/399580/0/423f1e79ad7440d996aa1178aea910fc.jpeg?ce=3",
+  "heroAlt": "푸켓 웰니스·스파 최고급 숙소",
+  "updated": "2026-10-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 나카 아일랜드, 어 럭셔리 컬렉션 리조트 앤 스파, 푸켓 (The Naka Island, a Luxury Collection Resort & Spa, Phuket)",
+      "agodaUrl": "https://www.agoda.com/the-naka-island-a-luxury-collection-resort-spa-phuket_7/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/399580/0/423f1e79ad7440d996aa1178aea910fc.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 899,
+      "reviewCountFmt": "리뷰 899건",
+      "priceText": "₩₩₩ · 1박 약 74만원",
+      "walkMin": 12,
+      "refLabel": "Village Beach",
+      "star": 5,
+      "propertyId": 399580,
+      "priceKRW": 742392,
+      "priceStatus": "조회됨",
+      "distanceM": 947.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 899건. Village Beach까지 도보 12분, ₩₩₩ · 1박 약 74만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 74만원",
+        "📝 리뷰 899건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친절한 직원, 아름다운 숙소, 좋은 위치.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 리조트, 훌륭한 전망과 음식을 제공하는 친절한 직원",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "Nala 섬은 사랑스럽고 독립된 휴양지를 제공합니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 나는 경험을 8.75-9.0으로 평가할 것입니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "아름다운 호텔과 놀라운 위치.",
+          "score": "9.2",
+          "country": "Ireland",
+          "date": "2024.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Twinpalms Surin Beach Phuket",
+      "agodaUrl": "https://www.agoda.com/twinpalms-phuket_5/hotel/all/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/707933122.jpg?k=f3b4cf34066370b8d44d7f920689ff447c288f414dc173dee7dfe94ff5cd3bff&o=",
+      "score": 9.1,
+      "reviewCount": 856,
+      "reviewCountFmt": "리뷰 856건",
+      "priceText": "₩₩₩ · 1박 약 84만원",
+      "walkMin": 30,
+      "refLabel": "푸켓 판타 씨",
+      "star": 5,
+      "propertyId": 3090444,
+      "priceKRW": 838163,
+      "priceStatus": "조회됨",
+      "distanceM": 2416.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "카말라 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 856건. 푸켓 판타 씨까지 도보 30분, ₩₩₩ · 1박 약 84만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 84만원",
+        "📝 리뷰 856건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 단계와 순간에서 놀랍고, 완벽했습니다.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "매우 크고 편안한 객실에는 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "이 우아하고 젠 호텔에 머무는 것은 이번이 네 번째입니다.",
+          "score": "8.4",
+          "country": "Switzerland",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 직원들은 매우 정중하고 환영합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "스파와 마사지는 훌륭했고 아침 식사는 다양했습니다.",
+          "score": "10",
+          "country": "North Macedonia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "산티야 푸켓 나타이 리조트 앤 스파 - 업 투 THB 3, 000 리조트 크레딧 퍼 나이트 (Santhiya Phuket Natai Resort & Spa - Up to THB 3,000 Resort Credit per Night)",
+      "agodaUrl": "https://www.agoda.com/santhiya-phuket-natai-resort-spa_2/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6916377/0/145e053478db54a4767f2298085b0ad8.jpg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 1559,
+      "reviewCountFmt": "리뷰 1,559건",
+      "priceText": "₩₩ · 1박 약 49만원",
+      "walkMin": 2,
+      "refLabel": "Natai Beach",
+      "star": 5,
+      "propertyId": 6916377,
+      "priceKRW": 489212,
+      "priceStatus": "조회됨",
+      "distanceM": 123.02,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 1,559건. Natai Beach까지 도보 2분, ₩₩ · 1박 약 49만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 49만원",
+        "📝 리뷰 1,559건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "태국 전통가옥에 머무는 듯한 느낌을 줍니다.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "태국 마사지와 해변에서의 식사를 적극 권장합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "매일 3리터의 넉넉한 생수를 제공합니다.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 빌라와 우리가 잤던 침대 중 가장 큰 침대입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "빌라는 놀랍고 매우 편안하며 사적입니다.",
+          "score": "10",
+          "country": "Poland",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "JW 메리어트 푸켓 리조트 앤 스파 (JW Marriott Phuket Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/jw-marriott-phuket-resort-spa/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9245/0/348ca60934a35523fc8803f92f150b13.jpeg?va=1&ce=3",
+      "score": 8.8,
+      "reviewCount": 2880,
+      "reviewCountFmt": "리뷰 2,880건",
+      "priceText": "₩₩ · 1박 약 55만원",
+      "walkMin": 1,
+      "refLabel": "Sai Kaew Beach",
+      "star": 5,
+      "propertyId": 9245,
+      "priceKRW": 550807,
+      "priceStatus": "조회됨",
+      "distanceM": 45.4,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 2,880건. Sai Kaew Beach까지 도보 1분, ₩₩ · 1박 약 55만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 55만원",
+        "📝 리뷰 2,880건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "제가 푸켓에 있을 때 이곳은 제 집과 같은 곳입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설, 사랑스러운 직원, 훌륭한 서비스와 음식.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "경내는 아름답고 가족을 위해 할 일이 너무 많습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "음식: 5/5로 다양한 종류의 선택이 가능합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "나는 리뷰를 남기지 않지만 JW에서의 숙박은 최고 수준이었습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "임피아나 프라이빗 빌라 카타 노이, 푸켓 (Impiana Private Villas Kata Noi, Phuket)",
+      "agodaUrl": "https://www.agoda.com/impiana-private-villas-kata-noi-phuket_3/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186816/0/7d2b769ba42c5f99b3ef86cb4df7e277.jpeg?va=1&ce=3",
+      "score": 8.2,
+      "reviewCount": 730,
+      "reviewCountFmt": "리뷰 730건",
+      "priceText": "₩₩ · 1박 약 51만원",
+      "walkMin": 10,
+      "refLabel": "미니버스정류장",
+      "star": 5,
+      "propertyId": 186816,
+      "priceKRW": 512458,
+      "priceStatus": "조회됨",
+      "distanceM": 823.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "카타 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 730건. 미니버스정류장까지 도보 10분, ₩₩ · 1박 약 51만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 51만원",
+        "📝 리뷰 730건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "뛰어난 외부 공간과 개인 수영장을 갖춘 정말 넓은 공간입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "직원들도 환상적이었고 도착하자마자 안도의 업그레이드를 받았습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "서비스는 훌륭했고 직원들은 친절하고 도움이 되었습니다.",
+          "score": "8.4",
+          "country": "Pakistan",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "방은 전망이 훌륭하고 매우 사적이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "무료 업그레이드를 받을 수 있어서 정말 행운이었습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "푸켓 메리어트 리조트 앤 스파, 멀린 비치 (Phuket Marriott Resort & Spa, Merlin Beach)",
+      "agodaUrl": "https://www.agoda.com/phuket-marriott-resort-spa-merlin-beach/hotel/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/813459275.jpg?k=34ab0fb0e34d2d86918e1b42bf0c833975f9a77c9e703c264763dbdde6c396ab&o=",
+      "score": 9,
+      "reviewCount": 6827,
+      "reviewCountFmt": "리뷰 6,827건",
+      "priceText": "₩₩ · 1박 약 46만원",
+      "walkMin": 101,
+      "refLabel": "미니버스정류장",
+      "star": 5,
+      "propertyId": 1377626,
+      "priceKRW": 455014,
+      "priceStatus": "조회됨",
+      "distanceM": 8080.86,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "빠통 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 6,827건. 미니버스정류장까지 도보 101분, ₩₩ · 1박 약 46만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 46만원",
+        "📝 리뷰 6,827건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 엄청나게 친절하고 세심했습니다.",
+          "score": "10",
+          "country": "Bahrain",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "수영장에서는 매일 1시간 동안 아이들을 위한 재미있는 간식을 제공했습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "일일 액티비티 음식, 키즈 클럽, 특히 수영장!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "내가 호텔에서 보낸 최고의 휴가 중 하나였습니다",
+          "score": "10",
+          "country": "Israel",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "시설은 최고 수준이었고 특히 수영장이 최고였습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2023.11",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-02T06:11:49.478Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-02T06:11:49.478Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

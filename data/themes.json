@@ -1,95 +1,168 @@
 {
-  "_comment": "럭셔리 테마 = 오디언스 × 시즌. 선정은 gen.js에서 최고가+리뷰많은순+5성+리조트/풀빌라 기준. hooks는 도시별 회전으로 제목 중복 방지(SEO).",
+  "_comment": "럭셔리 테마 = 오디언스 × 시즌. 선정은 gen.js에서 5성급 한정 + 최고가 + 리뷰 많은순 + 리조트/풀빌라 우선. hooks는 도시별 회전으로 제목 중복 방지(SEO).",
   "themes": [
     {
-      "id": "honeymoon",
-      "audience": "Honeymoon",
-      "emoji": "💍",
-      "preferType": "couple",
-      "titlePattern": "[{city}] {hook}",
-      "hooks": [
-        "The Most Romantic Ultra-Luxury Honeymoon Resorts",
-        "Private Pool Villas Made for Newlyweds",
-        "Five-Star Honeymoon Retreats Worth the Splurge",
-        "Where Couples Splurge: The Finest Honeymoon Stays"
-      ],
-      "keywords": ["honeymoon", "romantic", "private pool villa", "ocean view", "suite", "couple", "luxury resort"],
-      "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-      "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime."
-    },
-    {
-      "id": "anniversary",
-      "audience": "Anniversary Escape",
-      "emoji": "🥂",
-      "preferType": "couple",
-      "titlePattern": "[{city}] {hook}",
-      "hooks": [
-        "Ultra-Luxury Anniversary Escapes for Two",
-        "The Grandest Suites to Celebrate a Milestone",
-        "Timeless Five-Star Resorts for a Special Anniversary",
-        "Where Discerning Couples Celebrate in Style"
-      ],
-      "keywords": ["anniversary", "celebration", "suite", "fine dining", "ocean view", "couple", "luxury"],
-      "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-      "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style."
-    },
-    {
-      "id": "golf",
-      "audience": "Luxury Golf",
-      "emoji": "⛳",
-      "preferType": "friends",
-      "titlePattern": "[{city}] {hook}",
-      "hooks": [
-        "Five-Star Golf Resorts for the Discerning Player",
-        "Luxury Stays by the World's Best Fairways",
-        "Where Golfers Splurge: Premium Resort Picks",
-        "Championship Golf Meets Ultra-Luxury Lodging"
-      ],
-      "keywords": ["golf resort", "fairway", "luxury", "resort", "spa", "club"],
-      "viewpoint": "We surfaced the priciest, best-reviewed resorts favored by luxury and golf travelers.",
-      "intro": "A great golf trip is half course, half clubhouse. These are the top-priced, best-reviewed luxury resorts where the stay is as memorable as the round."
-    },
-    {
-      "id": "wellness",
-      "audience": "Wellness & Spa",
-      "emoji": "🧖",
-      "preferType": "couple",
-      "titlePattern": "[{city}] {hook}",
-      "hooks": [
-        "The Finest Wellness Retreats & Spa Resorts",
-        "Ultra-Luxury Spa Escapes to Reset in Style",
-        "Five-Star Sanctuaries for a Healing Getaway",
-        "Where Serenity Meets Serious Luxury"
-      ],
-      "keywords": ["wellness", "spa", "retreat", "healing", "onsen", "resort", "luxury"],
-      "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-      "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely."
-    },
-    {
       "id": "ultra",
-      "audience": "Ultra-Luxury",
+      "audience": "울트라 럭셔리",
       "emoji": "👑",
       "preferType": "couple",
       "titlePattern": "[{city}] {hook}",
       "hooks": [
-        "The Single Most Luxurious Places to Stay",
-        "The World's Priciest, Most Coveted Suites",
-        "Bucket-List Ultra-Luxury Hotels & Villas",
-        "The Best of the Best: Top Luxury Stays"
+        "가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+        "버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+        "가장 높은 곳의 스위트, 이유가 있는 숙소들",
+        "베스트 오브 베스트 — 최정상 럭셔리 스테이"
       ],
-      "keywords": ["ultra luxury", "iconic", "suite", "penthouse", "private villa", "five star", "bucket list"],
-      "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-      "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market."
+      "keywords": [
+        "최고급 호텔",
+        "울트라 럭셔리",
+        "스위트룸",
+        "펜트하우스",
+        "프라이빗 빌라",
+        "5성급 호텔",
+        "버킷리스트 호텔"
+      ],
+      "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+      "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다."
+    },
+    {
+      "id": "honeymoon",
+      "audience": "허니문",
+      "emoji": "💍",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+        "허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+        "가장 로맨틱한 허니문 스테이, 5성급만 골랐습니다",
+        "신혼부부가 아낌없이 고르는 최상위 허니문 숙소"
+      ],
+      "keywords": [
+        "신혼여행",
+        "허니문 리조트",
+        "풀빌라",
+        "오션뷰",
+        "스위트",
+        "커플",
+        "5성급"
+      ],
+      "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+      "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+      "fit": {
+        "pattern": "전용 수영장|풀빌라|pool villa|private pool|성인 전용|adults only|허니문|honeymoon|오버워터|overwater|워터 빌라|water villa",
+        "weight": 400000
+      }
+    },
+    {
+      "id": "anniversary",
+      "audience": "기념일 여행",
+      "emoji": "🥂",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "결혼기념일을 위한 최고급 호텔 & 스위트",
+        "특별한 날을 완성하는 5성급 기념일 스테이",
+        "두 사람만을 위한 럭셔리 기념일 리조트",
+        "안목 있는 커플이 기념일에 고르는 호텔"
+      ],
+      "keywords": [
+        "결혼기념일 여행",
+        "기념일 호텔",
+        "스위트룸",
+        "파인다이닝",
+        "오션뷰",
+        "커플 여행",
+        "럭셔리 호텔"
+      ],
+      "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+      "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+      "fit": {
+        "pattern": "스위트|suite|파인 ?다이닝|fine dining|레스토랑|restaurant|바 |bar|오션뷰|ocean view|오버워터|overwater",
+        "weight": 300000
+      }
+    },
+    {
+      "id": "wellness",
+      "audience": "웰니스·스파",
+      "emoji": "🧖",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "완벽한 휴식을 위한 최고급 웰니스 리조트",
+        "스파 하나로 여행이 되는 5성급 리트리트",
+        "몸과 마음을 리셋하는 럭셔리 힐링 스테이",
+        "고요함과 럭셔리가 만나는 스파 리조트"
+      ],
+      "keywords": [
+        "웰니스 여행",
+        "스파 리조트",
+        "힐링 여행",
+        "리트리트",
+        "요가",
+        "럭셔리 리조트"
+      ],
+      "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+      "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+      "fit": {
+        "pattern": "스파|spa|사우나|sauna|마사지|massage|요가|yoga|웰니스|wellness|온천|onsen|리트리트|retreat|hammam|하맘",
+        "weight": 450000
+      }
+    },
+    {
+      "id": "golf",
+      "audience": "럭셔리 골프",
+      "emoji": "⛳",
+      "preferType": "friends",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "골프 여행을 위한 5성급 골프 리조트",
+        "명문 코스 옆 최고급 숙소 모음",
+        "라운딩만큼 숙소도 완벽한 프리미엄 골프 리조트",
+        "럭셔리 골퍼가 선택하는 리조트 BEST"
+      ],
+      "keywords": [
+        "해외 골프 여행",
+        "골프 리조트",
+        "골프텔",
+        "럭셔리 리조트",
+        "스파",
+        "클럽하우스"
+      ],
+      "viewpoint": "럭셔리 여행자와 골퍼들이 선호하는, 가격대와 평점이 가장 높은 리조트를 골랐습니다.",
+      "intro": "훌륭한 골프 여행의 절반은 코스, 나머지 절반은 숙소입니다. 라운딩만큼 기억에 남을 최고급 리조트를 모았습니다.",
+      "onlyCities": [
+        "bali",
+        "phuket",
+        "danang",
+        "dubai",
+        "abu-dhabi",
+        "honolulu",
+        "maui-wailea",
+        "cancun",
+        "mauritius",
+        "phu-quoc",
+        "bangkok",
+        "langkawi",
+        "guam",
+        "okinawa",
+        "koh-samui"
+      ],
+      "_onlyCities_note": "골프 테마는 실제 골프 여행 수요가 있는 도시에서만 생성(몰디브·파리 등에 골프 글이 생기지 않도록)",
+      "fit": {
+        "pattern": "골프|golf",
+        "weight": 900000,
+        "require": 4
+      }
     }
   ],
-  "seasons": [
-    { "id": "peak", "label": "Peak Season", "months": [7, 8, 12, 1], "note": "Peak-season suites sell out fastest — reserve early." },
-    { "id": "spring", "label": "Spring", "months": [3, 4, 5], "note": "Mild weather makes for ideal resort days." },
-    { "id": "summer", "label": "Summer", "months": [6], "note": "Long days and prime beach-resort season." },
-    { "id": "autumn", "label": "Autumn", "months": [9, 10, 11], "note": "Shoulder season often brings the best value on top suites." }
-  ],
+  "seasons": [],
   "calendar": {
     "_comment": "현재 월 → 선행발행 대상. monthsAhead 1~2를 더한 여행시점 시즌/오디언스 조합 우선.",
-    "monthsAhead": [1, 2]
-  }
+    "monthsAhead": [
+      1,
+      2
+    ]
+  },
+  "_order_note": "생성 순서 = 배열 순서. 같은 도시에서 앞 테마가 먼저 숙소를 가져가고, 뒤 테마는 겹침 최대 2곳으로 다른 숙소를 고른다.",
+  "_seasons_note": "한국 계절 기준 시즌 문구는 해외 여행지(몰디브 11월=성수기 등)와 맞지 않아 사용하지 않음. 여행지별 시즌은 매거진 가이드에서 다룸."
 }

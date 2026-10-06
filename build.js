@@ -14,6 +14,7 @@ const agoda = require('./lib/agoda');
 const ROOT = __dirname;
 const TPL = fs.readFileSync(path.join(ROOT, 'templates/article.template.html'), 'utf8');
 const SPECIAL_TPL = fs.existsSync(path.join(ROOT, 'templates/special.template.html')) ? fs.readFileSync(path.join(ROOT, 'templates/special.template.html'), 'utf8') : '';
+const MAG_TPL = fs.existsSync(path.join(ROOT, 'templates/magazine.template.html')) ? fs.readFileSync(path.join(ROOT, 'templates/magazine.template.html'), 'utf8') : '';
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
 
 // ── 무의존성 Mustache(부분집합) 렌더러 ──
@@ -75,7 +76,7 @@ function aggregateChart(agg, themeKey) {
     acc += len;
   }
   const top = agg.distribution[0];
-  const svg = `<svg viewBox="0 0 140 140" class="donut" role="img" aria-label="Traveler type distribution">`
+  const svg = `<svg viewBox="0 0 140 140" class="donut" role="img" aria-label="여행자 유형 분포">`
     + `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="var(--line)" stroke-width="${sw}"/>`
     + segs
     + `<text x="${cx}" y="${cy - 4}" text-anchor="middle" class="dnum">${top.pct}%</text>`
@@ -97,7 +98,7 @@ function typeBars(tt, themeKey) {
       + `<span class="trk"><i style="width:${d.pct}%;background:${colorOf(d.key)}"></i></span>`
       + `<span class="tp">${d.pct}%</span>${rt}</div>`;
   }).join('');
-  return `<div class="types"><div class="tcap">Traveler types · rating by type <span>(from real reviews)</span></div>${rows}</div>`;
+  return `<div class="types"><div class="tcap">여행자 유형 · 유형별 평점 <span>(실제 리뷰 기준)</span></div>${rows}</div>`;
 }
 
 // ── 컨텍스트 ──
@@ -105,41 +106,38 @@ function typeBars(tt, themeKey) {
 function shortName(s) { return String(s || '').split('(')[0].trim(); }
 function hashStr(s) { let h = 0; s = String(s || ''); for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0; return h; }
 const INTRO_OPENERS = [
-  'For {aud}, where you stay decides half of how the trip feels.',
-  'On the same budget, the property you pick is what separates an ordinary trip from an unforgettable one.',
-  'Choose one exceptional stay and the whole {city} itinerary falls into place.',
-  '{city} is a place where the address and the room make an outsized difference to the experience.',
-  'In peak season the best-reviewed luxury stays sell out faster than most travelers expect.',
-  'The properties that rarely disappoint are the ones with deep, consistently strong reviews.',
-  'The higher the stakes of the trip, the more a well-reviewed, proven property is worth.',
+  '{aud} 여행에서는 어디에 묵느냐가 여행의 절반을 결정합니다.',
+  '같은 일정이라도 어떤 숙소를 고르느냐가 평범한 여행과 잊지 못할 여행을 가릅니다.',
+  '단 하나의 완벽한 숙소를 고르면 {city} 일정 전체가 자연스럽게 완성됩니다.',
+  '{city}는 주소와 객실이 여행의 경험을 크게 좌우하는 곳입니다.',
+  '성수기에는 평판 좋은 최고급 숙소가 예상보다 훨씬 빨리 마감됩니다.',
+  '실망시키지 않는 숙소는 언제나 깊고 꾸준한 리뷰를 가진 곳입니다.',
+  '중요한 여행일수록 검증된 최고급 숙소의 가치는 더 커집니다.',
 ];
 function uniqueIntro(data) {
-  const city = data.city || '', season = data.season || '', mon = data.travelMonthLabel || '', aud = (data.audience || 'travelers');
-  const audLc = aud.toLowerCase();
+  const city = data.city || '', mon = data.travelMonthLabel || '', aud = (data.audience || '럭셔리');
   const n = (data.hotels || []).length;
   const top = (data.hotels || [])[0];
   const topType = data.aggregate && data.aggregate.distribution && data.aggregate.distribution[0];
-  const opener = INTRO_OPENERS[hashStr(data.slug || city) % INTRO_OPENERS.length].replace('{aud}', audLc).replace('{city}', city);
+  const opener = INTRO_OPENERS[hashStr(data.slug || city) % INTRO_OPENERS.length].replace('{aud}', aud).replace('{city}', city);
   let s = opener + ' ';
-  s += `This edition compares the ${n} finest ${audLc} stays in ${city}${mon ? ` for ${mon}` : ''} — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked on real Agoda guest data.`;
-  if (topType && topType.pct) s += ` Around ${topType.pct}% of the selected stays' reviews come from ${String(topType.label).toLowerCase()} travelers, which matches who these places are really for.`;
-  if (top && top.score != null) s += ` By the data, the number-one pick is ${shortName(top.name)} (rating ${top.score}).`;
+  s += `이번 호에서는 ${mon ? mon + ' 기준 ' : ''}${city}의 ${aud} 숙소 ${n}곳을 비교합니다. 5성급 가운데서도 가장 높은 가격대와 탄탄한 리뷰를 갖춘 호텔·리조트·프라이빗 빌라를 아고다 실데이터로 골랐습니다.`;
+  if (topType && topType.pct) s += ` 선정 숙소 리뷰의 약 ${topType.pct}%가 ${topType.label} 여행자의 리뷰로, 실제로 어떤 여행자에게 사랑받는 곳인지 보여줍니다.`;
+  if (top && top.score != null) s += ` 데이터 기준 1위는 ${shortName(top.name)}(평점 ${top.score})입니다.`;
   return s;
 }
 
-// Prefer the curated luxury title from gen.js; fall back to a descriptive editorial title.
+// gen.js가 만든 큐레이션 제목 우선, 없으면 설명형 제목으로 대체
 function editorialTitle(data) {
   if (data.title) return data.title;
-  const city = data.city || '';
-  const audience = data.audience || 'Luxury';
   const month = data.travelMonthLabel ? ` · ${data.travelMonthLabel}` : '';
-  return `${city} ${audience} — The Finest Luxury Stays${month}`;
+  return `${data.city || ''} ${data.audience || '럭셔리'} — 최고급 숙소 큐레이션${month}`;
 }
 
 function editorialDescription(data) {
   if (data.metaDescription) return data.metaDescription;
   const count = (data.hotels || []).length;
-  return `The ${count} finest ${(data.audience || 'luxury').toLowerCase()} stays in ${data.city} — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.`;
+  return `${data.city} ${data.audience || '럭셔리'} 최고급 숙소 ${count}곳 — 5성급 중에서도 가장 높은 가격대와 풍부한 리뷰를 갖춘 호텔·리조트를 아고다 실데이터로 엄선했습니다.`;
 }
 
 function isCurrentOrFuture(data, now = new Date()) {
@@ -153,16 +151,16 @@ function buildContext(data) {
   const themeKey = data.theme;
   const hotels = data.hotels.map(h => ({
     ...h,
-    reviewCountFmt: h.reviewCountFmt || (Number(h.reviewCount).toLocaleString('en-US') + ' reviews'),
-    rankBadge: (h.rank === 1 ? '🏆 ' : '') + '#' + h.rank,
+    reviewCountFmt: h.reviewCountFmt || ('리뷰 ' + Number(h.reviewCount).toLocaleString('ko-KR') + '건'),
+    rankBadge: (h.rank === 1 ? '🏆 ' : '') + h.rank + '위',
     rankClass: h.rank === 1 ? 'top' : '',
     hasReviews: Array.isArray(h.reviews) && h.reviews.length > 0,
     hasTypes: !!(h.travelerTypes && h.travelerTypes.distribution && h.travelerTypes.distribution.length),
     typeBarsHtml: typeBars(h.travelerTypes, themeKey),
     img: h.img || data.heroImg,
-    hasPrice: !!h.priceKRW || !/unavailable|price varies/i.test(h.priceText || ''),
-    priceStatus: h.priceStatus || (/unavailable|price varies/i.test(h.priceText || '') ? 'price unavailable' : 'live'),
-    locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? 'verified' : 'approx.'),
+    hasPrice: !!h.priceKRW || !/unavailable|price varies|가격 변동|확인 불가/i.test(h.priceText || ''),
+    priceStatus: h.priceStatus || (/unavailable|price varies|가격 변동/i.test(h.priceText || '') ? '조회 시점 가격 확인 불가' : '조회됨'),
+    locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? '조회됨' : '위치 상세 확인 필요'),
     sampleCount: h.travelerTypes?.total || (h.travelerTypes?.distribution || []).reduce((n, d) => n + (d.count || 0), 0),
   }));
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;
@@ -178,21 +176,22 @@ function buildContext(data) {
     canonical,
     ogImage: data.heroImg || '',
     adsense: SITE.adsense,
-    sourceName: data.methodology?.source || 'Agoda citySearch response',
-    fetchedAtLabel: fetchedAt ? new Date(fetchedAt).toLocaleString('en-US', { timeZone: 'UTC', dateStyle: 'medium', timeStyle: 'short' }) + ' UTC' : '',
-    searchCondition: data.methodology?.searchCondition || `mid-${data.travelMonthLabel || 'month'} search conditions`,
+    sourceName: data.methodology?.source || '아고다 citySearch 검색 응답',
+    fetchedAtLabel: fetchedAt ? new Date(fetchedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul', dateStyle: 'long', timeStyle: 'short' }) + ' (KST)' : '',
+    searchCondition: data.methodology?.searchCondition || `${data.travelMonthLabel || ''} 중순 기준 검색 조건`,
     sampleTotal,
-    sampleReliability: sampleTotal >= 50 ? 'usable sample' : 'small sample · directional only',
-    sampleNotice: data.methodology?.sampleNotice || 'Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set.',
+    sampleReliability: sampleTotal >= 50 ? '참고 가능한 표본' : '작은 표본 · 경향 참고용',
+    sampleNotice: data.methodology?.sampleNotice || '여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다.',
     robotsContent: isCurrentOrFuture(data) ? 'index,follow,max-image-preview:large' : 'noindex,follow',
-    authorName: 'All of Trip data desk',
+    authorName: '올오브트립 데이터 데스크',
     updatedLabel: data.updated || String(fetchedAt || '').slice(0, 10),
     jsonld: JSON.stringify({
       '@context': 'https://schema.org', '@type': 'Article',
       headline: title, description: metaDescription,
       datePublished: data.updated, dateModified: data.updated,
       image: data.heroImg || undefined,
-      author: { '@type': 'Organization', name: 'All of Trip data desk', url: `https://${SITE.domain}/pages/about.html` },
+      inLanguage: 'ko-KR',
+      author: { '@type': 'Organization', name: '올오브트립 데이터 데스크', url: `https://${SITE.domain}/pages/about.html` },
       publisher: { '@type': 'Organization', name: SITE.name, url: `https://${SITE.domain}/` },
       about: [{ '@type': 'Thing', name: data.city }, { '@type': 'Thing', name: data.audience }],
       isPartOf: { '@type': 'WebSite', name: SITE.name, url: `https://${SITE.domain}/` },
@@ -266,6 +265,75 @@ function buildSpecial(fileSlug) {
   return data;
 }
 
+// ── 매거진(data/magazine/<slug>.json → articles/<slug>.html) ──
+// kind: 'news'(럭셔리 트래블 뉴스) | 'guide'(여행 가이드). 아고다 수집 없이 에디토리얼 본문만으로 빌드.
+const MAG_KINDS = {
+  news: { catId: 'news', catLabel: '럭셔리 트래블 뉴스', keysLabel: '핵심 요약' },
+  guide: { catId: 'insider', catLabel: '럭셔리 여행 가이드', keysLabel: '한눈에 보기' },
+};
+const koDate = d => d ? new Date(d + 'T00:00:00Z').toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }) : '';
+function magazineRelated(data) {
+  const want = new Set(data.relatedCities || []);
+  const dir = path.join(ROOT, 'data/articles');
+  if (!want.size || !fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter(f => f.endsWith('.json'))
+    .map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')))
+    .filter(d => want.has(d.citySlug) && isCurrentOrFuture(d))
+    .sort((a, b) => String(b.updated).localeCompare(String(a.updated)))
+    .slice(0, 6)
+    .map(d => ({ slug: d.slug, emoji: d.emoji, title: editorialTitle(d) }));
+}
+function buildMagazineContext(data) {
+  const kind = MAG_KINDS[data.kind] ? data.kind : 'guide';
+  const K = MAG_KINDS[kind];
+  const canonical = `https://${SITE.domain}/articles/${data.slug}`;
+  const sections = (data.sections || []).map((s, i) => ({ ...s, id: s.id || `s${i + 1}` }));
+  const faq = data.faq || [];
+  const chars = [data.intro, ...sections.map(s => s.body), ...faq.map(f => f.q + ' ' + f.a)].join(' ').replace(/<[^>]+>/g, '').replace(/\s+/g, '').length;
+  const artLd = {
+    '@context': 'https://schema.org', '@type': kind === 'news' ? 'NewsArticle' : 'Article',
+    headline: data.title, description: data.metaDescription, inLanguage: 'ko-KR',
+    datePublished: data.published || data.updated, dateModified: data.updated,
+    author: { '@type': 'Organization', name: SITE.name, url: `https://${SITE.domain}/pages/about.html` },
+    publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: `https://${SITE.domain}/favicon.svg` } },
+    mainEntityOfPage: canonical,
+  };
+  const faqLd = faq.length ? {
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  } : null;
+  const related = magazineRelated(data);
+  const stays = (data.stays || []).map(s => ({ ...s, url: s.url || agoda.citySearchById(s.cityId) }));
+  const sources = (data.sources || []).filter(x => x && x.url);
+  return {
+    site: SITE, adsense: SITE.adsense, canonical, ...K,
+    jsonld: JSON.stringify(faqLd ? [artLd, faqLd] : artLd).replace(/</g, '\\u003c'),
+    title: data.title, metaDescription: data.metaDescription, keywordsCsv: (data.keywords || []).join(', '),
+    region: data.region || '', eyebrow: data.eyebrow || K.catLabel, sub: data.sub || '',
+    isNews: kind === 'news', newsDateLabel: koDate(data.newsDate),
+    updatedLabel: koDate(data.updated),
+    readMin: Math.max(2, Math.round(chars / 500)),
+    intro: data.intro || '',
+    keyPoints: data.keyPoints || [], hasKeyPoints: !!(data.keyPoints || []).length,
+    sections, showToc: sections.length >= 3,
+    stays, hasStays: stays.length > 0, staysHeading: data.staysHeading || `${data.region} 최고급 숙소 비교`,
+    related, hasRelated: related.length > 0,
+    faq, hasFaq: faq.length > 0,
+    sources, hasSources: sources.length > 0,
+    disc: data.disc || (kind === 'news'
+      ? '공개된 보도자료와 언론 보도를 바탕으로 정리한 기사입니다. 개관일·요금·운영 조건은 변경될 수 있으니 예약 전 호텔 공식 채널에서 최신 정보를 확인하세요. 일부 링크는 제휴 링크로, 예약 시 추가 비용 없이 소정의 수수료를 받을 수 있습니다.'
+      : '일부 링크는 제휴 링크로, 예약 시 추가 비용 없이 소정의 수수료를 받을 수 있습니다. 시즌·요금·입국 규정은 바뀔 수 있으니 출발 전 호텔과 항공사, 외교부 해외안전여행 등 공식 채널에서 최신 정보를 확인하세요.'),
+  };
+}
+function buildMagazine(fileSlug) {
+  const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/magazine', fileSlug + '.json'), 'utf8'));
+  const html = render(MAG_TPL, [buildMagazineContext(data)]);
+  fs.mkdirSync(path.join(ROOT, 'articles'), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, 'articles', data.slug + '.html'), html);
+  console.log('✓ articles/' + data.slug + '.html (매거진: ' + (data.kind || 'guide') + ')');
+  return data;
+}
+
 if (require.main === module) {
   const arg = process.argv[2];
   if (arg) buildOne(arg);
@@ -274,4 +342,4 @@ if (require.main === module) {
     if (fs.existsSync(dir)) fs.readdirSync(dir).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   }
 }
-module.exports = { buildOne, buildSpecial, buildContext, render, aggregateChart, typeBars, editorialTitle, editorialDescription, isCurrentOrFuture };
+module.exports = { buildOne, buildSpecial, buildMagazine, MAG_KINDS, buildContext, render, aggregateChart, typeBars, editorialTitle, editorialDescription, isCurrentOrFuture };

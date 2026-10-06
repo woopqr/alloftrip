@@ -8,7 +8,7 @@
   function build(){
     if(document.getElementById('mz-consent-bar')) return;
     var bar=document.createElement('div'); bar.id='mz-consent-bar';
-    bar.innerHTML='<div class="mz-cc-inner"><p>This site may use cookies for personalized ads and analytics. See our <a href="/pages/privacy.html">Privacy Policy</a> for details.</p><div class="mz-cc-btns"><button type="button" id="mz-cc-ess">Essential only</button><button type="button" id="mz-cc-ok">Accept</button></div></div>';
+    bar.innerHTML='<div class="mz-cc-inner"><p>이 사이트는 맞춤형 광고와 이용 분석을 위해 쿠키를 사용할 수 있습니다. 자세한 내용은 <a href="/pages/privacy.html">개인정보처리방침</a>을 확인해 주세요.</p><div class="mz-cc-btns"><button type="button" id="mz-cc-ess">필수만 허용</button><button type="button" id="mz-cc-ok">동의</button></div></div>';
     document.body.appendChild(bar);
     document.getElementById('mz-cc-ok').addEventListener('click',function(){grant('granted');});
     document.getElementById('mz-cc-ess').addEventListener('click',function(){grant('denied');});

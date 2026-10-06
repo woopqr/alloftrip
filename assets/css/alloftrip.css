@@ -1,0 +1,87 @@
+/* ===== All of Trip — 한국어 하이패션 트래블 매거진 테마 (아이보리 페이퍼 · 블랙 · 보르도) =====
+   article.css(공용 기반) 위에 덮어쓰는 브랜드 레이어. morestayz(세이지·라운드)·gocartglobal(네이비·인덱스)과
+   구분되도록 잡지 마스트헤드·텍스트 내비·번호 매긴 기사·각진 이미지·굵은 한글 세리프를 쓴다. */
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,700;1,6..96,500&family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@400;500;700&display=swap');
+:root{
+  --bg:#f3eee5; --surface:#fbf8f2; --text:#141110; --muted:#6b645b; --line:#d8cfc1;
+  --accent:#7d1d2c; --accent-d:#6a1624; --rose:#7d1d2c; --ink:#141110;
+  --chip:#ebe4d8; --shadow:none; --shadow-h:0 14px 34px rgba(20,17,16,.12);
+  --serif:'Noto Serif KR','Bodoni Moda',Georgia,serif;
+  --display:'Bodoni Moda','Noto Serif KR',Georgia,serif;
+  --sans:'Noto Sans KR',-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo',sans-serif;
+}
+:root[data-theme="dark"]{
+  --bg:#100e0d; --surface:#181514; --text:#efe8dc; --muted:#a39a8d; --line:#2e2925;
+  --accent:#d0606f; --accent-d:#e07f8c; --rose:#d0606f; --ink:#efe8dc;
+  --chip:#211d1a; --shadow:none; --shadow-h:0 14px 34px rgba(0,0,0,.5);
+}
+body{word-break:keep-all}
+
+/* masthead */
+.hpwrap{max-width:1160px}
+.mast{padding:22px 0 0;text-align:center}
+.dateline{display:flex;justify-content:space-between;gap:12px;padding-right:44px!important;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);padding:8px 2px;font-family:var(--sans);font-size:.72rem;font-weight:700;letter-spacing:.14em;color:var(--text)}
+.dateline span:nth-child(2){color:var(--accent)}
+@media(max-width:620px){.dateline span:nth-child(3){display:none}}
+.mast .kick{display:none}
+.mast .brand{font-family:var(--display);font-weight:500;font-size:clamp(3.4rem,12vw,8.4rem);letter-spacing:-.035em;line-height:.92;text-transform:uppercase;margin:22px 0 0}
+.mast .brand .dot{color:var(--accent)}
+.mast .lede{font-family:var(--serif);font-weight:500;color:var(--text);font-size:1.06rem;max-width:44ch;margin:16px auto 0;line-height:1.7}
+.mast .issue{font-family:var(--display);font-style:italic;font-weight:500;letter-spacing:.02em;text-transform:none;font-size:1rem;color:var(--accent);margin-top:10px}
+
+/* search + nav */
+.search{max-width:620px;margin:22px auto 0}
+.search input{border-bottom:1px solid var(--ink);border-radius:0}
+.catnav{gap:0;margin:22px auto 0;max-width:none;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:2px 0}
+.cchip{border:0;border-radius:0;background:transparent;padding:11px 16px;font-family:var(--sans);font-weight:700;font-size:.86rem;color:var(--text);position:relative}
+.cchip+.cchip::before{content:"";position:absolute;left:0;top:30%;height:40%;width:1px;background:var(--line)}
+.cchip:hover{color:var(--accent);background:transparent}
+.cchip.on{background:transparent;color:var(--accent);text-decoration:underline;text-underline-offset:6px;text-decoration-thickness:2px}
+
+/* section label */
+.seclabel{justify-content:center;margin:40px 0 24px}
+.seclabel h2{font-family:var(--display);font-style:italic;font-weight:500;font-size:1.5rem;letter-spacing:.01em}
+.seclabel .ln{max-width:120px}
+.seclabel::before{content:"";flex:1;max-width:120px;height:1px;background:var(--line)}
+
+/* cards — numbered stories */
+.grid{counter-reset:story;gap:36px 30px}
+.card{counter-increment:story}
+.cthumb{border-radius:0;box-shadow:none;aspect-ratio:4/5}
+.card:hover .cthumb img{transform:scale(1.03)}
+.ctag{border-radius:0;background:var(--ink);color:var(--bg);box-shadow:none;font-weight:700;letter-spacing:.08em;font-size:.68rem;left:0;bottom:0;padding:6px 10px}
+.cbody{padding-top:14px}
+.cbody::before{content:counter(story,decimal-leading-zero);display:block;font-family:var(--display);font-size:1.7rem;font-weight:500;line-height:1;color:var(--accent);margin-bottom:8px}
+.cmeta{color:var(--muted);letter-spacing:.06em;font-weight:700;text-transform:none;font-size:.76rem}
+.card h2{font-family:var(--serif);font-weight:700;font-size:1.12rem;line-height:1.5;margin-top:6px}
+.card:hover h2{color:var(--accent)}
+.grid .card:first-child{grid-template-columns:1.5fr 1fr;border-bottom:1px solid var(--ink)}
+.grid .card:first-child .cthumb{aspect-ratio:3/2}
+.grid .card:first-child .cbody::before{font-size:3.2rem}
+.grid .card:first-child h2{font-family:var(--serif);font-weight:900;font-size:clamp(1.6rem,3.4vw,2.5rem);line-height:1.32;letter-spacing:-.02em}
+.pager .pg{border-radius:0;border-color:var(--ink)}
+.pager .pg.cur{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+
+/* article pages */
+.post .backbar{font-family:var(--display);font-style:italic}
+.crumb{font-family:var(--sans)}
+.hero{border-radius:0;box-shadow:none}
+.hero h1,.sp-title{font-family:var(--serif);font-weight:900;letter-spacing:-.025em}
+.kicker .tag{border-radius:0;background:var(--accent)}
+.kicker .ssn{border-radius:0}
+.callout,.databox,.garea,.relgrid a{border-radius:0!important;box-shadow:none!important}
+.callout.verdict{border:0;border-top:2px solid var(--ink);border-bottom:1px solid var(--ink);background:transparent}
+.hotel{border-radius:0;box-shadow:none;border:0;border-top:2px solid var(--ink);background:transparent}
+.hotel:hover{transform:none;box-shadow:none}
+.hotel .ph{border-radius:0}
+.hotel .ph .rk,.hotel .ph .chip{border-radius:0}
+.hotel .ph .rk.top{background:var(--accent)}
+.cta a,.bigcta{border-radius:0!important;background:var(--ink)!important;color:var(--bg)!important;letter-spacing:.02em}
+.cta a:hover,.bigcta:hover{background:var(--accent)!important}
+.sp-hero,.guide .sp-hero{border-radius:0;box-shadow:none;background:linear-gradient(160deg,#141110 0%,#2a1015 60%,#4a1622 100%)}
+.guide .sp-hero::after{border-radius:0;border-color:rgba(226,201,168,.35)}
+.sp-eyebrow{border-radius:0;background:transparent;color:#e2c9a8;font-family:var(--display);font-style:italic;letter-spacing:.04em;text-transform:none;padding:0}
+.sphotel{border-radius:0!important}
+#mz-consent-bar{border-top:2px solid var(--ink)}
+.mz-cc-btns button{border-radius:0}
+footer{border-top:3px solid var(--ink)}

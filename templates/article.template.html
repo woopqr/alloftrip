@@ -18,18 +18,18 @@
 <script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
-<script defer src="/assets/consent.js"></script>
-<link rel="stylesheet" href="/assets/css/article.css">
+<script defer src="/assets/consent.js?v=20261002"></script>
+<link rel="stylesheet" href="/assets/css/article.css?v=20261002"><link rel="stylesheet" href="/assets/css/alloftrip.css?v=20261006">
 <script type="application/ld+json">{{{jsonld}}}</script>
 </head>
 <body>
-<button id="themeToggle" class="theme-toggle" aria-label="Toggle dark/light" onclick="__mzToggle()">
+<button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 모드 전환" onclick="__mzToggle()">
   <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
 </button>
 
 <article class="post">
-  <a class="backbar" href="/">← {{site.name}} Home</a>
-  <nav class="crumb" aria-label="Breadcrumb"><a href="/">Home</a> <span>›</span> <a href="/category/{{theme}}">{{audience}}</a> <span>›</span> <span>{{city}} stays</span></nav>
+  <a class="backbar" href="/">← {{site.name}} 홈</a>
+  <nav class="crumb" aria-label="Breadcrumb"><a href="/">홈</a> <span>›</span> <a href="/category/{{theme}}">{{audience}}</a> <span>›</span> <span>{{city}} 숙소</span></nav>
 
   <!-- hero -->
   <div class="hero">
@@ -38,36 +38,36 @@
       <div class="kicker"><span class="tag">{{emoji}} {{audience}}</span>{{#season}}<span class="ssn">{{season}}</span>{{/season}}<span class="mon">{{travelMonthLabel}}</span></div>
       <h1>{{title}}</h1>
       <p class="lede">{{intro}}</p>
-      <p class="byline">{{authorName}} · Updated {{updatedLabel}} · <a href="/pages/methodology.html">Methodology</a></p>
+      <p class="byline">{{authorName}} · 업데이트 {{updatedLabel}} · <a href="/pages/methodology.html">선정 방법</a></p>
     </div>
   </div>
 
-  <div class="callout verdict"><span class="vlabel">THE VERDICT</span>{{{verdict}}}</div>
+  <div class="callout verdict"><span class="vlabel">에디터의 결론</span>{{{verdict}}}</div>
 
   <section class="databox evidence-box">
-    <h2>How we ranked & data scope</h2>
+    <h2>선정 기준과 데이터 범위</h2>
     <dl class="evidence-list">
-      <div><dt>Data source</dt><dd>{{sourceName}}</dd></div>
-      <div><dt>Fetched</dt><dd>{{fetchedAtLabel}}</dd></div>
-      <div><dt>Search criteria</dt><dd>{{searchCondition}}</dd></div>
-      <div><dt>Type sample</dt><dd>{{sampleTotal}} snippets · {{sampleReliability}}</dd></div>
+      <div><dt>데이터 출처</dt><dd>{{sourceName}}</dd></div>
+      <div><dt>조회 시각</dt><dd>{{fetchedAtLabel}}</dd></div>
+      <div><dt>검색 조건</dt><dd>{{searchCondition}}</dd></div>
+      <div><dt>유형 표본</dt><dd>리뷰 스니펫 {{sampleTotal}}건 · {{sampleReliability}}</dd></div>
     </dl>
-    <p class="dsub">{{sampleNotice}} Prices, availability and amenities may change after the fetch time; unverified values are flagged, not estimated.</p>
+    <p class="dsub">{{sampleNotice}} 가격·재고·시설은 조회 이후 달라질 수 있으며, 확인되지 않은 값은 추정하지 않고 표시만 합니다.</p>
   </section>
 
-  {{#seasonNote}}<p class="ssnnote">🗓️ {{travelMonthLabel}} · {{season}} tip: {{seasonNote}}</p>{{/seasonNote}}
+  {{#seasonNote}}<p class="ssnnote">🗓️ {{travelMonthLabel}} · {{season}} 팁: {{seasonNote}}</p>{{/seasonNote}}
 
   <!-- data: traveler type distribution -->
   {{#hasAggregate}}
   <section class="databox">
-    <h2>📊 Who loves these stays</h2>
-    <p class="dsub">Aggregated from review snippets in the search response for {{city}} {{audience}} candidates, grouped by traveler type. This shows sample direction, not the full review mix.</p>
+    <h2>📊 어떤 여행자가 이 숙소들을 사랑할까</h2>
+    <p class="dsub">{{city}} {{audience}} 후보 숙소의 검색 응답에 포함된 리뷰 스니펫을 여행자 유형별로 집계했습니다. 전체 리뷰 구성이 아닌 표본의 경향입니다.</p>
     {{{aggregateChartHtml}}}
   </section>
   {{/hasAggregate}}
 
   <!-- hotel cards -->
-  <h2 class="sechd">🏨 The finest {{audience}} stays in {{city}}</h2>
+  <h2 class="sechd">🏨 {{city}} {{audience}} 최고급 숙소</h2>
   {{#hotels}}
   <section class="hotel">
     <div class="ph">
@@ -81,36 +81,36 @@
     </div>
     <div class="bd">
       <p class="blurb">{{blurb}}</p>
-      <p class="field-status">Price: {{priceStatus}} · Location: {{locationStatus}} · Type sample: {{sampleCount}}</p>
+      <p class="field-status">가격: {{priceStatus}} · 위치: {{locationStatus}} · 유형 표본: {{sampleCount}}건</p>
       <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
       {{#hasTypes}}{{{typeBarsHtml}}}{{/hasTypes}}
       {{#hasReviews}}
       <div class="reviews">
-        {{#reviews}}<div class="rv"><div class="rvsc">{{score}}</div><div class="rvc"><p class="q">“{{text}}”</p><div class="rvf">{{country}}{{#date}} · {{date}}{{/date}}{{#translated}} <span class="rv-tr">translated</span>{{/translated}}</div></div></div>{{/reviews}}
-        <a class="rv-more" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">Read more real guest reviews →</a>
+        {{#reviews}}<div class="rv"><div class="rvsc">{{score}}</div><div class="rvc"><p class="q">“{{text}}”</p><div class="rvf">{{country}}{{#date}} · {{date}}{{/date}}{{#translated}} <span class="rv-tr">번역됨</span>{{/translated}}</div></div></div>{{/reviews}}
+        <a class="rv-more" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">실제 투숙객 리뷰 더 보기 →</a>
       </div>
       {{/hasReviews}}
-      <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 Check live rates on Agoda →</a></div>
+      <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 아고다에서 실시간 요금 확인 →</a></div>
     </div>
   </section>
   {{/hotels}}
 
   <div class="callout basis">
-    <p class="bt">🔎 How we chose</p>
-    <p>We use the cumulative rating and total review count from Agoda's search response, the fetched nightly price, and transit distance. Ratings receive a Bayesian adjustment for review volume and combine with the price tier; traveler-type fit is computed only from the snippet sample in the response. Missing prices, amenities and locations are not estimated. This ranking reflects the conditions above — re-check live prices and availability at checkout.</p>
+    <p class="bt">🔎 이렇게 골랐습니다</p>
+    <p>아고다 검색 응답의 5성급 숙소 가운데 세금·봉사료 포함 1박 요금, 누적 평점과 리뷰 수, 리조트·풀빌라 여부를 함께 반영해 순위를 매겼습니다. 개인 렌탈 숙소와 호텔명이 공개되지 않는 특가 상품은 제외했고, 여행자 유형 적합도는 검색 응답의 리뷰 표본으로만 계산했습니다. 확인되지 않은 가격·시설·위치는 추정하지 않습니다. 순위는 위 조회 조건 기준이므로, 예약 전 실시간 요금과 객실 조건을 다시 확인하세요.</p>
   </div>
 
   <div class="outro">
-    <h2>🌙 Planning {{city}}?</h2>
-    <p>These picks are compared on the same criteria from a {{audience}} lens. Once your dates are set, re-check current prices and room options for {{city}}.</p>
-    <a class="bigcta" href="{{cityUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 Search all {{city}} stays on Agoda</a>
+    <h2>🌙 {{city}} 여행을 준비 중이라면</h2>
+    <p>이 숙소들은 {{audience}} 관점에서 같은 기준으로 비교했습니다. 일정이 정해지면 {{city}}의 현재 요금과 객실 옵션을 다시 확인해 보세요.</p>
+    <a class="bigcta" href="{{cityUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 아고다에서 {{city}} 숙소 전체 보기</a>
   </div>
 
-  <p class="disc">This article contains Agoda affiliate links. We may earn a commission on bookings at no extra cost to you. Selections and assessments are written independently, based on real data.</p>
+  <p class="disc">이 글에는 아고다 제휴 링크가 포함되어 있으며, 링크를 통해 예약하시면 추가 비용 없이 소정의 수수료를 받을 수 있습니다. 숙소 선정과 평가는 실데이터를 바탕으로 독립적으로 작성했습니다.</p>
 
   <nav class="pagenav">
-    <a href="/">← Browse more luxury picks</a>
-    <span><a href="/pages/methodology.html">Methodology</a> · <a href="/pages/editorial-policy.html">Editorial policy</a> · <a href="/pages/privacy.html">Privacy Policy</a> · <a href="/pages/contact.html">Contact</a></span>
+    <a href="/">← 더 많은 럭셔리 큐레이션 보기</a>
+    <span><a href="/pages/methodology.html">선정 방법</a> · <a href="/pages/editorial-policy.html">편집 원칙</a> · <a href="/pages/privacy.html">개인정보처리방침</a> · <a href="/pages/contact.html">문의</a></span>
   </nav>
 </article>
 

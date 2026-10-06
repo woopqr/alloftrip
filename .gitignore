@@ -66,3 +66,9 @@ STATUS.md
 *.xlsx
 *.xls
 *.log
+
+# 아고다 검색 캐시
+.cache/
+
+# 배포 출력(Cloudflare 빌드에서 생성)
+dist/

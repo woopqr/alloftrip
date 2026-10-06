@@ -1,0 +1,627 @@
+{
+  "slug": "ultra-honolulu",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "하와이 호놀룰루",
+  "citySlug": "honolulu",
+  "cityId": 10921,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=10921",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[하와이 호놀룰루] 가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+  "metaDescription": "2026년 11월 하와이 호놀룰루 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 40%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>에스파시오 더 주얼 오브 와이키키</b>입니다 (평점 9 · 리뷰 87건 · 1박 약 484만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 11,
+        "pct": 44
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 40
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 16
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/295044/-1/aca429b12a2fa5d37f0cb0df3b75770c.jpg?va=1&ce=0",
+  "heroAlt": "하와이 호놀룰루 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "에스파시오 더 주얼 오브 와이키키 (ESPACIO The Jewel of Waikiki)",
+      "agodaUrl": "https://www.agoda.com/aqua-waikiki-beachside-h24809787/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/295044/-1/aca429b12a2fa5d37f0cb0df3b75770c.jpg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 87,
+      "reviewCountFmt": "리뷰 87건",
+      "priceText": "₩₩₩ · 1박 약 484만원",
+      "walkMin": 19,
+      "refLabel": "Monsarrat Avenue Station",
+      "star": 5,
+      "propertyId": 295044,
+      "priceKRW": 4841762,
+      "priceStatus": "조회됨",
+      "distanceM": 1483.32,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "와이키키 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 87건. Monsarrat Avenue Station까지 도보 19분, ₩₩₩ · 1박 약 484만원.",
+      "metaTags": [
+        "💰 1박 약 484만원",
+        "📝 리뷰 87건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "하레쿨라니 - 노 리조트 피 (Halekulani - NO RESORT FEE)",
+      "agodaUrl": "https://www.agoda.com/halekulani-hotel/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49107/0/786950a5b24c94fcc2f8db2886a90510.jpeg?va=1",
+      "score": 9.2,
+      "reviewCount": 2567,
+      "reviewCountFmt": "리뷰 2,567건",
+      "priceText": "₩₩₩ · 1박 약 108만원",
+      "walkMin": 27,
+      "refLabel": "Kalia Station",
+      "star": 5,
+      "propertyId": 49107,
+      "priceKRW": 1075821,
+      "priceStatus": "조회됨",
+      "distanceM": 2163.24,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "와이키키 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 2,567건. Kalia Station까지 도보 27분, ₩₩₩ · 1박 약 108만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 108만원",
+        "📝 리뷰 2,567건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 매우 깨끗했고 필요한 편의시설이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "여기에 묵지 않았다면 이 호텔은 필수입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "항상 최고의 서비스, 세상에서 가장 아름다운 호텔",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "완벽하게 임명되고 아름답게 실행되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "Halekulani- 매우 정교하고 최고 수준의 서비스입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "카 라이 와이키키 비치, LXR 호텔스 앤 리조트 (Ka La‘i Waikiki Beach, LXR Hotels & Resorts)",
+      "agodaUrl": "https://www.agoda.com/jet-luxury-h27518129/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/212225/0/67e0bc896f4f2b00b94cf177c958b82c.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 2518,
+      "reviewCountFmt": "리뷰 2,518건",
+      "priceText": "₩₩₩ · 1박 약 104만원",
+      "walkMin": 25,
+      "refLabel": "Kalia Station",
+      "star": 5,
+      "propertyId": 212225,
+      "priceKRW": 1040968,
+      "priceStatus": "조회됨",
+      "distanceM": 1981.76,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "와이키키 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 2,518건. Kalia Station까지 도보 25분, ₩₩₩ · 1박 약 104만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 104만원",
+        "📝 리뷰 2,518건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "정말 편안하고 친절한 호텔이었습니다",
+          "score": "8.8",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 그 방 상태, 위치 및 친절한 서비스를 좋아했습니다.",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "특히 직원들은 항상 친절하고 웃으며 전문적입니다.",
+          "score": "10",
+          "country": "日本",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "뛰어난 일본인 직원이 세세한 부분까지 세심하게 배려합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "공간이 충분했고 우리는 매우 편안했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 리츠칼튼 레지던스, 와이키키 비치 (The Ritz-Carlton Residences, Waikiki Beach)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-residences-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/538653707.jpg?k=39f962523fb3df1d03b3b11fba318dc650ea49a70a36acea6eb4e0c224159c88&o=",
+      "score": 9.1,
+      "reviewCount": 292,
+      "reviewCountFmt": "리뷰 292건",
+      "priceText": "₩₩₩ · 1박 약 106만원",
+      "walkMin": 24,
+      "refLabel": "Kalia Station",
+      "star": 5,
+      "propertyId": 2452173,
+      "priceKRW": 1057118,
+      "priceStatus": "조회됨",
+      "distanceM": 1912.94,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "와이키키 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 292건. Kalia Station까지 도보 24분, ₩₩₩ · 1박 약 106만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 106만원",
+        "📝 리뷰 292건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "멋진 장소, 모든 서비스에 대한 세심한 손길",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "나는 전망과 열리는 발코니가 있는 우리 방을 좋아했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "호텔 직원은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "미국",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "우리 가족에게는 정말 멋지고 사랑스러운 경험이었습니다.",
+          "score": "9.6",
+          "country": "日本",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에 대해서는 칭찬밖에 할 게 없어요",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 로얄 하와이안, 어 럭셔리 컬렉션 리조트, 와이키키 (The Royal Hawaiian, a Luxury Collection Resort, Waikiki)",
+      "agodaUrl": "https://www.agoda.com/the-royal-hawaiian-a-luxury-collection-resort-waikiki/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/161224/74570586/c3c1cbbc59ffd9e504db30216f48eac2.jpeg?va=1&ce=3",
+      "score": 8.5,
+      "reviewCount": 803,
+      "reviewCountFmt": "리뷰 803건",
+      "priceText": "₩₩₩ · 1박 약 75만원",
+      "walkMin": 24,
+      "refLabel": "Monsarrat Avenue Station",
+      "star": 5,
+      "propertyId": 161224,
+      "priceKRW": 749350,
+      "priceStatus": "조회됨",
+      "distanceM": 1928.96,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "와이키키 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 803건. Monsarrat Avenue Station까지 도보 24분, ₩₩₩ · 1박 약 75만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 75만원",
+        "📝 리뷰 803건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "화려한 호텔, 멋진 정원.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "언제나 그렇듯이 직원들이 우리를 잘 보살펴주었습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "완벽한 숙박",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우리 가족 모임에 딱 맞습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 다시 방문할 것이다!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 카할라 호텔 앤 리조트 (The Kahala Hotel and Resort)",
+      "agodaUrl": "https://www.agoda.com/the-kahala-hotel-and-resort/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46248/0/70b0042515abb4bf09679c6263645c91.jpeg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 1384,
+      "reviewCountFmt": "리뷰 1,384건",
+      "priceText": "₩₩₩ · 1박 약 73만원",
+      "walkMin": 49,
+      "refLabel": "Monsarrat Avenue Station",
+      "star": 5,
+      "propertyId": 46248,
+      "priceKRW": 728685,
+      "priceStatus": "조회됨",
+      "distanceM": 3911.33,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "다이아몬드 헤드",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,384건. Monsarrat Avenue Station까지 도보 49분, ₩₩₩ · 1박 약 73만원.",
+      "metaTags": [
+        "💰 1박 약 73만원",
+        "📝 리뷰 1,384건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 강력히 추천하고 싶은 훌륭한 호텔입니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "따뜻한 환대, 훌륭한 직원, 편안한 환경.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "나는 머지않아 호텔로 돌아올 것이다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "리조트의 모든 것이 완벽합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "처음부터 끝까지 정말 훌륭합니다.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-02T06:10:27.863Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-02T06:10:27.863Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "에스파시오 더 주얼 오브 와이키키 (ESPACIO The Jewel of Waikiki): reviewSample"
+      ]
+    }
+  }
+}
