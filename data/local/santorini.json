@@ -1,0 +1,217 @@
+{
+  "slug": "santorini",
+  "food": [
+    {
+      "name": "리카베투스 (안드로니스 이아)",
+      "nameLocal": "Lycabettus Restaurant – Andronis Luxury Suites",
+      "type": "restaurant",
+      "cuisine": "지중해 해산물 파인다이닝",
+      "area": "이아",
+      "address": "Nik. Nomikou S/N, Andronis Luxury Suites, Oia 847 02, Santorini, Greece",
+      "why": "이아 절벽 끝 발코니 테이블에서 칼데라 일몰을 보며 그리스·지중해 해산물 테이스팅 코스를 즐기는 곳으로, 산토리니에서 가장 로맨틱한 레스토랑으로 자주 꼽힙니다.",
+      "proof": [
+        {
+          "kind": "award",
+          "label": "그리스 미식 어워드 '황금 셰프 모자(Toque d'Or)' 수상",
+          "url": "https://neoskosmos.com/en/2017/10/19/life/food-drink/is-this-the-most-romantic-restaurant-in-the-world-lycabettus-santorini-greece/"
+        },
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 900+",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g482941-d8344018-Reviews-Lycabettus_Restaurant-Oia_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "일몰 시간대 좌석은 일찍 마감됩니다. 공식 홈페이지에서 미리 예약하세요. 시즌제(대략 4월–10월) 운영."
+    },
+    {
+      "name": "메탁시 마스",
+      "nameLocal": "Metaxy Mas (Metaxi Mas)",
+      "type": "restaurant",
+      "cuisine": "크레타·그리스 전통 타베르나",
+      "area": "엑소 고니아",
+      "address": "Exo Gonia 847 00, Santorini, Greece",
+      "why": "섬 동쪽 언덕 마을의 타베르나로, 크레타산 재료로 만든 그리스 가정식을 넉넉한 양과 합리적인 가격에 내 현지인과 여행자 모두에게 인기입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 4,700+ · 평점 4.6",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g8043198-d1939380-Reviews-Metaxi_Mas-Exo_Gonia_Fira_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약 권장. 이아·피라에서 차로 15–25분 거리라 택시나 렌터카로 이동하세요.",
+      "lat": 36.387952,
+      "lng": 25.457357,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아무디 피시 타베르나",
+      "nameLocal": "Ammoudi Fish Tavern",
+      "type": "restaurant",
+      "cuisine": "그리스 해산물 (생선구이·문어)",
+      "area": "이아 아무디 베이",
+      "address": "Ammoudi Bay, Oia 847 02, Santorini, Greece",
+      "why": "이아 마을 아래 작은 항구 아무디 베이의 바닷가 해산물 식당으로, 그날 잡은 생선과 문어구이를 붉은 절벽과 바다를 바라보며 먹을 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 평점 4.1 (이아 대표 해산물 식당)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g482941-d4548072-Reviews-Ammoudi_Fish_Tavern-Oia_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "생선은 kg 단위로 계산되니 주문 전 가격을 확인하세요. 이아에서 약 300개 계단을 내려가야 합니다.",
+      "lat": 36.464584,
+      "lng": 25.370394,
+      "geoSource": "osm"
+    },
+    {
+      "name": "피토기로스 (이아)",
+      "nameLocal": "PitoGyros Traditional Grill House",
+      "type": "restaurant",
+      "cuisine": "기로스 · 수블라키",
+      "area": "이아",
+      "address": "Main street, Oia 847 02, Santorini, Greece",
+      "why": "이아 중심가의 그릴 하우스로, 숯불에 구운 고기와 수제 소스를 넣은 피타 기로스가 저렴하고 맛있어 한국 여행자들 사이에서도 자주 언급됩니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 3,000+ · 평점 4.7",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g482941-d6691018-Reviews-PitoGyros_Traditional_Grill_House-Oia_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "12:00–23:00 영업. 일몰 전후로 줄이 길어지니 이른 저녁에 방문하세요."
+    },
+    {
+      "name": "럭키스 수블라키 (피라)",
+      "nameLocal": "Lucky's Souvlakis",
+      "type": "restaurant",
+      "cuisine": "기로스 · 수블라키",
+      "area": "피라",
+      "address": "25is Martiou St (main street), Fira 847 00, Santorini, Greece",
+      "why": "피라 중심가의 작은 수블라키 가게로, 갓 구운 피타에 고기를 듬뿍 넣은 기로스를 저렴하게 먹을 수 있어 오랫동안 인기를 끌고 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 2,500+ · 평점 4.5",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g482942-d1340062-Reviews-Lucky_s_Souvlakis-Fira_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "포장 위주의 작은 가게라 좌석이 거의 없습니다.",
+      "lat": 36.41727,
+      "lng": 25.432418,
+      "geoSource": "osm"
+    },
+    {
+      "name": "롤리타스 젤라또",
+      "nameLocal": "Lolita's Gelato",
+      "type": "dessert",
+      "cuisine": "수제 젤라토",
+      "area": "이아",
+      "address": "Main street near the bus station, Oia 847 02, Santorini, Greece",
+      "why": "매장에서 직접 만드는 젤라토 가게로, 꿀·피스타치오·올리브오일처럼 그리스 재료를 쓴 맛이 인기이며 이아 디저트 부문 1위에 올라 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 2,000+ · 평점 4.7 (이아 디저트 1위)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g482941-d4221812-Reviews-Lolita_s_Gelato-Oia_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "시식을 권하는 편이니 여러 맛을 맛보고 고르세요."
+    },
+    {
+      "name": "갈리니 카페 (피로스테파니)",
+      "nameLocal": "Galini Cafe",
+      "type": "cafe",
+      "cuisine": "브런치 카페",
+      "area": "피로스테파니",
+      "address": "Firostefani 847 00, Santorini, Greece (Galini Hotel, caldera path)",
+      "why": "피라와 이메로비글리 사이 칼데라 산책로에 있는 카페로, 칼데라를 정면으로 바라보며 에그 베네딕트·팬케이크 같은 아침 메뉴를 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 1,100+ · 평점 4.5",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g635607-d3492755-Reviews-Galini_Cafe-Firostefani_Santorini_Cyclades_South_Aegean.html"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "08:00–23:00 영업. 주말 아침에는 대기가 있을 수 있습니다.",
+      "lat": 36.427396,
+      "lng": 25.428281,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "이아 성채 일몰 포인트",
+      "nameLocal": "Oia Castle (Byzantine Castle Ruins)",
+      "kind": "landmark",
+      "address": "Oia Castle, Oia 847 02, Santorini, Greece",
+      "why": "흰 집과 풍차 너머로 지는 산토리니 일몰을 보기 위해 해 질 녘마다 여행자가 모이는 대표 명소입니다.",
+      "lat": 36.460189,
+      "lng": 25.37324,
+      "geoSource": "osm"
+    },
+    {
+      "name": "피라–이아 칼데라 트레킹",
+      "nameLocal": "Fira–Oia Hiking Trail",
+      "kind": "nature",
+      "address": "Trail start: Firostefani, Fira 847 00 – ends in Oia 847 02, Santorini, Greece",
+      "why": "피로스테파니·이메로비글리를 지나 이아까지 칼데라 능선을 따라 걷는 약 10km 코스로, 섬의 절경을 가장 가까이에서 볼 수 있습니다."
+    },
+    {
+      "name": "아무디 베이",
+      "nameLocal": "Ammoudi Bay",
+      "kind": "nature",
+      "address": "Ammoudi, Oia 847 02, Santorini, Greece",
+      "why": "붉은 화산 절벽 아래 작은 항구로, 해산물 식당과 바다 수영 포인트가 있어 이아 일정에 함께 넣기 좋습니다.",
+      "lat": 36.460411,
+      "lng": 25.371071,
+      "geoSource": "osm"
+    },
+    {
+      "name": "산토 와인즈",
+      "nameLocal": "Santo Wines Winery",
+      "kind": "experience",
+      "address": "Pyrgos Kallistis 847 01, Santorini, Greece",
+      "why": "칼데라를 내려다보는 테라스에서 산토리니 토착 품종 아시르티코 와인을 시음할 수 있는 와이너리입니다.",
+      "lat": 36.382604,
+      "lng": 25.450154,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아크로티리 유적",
+      "nameLocal": "Archaeological Site of Akrotiri",
+      "kind": "landmark",
+      "address": "Akrotiri 847 00, Santorini, Greece",
+      "why": "화산 폭발로 묻힌 청동기 시대 도시 유적으로, '에게해의 폼페이'라 불립니다.",
+      "lat": 36.351793,
+      "lng": 25.403487,
+      "geoSource": "osm"
+    },
+    {
+      "name": "레드 비치",
+      "nameLocal": "Red Beach",
+      "kind": "nature",
+      "address": "Akrotiri 847 00, Santorini, Greece",
+      "why": "붉은 화산암 절벽이 둘러싼 독특한 해변으로, 아크로티리 유적과 함께 둘러보기 좋습니다.",
+      "lat": 36.351793,
+      "lng": 25.403487,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아틀란티스 북스",
+      "nameLocal": "Atlantis Books",
+      "kind": "shopping",
+      "address": "Nikolaou Nomikou, Oia 847 02, Santorini, Greece",
+      "why": "이아 골목의 동굴형 독립 서점으로, 아기자기한 내부 덕분에 사진 명소로도 알려져 있습니다.",
+      "lat": 36.461645,
+      "lng": 25.374168,
+      "geoSource": "osm"
+    }
+  ]
+}

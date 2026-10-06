@@ -1,0 +1,206 @@
+{
+  "slug": "amalfi",
+  "food": [
+    {
+      "name": "라 카라벨라",
+      "nameLocal": "La Caravella dal 1959",
+      "type": "restaurant",
+      "cuisine": "아말피 해산물 파인다이닝",
+      "area": "아말피",
+      "address": "Via Matteo Camera 12, 84011 Amalfi SA, Italy",
+      "lat": 40.6338537,
+      "lng": 14.6016228,
+      "why": "1959년 문을 연 아말피 해안 미식의 역사를 대표하는 곳으로, 지역 해산물과 레몬을 활용한 전통 요리를 세련되게 선보입니다. 수많은 유명 인사가 다녀간 곳으로도 알려져 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 이탈리아 1스타",
+          "url": "https://guide.michelin.com/us/en/campania/amalfi/restaurant/la-caravella-dal-1959"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "아말피 해안 레스토랑은 대체로 늦가을부터 봄까지 휴업하는 곳이 많으니 방문 전 영업 기간을 확인하세요. 예약 필수."
+    },
+    {
+      "name": "자스 (일 산 피에트로 디 포지타노)",
+      "nameLocal": "Zass – Il San Pietro di Positano",
+      "type": "restaurant",
+      "cuisine": "모던 이탈리안 파인다이닝",
+      "area": "포지타노",
+      "address": "Via Laurito 2, 84017 Positano SA, Italy",
+      "lat": 40.623268,
+      "lng": 14.5038074,
+      "why": "포지타노 절벽 위 전설적인 호텔 '일 산 피에트로' 안의 레스토랑으로, 호텔 텃밭 채소와 지역 해산물을 쓴 코스가 특징입니다. 바다를 내려다보는 테라스 좌석이 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 이탈리아 1스타",
+          "url": "https://guide.michelin.com/us/en/campania/positano/restaurant/zass"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "호텔 시즌(대략 4월–10월) 동안만 운영합니다. 일찍 예약하세요."
+    },
+    {
+      "name": "로셀리니스 (팔라초 아비노)",
+      "nameLocal": "Rossellinis – Palazzo Avino",
+      "type": "restaurant",
+      "cuisine": "이탈리안 파인다이닝",
+      "area": "라벨로",
+      "address": "Via San Giovanni del Toro 28, 84010 Ravello SA, Italy",
+      "lat": 40.650822,
+      "lng": 14.6130382,
+      "why": "라벨로의 5성급 호텔 팔라초 아비노의 대표 레스토랑으로, 아말피 해안에서 손꼽히는 절경의 테라스에서 캄파니아 식재료로 만든 코스를 맛볼 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 이탈리아 1스타",
+          "url": "https://guide.michelin.com/us/en/campania/ravello/restaurant/rossellinis"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "시즌제로 운영하니 방문 시기의 영업 여부를 확인하세요. 일몰 시간에 맞춰 테라스 자리를 요청해 보세요."
+    },
+    {
+      "name": "라 스폰다 (레 시레누세)",
+      "nameLocal": "La Sponda – Le Sirenuse",
+      "type": "restaurant",
+      "cuisine": "캄파니아 지중해 요리",
+      "area": "포지타노",
+      "address": "Via Cristoforo Colombo 30, 84017 Positano SA, Italy",
+      "lat": 40.6284968,
+      "lng": 14.4880344,
+      "why": "포지타노의 상징적인 호텔 레 시레누세의 레스토랑으로, 수백 개의 촛불이 켜지는 저녁 분위기와 포지타노 전경을 내려다보는 테라스로 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 이탈리아 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/campania/positano/restaurant/la-sponda"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "드레스 코드는 스마트 캐주얼. 저녁 예약은 몇 주 전부터 차는 편입니다."
+    },
+    {
+      "name": "다 빈첸초",
+      "nameLocal": "Da Vincenzo",
+      "type": "restaurant",
+      "cuisine": "포지타노 가정식 · 해산물 파스타",
+      "area": "포지타노",
+      "address": "Viale Pasitea 172/178, 84017 Positano SA, Italy",
+      "lat": 40.6278082,
+      "lng": 14.485111,
+      "why": "가족이 대를 이어 운영하는 포지타노 트라토리아로, 관광지에서도 양과 질의 균형을 지켜 왔다는 평을 받습니다. 해산물 파스타와 디저트가 인기입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 이탈리아 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/campania/positano/restaurant/da-vincenzo"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "좌석이 적어 예약을 권합니다. 비수기에는 휴업할 수 있습니다."
+    },
+    {
+      "name": "파스티체리아 판사",
+      "nameLocal": "Pasticceria Andrea Pansa",
+      "type": "dessert",
+      "cuisine": "레몬 디저트 · 이탈리안 페이스트리",
+      "area": "아말피",
+      "address": "Piazza Duomo 40, 84011 Amalfi SA, Italy",
+      "why": "아말피 대성당 앞 광장의 노포 제과점으로, 레몬 크림을 채운 스펀지 케이크 '델리치아 알 리모네'가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 3,100+",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g187780-d1501002-Reviews-Pasticceria_Andrea_Pansa-Amalfi_Amalfi_Coast_Province_of_Salerno_Campania.html"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "테이블에 앉으면 서비스 요금이 붙어 테이크아웃보다 비쌉니다.",
+      "lat": 40.634216,
+      "lng": 14.602748,
+      "geoSource": "osm"
+    },
+    {
+      "name": "살 데 리소 (미노리)",
+      "nameLocal": "Sal De Riso Costa d'Amalfi",
+      "type": "dessert",
+      "cuisine": "레몬 케이크 · 젤라토",
+      "area": "미노리",
+      "address": "Via Roma 80, 84010 Minori SA, Italy",
+      "why": "이탈리아의 유명 파티시에 살바토레 데 리소의 본점으로, 리코타 배 케이크와 아말피 레몬을 쓴 디저트로 유명합니다. 아말피와 라벨로 사이 해변 마을 미노리에 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 6,000+ · 평점 4.2",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g580202-d3184471-Reviews-Pasticceria_Sal_De_Riso-Minori_Amalfi_Coast_Province_of_Salerno_Campania.html"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "아침 일찍부터 자정 무렵까지 영업해 해안 드라이브 중 들르기 좋습니다."
+    }
+  ],
+  "spots": [
+    {
+      "name": "포지타노 (스피아자 그란데)",
+      "nameLocal": "Positano – Spiaggia Grande",
+      "kind": "landmark",
+      "address": "Via Marina Grande, 84017 Positano SA, Italy",
+      "why": "절벽을 따라 파스텔 톤 집들이 층층이 쌓인 풍경으로 아말피 해안을 대표하는 사진 명소입니다.",
+      "lat": 40.627634,
+      "lng": 14.487742,
+      "geoSource": "osm"
+    },
+    {
+      "name": "아말피 대성당",
+      "nameLocal": "Duomo di Sant'Andrea (Cattedrale di Amalfi)",
+      "kind": "landmark",
+      "address": "Piazza Duomo, 84011 Amalfi SA, Italy",
+      "why": "광장에서 이어지는 긴 계단과 아랍·노르만 양식이 섞인 화려한 파사드로 유명한 아말피의 중심입니다.",
+      "lat": 40.634248,
+      "lng": 14.602616,
+      "geoSource": "osm"
+    },
+    {
+      "name": "빌라 루폴로",
+      "nameLocal": "Villa Rufolo",
+      "kind": "landmark",
+      "address": "Piazza Duomo, 84010 Ravello SA, Italy",
+      "why": "바그너가 영감을 받았다는 정원과 해안 절경 테라스로, 여름에는 라벨로 음악 축제 무대가 됩니다.",
+      "lat": 40.653288,
+      "lng": 14.608039,
+      "geoSource": "osm"
+    },
+    {
+      "name": "빌라 침브로네 (무한의 테라스)",
+      "nameLocal": "Villa Cimbrone – Terrazza dell'Infinito",
+      "kind": "nature",
+      "address": "Via Santa Chiara 26, 84010 Ravello SA, Italy",
+      "why": "흉상이 늘어선 '무한의 테라스'에서 아말피 해안을 내려다보는 전망으로 유명한 정원입니다.",
+      "lat": 40.646018,
+      "lng": 14.610684,
+      "geoSource": "osm"
+    },
+    {
+      "name": "신들의 길 트레킹",
+      "nameLocal": "Sentiero degli Dei (Path of the Gods)",
+      "kind": "nature",
+      "address": "Piazza Paolo Capasso, 80051 Bomerano, Agerola NA, Italy (trailhead)",
+      "why": "보메라노에서 포지타노 방향으로 해안 절벽 위를 걷는 약 3시간 코스로, 아말피 해안을 위에서 내려다볼 수 있습니다.",
+      "lat": 40.630052,
+      "lng": 14.540003,
+      "geoSource": "osm"
+    },
+    {
+      "name": "에메랄드 동굴",
+      "nameLocal": "Grotta dello Smeraldo",
+      "kind": "nature",
+      "address": "Via Smeraldo, 84010 Conca dei Marini SA, Italy",
+      "why": "햇빛이 바닷속으로 들어와 물빛이 에메랄드색으로 빛나는 해식 동굴로, 보트를 타고 둘러봅니다.",
+      "lat": 40.614925,
+      "lng": 14.567589,
+      "geoSource": "osm"
+    }
+  ]
+}

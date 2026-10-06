@@ -1,0 +1,160 @@
+{
+  "slug": "cancun",
+  "food": [
+    {
+      "name": "로렌질로스",
+      "nameLocal": "Lorenzillo's",
+      "type": "restaurant",
+      "cuisine": "랍스터 · 해산물",
+      "area": "호텔존",
+      "address": "Blvd. Kukulcán Km 10.5, Zona Hotelera, 77500 Cancún, Q.R., Mexico",
+      "why": "석호 위로 뻗은 수상 레스토랑으로, 이슬라 무헤레스 등에서 들여온 활 랍스터를 19가지 방식으로 요리합니다. 호텔존에서 일몰을 보며 해산물을 먹기 좋아 한국 신혼여행객 후기에도 자주 등장합니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 6,400+ · 평점 4.5",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g150807-d787079-Reviews-Lorenzillo_s-Cancun_Yucatan_Peninsula.html"
+        },
+        {
+          "kind": "reviews",
+          "label": "옐프 리뷰 320+ (2026년 9월 업데이트)",
+          "url": "https://www.yelp.com/biz/lorenzillos-canc%C3%BAn"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "13:00–23:00 영업. 랍스터는 무게 단위로 가격이 정해지니 주문 전 확인하세요. 일몰 시간대 예약 권장.",
+      "lat": 21.121425,
+      "lng": -86.756399,
+      "geoSource": "osm"
+    },
+    {
+      "name": "키오스코 베르데",
+      "nameLocal": "Kiosco Verde",
+      "type": "restaurant",
+      "cuisine": "멕시코 해산물 (유카탄 스타일)",
+      "area": "푸에르토 후아레스 (다운타운 북쪽)",
+      "address": "Av. López Portillo SM 84 Lote 14, Puerto Juárez, 77520 Cancún, Q.R., Mexico",
+      "lat": 21.1868293,
+      "lng": -86.8078601,
+      "why": "1974년 문을 연 가족 경영 해산물 식당으로, 현지 시장 해산물로 만든 랍스터 엠파나다와 문어 '풀포 사란데아도'가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/cancun_2067235/restaurant/kiosco-verde"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "예약을 받지 않습니다. 이슬라 무헤레스행 페리 터미널(푸에르토 후아레스)과 가까워 섬 일정 전후로 들르기 좋습니다."
+    },
+    {
+      "name": "마리아 돌로레스 (아틀리에 플라야 무헤레스)",
+      "nameLocal": "María Dolores – Atelier Playa Mujeres",
+      "type": "restaurant",
+      "cuisine": "컨템포러리 멕시칸 파인다이닝",
+      "area": "플라야 무헤레스",
+      "address": "Atelier Playa Mujeres, Condominio Playa Mujeres SM-3 M-1 L-13 RTH-4, 77400 Isla Mujeres (Playa Mujeres), Q.R., Mexico",
+      "lat": 21.2532723,
+      "lng": -86.8121965,
+      "why": "스타 셰프 에드가르 누녜스가 메뉴를 감수한 리조트 레스토랑으로, 소노라식 새우 튀김 타코와 오악사카 몰레 등 멕시코 각 지역 요리를 세련되게 재해석합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/isla-mujeres_2067800/restaurant/maria-dolores"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "칸쿤 호텔존에서 차로 약 30분 북쪽의 플라야 무헤레스 리조트 단지 안에 있습니다. 외부 손님은 사전 예약 필요 여부를 확인하세요."
+    },
+    {
+      "name": "라 카사 데 라스 마요라스",
+      "nameLocal": "La Casa de las Mayoras",
+      "type": "restaurant",
+      "cuisine": "멕시칸 채식 브런치",
+      "area": "다운타운",
+      "address": "Donceles 28, C. Guadalupe Victoria y Calle Miguel Hidalgo, 77524 Cancún, Q.R., Mexico",
+      "lat": 21.1768163,
+      "lng": -86.8182436,
+      "why": "가정집 분위기의 채식 식당으로, 손으로 만든 토르티야로 낸 칠라킬레스·케사디야 등 멕시코식 아침 메뉴와 과일 스무디가 인기입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/cancun_2067235/restaurant/la-casa-de-las-mayoras"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "아침·브런치 위주로 운영하니 오전에 방문하세요."
+    }
+  ],
+  "spots": [
+    {
+      "name": "라 이슬라 쇼핑몰",
+      "nameLocal": "La Isla Cancún",
+      "kind": "shopping",
+      "address": "Blvd. Kukulcán Km 12.5, Zona Hotelera, 77500 Cancún, Q.R., Mexico",
+      "why": "석호를 따라 운하가 흐르는 야외형 쇼핑몰로, 브랜드 쇼핑과 레스토랑, 아쿠아리움을 한 번에 즐길 수 있습니다.",
+      "lat": 21.094904,
+      "lng": -86.769643,
+      "geoSource": "osm"
+    },
+    {
+      "name": "플라사 쿠쿨칸",
+      "nameLocal": "Plaza Kukulcán",
+      "kind": "shopping",
+      "address": "Blvd. Kukulcán Km 13, Zona Hotelera, 77500 Cancún, Q.R., Mexico",
+      "why": "명품 매장이 모인 호텔존의 실내 럭셔리 쇼핑몰로, 더위를 피해 쇼핑하기 좋습니다.",
+      "lat": 21.094904,
+      "lng": -86.769643,
+      "geoSource": "osm"
+    },
+    {
+      "name": "이슬라 무헤레스",
+      "nameLocal": "Isla Mujeres (ferry from Puerto Juárez)",
+      "kind": "nature",
+      "address": "Ultramar Ferry Terminal, Puerto Juárez, 77520 Cancún, Q.R., Mexico",
+      "why": "페리로 약 20분 거리의 섬으로, 골프 카트를 빌려 북쪽 해변 '플라야 노르테'와 섬 남단 절벽을 둘러보는 반나절 코스가 인기입니다.",
+      "lat": 21.200857,
+      "lng": -86.725451,
+      "geoSource": "osm"
+    },
+    {
+      "name": "치첸이트사",
+      "nameLocal": "Chichén Itzá",
+      "kind": "landmark",
+      "address": "Carretera Federal 180, 97751 Chichén Itzá, Yucatán, Mexico",
+      "why": "세계 신 7대 불가사의로 꼽히는 마야 유적으로, 칸쿤에서 차로 약 2시간 30분 거리라 세노테와 묶은 당일 투어가 일반적입니다.",
+      "lat": 21.165716,
+      "lng": -86.851051,
+      "geoSource": "osm"
+    },
+    {
+      "name": "세노테 익킬",
+      "nameLocal": "Cenote Ik Kil",
+      "kind": "nature",
+      "address": "Carretera Federal 180 Km 122, 97751 Tinum, Yucatán, Mexico",
+      "why": "덩굴이 늘어진 원형 싱크홀에서 수영할 수 있는 세노테로, 치첸이트사 투어 코스에 자주 포함됩니다."
+    },
+    {
+      "name": "메르카도 28",
+      "nameLocal": "Mercado 28",
+      "kind": "market",
+      "address": "Av. Xel-Há, SM 28, Centro, Cancún, Q.R., Mexico",
+      "why": "다운타운의 기념품 시장으로, 멕시코 전통 공예품·데킬라·바닐라 등을 흥정하며 살 수 있습니다.",
+      "lat": 21.161837,
+      "lng": -86.834097,
+      "geoSource": "osm"
+    },
+    {
+      "name": "플라야 델피네스 (칸쿤 사인)",
+      "nameLocal": "Playa Delfines",
+      "kind": "nature",
+      "address": "Blvd. Kukulcán Km 18, Zona Hotelera, 77500 Cancún, Q.R., Mexico",
+      "why": "호텔 없이 탁 트인 공공 해변으로, 알록달록한 'Cancún' 조형물 앞이 대표 인증샷 장소입니다.",
+      "lat": 21.094904,
+      "lng": -86.769643,
+      "geoSource": "osm"
+    }
+  ]
+}

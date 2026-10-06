@@ -1,0 +1,206 @@
+{
+  "slug": "zermatt",
+  "food": [
+    {
+      "name": "애프터 세븐 (백스테이지 호텔)",
+      "nameLocal": "After Seven – Backstage Hotel",
+      "type": "restaurant",
+      "cuisine": "크리에이티브 파인다이닝",
+      "area": "체르마트 중심가",
+      "address": "Hofmattstrasse 4, 3920 Zermatt, Switzerland",
+      "lat": 46.021962,
+      "lng": 7.7478621,
+      "why": "백스테이지 호텔의 파인다이닝으로, 오픈 키친에서 플로리안 노이바우어 셰프 팀이 5–6코스 서프라이즈 메뉴를 냅니다. 테이블에서 직접 굽는 빵과 발레 지역 와인 페어링이 특징입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 스위스 1스타",
+          "url": "https://guide.michelin.com/us/en/wallis/zermatt/restaurant/after-seven"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "시즌제로 운영하며 저녁만 엽니다. 10–11월 비수기에는 휴업할 수 있으니 예약 전 확인하세요."
+    },
+    {
+      "name": "브라세리 우노",
+      "nameLocal": "Brasserie Uno",
+      "type": "restaurant",
+      "cuisine": "컨템포러리 · 지역 제철 코스",
+      "area": "체르마트 중심가",
+      "address": "Kirchstrasse 38, 3920 Zermatt, Switzerland",
+      "lat": 46.0191567,
+      "lng": 7.7475233,
+      "why": "두 셰프가 오픈 키친에서 지역 제철 재료로 6코스 서프라이즈 메뉴를 만드는 작은 레스토랑으로, 캐주얼한 분위기에서 미쉐린 스타 요리를 즐길 수 있습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 스위스 1스타",
+          "url": "https://guide.michelin.com/us/en/wallis/zermatt/restaurant/brasserie-uno"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "코스는 약 3시간 30분이 걸리고 아라카르트·어린이 메뉴가 없습니다. 채식 코스는 사전 요청."
+    },
+    {
+      "name": "셰 브로니 (핀델른)",
+      "nameLocal": "Chez Vrony",
+      "type": "restaurant",
+      "cuisine": "스위스 산악 요리",
+      "area": "핀델른 (해발 2,100m)",
+      "address": "Findeln, 3920 Zermatt, Switzerland",
+      "lat": 46.0119335,
+      "lng": 7.7675578,
+      "why": "해발 2,100m 핀델른 마을의 샬레 레스토랑으로, 테라스에서 마테호른을 정면으로 바라보며 스위스 지역 요리를 먹을 수 있어 테라스 자리 경쟁이 치열합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 스위스 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/wallis/zermatt/restaurant/chez-vrony"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "2026년 여름 시즌은 6월 20일–10월 11일, 11:30–16:00 점심 영업. 수넥가(Sunnegga)에서 걸어 내려가거나 하이킹으로 갑니다. 온라인 예약은 3개월 전부터."
+    },
+    {
+      "name": "춤 제 (Zum See)",
+      "nameLocal": "Restaurant Zum See",
+      "type": "restaurant",
+      "cuisine": "알파인·지중해 요리",
+      "area": "춤 제 마을 (산악 레스토랑)",
+      "address": "Zum See 24, 3920 Zermatt, Switzerland",
+      "lat": 46.0064972,
+      "lng": 7.7321149,
+      "why": "350년 된 샬레가 모인 작은 산골 마을에서 30년 넘게 가족이 운영하는 산악 레스토랑으로, 테라스 분위기가 특히 유명합니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 스위스 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/wallis/zermatt/restaurant/zum-see"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "2026년 여름 시즌은 10월 4일 종료, 겨울 시즌에 다시 엽니다. 마을 중심에서 도보 약 40분, 점심(12:00–17:00) 영업."
+    },
+    {
+      "name": "윔퍼 슈투베",
+      "nameLocal": "Whymper-Stube",
+      "type": "restaurant",
+      "cuisine": "치즈 퐁듀 · 라클렛",
+      "area": "반호프슈트라세",
+      "address": "Bahnhofstrasse 80, 3920 Zermatt, Switzerland",
+      "why": "마테호른 초등정자 에드워드 윔퍼의 이름을 딴 전통 스위스 식당으로, 치즈 퐁듀와 라클렛이 대표 메뉴입니다. 한국 여행자 블로그에서도 체르마트 퐁듀 맛집으로 자주 소개됩니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 1,000+ · 평점 4.2",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g188098-d784220-Reviews-Whymper_Stube-Zermatt_Canton_of_Valais_Swiss_Alps.html"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "매일 12:00–21:30 영업. 점심 '알파인 런치 딜'(39 CHF)이 있습니다. 저녁은 예약 권장.",
+      "lat": 46.02033,
+      "lng": 7.746234,
+      "geoSource": "osm"
+    },
+    {
+      "name": "카프리 (몽 세르뱅 팰리스)",
+      "nameLocal": "Capri – Mont Cervin Palace",
+      "type": "restaurant",
+      "cuisine": "클래식 이탈리안 파인다이닝",
+      "area": "체르마트 중심가",
+      "address": "Hofmattstrasse 12, 3920 Zermatt, Switzerland",
+      "lat": 46.0218254,
+      "lng": 7.7480652,
+      "why": "이탈리아 카프리섬 '카프리 팰리스'의 셰프 팀이 겨울 동안 체르마트로 옮겨 와 세련된 이탈리안 코스를 선보이는 곳입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 스위스 1스타",
+          "url": "https://guide.michelin.com/us/en/wallis/zermatt/restaurant/capri"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "겨울 시즌(대략 12월–4월)에만 운영합니다."
+    },
+    {
+      "name": "베커라이 푹스 (반호프슈트라세 카페)",
+      "nameLocal": "Bäckerei Fuchs – Bahnhofstrasse 28",
+      "type": "bakery",
+      "cuisine": "스위스 베이커리 · 카페",
+      "area": "반호프슈트라세",
+      "address": "Bahnhofstrasse 28, 3920 Zermatt, Switzerland",
+      "why": "체르마트에 여러 매장을 둔 현지 베이커리로, 사과 슈트루델과 발레 지역 파이 '콜레라(Cholera)', 키슈를 합리적인 가격에 먹을 수 있습니다.",
+      "proof": [
+        {
+          "kind": "reviews",
+          "label": "트립어드바이저 리뷰 270+ (Fuchs Bistro and Bakery)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g188098-d3735586-Reviews-Fuchs_Bistro_and_Bakery-Zermatt_Canton_of_Valais_Swiss_Alps.html"
+        }
+      ],
+      "priceLevel": "₩",
+      "tip": "고르너그라트 열차나 케이블카 타기 전 간식을 사 가기 좋습니다. 카페 좌석은 반호프슈트라세 28번지와 게트빙슈트라세 24번지 매장에 있습니다.",
+      "lat": 46.022188,
+      "lng": 7.746994,
+      "geoSource": "osm"
+    }
+  ],
+  "spots": [
+    {
+      "name": "고르너그라트 열차",
+      "nameLocal": "Gornergrat Bahn",
+      "kind": "experience",
+      "address": "Bahnhofplatz 7, 3920 Zermatt, Switzerland (opposite the Zermatt railway station)",
+      "why": "해발 3,089m 고르너그라트 전망대까지 올라가는 톱니바퀴 열차로, 마테호른과 빙하를 가장 편하게 볼 수 있는 대표 코스입니다.",
+      "lat": 46.023969,
+      "lng": 7.748059,
+      "geoSource": "osm"
+    },
+    {
+      "name": "마테호른 글래시어 파라다이스",
+      "nameLocal": "Matterhorn Glacier Paradise",
+      "kind": "nature",
+      "address": "Matterhorn Express valley station, Schluhmattstrasse, 3920 Zermatt, Switzerland",
+      "why": "케이블카로 해발 3,883m 클라인 마테호른까지 올라가 유럽 최고 높이 전망대와 빙하 궁전을 볼 수 있습니다.",
+      "lat": 45.937379,
+      "lng": 7.729355,
+      "geoSource": "osm"
+    },
+    {
+      "name": "반호프슈트라세",
+      "nameLocal": "Bahnhofstrasse",
+      "kind": "street",
+      "address": "Bahnhofstrasse, 3920 Zermatt, Switzerland",
+      "why": "기차역에서 교회 광장까지 이어지는 차 없는 메인 거리로, 시계·아웃도어 매장과 레스토랑이 모여 있습니다.",
+      "lat": 46.021437,
+      "lng": 7.746917,
+      "geoSource": "osm"
+    },
+    {
+      "name": "수넥가 & 5대 호수길",
+      "nameLocal": "Sunnegga – 5-Seenweg (5 Lakes Walk)",
+      "kind": "nature",
+      "address": "Sunnegga Express valley station, 3920 Zermatt, Switzerland",
+      "why": "지하 푸니쿨라로 수넥가에 올라 호수에 비친 마테호른을 보며 걷는 하이킹 코스로, 맑은 날 반영 사진 명소입니다."
+    },
+    {
+      "name": "키르히브뤼케 (마테호른 뷰 포인트)",
+      "nameLocal": "Kirchbrücke",
+      "kind": "landmark",
+      "address": "Kirchbrücke, 3920 Zermatt, Switzerland (by the parish church)",
+      "why": "마을 중심 다리에서 마터비스파 강과 마테호른을 한 프레임에 담을 수 있어 일출 사진 명소로 유명합니다.",
+      "lat": 46.018912,
+      "lng": 7.748057,
+      "geoSource": "osm"
+    },
+    {
+      "name": "마테호른 박물관",
+      "nameLocal": "Matterhorn Museum – Zermatlantis",
+      "kind": "landmark",
+      "address": "Kirchplatz 11, 3920 Zermatt, Switzerland",
+      "why": "마테호른 초등정 역사와 옛 체르마트 마을 모습을 재현한 지하 박물관으로, 날씨가 나쁜 날 둘러보기 좋습니다.",
+      "lat": 46.019745,
+      "lng": 7.746406,
+      "geoSource": "osm"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "tulum",
+  "food": [
+    {
+      "name": "아르카",
+      "nameLocal": "ARCA",
+      "type": "restaurant",
+      "cuisine": "장작불 컨템포러리 멕시칸",
+      "area": "툴룸 비치 로드",
+      "address": "Carretera Tulum–Boca Paila Km 7.6, Zona Hotelera, 77780 Tulum, Q.R., Mexico",
+      "lat": 20.149471,
+      "lng": -87.4594377,
+      "why": "정글 속 오픈에어 레스토랑으로, 농가와 공급자에게서 받은 제철 재료를 모두 장작불로 조리합니다. 이스카틱 고추 살사를 곁들인 문어구이와 마메이 브륄레가 대표적입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/arca-1208263"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "저녁에 하루 세 번 시간대별로 좌석을 운영합니다. 예약 필수."
+    },
+    {
+      "name": "하트우드",
+      "nameLocal": "Hartwood",
+      "type": "restaurant",
+      "cuisine": "장작 그릴 멕시칸 · 해산물",
+      "area": "툴룸 비치 로드",
+      "address": "Carretera Tulum–Boca Paila Km 7.6, Zona Hotelera, 77780 Tulum, Q.R., Mexico",
+      "lat": 20.1499647,
+      "lng": -87.4594405,
+      "why": "2010년 뉴요커 부부가 연 툴룸 대표 레스토랑으로, 칠판에 적힌 그날의 메뉴를 장작 그릴로 요리합니다. 세비체와 현지 생선구이가 단골 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/hartwood"
+        }
+      ],
+      "priceLevel": "₩₩₩₩",
+      "tip": "성수기에는 한참 전에 예약이 마감됩니다. 1인 방문이라면 바 좌석을 노려 보세요."
+    },
+    {
+      "name": "세틀리",
+      "nameLocal": "Cetli",
+      "type": "restaurant",
+      "cuisine": "멕시코 전통 요리 · 몰레",
+      "area": "툴룸 타운 (코바 도로)",
+      "address": "Carretera Tulum–Cobá Km 2.5, Villas Tulum, 77764 Tulum, Q.R., Mexico",
+      "lat": 20.2305289,
+      "lng": -87.4588579,
+      "why": "코바 유적 방향 도로변의 아담한 식당으로, 바닷물에 익힌 생선에 화이트 아몬드 몰레를 곁들인 '이스탁' 등 정성스러운 멕시코 전통 요리를 냅니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 빕 구르망",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/cetli"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "그랑 세노테·코바 방향 일정과 묶기 좋습니다."
+    },
+    {
+      "name": "메스티사",
+      "nameLocal": "Mestixa",
+      "type": "restaurant",
+      "cuisine": "아시안·멕시칸 퓨전",
+      "area": "툴룸 타운",
+      "address": "Avenida Satélite S/N, 77760 Tulum, Q.R., Mexico",
+      "lat": 20.2131167,
+      "lng": -87.4587157,
+      "why": "아시아와 멕시코 요리를 섞은 독창적인 메뉴로, 소고기 정강이와 고추로 맛을 낸 '비리아 라멘'과 바오가 대표 메뉴입니다. 멕시코 음식이 질릴 때 들르기 좋습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 빕 구르망",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/mestixa"
+        }
+      ],
+      "priceLevel": "₩₩",
+      "tip": "좌석이 많지 않아 저녁 피크 시간대에는 대기가 생길 수 있습니다."
+    },
+    {
+      "name": "카사 바나나",
+      "nameLocal": "Casa Banana",
+      "type": "restaurant",
+      "cuisine": "아르헨티나식 장작 그릴",
+      "area": "툴룸 비치 로드",
+      "address": "Carretera Tulum–Boca Paila Km 7.5, Zona Hotelera, 77780 Tulum, Q.R., Mexico",
+      "lat": 20.1507211,
+      "lng": -87.4589474,
+      "why": "장작 오븐과 파리야(그릴)를 중심으로 한 아르헨티나 요리로 오래 사랑받아 온 비치 로드의 인기 레스토랑입니다. 엠파나다와 스테이크, 생선 통구이가 대표 메뉴입니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/casa-banana"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "저녁에는 분위기가 활기차고 붐비니 예약을 권합니다."
+    },
+    {
+      "name": "누 툴룸",
+      "nameLocal": "NÜ Tulum",
+      "type": "restaurant",
+      "cuisine": "컨템포러리 멕시칸",
+      "area": "툴룸 비치 로드",
+      "address": "NEST Tulum, Carretera Tulum–Boca Paila Km 8.7, Zona Hotelera, 77780 Tulum, Q.R., Mexico",
+      "lat": 20.1405807,
+      "lng": -87.4617385,
+      "why": "정글 분위기의 야외 레스토랑으로, 개성 있는 현대 멕시코 요리로 비치 로드의 수많은 식당 가운데서도 미쉐린의 주목을 받았습니다.",
+      "proof": [
+        {
+          "kind": "michelin",
+          "label": "미쉐린 가이드 멕시코 선정 레스토랑",
+          "url": "https://guide.michelin.com/us/en/quintana-roo/tulum_2069429/restaurant/nu-tulum"
+        }
+      ],
+      "priceLevel": "₩₩₩",
+      "tip": "비치 로드는 저녁에 교통이 막히니 이동 시간을 넉넉히 잡으세요."
+    }
+  ],
+  "spots": [
+    {
+      "name": "툴룸 유적",
+      "nameLocal": "Zona Arqueológica de Tulum",
+      "kind": "landmark",
+      "address": "Carretera Federal 307 Cancún–Chetumal Km 230, 77780 Tulum, Q.R., Mexico",
+      "why": "카리브해 절벽 위에 선 마야 유적으로, 에메랄드빛 바다와 유적을 한 장에 담을 수 있는 툴룸의 상징입니다."
+    },
+    {
+      "name": "그랑 세노테",
+      "nameLocal": "Gran Cenote",
+      "kind": "nature",
+      "address": "Carretera Tulum–Cobá Km 3.5, 77780 Tulum, Q.R., Mexico",
+      "why": "맑은 물속 종유석과 거북이를 보며 스노클링할 수 있는 툴룸에서 가장 유명한 세노테입니다."
+    },
+    {
+      "name": "시안 카안 생물권 보전지역",
+      "nameLocal": "Reserva de la Biosfera Sian Ka'an",
+      "kind": "nature",
+      "address": "Carretera Tulum–Boca Paila (Arco Maya entrance, south end of the beach road), Tulum, Q.R., Mexico",
+      "why": "유네스코 세계유산으로 지정된 습지·석호 보호구역으로, 보트 투어로 돌고래와 맹그로브 수로를 둘러봅니다."
+    },
+    {
+      "name": "툴룸 비치 로드 & 비치 클럽",
+      "nameLocal": "Tulum Beach Road (Carretera Tulum–Boca Paila)",
+      "kind": "street",
+      "address": "Carretera Tulum–Boca Paila, Zona Hotelera, 77780 Tulum, Q.R., Mexico",
+      "why": "정글과 해변 사이로 부티크 호텔·비치 클럽·레스토랑이 늘어선 길로, 툴룸 특유의 보헤미안 분위기를 느낄 수 있습니다."
+    },
+    {
+      "name": "툴룸 센트로 (툴룸 대로)",
+      "nameLocal": "Tulum Centro – Avenida Tulum",
+      "kind": "street",
+      "address": "Avenida Tulum, Centro, 77760 Tulum, Q.R., Mexico",
+      "why": "현지 타코집과 기념품 가게가 모인 시내 중심가로, 비치 로드보다 저렴하게 식사하고 쇼핑하기 좋습니다."
+    },
+    {
+      "name": "코바 유적",
+      "nameLocal": "Zona Arqueológica de Cobá",
+      "kind": "landmark",
+      "address": "Cobá, Quintana Roo, Mexico (Zona Arqueológica de Cobá)",
+      "why": "정글 속 거대한 피라미드 '노호치 물'이 있는 마야 유적으로, 툴룸에서 차로 약 45분 거리입니다."
+    }
+  ]
+}
