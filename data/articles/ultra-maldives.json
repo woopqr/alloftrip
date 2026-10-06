@@ -14,48 +14,48 @@
   "metaDescription": "2026년 11월 몰디브 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
   "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
   "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
-  "verdict": "이 숙소들의 리뷰 중 약 85%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>더 리츠칼튼 몰디브, 파리 아일랜드</b>입니다 (평점 9.7 · 리뷰 98건 · 1박 약 667만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 82%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>더 리츠칼튼 몰디브, 파리 아일랜드</b>입니다 (평점 9.7 · 리뷰 98건 · 1박 약 659만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
   "aggregate": {
-    "total": 20,
+    "total": 17,
     "distribution": [
       {
         "key": "couple",
         "label": "연인·커플",
-        "count": 17,
-        "pct": 85
+        "count": 14,
+        "pct": 82
       },
       {
         "key": "family",
         "label": "가족",
         "count": 2,
-        "pct": 10
+        "pct": 12
       },
       {
         "key": "group",
         "label": "그룹·단체",
         "count": 1,
-        "pct": 5
+        "pct": 6
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/23738295/-1/b523e4581d34768f6f01f7ab794f551f.jpg?va=1&ca=28&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/23738295/-1/b523e4581d34768f6f01f7ab794f551f.jpg?ca=28&ce=0",
   "heroAlt": "몰디브 울트라 럭셔리 최고급 숙소",
-  "updated": "2026-10-02",
+  "updated": "2026-10-06",
   "hotels": [
     {
       "rank": 1,
       "name": "더 리츠칼튼 몰디브, 파리 아일랜드 (The Ritz-Carlton Maldives, Fari Islands)",
       "agodaUrl": "https://www.agoda.com/the-ritz-carlton-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/23738295/-1/b523e4581d34768f6f01f7ab794f551f.jpg?va=1&ca=28&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/23738295/-1/b523e4581d34768f6f01f7ab794f551f.jpg?ca=28&ce=0",
       "score": 9.7,
       "reviewCount": 98,
       "reviewCountFmt": "리뷰 98건",
-      "priceText": "₩₩₩ · 1박 약 667만원",
+      "priceText": "₩₩₩ · 1박 약 659만원",
       "walkMin": 45,
       "refLabel": "OBLU by Atmosphere at Helengeli Beach",
       "star": 5,
       "propertyId": 23738295,
-      "priceKRW": 6674006,
+      "priceKRW": 6587147,
       "priceStatus": "조회됨",
       "distanceM": 3624.98,
       "locationStatus": "조회됨",
@@ -67,9 +67,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.7 · 리뷰 98건. OBLU by Atmosphere at Helengeli Beach까지 도보 45분, ₩₩₩ · 1박 약 667만원. 연인·커플 리뷰 비중 60%.",
+      "blurb": "평점 9.7 · 리뷰 98건. OBLU by Atmosphere at Helengeli Beach까지 도보 45분, ₩₩₩ · 1박 약 659만원. 연인·커플 리뷰 비중 60%.",
       "metaTags": [
-        "💰 1박 약 667만원",
+        "💰 1박 약 659만원",
         "📝 리뷰 98건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -96,39 +96,39 @@
       },
       "reviews": [
         {
-          "text": "우선 방이 정말 훌륭했습니다.",
+          "text": "First of all, the room was outstanding.",
           "score": "10",
           "country": "ญี่ปุ่น",
           "date": "2023.04",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "음식, 환경, 서비스",
+          "text": "The food , the environment, the service",
           "score": "10",
           "country": "Malaysia",
           "date": "2025.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "둘째, 활동이 훌륭했습니다.",
+          "text": "Secondly, the activities were amazing.",
           "score": "10",
           "country": "ญี่ปุ่น",
           "date": "2023.04",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "나에게는 정말 놀라운 호텔이다",
+          "text": "What a surprise hotel for me",
           "score": "10",
           "country": "Malaysia",
           "date": "2025.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "모든 것이 놀랍습니다",
+          "text": "Everything is astonishing",
           "score": "9.6",
           "country": "Thailand",
           "date": "2025.10",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -143,16 +143,16 @@
       "rank": 2,
       "name": "쿠다두 몰디브 프라이빗 아일랜드 - 럭셔리 올 인클루시브 (Kudadoo Maldives Private Island – Luxury All inclusive)",
       "agodaUrl": "https://www.agoda.com/kudadoo-maldives-private-island-luxury-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/5750598/0/a58507c20106a7e1761bc83c5a9ddd4a.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/5750598/-1/a5efdca085d406eb617aa48fd208ea3e.jpg?ca=9&ce=1",
       "score": 9.7,
       "reviewCount": 112,
       "reviewCountFmt": "리뷰 112건",
-      "priceText": "₩₩₩ · 1박 약 592만원",
+      "priceText": "₩₩₩ · 1박 약 586만원",
       "walkMin": 1,
       "refLabel": "Kudadhoo Maldives Beach",
       "star": 5,
       "propertyId": 5750598,
-      "priceKRW": 5922568,
+      "priceKRW": 5856246,
       "priceStatus": "조회됨",
       "distanceM": 39.28,
       "locationStatus": "조회됨",
@@ -167,9 +167,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.7 · 리뷰 112건. Kudadhoo Maldives Beach까지 도보 1분, ₩₩₩ · 1박 약 592만원. 연인·커플 리뷰 비중 80%.",
+      "blurb": "평점 9.7 · 리뷰 112건. Kudadhoo Maldives Beach까지 도보 1분, ₩₩₩ · 1박 약 586만원. 연인·커플 리뷰 비중 80%.",
       "metaTags": [
-        "💰 1박 약 592만원",
+        "💰 1박 약 586만원",
         "📝 리뷰 112건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -196,39 +196,39 @@
       },
       "reviews": [
         {
-          "text": "직원들은 이 리조트를 개인적이고 매우 특별하게 느끼게 해줍니다.",
+          "text": "The staff make this resort feel personal and very special.",
           "score": "10",
           "country": "United Kingdom",
           "date": "2026.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "나는 이 장소가 얼마나 놀라운지 말하기 시작할 수도 없습니다.",
+          "text": "I can’t even begin to state how amazing this place is.",
           "score": "10",
           "country": "United States",
           "date": "2023.12",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "그러나 놀라운 직원과 서비스로 다시 돌아갈 것입니다",
+          "text": "But with amazing staffs and services I would go back again",
           "score": "8.8",
           "country": "Hong Kong SAR, China",
           "date": "2023.12",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "Kudadoo는 매우 친절하고 직원도 매우 친절합니다.",
+          "text": "Kudadoo is very nice and the staff and very friendly.",
           "score": "10",
           "country": "Nigeria",
           "date": "2022.05",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "우리는 Kudadoo에서 5박을 묵었고 즐거운 시간을 보냈습니다.",
+          "text": "We stayed 5 nights at Kudadoo and had wonderful time",
           "score": "8.8",
           "country": "Hong Kong SAR, China",
           "date": "2023.12",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -247,12 +247,12 @@
       "score": 9.6,
       "reviewCount": 63,
       "reviewCountFmt": "리뷰 63건",
-      "priceText": "₩₩₩ · 1박 약 582만원",
+      "priceText": "₩₩₩ · 1박 약 574만원",
       "walkMin": 42,
       "refLabel": "Rinbudhoo Beach",
       "star": 5,
       "propertyId": 1267405,
-      "priceKRW": 5818495,
+      "priceKRW": 5742767,
       "priceStatus": "조회됨",
       "distanceM": 3327.61,
       "locationStatus": "조회됨",
@@ -264,9 +264,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.6 · 리뷰 63건. Rinbudhoo Beach까지 도보 42분, ₩₩₩ · 1박 약 582만원.",
+      "blurb": "평점 9.6 · 리뷰 63건. Rinbudhoo Beach까지 도보 42분, ₩₩₩ · 1박 약 574만원.",
       "metaTags": [
-        "💰 1박 약 582만원",
+        "💰 1박 약 574만원",
         "📝 리뷰 63건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라"
@@ -289,31 +289,32 @@
       "agodaUrl": "https://www.agoda.com/patina-maldives-fari-islands_2/hotel/all/maldive-islands-mv.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/380232020.jpg?k=07bd7084ad42aa9a23826a094f7d2104e95882221649e5282ca1b1bcd5c1a264&o=",
       "score": 9.7,
-      "reviewCount": 106,
-      "reviewCountFmt": "리뷰 106건",
-      "priceText": "₩₩₩ · 1박 약 560만원",
+      "reviewCount": 107,
+      "reviewCountFmt": "리뷰 107건",
+      "priceText": "₩₩₩ · 1박 약 552만원",
       "walkMin": 15,
       "refLabel": "OBLU by Atmosphere at Helengeli Beach",
       "star": 5,
       "propertyId": 22139529,
-      "priceKRW": 5596330,
+      "priceKRW": 5523494,
       "priceStatus": "조회됨",
       "distanceM": 1182.03,
       "locationStatus": "조회됨",
       "facilities": [
+        "수영장",
         "공항 이동 교통편 서비스",
         "무료 Wi-Fi (모든 객실)",
-        "일일 청소 서비스",
+        "체육관/피트니스",
         "Wi-Fi (무료)",
         "개폐식 창문",
         "발코니/테라스",
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.7 · 리뷰 106건. OBLU by Atmosphere at Helengeli Beach까지 도보 15분, ₩₩₩ · 1박 약 560만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.7 · 리뷰 107건. OBLU by Atmosphere at Helengeli Beach까지 도보 15분, ₩₩₩ · 1박 약 552만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 560만원",
-        "📝 리뷰 106건",
+        "💰 1박 약 552만원",
+        "📝 리뷰 107건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
       ],
@@ -332,32 +333,32 @@
       },
       "reviews": [
         {
-          "text": "우리는 최고의 음식을 먹었고 우리의 숙박은 매우 편안했습니다.",
+          "text": "We had the best food and our stay was extremely comfortable.",
           "score": "10",
           "country": "Oman",
           "date": "2025.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "훌륭한 장소와 서비스",
+          "text": "Great place and services",
           "score": "10",
           "country": "United Arab Emirates",
           "date": "2024.08",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "놀라운 휴가 장소",
+          "text": "Amazing Vacation place",
           "score": "10",
           "country": "Oman",
           "date": "2025.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "우리는 모든 것을 이용할 수 있었습니다.",
+          "text": "Everything was available for us.",
           "score": "10",
           "country": "Oman",
           "date": "2025.02",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -372,16 +373,16 @@
       "rank": 5,
       "name": "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi)",
       "agodaUrl": "https://www.agoda.com/waldorf-astoria-maldives-ithaafushi/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/8545711/0/800b4985dd8402f597a14da27494ee70.jpeg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/8545711/0/800b4985dd8402f597a14da27494ee70.jpeg?ce=0",
       "score": 9.3,
       "reviewCount": 154,
       "reviewCountFmt": "리뷰 154건",
-      "priceText": "₩₩₩ · 1박 약 526만원",
+      "priceText": "₩₩₩ · 1박 약 486만원",
       "walkMin": null,
       "refLabel": "중심가",
       "star": 5,
       "propertyId": 6601321,
-      "priceKRW": 5264464,
+      "priceKRW": 4860885,
       "priceStatus": "조회됨",
       "distanceM": null,
       "locationStatus": "위치 상세 확인 필요",
@@ -394,9 +395,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 154건. ₩₩₩ · 1박 약 526만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.3 · 리뷰 154건. ₩₩₩ · 1박 약 486만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 526만원",
+        "💰 1박 약 486만원",
         "📝 리뷰 154건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -416,25 +417,25 @@
       },
       "reviews": [
         {
-          "text": "우리의 수상 빌라는 호화롭게 완성되었습니다.",
+          "text": "Our overwater villa was luxuriously finished.",
           "score": "9.6",
           "country": "United States",
           "date": "2024.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "우리는 대부분의 레스토랑을 시험해 보았고 모두 매우 좋았습니다.",
+          "text": "We tried most restaurants and all were very good.",
           "score": "9.6",
           "country": "United States",
           "date": "2024.02",
-          "translated": true
+          "translated": false
         },
         {
-          "text": "환상적인 휴가!",
+          "text": "Fantastic holiday!",
           "score": "9.6",
           "country": "United States",
           "date": "2024.02",
-          "translated": true
+          "translated": false
         }
       ],
       "quality": {
@@ -449,25 +450,25 @@
     },
     {
       "rank": 6,
-      "name": "파크 하얏트 몰디브 하다하 (Park Hyatt Maldives Hadahaa)",
-      "agodaUrl": "https://www.agoda.com/park-hyatt-maldives-hadahaa/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/2287061/0/4a1392eee5b91682ef086772ed909585.jpeg?va=1&ce=0",
-      "score": 9.3,
-      "reviewCount": 81,
-      "reviewCountFmt": "리뷰 81건",
-      "priceText": "₩₩₩ · 1박 약 504만원",
-      "walkMin": null,
-      "refLabel": "중심가",
+      "name": "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives)",
+      "agodaUrl": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186617/-1/09ade07dcc28c32ffec99a0ab58b19d3.jpg?ca=24&ce=0",
+      "score": 9.6,
+      "reviewCount": 95,
+      "reviewCountFmt": "리뷰 95건",
+      "priceText": "₩₩₩ · 1박 약 480만원",
+      "walkMin": 87,
+      "refLabel": "Makunufushi Cocoa Island Beach",
       "star": 5,
-      "propertyId": 161831,
-      "priceKRW": 5035167,
+      "propertyId": 186617,
+      "priceKRW": 4800314,
       "priceStatus": "조회됨",
-      "distanceM": null,
-      "locationStatus": "위치 상세 확인 필요",
+      "distanceM": 6999.33,
+      "locationStatus": "조회됨",
       "facilities": [
         "수영장",
         "공항 이동 교통편 서비스",
-        "무료 Wi-Fi (모든 객실)",
+        "사우나",
         "체육관/피트니스",
         "Wi-Fi (무료)",
         "개폐식 창문",
@@ -475,72 +476,37 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 81건. ₩₩₩ · 1박 약 504만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.6 · 리뷰 95건. Makunufushi Cocoa Island Beach까지 도보 87분, ₩₩₩ · 1박 약 480만원.",
       "metaTags": [
-        "💰 1박 약 504만원",
-        "📝 리뷰 81건",
-        "⭐ 5성급",
-        "👥 연인·커플 선호"
+        "💰 1박 약 480만원",
+        "📝 리뷰 95건",
+        "⭐ 5성급"
       ],
-      "travelerTypes": {
-        "topLabel": "연인·커플",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "연인·커플",
-            "count": 3,
-            "pct": 100,
-            "rating": 9.3
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "모든 것이 좋고 직원들은 매우 친절합니다!",
-          "score": "9.2",
-          "country": "Malaysia",
-          "date": "2024.12",
-          "translated": true
-        },
-        {
-          "text": "오버워터 빌라는 필수입니다!",
-          "score": "9.6",
-          "country": "United States",
-          "date": "2024.06",
-          "translated": true
-        },
-        {
-          "text": "이 리조트를 좋아해요!",
-          "score": "9.2",
-          "country": "Malaysia",
-          "date": "2024.12",
-          "translated": true
-        }
-      ],
+      "travelerTypes": null,
+      "reviews": [],
       "quality": {
         "issues": [
-          "location"
+          "reviewSample"
         ],
         "critical": false,
         "completeness": 88,
         "priceStatus": "confirmed",
-        "locationStatus": "unavailable"
+        "locationStatus": "confirmed"
       }
     }
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-02T06:09:18.585Z",
+    "fetchedAt": "2026-10-06T04:43:34.049Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-02T06:09:18.585Z",
+    "fetchedAt": "2026-10-06T04:43:34.049Z",
     "source": "agoda citySearch",
-    "daysAhead": 45,
+    "daysAhead": 41,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
@@ -549,7 +515,7 @@
       "warnings": [
         "더 세인트 레지스 몰디브 봄물리 리조트 (The St. Regis Maldives Vommuli Resort): reviewSample",
         "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi): location",
-        "파크 하얏트 몰디브 하다하 (Park Hyatt Maldives Hadahaa): location"
+        "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives): reviewSample"
       ]
     }
   }

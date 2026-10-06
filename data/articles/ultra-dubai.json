@@ -1,0 +1,587 @@
+{
+  "slug": "ultra-dubai",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "두바이",
+  "citySlug": "dubai",
+  "cityId": 2994,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=2994",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[두바이] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 두바이 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 40%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>더 빌트모어 호텔 빌라 두바이</b>입니다 (평점 9.5 · 리뷰 109건 · 1박 약 289만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 40
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 8,
+        "pct": 40
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 5
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+  "heroAlt": "두바이 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 빌트모어 호텔 빌라 두바이 (The Biltmore Hotel Villas Dubai)",
+      "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+      "score": 9.5,
+      "reviewCount": 109,
+      "reviewCountFmt": "리뷰 109건",
+      "priceText": "₩₩₩ · 1박 약 289만원",
+      "walkMin": 10,
+      "refLabel": "몰 오브 에미레이츠역",
+      "star": 5,
+      "propertyId": 59031518,
+      "priceKRW": 2889146,
+      "priceStatus": "조회됨",
+      "distanceM": 787.55,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "스키 두바이",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 109건. 몰 오브 에미레이츠역까지 도보 10분, ₩₩₩ · 1박 약 289만원.",
+      "metaTags": [
+        "💰 1박 약 289만원",
+        "📝 리뷰 109건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "주메이라 자빌 사라이 두바이 (Jumeirah Zabeel Saray Dubai)",
+      "agodaUrl": "https://www.agoda.com/jumeirah-zabeel-saray-royal-residences-h16254932/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41046751/-1/dbe305b1bee990ce66a298ddeee29e81.jpg?va=1&ce=0",
+      "score": 8.7,
+      "reviewCount": 2833,
+      "reviewCountFmt": "리뷰 2,833건",
+      "priceText": "₩₩₩ · 1박 약 276만원",
+      "walkMin": 31,
+      "refLabel": "Al Ittihad Park Station",
+      "star": 5,
+      "propertyId": 41046751,
+      "priceKRW": 2761723,
+      "priceStatus": "조회됨",
+      "distanceM": 2441.23,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "로스트 챔버스 아쿠아리움",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 2,833건. Al Ittihad Park Station까지 도보 31분, ₩₩₩ · 1박 약 276만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 276만원",
+        "📝 리뷰 2,833건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We also got complimentary room upgrade to the best view.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Staff walked out the extra mile to meet our requests.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Great family hotel, amazing service, beautiful hotel",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The property is exceptional with high luxury finishings,",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent place for full relax and all are kind staffs",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "주메이라 알 나심 두바이 (Jumeirah Al Naseem Dubai)",
+      "agodaUrl": "https://www.agoda.com/jumeirah-al-naseem-madinat-jumeirah-h9844547/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41046756/0/1f34294987e115b4edd3fe114f345601.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 1288,
+      "reviewCountFmt": "리뷰 1,288건",
+      "priceText": "₩₩₩ · 1박 약 247만원",
+      "walkMin": 26,
+      "refLabel": "몰 오브 에미레이츠역",
+      "star": 5,
+      "propertyId": 41046756,
+      "priceKRW": 2468505,
+      "priceStatus": "조회됨",
+      "distanceM": 2067.66,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "스키 두바이",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,288건. 몰 오브 에미레이츠역까지 도보 26분, ₩₩₩ · 1박 약 247만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 247만원",
+        "📝 리뷰 1,288건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Multi fine dining restaurants in the same resort.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Al Naseem is heaven on earth",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms are big and comfortable for a family,",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "We’re definitely coming back here!",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Best hotel in dubai",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "주메이라 마르사 알 아랍 (Jumeirah Marsa Al Arab)",
+      "agodaUrl": "https://www.agoda.com/jumeirah-marsa-al-arab/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/60156122/0/76bcdcc0b53bf60e2b2473164cb00d00.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 888,
+      "reviewCountFmt": "리뷰 888건",
+      "priceText": "₩₩₩ · 1박 약 247만원",
+      "walkMin": 34,
+      "refLabel": "퍼스트 걸프 뱅크역",
+      "star": 5,
+      "propertyId": 60156122,
+      "priceKRW": 2468505,
+      "priceStatus": "조회됨",
+      "distanceM": 2752.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "스키 두바이",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 888건. 퍼스트 걸프 뱅크역까지 도보 34분, ₩₩₩ · 1박 약 247만원.",
+      "metaTags": [
+        "💰 1박 약 247만원",
+        "📝 리뷰 888건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "불가리 리조트 두바이 (Bvlgari Resort Dubai)",
+      "agodaUrl": "https://www.agoda.com/bulgari-resort-dubai/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5059899/0/48dd8685aca18e37873eec1fe4124797.jpeg?va=1",
+      "score": 9.4,
+      "reviewCount": 554,
+      "reviewCountFmt": "리뷰 554건",
+      "priceText": "₩₩₩ · 1박 약 202만원",
+      "walkMin": 41,
+      "refLabel": "Business Bay Metro Bus Stop Seaside",
+      "star": 5,
+      "propertyId": 5059899,
+      "priceKRW": 2021014,
+      "priceStatus": "조회됨",
+      "distanceM": 3274.69,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "두바이 분수",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 554건. Business Bay Metro Bus Stop Seaside까지 도보 41분, ₩₩₩ · 1박 약 202만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 202만원",
+        "📝 리뷰 554건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "F&B was incredible, Spa was amazing, amazing facilities.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Super amazing one of the best hotels in Dubai",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "One of the top hotels that I have visited",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The resort and the rooms are wow.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Love everything about this hotel.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "주메이라 다르 알 마샤프-마디낫 주메이라 (Jumeirah Dar Al Masyaf-Madinat Jumeirah)",
+      "agodaUrl": "https://www.agoda.com/jumeirah-dar-al-masyaf-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41046747/0/0efa9fe58d8c259f9cf52c988c72a4cc.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 1011,
+      "reviewCountFmt": "리뷰 1,011건",
+      "priceText": "₩₩₩ · 1박 약 219만원",
+      "walkMin": 27,
+      "refLabel": "Mashreq Metro Station",
+      "star": 5,
+      "propertyId": 41046747,
+      "priceKRW": 2192705,
+      "priceStatus": "조회됨",
+      "distanceM": 2156.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "스키 두바이",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,011건. Mashreq Metro Station까지 도보 27분, ₩₩₩ · 1박 약 219만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 219만원",
+        "📝 리뷰 1,011건",
+        "⭐ 5성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great service , beautiful property and good location",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Every things nice & amazing",
+          "score": "10",
+          "country": "الإمارات العربية المتحدة",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Really amazing",
+          "score": "10",
+          "country": "الإمارات العربية المتحدة",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel is very clean and comfortable",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The best hotel we have ever stayed at.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T04:43:22.296Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T04:43:22.296Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "더 빌트모어 호텔 빌라 두바이 (The Biltmore Hotel Villas Dubai): reviewSample",
+        "주메이라 마르사 알 아랍 (Jumeirah Marsa Al Arab): reviewSample"
+      ]
+    }
+  }
+}
