@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 6,
+  "cursor": 7,
   "observations": [
     {
       "city": "몰디브",
@@ -738,6 +738,149 @@
           "priceKRW": 340318,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/sala-samui-chaweng-beach/hotel/koh-samui-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "교토",
+      "citySlug": "kyoto",
+      "cityId": 1784,
+      "observedAt": "2026-10-07T23:57:13.537Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "7652335",
+          "name": "파크 하얏트 교토 (Park Hyatt Kyoto)",
+          "priceKRW": 6418341,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/park-hyatt-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "26862568",
+          "name": "로쿠 교토, LXR 호텔스 앤 리조트 (ROKU KYOTO, LXR Hotels & Resorts)",
+          "priceKRW": 4384880,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/roku-kyoto-lxr-hotels-resorts/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "83946092",
+          "name": "Capella Kyoto",
+          "priceKRW": 4035156,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capella-kyoto/hotel/all/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "1329522",
+          "name": "포시즌스 호텔 교토 (Four Seasons Hotel Kyoto)",
+          "priceKRW": 3000698,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "626318",
+          "name": "리츠칼튼, 교토 (The Ritz-Carlton, Kyoto)",
+          "priceKRW": 2872009,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "55605084",
+          "name": "반얀트리 히가시야마 교토 (Banyan Tree Higashiyama Kyoto )",
+          "priceKRW": 2661600,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/banyan-tree-higashiyama-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "17526170",
+          "name": "호텔 더 미츠이 교토, 어 럭셔리 컬렉션 호텔 앤 스파 (HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa)",
+          "priceKRW": 2681011,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-the-mitsui-kyoto-a-luxury-collection-hotel-spa/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "876909",
+          "name": "스이란, 어 럭셔리 컬렉션 호텔, 교토 (Suiran, a Luxury Collection Hotel, Kyoto)",
+          "priceKRW": 2176981,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/suiran-a-luxury-collection-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "81521571",
+          "name": "Imperial Hotel, Kyoto",
+          "priceKRW": 1684609,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/imperial-hotel-kyoto/hotel/all/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "50609734",
+          "name": "Six Senses Kyoto",
+          "priceKRW": 1838468,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/six-senses-kyoto/hotel/all/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "17641647",
+          "name": "가리야 니조 캐슬 교토 바이 바니안 그룹 (Garrya Nijo Castle Kyoto by Banyan Group)",
+          "priceKRW": 1555079,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/garrya-nijo-castle-kyoto-by-banyan-group/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "87557486",
+          "name": "더 빌라 네네노미치 카제노 헤리티지 (The Villa Nene-no-Michi Kazeno Heritage)",
+          "priceKRW": 1421760,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-vmg-resort-kyoto-h65671799/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "78970797",
+          "name": "카모 레지던스 바이 리플렉션스 (Kamo Residences by Reflections)",
+          "priceKRW": 1046924,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kamo-residences-by-reflections/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "41201648",
+          "name": "두짓 타니 교토 (Dusit Thani Kyoto)",
+          "priceKRW": 1013422,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/dusit-thani-kyoto-h41201648/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "55527408",
+          "name": "힐튼 교토 (Hilton Kyoto)",
+          "priceKRW": 781776,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hilton-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "10923280",
+          "name": "더 히라마쓰 교토 (THE HIRAMATSU KYOTO)",
+          "priceKRW": 704822,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-hiramatsu-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "178116",
+          "name": "교토 난젠지 료칸 야치요 (Kyoto Nanzenji Ryokan Yachiyo)",
+          "priceKRW": 658268,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kyoto-nanzenji-ryokan-yachiyo/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "48925486",
+          "name": "미츠이 가든 호텔 교토 산조 프리미어 (Mitsui Garden Hotel Kyoto Sanjo Premier)",
+          "priceKRW": 546310,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kyoto-sanjo-hotel-tentative-name/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "5249115",
+          "name": "도모야 레지던스 호텔 교토 니조 다카쿠라 (Tomoya Residence Hotel Kyoto Nijo Takakura)",
+          "priceKRW": 539388,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/tomoya-residence-hotel-kyoto-nijo-takakura/hotel/kyoto-jp.html?cid=1925461"
         }
       ]
     }

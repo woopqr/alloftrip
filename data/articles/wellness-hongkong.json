@@ -1,0 +1,709 @@
+{
+  "slug": "wellness-hongkong",
+  "theme": "wellness",
+  "audience": "웰니스·스파",
+  "emoji": "🧖",
+  "city": "홍콩",
+  "citySlug": "hongkong",
+  "cityId": 16808,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16808",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[홍콩] 고요함과 럭셔리가 만나는 스파 리조트",
+  "metaDescription": "2026년 11월 홍콩 웰니스·스파 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+  "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 70%가 연인·커플 여행자의 리뷰입니다. 웰니스·스파 기준 1순위는 <b>케리 호텔, 홍콩</b>입니다 (평점 9.1 · 리뷰 9,902건 · 1박 약 68만원). 가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1274362/0/ece1a148ef34759ee817be9bfbfa5de6.jpeg?va=1&ce=3",
+  "heroAlt": "홍콩 웰니스·스파 최고급 숙소",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "케리 호텔, 홍콩 (Kerry Hotel, Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/kerry-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1274362/0/ece1a148ef34759ee817be9bfbfa5de6.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 9902,
+      "reviewCountFmt": "리뷰 9,902건",
+      "priceText": "₩₩ · 1박 약 68만원",
+      "walkMin": 6,
+      "refLabel": "MTR 왐포아역",
+      "star": 5,
+      "propertyId": 1274362,
+      "geo": {
+        "lat": 22.301079,
+        "lng": 114.188004
+      },
+      "priceKRW": 683490,
+      "priceStatus": "조회됨",
+      "distanceM": 461.13,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "홍 콩 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 9,902건. MTR 왐포아역까지 도보 6분, ₩₩ · 1박 약 68만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 68만원",
+        "📝 리뷰 9,902건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 아침 식사, 멋진 객실, 완벽한 침대를 갖춘 좋은 호텔",
+          "score": "8.8",
+          "country": "Nederland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 방, 맛있는 아침 식사, 저녁 카나페…",
+          "score": "9.6",
+          "country": "Russia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "제가 살아본 호텔 중 가장 훌륭한 호텔 중 하나입니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "호텔에서는 무료로 업그레이드된 객실을 제공합니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 넓고 완벽하게 청소되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 랭함 홍콩 호텔 (The Langham Hong Kong Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-langham-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8261/0/dc672868595665366e3da0badd745ee9.jpeg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 13103,
+      "reviewCountFmt": "리뷰 13,103건",
+      "priceText": "₩₩ · 1박 약 52만원",
+      "walkMin": 4,
+      "refLabel": "MTR 침사추이역",
+      "star": 5,
+      "propertyId": 8261,
+      "geo": {
+        "lat": 22.2966,
+        "lng": 114.16986
+      },
+      "priceKRW": 520563,
+      "priceStatus": "조회됨",
+      "distanceM": 310.22,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 13,103건. MTR 침사추이역까지 도보 4분, ₩₩ · 1박 약 52만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 52만원",
+        "📝 리뷰 13,103건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 다른 어떤 호텔에서도 이보다 더 좋은 경험을 한 적이 없다고 생각합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "체크인부터 체크아웃까지 훌륭한 환대.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "수영장, 체육관, 스파 공간은 매우 깨끗하고 고품질입니다.",
+          "score": "10",
+          "country": "Norge",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방은 홍콩치고는 넓고 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "Langham이 고객에게 제공하는 서비스는 놀랍습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "카우룬 샹그릴라 홍콩 (Kowloon Shangri-La, Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/kowloon-shangri-la-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6123/0/76994fd94787c29744efe0ebc419ddd6.jpeg?va=1",
+      "score": 9.1,
+      "reviewCount": 13546,
+      "reviewCountFmt": "리뷰 13,546건",
+      "priceText": "₩₩ · 1박 약 49만원",
+      "walkMin": 4,
+      "refLabel": "East Tsim Sha Tsui MTR Station",
+      "star": 5,
+      "propertyId": 6123,
+      "geo": {
+        "lat": 22.297085,
+        "lng": 114.176971
+      },
+      "priceKRW": 489301,
+      "priceStatus": "조회됨",
+      "distanceM": 337.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 13,546건. East Tsim Sha Tsui MTR Station까지 도보 4분, ₩₩ · 1박 약 49만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 49만원",
+        "📝 리뷰 13,546건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 투숙객에게 사우나, 수영장, 24시간 체육관을 무료로 제공합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔에서 2박 동안 매우 편안하게 지냈습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "홍콩을 방문해야 할 때 이 호텔로 다시 올 것입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "서비스가 훌륭하고 다음에도 꼭 이곳에 다시 묵을 예정입니다",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "위치는 매우 좋으며 MTR역까지 도보로 단 2분 거리입니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2024.12",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "뉴 월드 밀레니엄 홍콩 호텔 (New World Millennium Hong Kong Hotel)",
+      "agodaUrl": "https://www.agoda.com/new-world-millennium-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5821/0/83a23075cf299d687512417bc71adbee.jpeg?va=1",
+      "score": 8.7,
+      "reviewCount": 16124,
+      "reviewCountFmt": "리뷰 16,124건",
+      "priceText": "₩₩ · 1박 약 51만원",
+      "walkMin": 5,
+      "refLabel": "MTR 홍함역",
+      "star": 5,
+      "propertyId": 5821,
+      "geo": {
+        "lat": 22.299391,
+        "lng": 114.179726
+      },
+      "priceKRW": 506352,
+      "priceStatus": "조회됨",
+      "distanceM": 431.11,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 16,124건. MTR 홍함역까지 도보 5분, ₩₩ · 1박 약 51만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 51만원",
+        "📝 리뷰 16,124건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "하버룸 뷰 호텔을 예약했는데 그만한 가치가 있었습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "편안한 객실, 환상적인 전망, 세심한 서비스.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 바다 전망이 있고 넓습니다. 욕조도 마음에 듭니다!!",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "편의 시설, 객실 및 시설이 훌륭합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 매우 깨끗했으며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "인터컨티넨탈 그랜드 스탠포드 홍콩 바이 IHG (InterContinental Grand Stanford Hong Kong By IHG)",
+      "agodaUrl": "https://www.agoda.com/intercontinental-grand-stanford-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5449/0/0c1b4cdaeb536e499e9bb1be788625b2.jpeg?va=1&ce=2",
+      "score": 8.6,
+      "reviewCount": 9822,
+      "reviewCountFmt": "리뷰 9,822건",
+      "priceText": "₩₩ · 1박 약 44만원",
+      "walkMin": 6,
+      "refLabel": "MTR 홍함역",
+      "star": 5,
+      "propertyId": 5449,
+      "geo": {
+        "lat": 22.299053,
+        "lng": 114.17939
+      },
+      "priceKRW": 441862,
+      "priceStatus": "조회됨",
+      "distanceM": 480.34,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 9,822건. MTR 홍함역까지 도보 6분, ₩₩ · 1박 약 44만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 44만원",
+        "📝 리뷰 9,822건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그녀 덕분에 머무는 동안 정말 보살핌을 받는 느낌을 받았습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 호텔 방, 아침 식사, 직원 친절도를 즐겼습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "나는 방의 모든 부분을 좋아하고 공간이 활용됩니다.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔에 7박을 예약했는데 정말 마음에 들었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "홍콩에 머무는 동안 이 호텔을 적극 추천합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "호프웰 호텔 (Hopewell Hotel)",
+      "agodaUrl": "https://www.agoda.com/hopewell-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/52207609/0/c3e62de2b68c5f6e5f813609095791ad.jpeg?va=1",
+      "score": 9.3,
+      "reviewCount": 16282,
+      "reviewCountFmt": "리뷰 16,282건",
+      "priceText": "₩₩ · 1박 약 37만원",
+      "walkMin": 2,
+      "refLabel": "盧押道 Luard Road",
+      "star": 5,
+      "propertyId": 52207609,
+      "geo": {
+        "lat": 22.275053,
+        "lng": 114.170781
+      },
+      "priceKRW": 368731,
+      "priceStatus": "조회됨",
+      "distanceM": 197.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "오션 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 16,282건. 盧押道 Luard Road까지 도보 2분, ₩₩ · 1박 약 37만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 37만원",
+        "📝 리뷰 16,282건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 면에서 이 호텔은 기대 이상의 서비스를 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "길 건너편에서 빅토리아 피크(Victoria Peak)로 가는 버스를 타실 수 있습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "인근 완차이 명소를 둘러보기에도 편리합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "홍콩 기준으로 생각하면 방이 넓습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "파워 샤워기와 좋은 세면도구를 갖춘 사랑스럽고 큰 욕실!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T23:56:35.419Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T23:56:35.419Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
