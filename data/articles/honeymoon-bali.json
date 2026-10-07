@@ -14,7 +14,7 @@
   "metaDescription": "2026년 11월 발리 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
   "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
   "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
-  "verdict": "이 숙소들의 리뷰 중 약 71%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>래플스 발리</b>입니다 (평점 9.1 · 리뷰 166건 · 1박 약 166만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 71%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>래플스 발리</b>입니다 (평점 9.1 · 리뷰 166건 · 1박 약 165만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
   "aggregate": {
     "total": 24,
     "distribution": [
@@ -38,19 +38,19 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?ce=0",
   "heroAlt": "발리 허니문 최고급 숙소",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
       "name": "래플스 발리 (Raffles Bali)",
       "agodaUrl": "https://www.agoda.com/raffles-bali-h16361748/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?ce=0",
       "score": 9.1,
       "reviewCount": 166,
       "reviewCountFmt": "리뷰 166건",
-      "priceText": "₩₩₩ · 1박 약 166만원",
+      "priceText": "₩₩₩ · 1박 약 165만원",
       "walkMin": 79,
       "refLabel": "워터봄 공원",
       "star": 5,
@@ -59,7 +59,7 @@
         "lat": -8.784233,
         "lng": 115.15786
       },
-      "priceKRW": 1656984,
+      "priceKRW": 1652771,
       "priceStatus": "조회됨",
       "distanceM": 6353.73,
       "locationStatus": "조회됨",
@@ -74,9 +74,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.1 · 리뷰 166건. 워터봄 공원까지 도보 79분, ₩₩₩ · 1박 약 166만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.1 · 리뷰 166건. 워터봄 공원까지 도보 79분, ₩₩₩ · 1박 약 165만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 166만원",
+        "💰 1박 약 165만원",
         "📝 리뷰 166건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -143,11 +143,11 @@
       "rank": 2,
       "name": "물리아 빌라 (Mulia Villas)",
       "agodaUrl": "https://www.agoda.com/mulia-villas_11/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/6546934/-1/761513ef809947d465d930a1993e055b.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/6546934/0/f33fbbfc796e1e0d10dcc3c3be0aa9c6.jpeg?va=1&ce=3",
       "score": 9.4,
       "reviewCount": 1122,
       "reviewCountFmt": "리뷰 1,122건",
-      "priceText": "₩₩₩ · 1박 약 112만원",
+      "priceText": "₩₩₩ · 1박 약 121만원",
       "walkMin": 37,
       "refLabel": "누사 두아 비치",
       "star": 5,
@@ -156,7 +156,7 @@
         "lat": -8.816778,
         "lng": 115.218964
       },
-      "priceKRW": 1118915,
+      "priceKRW": 1212668,
       "priceStatus": "조회됨",
       "distanceM": 2998.76,
       "locationStatus": "조회됨",
@@ -171,9 +171,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.4 · 리뷰 1,122건. 누사 두아 비치까지 도보 37분, ₩₩₩ · 1박 약 112만원. 연인·커플 리뷰 비중 80%.",
+      "blurb": "평점 9.4 · 리뷰 1,122건. 누사 두아 비치까지 도보 37분, ₩₩₩ · 1박 약 121만원. 연인·커플 리뷰 비중 80%.",
       "metaTags": [
-        "💰 1박 약 112만원",
+        "💰 1박 약 121만원",
         "📝 리뷰 1,122건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
@@ -248,11 +248,11 @@
       "rank": 3,
       "name": "아야나 빌라 발리 (AYANA Villas Bali)",
       "agodaUrl": "https://www.agoda.com/the-villas-at-ayana-resort-bali_3/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/478524/0/17718b8f18fbf43b1e10e19881878906.jpg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/478524/0/38af0099f0711b8b5ffbad65b15a5c4b.jpeg?va=1&ce=3",
       "score": 9,
       "reviewCount": 968,
       "reviewCountFmt": "리뷰 968건",
-      "priceText": "₩₩₩ · 1박 약 107만원",
+      "priceText": "₩₩₩ · 1박 약 117만원",
       "walkMin": 89,
       "refLabel": "쿠타 비치",
       "star": 5,
@@ -261,7 +261,7 @@
         "lat": -8.785332,
         "lng": 115.13858
       },
-      "priceKRW": 1069350,
+      "priceKRW": 1172227,
       "priceStatus": "조회됨",
       "distanceM": 7153.99,
       "locationStatus": "조회됨",
@@ -276,9 +276,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9 · 리뷰 968건. 쿠타 비치까지 도보 89분, ₩₩₩ · 1박 약 107만원. 연인·커플 리뷰 비중 60%.",
+      "blurb": "평점 9 · 리뷰 968건. 쿠타 비치까지 도보 89분, ₩₩₩ · 1박 약 117만원. 연인·커플 리뷰 비중 60%.",
       "metaTags": [
-        "💰 1박 약 107만원",
+        "💰 1박 약 117만원",
         "📝 리뷰 968건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
@@ -353,7 +353,7 @@
       "rank": 4,
       "name": "코모 샴발라 에스테이트 (COMO Shambhala Estate)",
       "agodaUrl": "https://www.agoda.com/como-shambhala-estate/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/7210932/1153916432/dc0549ff6084162f28b37bb1203560ef.jpeg?ce=3",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630208945.jpg?k=b95f5112609f6e5326b56b1f343819fab8df5525cace978ba2d33c7fd226c50d&o=",
       "score": 9,
       "reviewCount": 193,
       "reviewCountFmt": "리뷰 193건",
@@ -366,7 +366,7 @@
         "lat": -8.450781,
         "lng": 115.235453
       },
-      "priceKRW": 1313798,
+      "priceKRW": 1311866,
       "priceStatus": "조회됨",
       "distanceM": 5166.47,
       "locationStatus": "조회됨",
@@ -429,11 +429,11 @@
       "rank": 5,
       "name": "포 시즌스 리조트 발리 앳 짐바란 베이  (Four Seasons Resort Bali at Jimbaran Bay)",
       "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-jimbaran-bay/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/48672/-1/60eeceea05cc55b075a410af45ac1ae8.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/48672/0/dee4a686f61439f04d869dc1412514af.jpeg?va=1&ce=3",
       "score": 9.3,
       "reviewCount": 856,
       "reviewCountFmt": "리뷰 856건",
-      "priceText": "₩₩₩ · 1박 약 93만원",
+      "priceText": "₩₩₩ · 1박 약 103만원",
       "walkMin": 79,
       "refLabel": "워터봄 공원",
       "star": 5,
@@ -442,7 +442,7 @@
         "lat": -8.784462,
         "lng": 115.159288
       },
-      "priceKRW": 930355,
+      "priceKRW": 1030832,
       "priceStatus": "조회됨",
       "distanceM": 6349.42,
       "locationStatus": "조회됨",
@@ -457,9 +457,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 856건. 워터봄 공원까지 도보 79분, ₩₩₩ · 1박 약 93만원. 연인·커플 리뷰 비중 60%.",
+      "blurb": "평점 9.3 · 리뷰 856건. 워터봄 공원까지 도보 79분, ₩₩₩ · 1박 약 103만원. 연인·커플 리뷰 비중 60%.",
       "metaTags": [
-        "💰 1박 약 93만원",
+        "💰 1박 약 103만원",
         "📝 리뷰 856건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
@@ -541,11 +541,11 @@
       "rank": 6,
       "name": "르 선셋 바이 나쿨라 (Le Sunset by Nakula)",
       "agodaUrl": "https://www.agoda.com/villa-le-sunset-by-nakula/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/82169038/0/716210a5406a24018239dfde4a7870e5.jpg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/82169038/0/716210a5406a24018239dfde4a7870e5.jpg?va=1&ce=3",
       "score": 9.5,
       "reviewCount": 38,
       "reviewCountFmt": "리뷰 38건",
-      "priceText": "₩₩₩ · 1박 약 140만원",
+      "priceText": "₩₩₩ · 1박 약 141만원",
       "walkMin": 15,
       "refLabel": "짬뿌한 리지 워크",
       "star": 5,
@@ -554,7 +554,7 @@
         "lat": -8.493073,
         "lng": 115.256798
       },
-      "priceKRW": 1401975,
+      "priceKRW": 1407124,
       "priceStatus": "조회됨",
       "distanceM": 1186.98,
       "locationStatus": "조회됨",
@@ -566,9 +566,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.5 · 리뷰 38건. 짬뿌한 리지 워크까지 도보 15분, ₩₩₩ · 1박 약 140만원.",
+      "blurb": "평점 9.5 · 리뷰 38건. 짬뿌한 리지 워크까지 도보 15분, ₩₩₩ · 1박 약 141만원.",
       "metaTags": [
-        "💰 1박 약 140만원",
+        "💰 1박 약 141만원",
         "📝 리뷰 38건",
         "⭐ 5성급",
         "👥 가족 선호"
@@ -613,16 +613,16 @@
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-06T05:54:08.797Z",
+    "fetchedAt": "2026-10-07T03:15:41.069Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T05:54:08.797Z",
+    "fetchedAt": "2026-10-07T03:15:41.069Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 3,
+  "cursor": 4,
   "observations": [
     {
       "city": "몰디브",
@@ -386,6 +386,135 @@
           "priceKRW": 756299,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/the-naka-island-a-luxury-collection-resort-spa-phuket_7/hotel/phuket-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "칸쿤",
+      "citySlug": "cancun",
+      "cityId": 5954,
+      "observedAt": "2026-10-07T03:15:42.194Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "33406879",
+          "name": "임프레션 이슬라 무헤레스 바이 시크릿 – 성인 전용 – 올 인클루시브 (Impression Isla Mujeres by Secrets – Adults only – All Inclusive)",
+          "priceKRW": 2741642,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/secrets-impression-isla-mujeres/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "2457916",
+          "name": "르 블랑 스파 리조트 칸쿤 – 성인 전용 – 올 인클루시브 (Le Blanc Spa Resort Cancun – Adults Only – All Inclusive)",
+          "priceKRW": 1663014,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/le-blanc-spa-resort-all-inclusive-adults-only_2/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "42552525",
+          "name": "시크릿츠 플라야 블랑카 코스타 무헤레스 - 올 인클루시브 - 성인 전용 (Secrets Playa Blanca Costa Mujeres - All Inclusive - Adults Only)",
+          "priceKRW": 1359991,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/secrets-playa-blanca-costa-mujeres/hotel/cuautitlan-izcalli-mx.html?cid=1925461"
+        },
+        {
+          "key": "9771240",
+          "name": "아틀리에 플라야 무헤레스 - 올인클루시브 - 성인 전용 (Atelier Playa Mujeres - All Inclusive - Adults Only)",
+          "priceKRW": 1297258,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/inspira-by-atelier-playa-mujeres-all-inclusive-resort/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "4853723",
+          "name": "Temptation at The Tower Cancún Resort - All Inclusive - Adults Only (Temptation at The Tower Cancun Resort - All Inclusive - Adults Only)",
+          "priceKRW": 1183406,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-tower-by-temptation-cancun-resort-all-inclusive-adults-only/hotel/all/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "7011015",
+          "name": "니수크 리조트 앤 스파 (Nizuc Resort and Spa)",
+          "priceKRW": 1184829,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nizuc-resort-spa/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "7011046",
+          "name": "문 팰리스 더 그랜드 칸쿤 - 올인클루시브 (Moon Palace The Grand Cancun - All Inclusive)",
+          "priceKRW": 1181154,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-grand-at-moon-palace-all-inclusive_6/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "21964836",
+          "name": "Waldorf Astoria Riviera Maya",
+          "priceKRW": 1137580,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/waldorf-astoria-cancun/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "2457535",
+          "name": "Almare, a Luxury Collection Resort, Isla Mujeres Cancun, Adult All-Inclusive",
+          "priceKRW": 911404,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/almare-isla-mujeres/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "2459421",
+          "name": "Secrets The Vine Cancun Resort & Spa - All Inclusive -  Adults Only",
+          "priceKRW": 895830,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/secrets-the-vine-cancun-resort-spa-all-inclusive-adult-only/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "7485333",
+          "name": "Secrets Mirabel Cancun Resort & Spa - Adults Only - Breathtaking Lagoon and Ocean Views",
+          "priceKRW": 763517,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/now-emerald-cancun/hotel/all/san-miguel-de-cozumel-mx.html?cid=1925461"
+        },
+        {
+          "key": "23044389",
+          "name": "Secrets Riviera Cancún Resort & Spa - Adults Only - All Inclusive",
+          "priceKRW": 748846,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/secrets-riviera-cancun-resort-spa/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "22444186",
+          "name": "Secrets Riviera Cancún Resort & Spa - Adults Only - All inclusive (Secrets Riviera Cancun Resort & Spa - Adults Only - All inclusive)",
+          "priceKRW": 703149,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/secrets-riviera-cancun-resort-spa-adults-only-all-inclusive/hotel/all/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "55317998",
+          "name": "AVA Resort Cancun - All Inclusive",
+          "priceKRW": 717235,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ava-resort-cancun-all-inclusive/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "83461",
+          "name": "JW 메리어트 칸쿤 리조트 앤 스파 (JW Marriott Cancun Resort & Spa)",
+          "priceKRW": 700670,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jw-marriott-cancun-resort-spa/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "4290",
+          "name": "인터컨티넨탈 프레지덴테 칸쿤 리조트 바이 IHG (Intercontinental Presidente Cancun Resort By IHG)",
+          "priceKRW": 535212,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/presidente-intercontinental-cancun-resort/hotel/cancun-mx.html?cid=1925461"
+        },
+        {
+          "key": "50565376",
+          "name": "Mondrian Cancun",
+          "priceKRW": 486752,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mondrian-cancun-h50565376/hotel/cancun-mx.html?cid=1925461"
         }
       ]
     }

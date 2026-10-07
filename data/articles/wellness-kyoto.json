@@ -1,0 +1,694 @@
+{
+  "slug": "wellness-kyoto",
+  "theme": "wellness",
+  "audience": "웰니스·스파",
+  "emoji": "🧖",
+  "city": "교토",
+  "citySlug": "kyoto",
+  "cityId": 1784,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[교토] 고요함과 럭셔리가 만나는 스파 리조트",
+  "metaDescription": "2026년 11월 교토 웰니스·스파 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+  "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 67%가 연인·커플 여행자의 리뷰입니다. 웰니스·스파 기준 1순위는 <b>Hotel Yuraku Kyo-yasaka</b>입니다 (평점 9.5 · 리뷰 657건 · 1박 약 93만원). 가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/473918722.jpg?k=ee28f4b1f75e13afc3bd5a62381629ad7ec3cf2c5fb392b91ec14b8b80f7fe62&o=",
+  "heroAlt": "교토 웰니스·스파 최고급 숙소",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hotel Yuraku Kyo-yasaka",
+      "agodaUrl": "https://www.agoda.com/hotel-yuraku-kyo-yasaka_3/hotel/all/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/473918722.jpg?k=ee28f4b1f75e13afc3bd5a62381629ad7ec3cf2c5fb392b91ec14b8b80f7fe62&o=",
+      "score": 9.5,
+      "reviewCount": 657,
+      "reviewCountFmt": "리뷰 657건",
+      "priceText": "₩₩₩ · 1박 약 93만원",
+      "walkMin": 11,
+      "refLabel": "히가시야마역",
+      "star": 5,
+      "propertyId": 42216027,
+      "geo": {
+        "lat": 35.001694,
+        "lng": 135.781326
+      },
+      "priceKRW": 931143,
+      "priceStatus": "조회됨",
+      "distanceM": 871.81,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후시미 이나리 신사"
+      ],
+      "blurb": "평점 9.5 · 리뷰 657건. 히가시야마역까지 도보 11분, ₩₩₩ · 1박 약 93만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 93만원",
+        "📝 리뷰 657건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The highlight of the stay was undoubtedly the private onsen.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "This is one of the best onsen hotel I ever stayed in kyoto.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious and cozy with a great private onsen.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "We stayed in a room on 3/F with partially open air bath.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "A luxury hotel provide high standard of service and F&B.",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "도모야 레지던스 호텔 교토 니조 다카쿠라 (Tomoya Residence Hotel Kyoto Nijo Takakura)",
+      "agodaUrl": "https://www.agoda.com/tomoya-residence-hotel-kyoto-nijo-takakura/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5249115/-1/2972a972d4ed5d7e6e9a643648f37ace.jpg?va=1&ca=7&ce=1",
+      "score": 9.6,
+      "reviewCount": 676,
+      "reviewCountFmt": "리뷰 676건",
+      "priceText": "₩₩₩ · 1박 약 79만원",
+      "walkMin": 5,
+      "refLabel": "마루타마치역",
+      "star": 5,
+      "propertyId": 5249115,
+      "geo": {
+        "lat": 35.013748,
+        "lng": 135.762085
+      },
+      "priceKRW": 791563,
+      "priceStatus": "조회됨",
+      "distanceM": 383.81,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "교토역 빌딩",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 676건. 마루타마치역까지 도보 5분, ₩₩₩ · 1박 약 79만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 79만원",
+        "📝 리뷰 676건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This hotel has been the highlight so far of our honeymoon.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "They also upgraded our stay, which was really sweet too!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The location of the hotel is also fantastic.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Everything is clean, modern, sleek, and well kept.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Our room was spacious and comfortable with a kitchenette.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "교토 우메코지 카덴쇼 - 프라이빗 배스 퍼실리티 - 교리츠 리조트 (Kyoto Umekoji Kadensho - Private bath facility -Kyoritsu Resort)",
+      "agodaUrl": "https://www.agoda.com/kyoto-umekoji-kadensho-private-bath-facility-kyoritsu-resort-h36108527/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36108527/0/75f0a407d5e210029f5f7cf45794144a.jpeg?va=1&ce=3",
+      "score": 8.8,
+      "reviewCount": 3520,
+      "reviewCountFmt": "리뷰 3,520건",
+      "priceText": "₩₩ · 1박 약 41만원",
+      "walkMin": 1,
+      "refLabel": "우메코지교토니시역",
+      "star": 5,
+      "propertyId": 36108527,
+      "geo": {
+        "lat": 34.989723,
+        "lng": 135.742386
+      },
+      "priceKRW": 405068,
+      "priceStatus": "조회됨",
+      "distanceM": 113.9,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "후시미 이나리 신사",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 3,520건. 우메코지교토니시역까지 도보 1분, ₩₩ · 1박 약 41만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 41만원",
+        "📝 리뷰 3,520건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best hotels I have stayed in Japan.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "No shoes free Osen free drink free ramen and nice breakfast.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "There were 5 private hot springs, and they were all great!",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "It feels homely, unlike most hotels I visited.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The facility is well maintained, very clean and beautiful!",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "힐튼 교토 (Hilton Kyoto)",
+      "agodaUrl": "https://www.agoda.com/hilton-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/52208283/0/9d4bb902ae2b4149ee114d6a2de875be.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 1622,
+      "reviewCountFmt": "리뷰 1,622건",
+      "priceText": "₩₩₩ · 1박 약 78만원",
+      "walkMin": 2,
+      "refLabel": "교토시야쿠쇼마에역",
+      "star": 5,
+      "propertyId": 55527408,
+      "geo": {
+        "lat": 35.010166,
+        "lng": 135.769608
+      },
+      "priceKRW": 778426,
+      "priceStatus": "조회됨",
+      "distanceM": 155.34,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후시미 이나리 신사"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,622건. 교토시야쿠쇼마에역까지 도보 2분, ₩₩₩ · 1박 약 78만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 78만원",
+        "📝 리뷰 1,622건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Close to most of the famous attractions at Kyoto too.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay here again when we come back to Kyoto",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Superb quality hotel with newly renovated spacious room.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Incredibly clean and modern with great staff.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Will always stay there for my next visits to Kyoto",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "미츠이 가든 호텔 교토 산조 프리미어 (Mitsui Garden Hotel Kyoto Sanjo Premier)",
+      "agodaUrl": "https://www.agoda.com/kyoto-sanjo-hotel-tentative-name/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48925486/0/75d0f27a0fb80cfd7f2e2e8cc393b7ab.jpeg?va=1&ce=2",
+      "score": 9.3,
+      "reviewCount": 5472,
+      "reviewCountFmt": "리뷰 5,472건",
+      "priceText": "₩₩ · 1박 약 60만원",
+      "walkMin": 3,
+      "refLabel": "가라스마오이케역",
+      "star": 5,
+      "propertyId": 48925486,
+      "geo": {
+        "lat": 35.008438,
+        "lng": 135.762009
+      },
+      "priceKRW": 597795,
+      "priceStatus": "조회됨",
+      "distanceM": 276.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "후시미 이나리 신사",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 5,472건. 가라스마오이케역까지 도보 3분, ₩₩ · 1박 약 60만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 60만원",
+        "📝 리뷰 5,472건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Definitely will come back whenever I visit Kyoto next time.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Our room was spacious, well designed, clean and comfortable.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The best is the service always are ready to help and serve.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Staff did everything they could to make our stay enjoyable.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The private onsen was a highlight for us after a long day.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "호텔 오쿠라 교토 오카자키 벳테이 (Hotel Okura Kyoto Okazaki Bettei)",
+      "agodaUrl": "https://www.agoda.com/h29270641/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86401964/0/8fb2a53bf3cf9184c1b4a3a2b170a64b.jpg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 674,
+      "reviewCountFmt": "리뷰 674건",
+      "priceText": "₩₩₩ · 1박 약 70만원",
+      "walkMin": 12,
+      "refLabel": "게아게역",
+      "star": 5,
+      "propertyId": 86401964,
+      "geo": {
+        "lat": 35.016827,
+        "lng": 135.788147
+      },
+      "priceKRW": 704283,
+      "priceStatus": "조회됨",
+      "distanceM": 992.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "교토역 빌딩",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 674건. 게아게역까지 도보 12분, ₩₩₩ · 1박 약 70만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 70만원",
+        "📝 리뷰 674건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room is spacious, clean, and well-maintained.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The staff is very nice and helpful.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel is nice with very good facilities.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed the stay, would recommend to others.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Enjoyed our stay here",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T03:15:25.270Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T03:15:25.270Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

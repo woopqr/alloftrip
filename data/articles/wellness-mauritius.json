@@ -1,0 +1,698 @@
+{
+  "slug": "wellness-mauritius",
+  "theme": "wellness",
+  "audience": "웰니스·스파",
+  "emoji": "🧖",
+  "city": "모리셔스",
+  "citySlug": "mauritius",
+  "cityId": 19226,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=19226",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[모리셔스] 스파 하나로 여행이 되는 5성급 리트리트",
+  "metaDescription": "2026년 11월 모리셔스 웰니스·스파 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+  "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 77%가 연인·커플 여행자의 리뷰입니다. 웰니스·스파 기준 1순위는 <b>Paradise Cove Boutique Hotel</b>입니다 (평점 9.3 · 리뷰 309건 · 1박 약 132만원). 가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/221670/-1/690c33afd21c2e9f32f9b5883bdcd9ac.jpg?ca=12&ce=1",
+  "heroAlt": "모리셔스 웰니스·스파 최고급 숙소",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Paradise Cove Boutique Hotel",
+      "agodaUrl": "https://www.agoda.com/paradise-cove-boutique-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/221670/-1/690c33afd21c2e9f32f9b5883bdcd9ac.jpg?ca=12&ce=1",
+      "score": 9.3,
+      "reviewCount": 309,
+      "reviewCountFmt": "리뷰 309건",
+      "priceText": "₩₩₩ · 1박 약 132만원",
+      "walkMin": 113,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 221670,
+      "geo": {
+        "lat": -19.987886,
+        "lng": 57.632587
+      },
+      "priceKRW": 1317832,
+      "priceStatus": "조회됨",
+      "distanceM": 9014.56,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "페레베레 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 309건. Mont Choisy Bus Stop까지 도보 113분, ₩₩₩ · 1박 약 132만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 132만원",
+        "📝 리뷰 309건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Outstanding resort and outstanding staff all along.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Everything lived up to — and even exceeded — its reputation.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Overall, it was a truly wonderful experience.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Excellent food and everything was so fine.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "They made us feel as if they know us.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "씨센스 부티크 호텔 앤 스파 - 성인 전용 - 모리셔스 (Seasense Boutique Hotel and Spa - Adults Only - Mauritius)",
+      "agodaUrl": "https://www.agoda.com/seasense-boutique-hotel-and-spa-ex-le-surcouf-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5442783/-1/715b6e1227b0d39d7d125d9073ab8c65.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 1497,
+      "reviewCountFmt": "리뷰 1,497건",
+      "priceText": "₩₩₩ · 1박 약 73만원",
+      "walkMin": 74,
+      "refLabel": "일 오 세르프",
+      "star": 5,
+      "propertyId": 5442783,
+      "geo": {
+        "lat": -20.215513,
+        "lng": 57.792919
+      },
+      "priceKRW": 732801,
+      "priceStatus": "조회됨",
+      "distanceM": 5950.4,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,497건. 일 오 세르프까지 도보 74분, ₩₩₩ · 1박 약 73만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 73만원",
+        "📝 리뷰 1,497건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They make sure that you always be pleased no metter what",
+          "score": "8.4",
+          "country": "Israel",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "We had opted for half board, and it was absolutely worth it.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Amazing restaurants with delicious food",
+          "score": "8.4",
+          "country": "Israel",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel has a very relaxed and quiet atmosphere.",
+          "score": "7.2",
+          "country": "South Africa",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "A place we’d return to in a heartbeat.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 레지던스 마우리티어스 (The Residence Mauritius)",
+      "agodaUrl": "https://www.agoda.com/the-residence-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/295692/-1/f4e0716eb91165af4c32246c2c749037.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 789,
+      "reviewCountFmt": "리뷰 789건",
+      "priceText": "₩₩₩ · 1박 약 82만원",
+      "walkMin": 101,
+      "refLabel": "일 오 세르프",
+      "star": 5,
+      "propertyId": 295692,
+      "geo": {
+        "lat": -20.198544,
+        "lng": 57.78183
+      },
+      "priceKRW": 817477,
+      "priceStatus": "조회됨",
+      "distanceM": 8058.89,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 789건. 일 오 세르프까지 도보 101분, ₩₩₩ · 1박 약 82만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 82만원",
+        "📝 리뷰 789건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It has spacious rooms and a kind and helpful staff!!",
+          "score": "9.2",
+          "country": "Ελλάδα",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Beaches, rooms, staff and service were all good.",
+          "score": "9.2",
+          "country": "South Africa",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The staff and the facilities were outstanding,",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Food was also good plenty of options to choose from!",
+          "score": "10",
+          "country": "Romania",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "We had a truly enjoyable stay in The residence Mauritius.",
+          "score": "9.6",
+          "country": "Lithuania",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "씨 다이아몬드 부티크 호텔 앤 스파 바이 씨 리조트 (Sea Diamond Boutique Hotel & Spa by Sea Resorts)",
+      "agodaUrl": "https://www.agoda.com/karats-boutique-hotel-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32304382/0/b3a95e02c3c88c9305cff88d0cdc7d25.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 1191,
+      "reviewCountFmt": "리뷰 1,191건",
+      "priceText": "₩₩ · 1박 약 58만원",
+      "walkMin": 123,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 32304382,
+      "geo": {
+        "lat": -20.001921,
+        "lng": 57.646206
+      },
+      "priceKRW": 575031,
+      "priceStatus": "조회됨",
+      "distanceM": 9859.9,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "노트르담 오실리아트리스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 1,191건. Mont Choisy Bus Stop까지 도보 123분, ₩₩ · 1박 약 58만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 58만원",
+        "📝 리뷰 1,191건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I really enjoyed my stay there everything was magical 🙏",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The massages in the spa are absolutely worth trying.",
+          "score": "9.6",
+          "country": "Mauritius",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The cuisine is refined, elegant, and of exceptional quality.",
+          "score": "10",
+          "country": "Latvia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Everything was perfect — the rooms, the location, the meals.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Perfect location, nice and quiet, tranquil hotel.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Maritim Resort & Spa Mauritius",
+      "agodaUrl": "https://www.agoda.com/maritim-resort-spa-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/217318/-1/432bba4aa05131c5c9468571c7b50ef9.jpg?ca=25&ce=0",
+      "score": 8.3,
+      "reviewCount": 390,
+      "reviewCountFmt": "리뷰 390건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 99,
+      "refLabel": "시테 라 큐레 버스터미널",
+      "star": 5,
+      "propertyId": 217318,
+      "geo": {
+        "lat": -20.08584,
+        "lng": 57.517029
+      },
+      "priceKRW": 433337,
+      "priceStatus": "조회됨",
+      "distanceM": 7924.59,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 390건. 시테 라 큐레 버스터미널까지 도보 99분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 390건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms are nice and clean as described on the site,",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Golf 9 hole is challenging and very well maintained,",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "And guess what.... Maritim was heaven on earth.",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Maritim was great for setting, location, luxury and rest.",
+          "score": "8.8",
+          "country": "South Africa",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "It was amazing from all perspectives",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Labourdonnais Waterfront Hotel",
+      "agodaUrl": "https://www.agoda.com/labourdonnais-waterfront-hotel_3/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2294702/0/a5dbea89fa790a225ada6f427d714204.jpg?ca=9&ce=1",
+      "score": 8.6,
+      "reviewCount": 561,
+      "reviewCountFmt": "리뷰 561건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 47,
+      "refLabel": "시테 라 큐레 버스터미널",
+      "star": 5,
+      "propertyId": 31470849,
+      "geo": {
+        "lat": -20.160669,
+        "lng": 57.498081
+      },
+      "priceKRW": 426344,
+      "priceStatus": "조회됨",
+      "distanceM": 3753.08,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "카우단 워터프론트",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 561건. 시테 라 큐레 버스터미널까지 도보 47분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 561건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Thank you location was perfect and close to everything.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Had a fabulous stay here in Port Louis for our honeymoon.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "A nice stay with a wonderful waterfront view.",
+          "score": "9.6",
+          "country": "Saudi Arabia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "One of the best stays we had in Mauritius!",
+          "score": "10",
+          "country": "Bangladesh",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Very friendly staff and spacious rooms.",
+          "score": "8",
+          "country": "India",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T03:15:08.347Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T03:15:08.347Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
