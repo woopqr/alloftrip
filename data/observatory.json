@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 5,
+  "cursor": 6,
   "observations": [
     {
       "city": "몰디브",
@@ -644,6 +644,100 @@
           "priceKRW": 346254,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/the-mira-hong-kong_8/hotel/hong-kong-hk.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "코사무이",
+      "citySlug": "koh-samui",
+      "cityId": 17198,
+      "observedAt": "2026-10-07T18:07:15.301Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "344587",
+          "name": "Four Seasons Resort Koh Samui, Thailand",
+          "priceKRW": 2413457,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-resort-koh-samui-thailand/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "51651446",
+          "name": "Kerem Luxury Beachfront Villas",
+          "priceKRW": 1323451,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kerem-villas-h32990399/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "267449",
+          "name": "콘래드 코사무이 (Conrad Koh Samui)",
+          "priceKRW": 830367,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/conrad-koh-samui/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "63177670",
+          "name": "ZOG Villas",
+          "priceKRW": 865662,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/zog-villas/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "186780",
+          "name": "반얀 트리 사무이 (Banyan Tree Samui)",
+          "priceKRW": 924102,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/banyan-tree-samui/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "3112132",
+          "name": "더 시크릿 풀빌라 바이 더 라이브러리 코사무이 (The Secret Pool Villas by The Library Koh Samui)",
+          "priceKRW": 785235,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-secret-pool-villas-by-the-library-koh-samui/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "212498",
+          "name": "W Koh Samui",
+          "priceKRW": 803568,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/w-koh-samui/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "5092165",
+          "name": "Cape Fahn Hotel – Private Islands Samui",
+          "priceKRW": 720977,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cape-fahn-hotel/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "285053",
+          "name": "암마타라 푸라 풀 빌라 (Ammatara Pura Pool Villa)",
+          "priceKRW": 589366,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ammatara-pura-pool-villa/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "409593",
+          "name": "바나 벨, 어 럭셔리 컬렉션 리조트, 코사무이 (Vana Belle, a Luxury Collection Resort, Koh Samui)",
+          "priceKRW": 590859,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/vana-belle-a-luxury-collection-resort-koh-samui/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "2987200",
+          "name": "더 리츠칼튼, 코사무이 (The Ritz-Carlton, Koh Samui)",
+          "priceKRW": 553044,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-koh-samui/hotel/koh-samui-th.html?cid=1925461"
+        },
+        {
+          "key": "1624710",
+          "name": "살라 사무이 차웽 비치 리조트 (SALA Samui Chaweng Beach Resort )",
+          "priceKRW": 340318,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sala-samui-chaweng-beach/hotel/koh-samui-th.html?cid=1925461"
         }
       ]
     }

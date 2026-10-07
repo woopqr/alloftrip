@@ -1,0 +1,617 @@
+{
+  "slug": "honeymoon-seychelles",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "세이셸",
+  "citySlug": "seychelles",
+  "cityId": 669661,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=669661",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[세이셸] 신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+  "metaDescription": "2026년 11월 세이셸 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 88%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>콘스탄스 레무리아</b>입니다 (평점 9.4 · 리뷰 998건 · 1박 약 175만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 22,
+        "pct": 88
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 8
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495013411.jpg?k=d2143f7b714993f7779b705cb6ac2d956d0d2fc7d898f4e48385adb6098fca1c&o=",
+  "heroAlt": "세이셸 허니문 최고급 숙소",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "콘스탄스 레무리아 (Constance Lemuria)",
+      "agodaUrl": "https://www.agoda.com/constance-lemuria_2/hotel/all/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495013411.jpg?k=d2143f7b714993f7779b705cb6ac2d956d0d2fc7d898f4e48385adb6098fca1c&o=",
+      "score": 9.4,
+      "reviewCount": 998,
+      "reviewCountFmt": "리뷰 998건",
+      "priceText": "₩₩₩ · 1박 약 175만원",
+      "walkMin": 6,
+      "refLabel": "앙스 조젯 비치",
+      "star": 5,
+      "propertyId": 3534615,
+      "geo": {
+        "lat": -4.299398,
+        "lng": 55.681461
+      },
+      "priceKRW": 1753114,
+      "priceStatus": "조회됨",
+      "distanceM": 448.43,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "앙스 라지오 비치"
+      ],
+      "blurb": "평점 9.4 · 리뷰 998건. 앙스 조젯 비치까지 도보 6분, ₩₩₩ · 1박 약 175만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 175만원",
+        "📝 리뷰 998건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms are spacious, clean, and very comfortable.",
+          "score": "10",
+          "country": "Guatemala",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were outstanding and the service was exceptional.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The flora and fauna around the resort were just amazing.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The crab bisque was out of this world we enjoyed it a lot.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The staff went above & beyond to satisfy all our requests.",
+          "score": "8.8",
+          "country": "Saudi Arabia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Mango House, Seychelles, LXR Hotels and Resorts",
+      "agodaUrl": "https://www.agoda.com/mango-house-seychelles-lxr-hotels-resorts/hotel/mahe-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/22993239/0/8da6dabc7d8a5d8fc47c365a7fcd2d44.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 400,
+      "reviewCountFmt": "리뷰 400건",
+      "priceText": "₩₩₩ · 1박 약 115만원",
+      "walkMin": 66,
+      "refLabel": "앙스 앙탕당스",
+      "star": 5,
+      "propertyId": 22993239,
+      "geo": {
+        "lat": -4.743371,
+        "lng": 55.475666
+      },
+      "priceKRW": 1150674,
+      "priceStatus": "조회됨",
+      "distanceM": 5316.79,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 400건. 앙스 앙탕당스까지 도보 66분, ₩₩₩ · 1박 약 115만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 115만원",
+        "📝 리뷰 400건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The best part of the whole experience was the staff.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Our room was lovely, spacious and clean at all times.",
+          "score": "8.4",
+          "country": "Israel",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "And of course to rest of amazing staff as well.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Mango has the feel of being at home but in Seychelles!",
+          "score": "9.6",
+          "country": "Switzerland",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We will definitely come back and highly recommend it.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "르 뒤크 드 프라슬랭 호텔 앤 빌라 (Le Duc de Praslin Hotel & Villas)",
+      "agodaUrl": "https://www.agoda.com/le-duc-de-praslin-hotel-villas/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/199848/0/e1e3cfc1966fa672b572b3a084101d0f.jpeg?va=1",
+      "score": 9,
+      "reviewCount": 1488,
+      "reviewCountFmt": "리뷰 1,488건",
+      "priceText": "₩₩₩ · 1박 약 85만원",
+      "walkMin": 55,
+      "refLabel": "큐리어스 섬",
+      "star": 5,
+      "propertyId": 199848,
+      "geo": {
+        "lat": -4.315093,
+        "lng": 55.743071
+      },
+      "priceKRW": 853144,
+      "priceStatus": "조회됨",
+      "distanceM": 4414.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "마이 계곡 자연 보호지역",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 1,488건. 큐리어스 섬까지 도보 55분, ₩₩₩ · 1박 약 85만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 85만원",
+        "📝 리뷰 1,488건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Absolutte The best hotel we have lived on.",
+          "score": "10",
+          "country": "Norway",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The facilities were lovely and the staff were all brilliant",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The food at breakfast and dinner is varied and delicious.",
+          "score": "10",
+          "country": "Bulgaria",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms are beautifully decorated and extremely clean.",
+          "score": "10",
+          "country": "Bulgaria",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The variety and quality of the food impressed us daily.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "힐튼 세이첼리스 노스홀름 리조트 앤 스파 (Hilton Seychelles Northolme Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/hilton-seychelles-northolme-resort-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2288231/0/90cac9c369bc7833b14ef50287e2d0ad.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 792,
+      "reviewCountFmt": "리뷰 792건",
+      "priceText": "₩₩₩ · 1박 약 83만원",
+      "walkMin": 93,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 181601,
+      "geo": {
+        "lat": -4.592959,
+        "lng": 55.432117
+      },
+      "priceKRW": 826060,
+      "priceStatus": "조회됨",
+      "distanceM": 7465.68,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "보 발롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 792건. 몬 블랑까지 도보 93분, ₩₩₩ · 1박 약 83만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 83만원",
+        "📝 리뷰 792건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Every aspect of our stay was seamless and enjoyable.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "I had the best time here - this stay is truly exceptional.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "We still think the hotel deserve 5 stars from us.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The location is amazing with small private beach!",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the Grand Oceanview Villa with Infinity Pool.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Enchanted Island Resort",
+      "agodaUrl": "https://www.agoda.com/ja-enchanted-island-resort-seychelles_2/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/864945173.jpg?k=1eb32b93dd6f5327febb0cc71a4d69cb86a2c16b78751dafacff9cf7346bbce0&o=",
+      "score": 9.3,
+      "reviewCount": 403,
+      "reviewCountFmt": "리뷰 403건",
+      "priceText": "₩₩₩ · 1박 약 100만원",
+      "walkMin": 105,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 87170197,
+      "geo": {
+        "lat": -4.622043,
+        "lng": 55.503445
+      },
+      "priceKRW": 1000509,
+      "priceStatus": "조회됨",
+      "distanceM": 8368.66,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 403건. 몬 블랑까지 도보 105분, ₩₩₩ · 1박 약 100만원.",
+      "metaTags": [
+        "💰 1박 약 100만원",
+        "📝 리뷰 403건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Savoy Seychelles Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/savoy-resort-and-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/309797241.jpg?k=07fe8ca579f4ff7a3b97c08d9e7efa75ae417a430eca8a9891b02308a05acc83&o=",
+      "score": 9,
+      "reviewCount": 3857,
+      "reviewCountFmt": "리뷰 3,857건",
+      "priceText": "₩₩₩ · 1박 약 78만원",
+      "walkMin": 67,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 535914,
+      "geo": {
+        "lat": -4.612079,
+        "lng": 55.430748
+      },
+      "priceKRW": 780955,
+      "priceStatus": "조회됨",
+      "distanceM": 5372.09,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "보 발롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 3,857건. 몬 블랑까지 도보 67분, ₩₩₩ · 1박 약 78만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 78만원",
+        "📝 리뷰 3,857건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staying in Savoy was a very good experience as you'd expect.",
+          "score": "9.6",
+          "country": "Poland",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The location is amazing and so is the pool and beach areas.",
+          "score": "8.4",
+          "country": "United Arab Emirates",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Entire property is amazing with really great view and Spa",
+          "score": "10",
+          "country": "India",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The amenities at Savoy were nothing short of exceptional.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Very good hotel with great location and beautiful beach",
+          "score": "9.2",
+          "country": "ישראל",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T18:06:44.550Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T18:06:44.550Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Enchanted Island Resort: reviewSample"
+      ]
+    }
+  }
+}

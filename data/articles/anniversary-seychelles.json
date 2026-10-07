@@ -1,0 +1,620 @@
+{
+  "slug": "anniversary-seychelles",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "세이셸",
+  "citySlug": "seychelles",
+  "cityId": 669661,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=669661",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[세이셸] 결혼기념일을 위한 최고급 호텔 & 스위트",
+  "metaDescription": "2026년 11월 세이셸 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 92%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>켐핀스키 세이첼리스 리조트</b>입니다 (평점 8.6 · 리뷰 294건 · 1박 약 68만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 92
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/11412601/0/03b8f7c4186ec6e90fd1cc097c87c963.jpeg?va=1&ce=3",
+  "heroAlt": "세이셸 기념일 여행 최고급 숙소",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "켐핀스키 세이첼리스 리조트 (Kempinski Seychelles Resort)",
+      "agodaUrl": "https://www.agoda.com/kempinski-seychelles-resort/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/11412601/0/03b8f7c4186ec6e90fd1cc097c87c963.jpeg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 294,
+      "reviewCountFmt": "리뷰 294건",
+      "priceText": "₩₩ · 1박 약 68만원",
+      "walkMin": 50,
+      "refLabel": "앙스 앙탕당스",
+      "star": 5,
+      "propertyId": 289462,
+      "geo": {
+        "lat": -4.756398,
+        "lng": 55.477556
+      },
+      "priceKRW": 678055,
+      "priceStatus": "조회됨",
+      "distanceM": 4001.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "앙스 앙탕당스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 294건. 앙스 앙탕당스까지 도보 50분, ₩₩ · 1박 약 68만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 68만원",
+        "📝 리뷰 294건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Hotel is wonderful, attention is given to every details.",
+          "score": "10",
+          "country": "Île de la Réunion",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "I do not know what I would have done without there help …",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "We enjoy the hotel ocean view very comfortable",
+          "score": "9.6",
+          "country": "Saudi Arabia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Comfortable rooms, friendly staff, and great service.",
+          "score": "10",
+          "country": "România",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms are extremely large with many facilities.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "레스케일 리조트 마리나 앤 스파 - 스몰 럭셔리 호텔 오브 더 월드 (L'Escale Resort Marina & Spa - Small Luxury Hotels of the World)",
+      "agodaUrl": "https://www.agoda.com/l-escale-resort-marina-spa/hotel/mahe-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/276395346.jpg?k=35e73d73fed561b54a0ad1311ac46b4df7987daff436d8a1785543687ba67cb9&o=",
+      "score": 8.7,
+      "reviewCount": 510,
+      "reviewCountFmt": "리뷰 510건",
+      "priceText": "₩₩₩ · 1박 약 80만원",
+      "walkMin": 56,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 31470567,
+      "geo": {
+        "lat": -4.64632,
+        "lng": 55.476398
+      },
+      "priceKRW": 800225,
+      "priceStatus": "조회됨",
+      "distanceM": 4497.24,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "몬 블랑",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 510건. 몬 블랑까지 도보 56분, ₩₩₩ · 1박 약 80만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 80만원",
+        "📝 리뷰 510건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Amazing place, amazing facilities and breath taking views",
+          "score": "9.2",
+          "country": "Uganda",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Views from the ocean-facing rooms are pleasant and relaxing.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms are comfortable and spotlessly maintained.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The hotel is small but its quality is excellent.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The staff are friendly, efficient, and very respectful.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Garden Hill Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/garden-hill-resort-spa-h71120125/hotel/mahe-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/71120125/0/e081b92aaf211765f711aa904d27e747.jpeg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 342,
+      "reviewCountFmt": "리뷰 342건",
+      "priceText": "₩₩₩ · 1박 약 78만원",
+      "walkMin": 66,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 71120125,
+      "geo": {
+        "lat": -4.612324,
+        "lng": 55.433018
+      },
+      "priceKRW": 776091,
+      "priceStatus": "조회됨",
+      "distanceM": 5312.34,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "보 발롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 342건. 몬 블랑까지 도보 66분, ₩₩₩ · 1박 약 78만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 78만원",
+        "📝 리뷰 342건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff is lovely and very helpful if you need anything.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Rooms are nice and cosy, bed and pillow included.",
+          "score": "8.8",
+          "country": "United Arab Emirates",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Everything exceeded our expectations from start to finish.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Overall, Gardens Hill is an exceptional resort.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "We had an amazing stay at Gardens Hill Villas.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Avani Plus Barbarons Seychelles Resort",
+      "agodaUrl": "https://www.agoda.com/avani-seychelles-barbarons-resort-and-spa_3/hotel/all/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/687488541.jpg?k=385152ff23e0a2fad86269113342f743f894bd5ca3348b4c940e2ead512b52a7&o=",
+      "score": 9.1,
+      "reviewCount": 363,
+      "reviewCountFmt": "리뷰 363건",
+      "priceText": "₩₩ · 1박 약 59만원",
+      "walkMin": 40,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 3531122,
+      "geo": {
+        "lat": -4.683192,
+        "lng": 55.454544
+      },
+      "priceKRW": 587271,
+      "priceStatus": "조회됨",
+      "distanceM": 3172.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "몬 블랑",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 363건. 몬 블랑까지 도보 40분, ₩₩ · 1박 약 59만원.",
+      "metaTags": [
+        "💰 1박 약 59만원",
+        "📝 리뷰 363건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "스토리 세이셸 (STORY Seychelles)",
+      "agodaUrl": "https://www.agoda.com/the-h-resort-beau-vallon-beach-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1076696/0/a0a9a978af7f5643b300caaf6e9b2d51.jpeg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 1069,
+      "reviewCountFmt": "리뷰 1,069건",
+      "priceText": "₩₩₩ · 1박 약 81만원",
+      "walkMin": 64,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 1076696,
+      "geo": {
+        "lat": -4.616047,
+        "lng": 55.424572
+      },
+      "priceKRW": 813549,
+      "priceStatus": "조회됨",
+      "distanceM": 5095.22,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "보 발롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 1,069건. 몬 블랑까지 도보 64분, ₩₩₩ · 1박 약 81만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 81만원",
+        "📝 리뷰 1,069건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rum soufle with pineapple was a memorable dish.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We are one night at Eden and can really recommend it.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful beach villa units , private beach .",
+          "score": "9.6",
+          "country": "South Africa",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotel we have ever been to 👍",
+          "score": "10",
+          "country": "Czech Republic",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Gave me early check-in and late checkout for free..",
+          "score": "9.6",
+          "country": "South Africa",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Avani+ Barbarons Seychelles",
+      "agodaUrl": "https://www.agoda.com/avani-seychelles-barbarons-resort-spa_10/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/23098273/1151444936/0ee98e6c6f2b6fe50740741494134740.jpeg?va=1&ce=3",
+      "score": 8.3,
+      "reviewCount": 303,
+      "reviewCountFmt": "리뷰 303건",
+      "priceText": "₩₩ · 1박 약 56만원",
+      "walkMin": 40,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 726701,
+      "geo": {
+        "lat": -4.683397,
+        "lng": 55.454435
+      },
+      "priceKRW": 563162,
+      "priceStatus": "조회됨",
+      "distanceM": 3184.24,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "몬 블랑",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 303건. 몬 블랑까지 도보 40분, ₩₩ · 1박 약 56만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 56만원",
+        "📝 리뷰 303건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I loved the quality and facilities.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Beautiful restaurant Somewhere with delicious food.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Top hotel in my list.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Impeccable service",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Amazing hotel",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T18:06:55.981Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T18:06:55.981Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Avani Plus Barbarons Seychelles Resort: reviewSample"
+      ]
+    }
+  }
+}
