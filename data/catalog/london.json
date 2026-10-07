@@ -1,0 +1,3072 @@
+{
+ "slug": "london",
+ "city": "런던",
+ "region": "europe",
+ "cityId": 233,
+ "agodaCityName": "런던",
+ "fetchedAt": "2026-10-07T23:40:17.749Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 104890,
+   "name": "소피텔 런던 히드로 호텔 (Sofitel London Heathrow Hotel)",
+   "agodaUrl": "https://www.agoda.com/sofitel-london-heathrow-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/764572242.jpg?k=97835e0d5f48712434e5722cd167d75936834f01cbb75a359fd63a698ec0c29b&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 14485,
+   "priceKRW": 277825,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.473598,
+    "lng": -0.491833
+   },
+   "refLandmark": "히드로 터미널 5역"
+  },
+  {
+   "propertyId": 42279485,
+   "name": "더 딜리 (The Dilly)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-piccadilly-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/286431489.jpg?k=2fbc9b5473242be250625b97f050b7463d3e19f3966264e645b0b534dce0d17f&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 9462,
+   "priceKRW": 483149,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.509312,
+    "lng": -0.13617
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 2520417,
+   "name": "InterContinental London - The O2 by IHG",
+   "agodaUrl": "https://www.agoda.com/intercontinental-london-the-o2-an-ihg-hotel/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/410444141.jpg?k=5a58792585a1b1d8427ac5f744a3c99048895906543208120a9303e0e8c42cce&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 9226,
+   "priceKRW": 522028,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.502621,
+    "lng": 0.000078
+   },
+   "refLandmark": "노스 그리니치역"
+  },
+  {
+   "propertyId": 19921723,
+   "name": "타워 스위트 바이 블루 오키드 (Tower Suites by Blue Orchid)",
+   "agodaUrl": "https://www.agoda.com/tower-suites-by-blue-orchid/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/405123873.jpg?k=1cf56ba1f5ce17ccbf6093adf142efa37c987cfb5b49335a56c4653ff56e1660&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 8301,
+   "priceKRW": 222119,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.510471,
+    "lng": -0.07528
+   },
+   "refLandmark": "타워 힐역"
+  },
+  {
+   "propertyId": 6755421,
+   "name": "몬트캄 로열 런던 하우스, 오토그래프 컬렉션 (Montcalm Royal London House, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/montcalm-royal-london-house-autograph-collection-h6755421/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/129/1296935/1296935_17080513350054923221.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 8268,
+   "priceKRW": 445936,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.521568,
+    "lng": -0.08564
+   },
+   "refLandmark": "Moorgate Train Station"
+  },
+  {
+   "propertyId": 6755413,
+   "name": "몽칼름 칠워스 타운하우스 (Montcalm Chilworth Townhouse)",
+   "agodaUrl": "https://www.agoda.com/the-chilworth/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/147562016.jpg?k=be6edd96049651f0a68fcf61bbde8e93b1b4b1d9804898f31f7901a1b2fd0a15&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 8112,
+   "priceKRW": 225954,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.515148,
+    "lng": -0.17823
+   },
+   "refLandmark": "패딩턴역"
+  },
+  {
+   "propertyId": 45286475,
+   "name": "아트'오텔 런던 혹스턴 (art’otel London Hoxton)",
+   "agodaUrl": "https://www.agoda.com/art-otel-london-hoxton/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/670405070.jpg?k=e7f5bda027709da0460d6e8aed593dc9a33d84c8ce7b2cc15c210c2f9c972ea5&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 6829,
+   "priceKRW": 424701,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.526263,
+    "lng": -0.083378
+   },
+   "refLandmark": "올드 스트리트역"
+  },
+  {
+   "propertyId": 6755444,
+   "name": "몽캄 브루어리 (Montcalm Brewery)",
+   "agodaUrl": "https://www.agoda.com/montcalm-brewery-h6755444/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6755444/0/4fa1ae8b93bf0b9bcb9e1ad97d53c329.jpeg?ce=2",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 6544,
+   "priceKRW": 246684,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.520889,
+    "lng": -0.0916
+   },
+   "refLandmark": "Moorgate Train Station"
+  },
+  {
+   "propertyId": 8445,
+   "name": "로얄 가든 호텔 (Royal Garden Hotel)",
+   "agodaUrl": "https://www.agoda.com/royal-garden-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8445/0/29d93959fe7837fec96c335c8a66d7a7.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6531,
+   "priceKRW": 381660,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.502651,
+    "lng": -0.187987
+   },
+   "refLandmark": "하이 스트리트 켄싱턴역"
+  },
+  {
+   "propertyId": 2724,
+   "name": "더 로열 호스가드 런던 (The Royal Horseguards London)",
+   "agodaUrl": "https://www.agoda.com/the-royal-horseguards-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/272/2724/2724_15072222190032833553.jpg?ca=4&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6282,
+   "priceKRW": 476019,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.505876,
+    "lng": -0.124245
+   },
+   "refLandmark": "임뱅크먼트역"
+  },
+  {
+   "propertyId": 648841,
+   "name": "씨 컨테이너런던 (Sea Containers London)",
+   "agodaUrl": "https://www.agoda.com/sea-containers-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/648841/0/af4f703ef5ad5eac23cf13e249013933.jpeg",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 6095,
+   "priceKRW": 493715,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.507957,
+    "lng": -0.107032
+   },
+   "refLandmark": "런던 워털루 이스트역"
+  },
+  {
+   "propertyId": 624519,
+   "name": "샹그릴라 더 샤드, 런던 (Shangri-La The Shard, London)",
+   "agodaUrl": "https://www.agoda.com/shangri-la-hotel-at-the-shard/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/624519/0/1c9f0898ef3fe0ca715668c166e36c94.jpeg?va=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5626,
+   "priceKRW": 1044056,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.499207,
+    "lng": -0.088006
+   },
+   "refLandmark": "버러역"
+  },
+  {
+   "propertyId": 3273081,
+   "name": "로열 랭커스터 런던 (Royal Lancaster London)",
+   "agodaUrl": "https://www.agoda.com/royal-lancaster-london_3/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/130774650.jpg?k=32c21c86a35e378fb22fc61e3ffa996308c82b6600d6f245146429209b47a6b7&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 5614,
+   "priceKRW": 527030,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.512489,
+    "lng": -0.1751
+   },
+   "refLandmark": "랭커스터 게이트역"
+  },
+  {
+   "propertyId": 62696647,
+   "name": "더 런더너 (The Londoner)",
+   "agodaUrl": "https://www.agoda.com/the-londoner/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/325665546.jpg?k=3985c5ad5deac121cbc8c26ea8d234427b61aaf11499f069efe9351fea0734f2&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 5258,
+   "priceKRW": 876538,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.509972,
+    "lng": -0.13023
+   },
+   "refLandmark": "레스터 스퀘어역"
+  },
+  {
+   "propertyId": 13836062,
+   "name": "더 피카딜리 런던 웨스트 엔드 (The Piccadilly London West End)",
+   "agodaUrl": "https://www.agoda.com/the-piccadilly-london-west-end_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/219532892.jpg?k=43c1e5f8a528474c2b0976b23ab23512581845b7423c0c1b5d1cc49b53ffa01b&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5087,
+   "priceKRW": 334066,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.512119,
+    "lng": -0.13186
+   },
+   "refLandmark": "레스터 스퀘어역"
+  },
+  {
+   "propertyId": 175321,
+   "name": "라파일 호텔 앤 스파 (Rafayel Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/rafayel-hotel-spa/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/553517662.jpg?k=70958f5572e32d08618166d5522ff05c457bdef841150fe9feb64bbda9047e90&o=",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 4527,
+   "priceKRW": 205854,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.47047,
+    "lng": -0.177452
+   },
+   "refLandmark": "임페리얼 와프역"
+  },
+  {
+   "propertyId": 3278254,
+   "name": "The Landmark London",
+   "agodaUrl": "https://www.agoda.com/the-landmark-london_8/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/453150473.jpg?k=af2b803c6c7ec968294f630af37d64bfbf36ee5d570ca0979c50333388ed7919&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4441,
+   "priceKRW": 818632,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.521431,
+    "lng": -0.1626
+   },
+   "refLandmark": "메릴본역"
+  },
+  {
+   "propertyId": 33402365,
+   "name": "아트오텔 런던 배터시 파워 스테이션 (art'otel London Battersea Power Station)",
+   "agodaUrl": "https://www.agoda.com/art-otel-london-battersea/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33402365/-1/616838fa51d89f1e4791ad05a4c1cc9b.jpg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4202,
+   "priceKRW": 474249,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.480644,
+    "lng": -0.145368
+   },
+   "refLandmark": "배터시 파크역"
+  },
+  {
+   "propertyId": 3740,
+   "name": "세인트 마틴스 레인 런던 (St Martins Lane London)",
+   "agodaUrl": "https://www.agoda.com/st-martins-lane-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3740/0/964918d91ef8b0791cecde4c8e10dcae.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 3909,
+   "priceKRW": 690404,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.510464,
+    "lng": -0.126698
+   },
+   "refLandmark": "레스터 스퀘어역"
+  },
+  {
+   "propertyId": 60535514,
+   "name": "미들 에이트 - 코벤트 가든 - 프리퍼드 호텔스 앤 리조트 (Middle Eight - Covent Garden - Preferred Hotels and Resorts)",
+   "agodaUrl": "https://www.agoda.com/middle-eight/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495089690.jpg?k=4f9aa19f95f9902e21c6b2b6d765e5fc62618f0fe651c32f6ed388cdb048b166&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3756,
+   "priceKRW": 523375,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.51598,
+    "lng": -0.12005
+   },
+   "refLandmark": "홀본역"
+  },
+  {
+   "propertyId": 61233087,
+   "name": "엘렌 켄싱턴 (Ellen Kensington)",
+   "agodaUrl": "https://www.agoda.com/best-western-burns-hotel-kensington_4/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61233087/0/dfd8abe9d8ee33f5918a61a95f393ec0.jpeg",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 3302,
+   "priceKRW": 273555,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.492386,
+    "lng": -0.191076
+   },
+   "refLandmark": "얼스 코트역"
+  },
+  {
+   "propertyId": 1774316,
+   "name": "더 랄릿 런던 (The Lalit London)",
+   "agodaUrl": "https://www.agoda.com/the-lalit-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/87979259.jpg?k=aff729ca15875de24ca02a2cf473e7133ad18807f1c135b8874416ea207ca44f&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3041,
+   "priceKRW": 264077,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.503277,
+    "lng": -0.078697
+   },
+   "refLandmark": "런던 브리지역"
+  },
+  {
+   "propertyId": 42456,
+   "name": "유나이티드 킹 더 아카데미 (The Academy)",
+   "agodaUrl": "https://www.agoda.com/the-academy/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42456/-1/113f13ec681301ad23cb642f63d67f7c.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 2808,
+   "priceKRW": 353315,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.520741,
+    "lng": -0.13103
+   },
+   "refLandmark": "굿지 스트리트역"
+  },
+  {
+   "propertyId": 51558,
+   "name": "코트하우스 호텔 (Courthouse Hotel)",
+   "agodaUrl": "https://www.agoda.com/courthouse-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/515/51558/51558_13122121550017950127.jpg?ca=2&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 2539,
+   "priceKRW": 571754,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.514366,
+    "lng": -0.139532
+   },
+   "refLandmark": "옥스포드 서커스역"
+  },
+  {
+   "propertyId": 9800968,
+   "name": "빈트리 앤 메르세르 (Vintry & Mercer)",
+   "agodaUrl": "https://www.agoda.com/vintry-mercer/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/210436216.jpg?k=1ffdc39a1988831de860d2eb5ebeca534fcacf211cc3c24efcfce9dd36245a8f&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 2431,
+   "priceKRW": 414819,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.5116,
+    "lng": -0.09394
+   },
+   "refLandmark": "맨션 하우스역"
+  },
+  {
+   "propertyId": 428283,
+   "name": "세인트 판크라스 런던, 오토그래프 컬렉션 (St. Pancras London, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/st-pancras-renaissance-hotel-london_5/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/695527390.jpg?k=e4f77666662fe8c3ec65d3119410ca94dd4e4ade3adcd8d1004229fa84eaeb3f&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 2428,
+   "priceKRW": 536185,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.530167,
+    "lng": -0.125381
+   },
+   "refLandmark": "세인트 판크라스 인터내셔널역"
+  },
+  {
+   "propertyId": 13836249,
+   "name": "더 첼시 하버 호텔 앤 스파 런던 (The Chelsea Harbour Hotel & Spa London)",
+   "agodaUrl": "https://www.agoda.com/the-chelsea-harbour-hotel_5/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34294090/0/65e5ffb7bfecad51c3578e03f0aa8654.jpeg?ce=3",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 2422,
+   "priceKRW": 266181,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.475399,
+    "lng": -0.18219
+   },
+   "refLandmark": "임페리얼 와프역"
+  },
+  {
+   "propertyId": 60140,
+   "name": "루벤스 앳 더 팰리스 호텔 (Rubens At The Palace Hotel)",
+   "agodaUrl": "https://www.agoda.com/rubens-at-the-palace-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/586095396.jpg?k=324fb3ad3b43225995a2d7d43f9893a9799e09ab25c1736c93cb41ea06e70db4&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2271,
+   "priceKRW": 367343,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498404,
+    "lng": -0.143209
+   },
+   "refLandmark": "빅토리아역"
+  },
+  {
+   "propertyId": 9104,
+   "name": "더 앰퍼샌드 호텔 (The Ampersand Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-ampersand-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/910/9104/9104_16091221560046371964.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2252,
+   "priceKRW": 396530,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.494122,
+    "lng": -0.17539
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 271729,
+   "name": "100 퀸스게이트 호텔 런던 켄싱턴, 큐리오 컬렉션 바이 힐튼 (100 Queen's Gate Hotel London Kensington, Curio Collection by Hilton)",
+   "agodaUrl": "https://www.agoda.com/100-queen-s-gate-hotel-london-curio-collection-by-hilton/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/271729/0/f5268a6bcfd7df6e0907c7c86661c77d.jpeg?ce=3",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 2233,
+   "priceKRW": 380008,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49202,
+    "lng": -0.178635
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 6755453,
+   "name": "몬트캄 이스트, 오토그래프 컬렉션 (Montcalm East, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/m-by-montcalm-shoreditch-london-tech-city/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6755453/0/54f0cfb5f51ba0620dcb960010b600ee.jpeg",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2185,
+   "priceKRW": 344450,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.528069,
+    "lng": -0.088904
+   },
+   "refLandmark": "올드 스트리트역"
+  },
+  {
+   "propertyId": 3275467,
+   "name": "찬서리 코트 호텔, 런던 (Rosewood London)",
+   "agodaUrl": "https://www.agoda.com/rosewood-london_5/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/28994049.jpg?k=474456e2b301a947aea054b715afbb6ba70419127176965b1515491960600989&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2081,
+   "priceKRW": 1239124,
+   "brand": "rosewood",
+   "brandLabel": "로즈우드",
+   "bestSeller": true,
+   "geo": {
+    "lat": 51.517677,
+    "lng": -0.117964
+   },
+   "refLandmark": "홀본역"
+  },
+  {
+   "propertyId": 6755511,
+   "name": "파크 그랜드 메이페어 (Park Grand Mayfair)",
+   "agodaUrl": "https://www.agoda.com/marble-arch-serviced-rooms/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/25362782.jpg?k=d6b8c265afa98dc20301c5550d54caf3fd0b0797fa2431b29953dfbc29a41f9b&o=",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 1983,
+   "priceKRW": 466720,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.514843,
+    "lng": -0.15968
+   },
+   "refLandmark": "마블 아치역"
+  },
+  {
+   "propertyId": 11586,
+   "name": "런던 힐튼 온 파크 레인 (London Hilton on Park Lane)",
+   "agodaUrl": "https://www.agoda.com/london-hilton-on-park-lane-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/859756652.jpg?k=f09b50ca1380c971d2d6c56fd3f4ee46dd3b74260ee9843b31dcf14ba6185335&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 1975,
+   "priceKRW": 475351,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.505711,
+    "lng": -0.150139
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 60535512,
+   "name": "더 가즈맨 - 프리퍼드 호텔스 앤 리조트 (The Guardsman - Preferred Hotels and Resorts)",
+   "agodaUrl": "https://www.agoda.com/the-guardsman/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914981452.jpg?k=19d859948685bada1e05f6bc9ff18d9a23e7718d3486d0b9f118d1807d16c984&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1916,
+   "priceKRW": 513861,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498749,
+    "lng": -0.13695
+   },
+   "refLandmark": "London Buses"
+  },
+  {
+   "propertyId": 9800999,
+   "name": "더 스탠다드, 런던 (The Standard, London)",
+   "agodaUrl": "https://www.agoda.com/the-standard-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/923400402.jpg?k=5d5c7200923df061e50c404bd0160840d1f2a1f86649a48ebcaf0a6de6dde5c0&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1891,
+   "priceKRW": 440981,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.52927,
+    "lng": -0.12406
+   },
+   "refLandmark": "킹스 크로스 세인트 판크라스역"
+  },
+  {
+   "propertyId": 30120127,
+   "name": "팬퍼시픽 런던 (Pan Pacific London)",
+   "agodaUrl": "https://www.agoda.com/pan-pacific-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/30120127/0/917a402e766280c134efd56e81bb6f95.jpg?ca=26&ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 1877,
+   "priceKRW": 697872,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.516632,
+    "lng": -0.080915
+   },
+   "refLandmark": "리버풀 스트리트역"
+  },
+  {
+   "propertyId": 64293,
+   "name": "로제트 하우스 런던 (Roseate House London)",
+   "agodaUrl": "https://www.agoda.com/roseate-house-london_2/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/912279940.jpg?k=d700c41d7c28205a93bb141091bebff4d9a717ef420bb5f6311f5343046aa4d6&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1820,
+   "priceKRW": 282043,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513866,
+    "lng": -0.176339
+   },
+   "refLandmark": "랭커스터 게이트역"
+  },
+  {
+   "propertyId": 338381,
+   "name": "아링턴 하우스 아파트먼트 (Arlington House Apartments)",
+   "agodaUrl": "https://www.agoda.com/arlington-house-apartments/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338381/0/23de0c9ebf53d0b2ae9280fc2cb25371.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1801,
+   "priceKRW": 1185623,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 51.506893,
+    "lng": -0.140804
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 2035,
+   "name": "더 아테네움 호텔 앤 레지던스 (The Athenaeum Hotel & Residences)",
+   "agodaUrl": "https://www.agoda.com/the-athenaeum-hotel-residences/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/835158109.jpg?k=0ec8155b34924c11dac1f13f7c373192829bca2944322a7dfbb7918895bb7237&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1655,
+   "priceKRW": 692973,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.504716,
+    "lng": -0.147562
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 60128,
+   "name": "마일스톤 호텔 (Milestone Kensington Hotel)",
+   "agodaUrl": "https://www.agoda.com/milestone-kensington-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60128/0/0c2d9dcdabda1e6466a0f6579fde8faf.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 1531,
+   "priceKRW": 717174,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.501797,
+    "lng": -0.186081
+   },
+   "refLandmark": "하이 스트리트 켄싱턴역"
+  },
+  {
+   "propertyId": 3277395,
+   "name": "Town Hall Hotel - East London",
+   "agodaUrl": "https://www.agoda.com/town-hall-hotel-shoreditch/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/757257615.jpg?k=c89b6ac7859b29eb838b5037e254948f342eff681a6c39a9d2cabc0f863efbd6&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1524,
+   "priceKRW": 348396,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.530346,
+    "lng": -0.056121
+   },
+   "refLandmark": "캠브리지 히스역"
+  },
+  {
+   "propertyId": 567645,
+   "name": "쉐발 트리 콰이 앳 더 타워 오브 런던 (Cheval Three Quays at the Tower of London)",
+   "agodaUrl": "https://www.agoda.com/cheval-three-quays-at-the-tower-of-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/567/567645/567645_16081218330045452714.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1474,
+   "priceKRW": 621143,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.508317,
+    "lng": -0.079303
+   },
+   "refLandmark": "타워 힐역"
+  },
+  {
+   "propertyId": 179570,
+   "name": "카르마 생텀 소호 호텔 (Karma Sanctum Soho Hotel)",
+   "agodaUrl": "https://www.agoda.com/karma-sanctum-soho-hotel_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/179570/0/cb533c6e9bf46416117f7c4ea753accd.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1410,
+   "priceKRW": 333272,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.511459,
+    "lng": -0.138275
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 1373907,
+   "name": "그레이트 노던 호텔, 런던 (Great Northern Hotel, London)",
+   "agodaUrl": "https://www.agoda.com/great-northern-hotel-a-tribute-portfolio-hotel-london_2/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1373907/0/7d4759eae084c48fcf946cb2a4c0b97c.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1394,
+   "priceKRW": 254420,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.530914,
+    "lng": -0.124728
+   },
+   "refLandmark": "킹스 크로스 세인트 판크라스역"
+  },
+  {
+   "propertyId": 8199083,
+   "name": "더 빌트모어 메이페어 (The Biltmore Mayfair)",
+   "agodaUrl": "https://www.agoda.com/millennium-hotel-london-mayfair_2/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8199083/0/1f1fb3ef86440fe24a31c2b8dc689b84.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1373,
+   "priceKRW": 928410,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.510799,
+    "lng": -0.151043
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 35229460,
+   "name": "선 스트리트 호텔 (Sun Street Hotel)",
+   "agodaUrl": "https://www.agoda.com/sun-street-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35229460/0/d1bae166ea46306cd79040c3cfda84ec.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1372,
+   "priceKRW": 412491,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.520412,
+    "lng": -0.084917
+   },
+   "refLandmark": "London Liverpool Street Train Station"
+  },
+  {
+   "propertyId": 127495,
+   "name": "더 캐피탈 호텔, 아파트먼트 앤 타운하우스 (The Capital Hotel, Apartments & Townhouse)",
+   "agodaUrl": "https://www.agoda.com/the-capital-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/904094702.jpg?k=4378be59cb4fb24edef304fcb2410b493b246c2af96050ed2df59ffc464724a0&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1370,
+   "priceKRW": 558732,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.500118,
+    "lng": -0.161665
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 13835934,
+   "name": "더 메릴본 호텔 (The Marylebone Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-marylebone-hotel_5/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/295987750.jpg?k=21f5ea95881dd642bbe71d0077611db3770f84de39bf90bc8f8f982206a1fa77&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1358,
+   "priceKRW": 615560,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.517738,
+    "lng": -0.14969
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 734742,
+   "name": "콘래드 런던 세인트 제임스 (Conrad London St. James)",
+   "agodaUrl": "https://www.agoda.com/conrad-london-st-james/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2290500/1374275521/89ac3ddc6ebd6a72e5a1755576686594.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1325,
+   "priceKRW": 672003,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.499451,
+    "lng": -0.133194
+   },
+   "refLandmark": "세인트 제임스 파크역"
+  },
+  {
+   "propertyId": 1191501,
+   "name": "캐너리 리버사이드 플라자 런던, 비네트 컬렉션 바이 IHG (Canary Riverside Plaza London, Vignette Collection by IHG)",
+   "agodaUrl": "https://www.agoda.com/canary-riverside-plaza-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1191501/0/4f58c46b559b33339b2ddf7e00864748.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1261,
+   "priceKRW": 509642,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506699,
+    "lng": -0.028021
+   },
+   "refLandmark": "DLR - 웨스트페리역"
+  },
+  {
+   "propertyId": 63705357,
+   "name": "더 프린스 아카토키 런던 (The Prince Akatoki London)",
+   "agodaUrl": "https://www.agoda.com/arch/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/612207540.jpg?k=27e38b4628027fe59f11c47fb846ecc912bced53d8bd2404eaa7ad928976f9ae&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1231,
+   "priceKRW": 700757,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.5159,
+    "lng": -0.16003
+   },
+   "refLandmark": "마블 아치역"
+  },
+  {
+   "propertyId": 13829374,
+   "name": "1 호텔 메이페어 (1 Hotel Mayfair)",
+   "agodaUrl": "https://www.agoda.com/1-hotel-mayfair/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/579602255.jpg?k=5edfba8bc2d4eb3d0db7f0efe13b3a0ac87ddf107005b1cd9eb392d9d73b5213&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1229,
+   "priceKRW": 1093092,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.507629,
+    "lng": -0.1425
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 11053,
+   "name": "JW 메리어트 그로스베너 하우스 런던 (JW Marriott Grosvenor House London)",
+   "agodaUrl": "https://www.agoda.com/grosvenor-house-a-jw-marriott-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11053/0/7097fea965bce1364dc21824a931cc37.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1208,
+   "priceKRW": 691200,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.509644,
+    "lng": -0.154227
+   },
+   "refLandmark": "마블 아치역"
+  },
+  {
+   "propertyId": 191277,
+   "name": "더 펠햄 런던 – 스타호텔 콜레지오네 (The Pelham London – Starhotels Collezione)",
+   "agodaUrl": "https://www.agoda.com/the-pelham-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/775533447.jpg?k=659b5a74abbc4bfb023a04f9df03767b72e6b76f5f0556db679902e89e4b892d&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1192,
+   "priceKRW": 541305,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.494392,
+    "lng": -0.175009
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 47942379,
+   "name": "The Marloes",
+   "agodaUrl": "https://www.agoda.com/the-marloes/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/646689624.jpg?k=b521687ca2b4f41c0c087065a0f8f40889e36ef233515380ee20f24886cb5a60&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1164,
+   "priceKRW": 467843,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49147,
+    "lng": -0.20039
+   },
+   "refLandmark": "웨스트 켄싱턴역"
+  },
+  {
+   "propertyId": 339092,
+   "name": "아드리아 부티크 호텔 (Adria Boutique Hotel)",
+   "agodaUrl": "https://www.agoda.com/adria-boutique-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/347693781.jpg?k=97af2e82873daae73abf4ae600010c5053dac4dae76ff24188c45bb2c076ec66&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1087,
+   "priceKRW": 786620,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49403,
+    "lng": -0.178454
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 10591436,
+   "name": "코모 메트로폴리탄 런던 (COMO Metropolitan London)",
+   "agodaUrl": "https://www.agoda.com/como-metropolitan-london_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/91097914/1532312629/a37ccd6562d4b4578b3e34e9756435df.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1085,
+   "priceKRW": 657283,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.505042,
+    "lng": -0.15004
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 21584236,
+   "name": "Home House Studio",
+   "agodaUrl": "https://www.agoda.com/home-grown-club/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/279664358.jpg?k=9c01fe2509c0b171f334258860035c07147cdad3735def4d2481681faba48ed5&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1066,
+   "priceKRW": 445936,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.515629,
+    "lng": -0.159822
+   },
+   "refLandmark": "마블 아치역"
+  },
+  {
+   "propertyId": 127475,
+   "name": "세인트 제임스 호텔 앤 클럽 메이페어 (St James Hotel and Club Mayfair)",
+   "agodaUrl": "https://www.agoda.com/st-james-hotel-and-club-mayfair/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/127475/0/3d6860ca42bf803524b9382ee98e52e1.jpg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1038,
+   "priceKRW": 647342,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506138,
+    "lng": -0.140315
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 5190,
+   "name": "소피텔 런던 세인트 제임스 (Sofitel London St James)",
+   "agodaUrl": "https://www.agoda.com/sofitel-st-james-london-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/804916751.jpg?k=c5f49dc9649a166531d810b862cb312d841e2dc1266f1a6672d6f7461b7c0f9f&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1027,
+   "priceKRW": 1686417,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 51.50769,
+    "lng": -0.132221
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 9801028,
+   "name": "더 보몬트 호텔 (The Beaumont Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-beaumont-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9801028/0/4ec735b8a79ea7c34e9ba1bacaef28c3.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1012,
+   "priceKRW": 1382044,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513008,
+    "lng": -0.1523
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 50678,
+   "name": "더 랭햄 런던 (The Langham London)",
+   "agodaUrl": "https://www.agoda.com/the-langham-london-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50678/0/62f4afdf342b04aaa4035020eebb38fa.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 995,
+   "priceKRW": 890833,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.517792,
+    "lng": -0.14388
+   },
+   "refLandmark": "옥스포드 서커스역"
+  },
+  {
+   "propertyId": 9801064,
+   "name": "더 네드 (The Ned)",
+   "agodaUrl": "https://www.agoda.com/the-ned/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/286553896.jpg?k=4590082834acee225ac0d1a76104d8ec96314996fbf3549114fe03f4e8aa4e25&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 960,
+   "priceKRW": 744757,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513611,
+    "lng": -0.09036
+   },
+   "refLandmark": "뱅크역"
+  },
+  {
+   "propertyId": 152115,
+   "name": "넘버5 매덕스 스트리트 호텔 (No5 Maddox Street Hotel)",
+   "agodaUrl": "https://www.agoda.com/no5-maddox-street-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/152115/0/1b8ddc49c4d4bf11db37b74a04e57de5.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 958,
+   "priceKRW": 899348,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513481,
+    "lng": -0.141599
+   },
+   "refLandmark": "옥스포드 서커스역"
+  },
+  {
+   "propertyId": 79139,
+   "name": "더 트라팔가 세인트 제임스 런던, 큐리오 컬렉션 바이 힐튼 (The Trafalgar St. James London, Curio Collection by Hilton)",
+   "agodaUrl": "https://www.agoda.com/the-trafalgar-st-james/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/79139/0/d5c836364d127d626e3fbde8e3d02fa8.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 952,
+   "priceKRW": 826280,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.507397,
+    "lng": -0.129185
+   },
+   "refLandmark": "채링 크로스역"
+  },
+  {
+   "propertyId": 3277142,
+   "name": "Flemings Mayfair - Small Luxury Hotel of the World",
+   "agodaUrl": "https://www.agoda.com/flemings-mayfair-small-luxury-hotel-of-the-world/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/50416853.jpg?k=daa00de4e7008abb09eac98f34548afe12dc1ce5cb865dc729ecc0b6d46d9efd&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 948,
+   "priceKRW": 612759,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506378,
+    "lng": -0.145239
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 77524851,
+   "name": "하얏트 리젠시 런던 블랙프라이어스 (Hyatt Regency London Blackfriars)",
+   "agodaUrl": "https://www.agoda.com/crowne-plaza-london-the-city_4/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/77524851/0/d5cffb3044562e619f853746e4bbd352.jpg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 941,
+   "priceKRW": 479558,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.512234,
+    "lng": -0.104624
+   },
+   "refLandmark": "Blackfriars"
+  },
+  {
+   "propertyId": 1184464,
+   "name": "코트하우스 호텔 쇼어디치 (Courthouse Hotel Shoreditch)",
+   "agodaUrl": "https://www.agoda.com/courthouse-hotel-shoreditch/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/118/1184464/1184464_16031723230040863716.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 899,
+   "priceKRW": 419658,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.527436,
+    "lng": -0.078939
+   },
+   "refLandmark": "혹스턴역"
+  },
+  {
+   "propertyId": 6755515,
+   "name": "배티 랭리스 (Batty Langley's)",
+   "agodaUrl": "https://www.agoda.com/batty-langley-s/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/374473064.jpg?k=6724662927e889d08eeb15c75cfefb57b46805dbbb45767ac1d33fbd688da643&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 894,
+   "priceKRW": 476196,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.520908,
+    "lng": -0.07791
+   },
+   "refLandmark": "Shoreditch High Street"
+  },
+  {
+   "propertyId": 4949737,
+   "name": "더 파크 타워 나이츠브리지, 어 럭셔리 컬렉션 호텔, 런던 (The Park Tower Knightsbridge, a Luxury Collection Hotel, London)",
+   "agodaUrl": "https://www.agoda.com/the-park-tower-knightsbridge-a-luxury-collection-hotel-london_5/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/590/5906/5906_16061318020043501961.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 892,
+   "priceKRW": 1105992,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.501732,
+    "lng": -0.158722
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 19020056,
+   "name": "페어몬트 윈저 파크 (Fairmont Windsor Park)",
+   "agodaUrl": "https://www.agoda.com/fairmont-windsor-park/hotel/runnymede-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/901932953.jpg?k=42ed8098d9fa81c81002a40c9a84ef83136b4441356da4dade4a59800f0321b2&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 868,
+   "priceKRW": 732609,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.435768,
+    "lng": -0.590998
+   },
+   "refLandmark": "에그햄역"
+  },
+  {
+   "propertyId": 50673,
+   "name": "킴튼 피츠로이 런던 바이 IHG (Kimpton Fitzroy London By IHG)",
+   "agodaUrl": "https://www.agoda.com/kimpton-fitzroy-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7128538/0/6dd21e03b2fe416d010b5486175bda75.jpg?ca=20&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 851,
+   "priceKRW": 557958,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.523483,
+    "lng": -0.124906
+   },
+   "refLandmark": "러셀 스퀘어역"
+  },
+  {
+   "propertyId": 4949759,
+   "name": "쉐라톤 그랜드 런던 파크 레인 (Sheraton Grand London Park Lane)",
+   "agodaUrl": "https://www.agoda.com/sheraton-grand-london-park-lane_9/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/731/7310/7310_17062906180054135889.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 828,
+   "priceKRW": 884625,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.505058,
+    "lng": -0.1472
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 148889,
+   "name": "41 호텔 (41 Hotel)",
+   "agodaUrl": "https://www.agoda.com/41-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/586123303.jpg?k=0ae8c393388895cdad6bd5d17c98996a92782c850779e5a5f6d30c1789abd431&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 821,
+   "priceKRW": 818188,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498211,
+    "lng": -0.143545
+   },
+   "refLandmark": "빅토리아역"
+  },
+  {
+   "propertyId": 190946,
+   "name": "샌 도메니코 하우스 (San Domenico House)",
+   "agodaUrl": "https://www.agoda.com/san-domenico-house/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/190946/-1/4153d90515c342d81f035f42911c6613.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 805,
+   "priceKRW": 452265,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49165,
+    "lng": -0.161825
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 4453916,
+   "name": "몽키 아일랜드 에스테이트 (Monkey Island Estate)",
+   "agodaUrl": "https://www.agoda.com/monkey-island-estate/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4453916/-1/64c99752ea7477b6776a3d0dd25c1b26.jpg?ca=8&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 794,
+   "priceKRW": 477789,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.503801,
+    "lng": -0.683904
+   },
+   "refLandmark": "태플로역"
+  },
+  {
+   "propertyId": 407213,
+   "name": "호텔 카페 로얄 (Hotel Cafe Royal)",
+   "agodaUrl": "https://www.agoda.com/hotel-cafe-royal/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/407213/0/5df4fe9778de04bbb4b69c1a69c9a289.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 785,
+   "priceKRW": 1217411,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.509998,
+    "lng": -0.135977
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 947980,
+   "name": "더 래슬릿 (The Laslett)",
+   "agodaUrl": "https://www.agoda.com/the-laslett/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4886057/0/9c7ea354ff52cc98de9f6d1b108e37f1.jpg?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 732,
+   "priceKRW": 499192,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.509469,
+    "lng": -0.196783
+   },
+   "refLandmark": "노팅힐 게이트역"
+  },
+  {
+   "propertyId": 49432986,
+   "name": "메이페어 하우스 (Mayfair House)",
+   "agodaUrl": "https://www.agoda.com/mayfair-house_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49432986/0/4776632c9c278a30a1224cafc63479c4.jpeg?ce=0",
+   "star": 5,
+   "score": 7.2,
+   "reviewCount": 730,
+   "priceKRW": 716577,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50611,
+    "lng": -0.14795
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 4949767,
+   "name": "W 런던 (W London)",
+   "agodaUrl": "https://www.agoda.com/w-london-leicester-square_9/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630061186.jpg?k=2f7d50ff58573dd37c44fa0f9699d0a28929ee84977f81329df5eecd0252ffcd&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 714,
+   "priceKRW": 653575,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.510841,
+    "lng": -0.131429
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 296805,
+   "name": "뷰포트 하우스 서비스 아파트먼트 (Beaufort House Serviced Apartments)",
+   "agodaUrl": "https://www.agoda.com/beaufort-house-serviced-apartments/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/296/296805/296805_14022723430018500934.jpg?ca=2&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 708,
+   "priceKRW": 1129872,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498283,
+    "lng": -0.165433
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 304,
+   "name": "더 도체스더 (The Dorchester)",
+   "agodaUrl": "https://www.agoda.com/the-dorchester/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/34354053/1326450842/4d81d177a1964b2d6c21930eb58f877f.jpeg?ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 684,
+   "priceKRW": 2123505,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506985,
+    "lng": -0.152243
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 3283035,
+   "name": "Knightsbridge Hotel, Firmdale Hotels",
+   "agodaUrl": "https://www.agoda.com/knightsbridge-hotel-firmdale-hotels_2/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/502088189.jpg?k=822dc3e62fcfac2ac268d153b130f36d33ae304a7f5a601209be09c0b12ec8ae&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 681,
+   "priceKRW": 743227,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498184,
+    "lng": -0.164387
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 8946908,
+   "name": "뷰포트 하우스 - 나이츠브리지 (Beaufort House - Knightsbridge)",
+   "agodaUrl": "https://www.agoda.com/beaufort-house-knightsbridge/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/39864247.jpg?k=6dbab688384bae224e24a1831d4a016890b538c04ccc50785a5da11391b271e2&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 675,
+   "priceKRW": 1236729,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49826,
+    "lng": -0.16534
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 13836231,
+   "name": "에토스 런던 쇼디치 (Aethos London Shoreditch)",
+   "agodaUrl": "https://www.agoda.com/nobu-hotel-shoreditch_7/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/835210468.jpg?k=9a8febfa55689ec11c3f290728badf21959779d22ad8052eb02c2d9ce5f6dacc&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 674,
+   "priceKRW": 419658,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.525108,
+    "lng": -0.08263
+   },
+   "refLandmark": "올드 스트리트역"
+  },
+  {
+   "propertyId": 64297,
+   "name": "런던 메리어트 호텔 파크 레인 (London Marriott Hotel Park Lane)",
+   "agodaUrl": "https://www.agoda.com/london-marriott-hotel-park-lane/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64297/0/1e90729aa83cb62cbde72b3355a68a59.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 671,
+   "priceKRW": 958745,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513081,
+    "lng": -0.15793
+   },
+   "refLandmark": "마블 아치역"
+  },
+  {
+   "propertyId": 3283694,
+   "name": "더 소호 호텔, 펌데일 호텔스 (The Soho Hotel, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/the-soho-hotel-firmdale-hotels_2/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500481932.jpg?k=b9da22f8cac95ff42b169dd975e338798b2ac37fc647a5d366b0d42cd4a91000&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 653,
+   "priceKRW": 1023899,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513969,
+    "lng": -0.13377
+   },
+   "refLandmark": "토트넘 코트 로드역"
+  },
+  {
+   "propertyId": 127360,
+   "name": "이거튼 하우스 호텔 런던 (Egerton House Hotel)",
+   "agodaUrl": "https://www.agoda.com/egerton-house-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/586123412.jpg?k=f9afcc6b971777d8af1b28576bae2db3fa79c580dc1151caaeed0f2b61509b78&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 635,
+   "priceKRW": 846464,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.497021,
+    "lng": -0.167713
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 50091440,
+   "name": "2 체셤 호텔 벨그라비아 (2 Chesham Hotel Belgravia)",
+   "agodaUrl": "https://www.agoda.com/2-chesham-hotel-belgravia/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50091440/-1/afb7578431c41d89af83d341d3be8e42.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 634,
+   "priceKRW": 663595,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49649,
+    "lng": -0.15564
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 1681247,
+   "name": "하프 문 (Half Moon)",
+   "agodaUrl": "https://www.agoda.com/half-moon/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/92235600.jpg?k=bdb17362a099f86f65f33c5a56a1baf6ffff2de907be8810e33e5514f48490bf&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 632,
+   "priceKRW": 281805,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.452751,
+    "lng": -0.10089
+   },
+   "refLandmark": "헤르네 힐역"
+  },
+  {
+   "propertyId": 13836265,
+   "name": "더 켄싱턴 호텔 (The Kensington Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-kensington-hotel_4/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/39410622/1359942070/025ef0879465fa51f7f52c9efeee5bd9.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 629,
+   "priceKRW": 668054,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.492481,
+    "lng": -0.1782
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 3034,
+   "name": "Claridge's, Maybourne",
+   "agodaUrl": "https://www.agoda.com/claridge-s/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3034/0/f34648664473acfa2afe664c06f552b5.jpeg",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 626,
+   "priceKRW": 3185257,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.512688,
+    "lng": -0.14779
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 9085691,
+   "name": "더 프랭클린 런던, 스타호텔 콜레지오네 (The Franklin London – Starhotels Collezione)",
+   "agodaUrl": "https://www.agoda.com/the-franklin-hotel-starhotels-collezione/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9085691/-1/3df3abe244b685174f32740a057834a6.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 616,
+   "priceKRW": 583286,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.495979,
+    "lng": -0.16871
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 263767,
+   "name": "코린티아 호텔 런던 (Corinthia Hotel London)",
+   "agodaUrl": "https://www.agoda.com/corinthia-hotel-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/402935870.jpg?k=ee56114175b5623c758f87665d0b324905f4b604430238bb482f5a99de0de2cd&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 614,
+   "priceKRW": 1804979,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506487,
+    "lng": -0.124369
+   },
+   "refLandmark": "임뱅크먼트역"
+  },
+  {
+   "propertyId": 3283903,
+   "name": "헤이마켓 호텔, 펌데일 호텔 (Haymarket Hotel, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/haymarket-hotel-firmdale-hotels_2/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/855784628.jpg?k=035d366bdc52820dd889678c1dfa8ebf394716e09058b155767d5d59aa105dbe&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 609,
+   "priceKRW": 1167928,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.508282,
+    "lng": -0.1314
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 176367,
+   "name": "타운 홀 호텔 (Town Hall Hotel)",
+   "agodaUrl": "https://www.agoda.com/town-hall-hotel-apartments/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/176367/712425850/58392c2c4c8d516606574c5b3fce8e1e.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 609,
+   "priceKRW": 288540,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.53071,
+    "lng": -0.055119
+   },
+   "refLandmark": "캠브리지 히스역"
+  },
+  {
+   "propertyId": 951242,
+   "name": "인터컨티넨탈 런던 - 더 O2 바이 IHG (Intercontinental London - The O2 By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-london-the-o2/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/951242/-1/921f3e38a9cbc7a5dd3334b4a75da5cd.png?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 607,
+   "priceKRW": 522028,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.502563,
+    "lng": 0.002575
+   },
+   "refLandmark": "노스 그리니치역"
+  },
+  {
+   "propertyId": 164682,
+   "name": "더 메이 페어 호텔, 메이페어 런던 (The May Fair Hotel, Mayfair, London)",
+   "agodaUrl": "https://www.agoda.com/the-may-fair-the-mayfair/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/164682/0/83d5fc1488d36efec4a4776213d0c27b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 599,
+   "priceKRW": 870601,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.507942,
+    "lng": -0.144088
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 59051146,
+   "name": "노마드 런던 (NoMad London)",
+   "agodaUrl": "https://www.agoda.com/the-nomad-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/592579896.jpg?k=d30ca0d1aaa8363ca5c30f0235b883bb9bae69a981b0538523ddf70d79a318b1&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 587,
+   "priceKRW": 1031445,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513702,
+    "lng": -0.122652
+   },
+   "refLandmark": "코벤트 가든역"
+  },
+  {
+   "propertyId": 25997471,
+   "name": "더 웨스틴 런던 시티 (The Westin London City)",
+   "agodaUrl": "https://www.agoda.com/the-westin-london-city/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/25921634/0/74520e31b8232979ee2ad0d8021beedf.jpg?ca=26&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 560,
+   "priceKRW": 635459,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.511761,
+    "lng": -0.09497
+   },
+   "refLandmark": "맨션 하우스역"
+  },
+  {
+   "propertyId": 408748,
+   "name": "사우스 플레이스 호텔 (South Place Hotel)",
+   "agodaUrl": "https://www.agoda.com/south-place-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/408748/-1/cdcf0dd265b38b74322219d0aeb9df21.jpg?ca=13&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 553,
+   "priceKRW": 596521,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.51902,
+    "lng": -0.086791
+   },
+   "refLandmark": "Moorgate Train Station"
+  },
+  {
+   "propertyId": 64537608,
+   "name": "웨스트민스터 인 (Westminster Inn)",
+   "agodaUrl": "https://www.agoda.com/westminster-inn/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64537608/0/1b0cc0fa3ebc9e129c3fa148d743f65e.jpg?ce=0",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 535,
+   "priceKRW": 209838,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.528126,
+    "lng": -0.201193
+   },
+   "refLandmark": "퀸즈 파크역"
+  },
+  {
+   "propertyId": 188907,
+   "name": "더 바운더리 프로젝트 (The Boundary Project)",
+   "agodaUrl": "https://www.agoda.com/the-boundary-project/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/188907/0/87ce95aeeb42bc770c7032501e2a2bf1.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 509,
+   "priceKRW": 347313,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.524399,
+    "lng": -0.076035
+   },
+   "refLandmark": "Shoreditch High Street"
+  },
+  {
+   "propertyId": 567646,
+   "name": "슈발 나이츠브리지 아파트먼트 (Cheval Knightsbridge Apartments)",
+   "agodaUrl": "https://www.agoda.com/cheval-knightsbridge-apartments/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/567/567646/567646_14091718580022219754.jpg?ca=3&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 501,
+   "priceKRW": 1380450,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498786,
+    "lng": -0.166342
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 64296,
+   "name": "런던 메리어트 호텔 그로스버너 스퀘어 (London Marriott Hotel Grosvenor Square)",
+   "agodaUrl": "https://www.agoda.com/london-marriott-hotel-grosvenor-square/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600319880.jpg?k=6c216efd52a42ef8126ea62724584cd18d23f3e2caebec992a12dc232e9bba78&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 491,
+   "priceKRW": 934784,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.512608,
+    "lng": -0.150915
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 6473,
+   "name": "원 알드위치 (One Aldwych Hotel)",
+   "agodaUrl": "https://www.agoda.com/one-aldwych-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6473/0/3cfe9cf71b4ed2f6dcf389db73d3ff32.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 486,
+   "priceKRW": 1077746,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.511833,
+    "lng": -0.11859
+   },
+   "refLandmark": "템플역"
+  },
+  {
+   "propertyId": 10678359,
+   "name": "언바운드 그레이트 스코틀랜드 야드 런던 (Unbound Great Scotland Yard London)",
+   "agodaUrl": "https://www.agoda.com/unbound-great-scotland-yard-london/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9734193/0/a8f31a07a270880bbc01c81b437cc53d.jpg?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 464,
+   "priceKRW": 661436,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506222,
+    "lng": -0.126446
+   },
+   "refLandmark": "채링 크로스역"
+  },
+  {
+   "propertyId": 6755397,
+   "name": "코모 더 할킨 (COMO The Halkin)",
+   "agodaUrl": "https://www.agoda.com/como-the-halkin_11/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/412775179.jpg?k=445be38c0ca8b360421b061c7d4d5100e221377d9b12fd171c1b6dd34c9bd845&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 437,
+   "priceKRW": 980645,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50079,
+    "lng": -0.15219
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 567648,
+   "name": "슈발 글로우세스터 파크 앳 켄싱턴 (Cheval Gloucester Park at Kensington)",
+   "agodaUrl": "https://www.agoda.com/cheval-gloucester-park-at-kensington/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/567648/-1/5fd3af4eb51d980ec4a48eafc50a1ec2.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 431,
+   "priceKRW": 769817,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.493533,
+    "lng": -0.184436
+   },
+   "refLandmark": "글로스터 로드역"
+  },
+  {
+   "propertyId": 2572032,
+   "name": "불가리 호텔 런던 (Bvlgari Hotel London)",
+   "agodaUrl": "https://www.agoda.com/bulgari-hotel-london_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4880829/985713095/9a5529335304cff6f608dfad46dcdb1b.jpeg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 411,
+   "priceKRW": 1794361,
+   "brand": "bulgari",
+   "brandLabel": "불가리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.501564,
+    "lng": -0.162847
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 165501,
+   "name": "유로파 하우스 아파트먼트 (Europa House Apartments)",
+   "agodaUrl": "https://www.agoda.com/europa-house-apartments/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/662659212.jpg?k=3b601e8ea2d78b38d03eea308ca4a00e766b4e9382a77f38a797e5b9a2040c63&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 393,
+   "priceKRW": 973273,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.52676,
+    "lng": -0.09539
+   },
+   "refLandmark": "올드 스트리트역"
+  },
+  {
+   "propertyId": 90177,
+   "name": "도싯 스퀘어 호텔, 펌데일 호텔 (Dorset Square Hotel, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/dorset-square-hotel-firmdale-hotels/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/502080713.jpg?k=5080ebe9d1459b478cc958d2bd18d7db28c307e138fe41ae0570324f277fa698&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 389,
+   "priceKRW": 753844,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.522522,
+    "lng": -0.160518
+   },
+   "refLandmark": "메릴본역"
+  },
+  {
+   "propertyId": 47498371,
+   "name": "The Peninsula London",
+   "agodaUrl": "https://www.agoda.com/the-peninsula-london/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/92184083/0/e935e7caea699854035d10314f97da8d.jpeg?ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 382,
+   "priceKRW": 2831339,
+   "brand": "peninsula",
+   "brandLabel": "페닌슐라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50161,
+    "lng": -0.151999
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 189201,
+   "name": "코벤트 가든 호텔, 펌데일 호텔 (Covent Garden Hotel, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/covent-garden-hotel-firmdale-hotels/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/189201/0/95d7fd53ee745881fec497eb4bf1c61d.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 364,
+   "priceKRW": 1284720,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.514351,
+    "lng": -0.127151
+   },
+   "refLandmark": "코벤트 가든역"
+  },
+  {
+   "propertyId": 60106,
+   "name": "주메이라 칼튼 타워 런던 (Jumeirah Carlton Tower London)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-carlton-tower/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60106/0/5182dccd851324bab02c58f973ac5545.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 359,
+   "priceKRW": 1431810,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498569,
+    "lng": -0.159122
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 127514,
+   "name": "쓰레드니들스, 오토그래프 컬렉션 (Threadneedles, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/threadneedles-autograph-collection/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/127514/0/6cb1f1305d58c32b94f2c505916a0b38.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 356,
+   "priceKRW": 630163,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.514198,
+    "lng": -0.08487
+   },
+   "refLandmark": "뱅크역"
+  },
+  {
+   "propertyId": 1636482,
+   "name": "포시즌스 호텔 런던 앳 텐 트리니티 스퀘어 (Four Seasons Hotel London at Ten Trinity Square)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-london-at-ten-trinity-square/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/163/1636482/1636482_17040719210052199805.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 350,
+   "priceKRW": 1078864,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.510101,
+    "lng": -0.07798
+   },
+   "refLandmark": "타워 힐역"
+  },
+  {
+   "propertyId": 59909949,
+   "name": "파크 하얏트 런던 리버 템스 (Park Hyatt London River Thames)",
+   "agodaUrl": "https://www.agoda.com/book-near-power-battersea-h58876750/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59909949/0/d872c579b53e022da86e20008f943f14.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 343,
+   "priceKRW": 828181,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.4842,
+    "lng": -0.12779
+   },
+   "refLandmark": "Vauxhall"
+  },
+  {
+   "propertyId": 37318786,
+   "name": "래플스 런던 앳 더 OWO (Raffles London at The OWO)",
+   "agodaUrl": "https://www.agoda.com/raffles-london-at-the-owo/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37318786/-1/01a0b3787d547a4dabd457e47ce3d605.jpg?ce=0",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 332,
+   "priceKRW": 1781974,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50553,
+    "lng": -0.12601
+   },
+   "refLandmark": "채링 크로스역"
+  },
+  {
+   "propertyId": 3278810,
+   "name": "넘버 식스틴 호텔, 펌데일 호텔 (Number Sixteen, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/number-sixteen-firmdale-hotels/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/502064054.jpg?k=b26099b8d5f63ff8056bb2d2609f5e2d6b4ce474a1469291e4e1719133ee56c1&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 329,
+   "priceKRW": 923724,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.493107,
+    "lng": -0.175632
+   },
+   "refLandmark": "사우스 켄싱턴역"
+  },
+  {
+   "propertyId": 11069,
+   "name": "샌더슨 런던 (Sanderson London)",
+   "agodaUrl": "https://www.agoda.com/sanderson-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11069/0/cea51d475b47dd8edc8315f50bdd7354.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 323,
+   "priceKRW": 735529,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.517422,
+    "lng": -0.137277
+   },
+   "refLandmark": "굿지 스트리트역"
+  },
+  {
+   "propertyId": 823965,
+   "name": "더 런던 에디션 (The London EDITION)",
+   "agodaUrl": "https://www.agoda.com/the-london-edition/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/823965/0/ad578536653cf12721ae159b0a992c56.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 321,
+   "priceKRW": 884900,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.516792,
+    "lng": -0.135983
+   },
+   "refLandmark": "토트넘 코트 로드역"
+  },
+  {
+   "propertyId": 9085758,
+   "name": "더 버클리 (The Berkeley)",
+   "agodaUrl": "https://www.agoda.com/the-berkeley/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9085758/0/39e1ac02f929b22584fee1ffa66199d2.jpeg",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 316,
+   "priceKRW": 1804979,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50172,
+    "lng": -0.15584
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 71178,
+   "name": "고링 호텔 (The Goring Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-goring-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/71178/0/cbf8bc493f49327835db5544bdca33e3.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 308,
+   "priceKRW": 2190749,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.497471,
+    "lng": -0.145547
+   },
+   "refLandmark": "빅토리아역"
+  },
+  {
+   "propertyId": 11049,
+   "name": "인터컨티넨탈 런던 파크레인 바이 IHG (InterContinental London Park Lane By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-london-park-lane/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11049/0/4163c4b35aa71c90fa1848b049dabf9d.jpeg?va=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 308,
+   "priceKRW": 819319,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.503971,
+    "lng": -0.150151
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 823899,
+   "name": "햄 야드 호텔, 펌데일 호텔 (Ham Yard Hotel, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/ham-yard-hotel-firmdale-hotels/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/925748380.jpg?k=584835c7b9fa0e6a95983127887f562b9aaa53b47acdc99811abc73d195d8759&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 266,
+   "priceKRW": 1475836,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.511108,
+    "lng": -0.13472
+   },
+   "refLandmark": "피카딜리 서커스역"
+  },
+  {
+   "propertyId": 9800964,
+   "name": "로오스카 런던 (L'oscar London)",
+   "agodaUrl": "https://www.agoda.com/l-oscar-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/910728130.jpg?k=be1f7aa9817a322a3a1982dd88d611c75a7c508086b6b5f3871fb04ae163b4ef&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 264,
+   "priceKRW": 877057,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.51799,
+    "lng": -0.1202
+   },
+   "refLandmark": "홀본역"
+  },
+  {
+   "propertyId": 154735,
+   "name": "샬럿 스트리트 호텔, 펌데일 호텔 (Charlotte Street Hotel, Firmdale Hotels)",
+   "agodaUrl": "https://www.agoda.com/charlotte-street-hotel-firmdale-hotels/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/579566253.jpg?k=e4c34d02e23148a27d7021aad2b98fdde37158850edbfcc74dbe9415720d8d71&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 251,
+   "priceKRW": 849402,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.518387,
+    "lng": -0.135057
+   },
+   "refLandmark": "굿지 스트리트역"
+  },
+  {
+   "propertyId": 75980627,
+   "name": "서 데번셔 스퀘어 호텔 런던 (Sir Devonshire Square Hotel London)",
+   "agodaUrl": "https://www.agoda.com/devonshire-club-hotel_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/75980627/0/46d0e727c393b79080716db6ff77a35a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 245,
+   "priceKRW": 357014,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.516441,
+    "lng": -0.07786
+   },
+   "refLandmark": "알드게이트역"
+  },
+  {
+   "propertyId": 665529,
+   "name": "윈드폴 부티크 호텔 (Windfalls Boutique Hotel)",
+   "agodaUrl": "https://www.agoda.com/windfalls-boutique-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/665/665529/665529_14062318390019982216.jpg?ca=2&ce=1",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 242,
+   "priceKRW": 233979,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.11319,
+    "lng": -0.117048
+   },
+   "refLandmark": "쓰리 브리지스역"
+  },
+  {
+   "propertyId": 567644,
+   "name": "슈발 소니 코트 앳 하이드 파크 (Cheval Thorney Court at Hyde Park)",
+   "agodaUrl": "https://www.agoda.com/cheval-thorney-court-at-hyde-park/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/567644/0/485868644cada9f7bc4e947c1607ece3.jpeg?ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 240,
+   "priceKRW": 1218301,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.500983,
+    "lng": -0.183739
+   },
+   "refLandmark": "하이 스트리트 켄싱턴역"
+  },
+  {
+   "propertyId": 6755401,
+   "name": "더 코노트 (The Connaught)",
+   "agodaUrl": "https://www.agoda.com/the-connaught/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6755401/0/1563c74b0ed03e98afa160998601d254.jpeg",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 234,
+   "priceKRW": 2335855,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.510052,
+    "lng": -0.14961
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 13836401,
+   "name": "더 블룸즈버리 호텔 (The Bloomsbury Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-bloomsbury-hotel_5/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/820347041.jpg?k=9bd076fe508426b672a05dfd0cef2c73bed2138c79f2f67abf61a7315a10100a&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 232,
+   "priceKRW": 576324,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.5172,
+    "lng": -0.12924
+   },
+   "refLandmark": "토트넘 코트 로드역"
+  },
+  {
+   "propertyId": 8452,
+   "name": "더 카도간 어 벨몬드 호텔 런던 (The Cadogan A Belmond Hotel London)",
+   "agodaUrl": "https://www.agoda.com/cadogan-london-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8452/-1/281d7450af21bd968ba618d041eb643c.jpg?ca=16&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 225,
+   "priceKRW": 1840371,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.496941,
+    "lng": -0.159488
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 299937,
+   "name": "ME 런던 호텔 (ME London Hotel)",
+   "agodaUrl": "https://www.agoda.com/me-london-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/299937/0/0fd9e3b0313aee6bc040b2ffb66033a5.jpg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 225,
+   "priceKRW": 535354,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.511936,
+    "lng": -0.118545
+   },
+   "refLandmark": "템플역"
+  },
+  {
+   "propertyId": 60101,
+   "name": "더 벤틀리 런던 호텔 (The Bentley London Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-bentley-london-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/601/60101/60101_15030223180025718607.jpg?ca=3&ce=1",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 214,
+   "priceKRW": 472714,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.493057,
+    "lng": -0.183992
+   },
+   "refLandmark": "글로스터 로드역"
+  },
+  {
+   "propertyId": 10683211,
+   "name": "어반 스테이 옥스포드 서커스 아파트먼트 (Urban Stay Oxford Circus Apartments)",
+   "agodaUrl": "https://www.agoda.com/urban-stay-oxford-circus-apartments/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/106/10683211/10683211_19111423340083895741.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 203,
+   "priceKRW": 740572,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.518416,
+    "lng": -0.139284
+   },
+   "refLandmark": "옥스포드 서커스역"
+  },
+  {
+   "propertyId": 165716,
+   "name": "로코 포르테 브라운스 호텔 (Rocco Forte Brown's Hotel)",
+   "agodaUrl": "https://www.agoda.com/rocco-forte-brown-s-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/165/165716/165716_15073023440033379556.jpg?ca=5&ce=1",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 200,
+   "priceKRW": 1698804,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.509075,
+    "lng": -0.142123
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 567647,
+   "name": "슈발 피닉스 하우스 (Cheval Phoenix House)",
+   "agodaUrl": "https://www.agoda.com/cheval-phoenix-house/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/567647/0/4b597759ee44d21baff20387ec65b5ea.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 197,
+   "priceKRW": 1140354,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.494042,
+    "lng": -0.157308
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 67230192,
+   "name": "웸블리 스타디움 근처 셀프 컨테인드 엔스위트 (Self-contained en-suite close to Wembley stadium)",
+   "agodaUrl": "https://www.agoda.com/self-contained-en-suite-room-in-wembley/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67230192/0/bc24dc077302547d7c5e104c073b35bd.jpeg?ce=0",
+   "star": 5,
+   "score": 6.5,
+   "reviewCount": 188,
+   "priceKRW": 252166,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.55044,
+    "lng": -0.273067
+   },
+   "refLandmark": "스톤브리지 파크역"
+  },
+  {
+   "propertyId": 823699,
+   "name": "45 파크 레인 - 도체스터 콜렉션 (45 Park Lane - Dorchester Collection)",
+   "agodaUrl": "https://www.agoda.com/45-park-lane-dorchester-collection/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/823/823699/823699_15071419160032298513.jpg?ca=4&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 173,
+   "priceKRW": 2123505,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50721,
+    "lng": -0.152898
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 82325668,
+   "name": "만다린 오리엔탈 메이페어 런던 (Mandarin Oriental Mayfair, London)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-mayfair-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/566024097.jpg?k=5727028e8a20598f5ad70c004ec6eb17175bc6f074e97711fa6e9fc1e80aefbe&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 158,
+   "priceKRW": 3065810,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.513561,
+    "lng": -0.14415
+   },
+   "refLandmark": "옥스포드 서커스역"
+  },
+  {
+   "propertyId": 127511,
+   "name": "더 스태퍼드 런던 (The Stafford London)",
+   "agodaUrl": "https://www.agoda.com/the-stafford-hotel-london/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/127511/0/186638e15b5d1b1a90c72c6447083c96.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 154,
+   "priceKRW": 1260477,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 51.505352,
+    "lng": -0.138981
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 401225,
+   "name": "더 웰즐리 나이츠브리지, 어 럭셔리 컬렉션 호텔, 런던 (The Wellesley Knightsbridge, a Luxury Collection Hotel, London)",
+   "agodaUrl": "https://www.agoda.com/the-wellesley-knightsbridge-a-luxury-collection-hotel-london_4/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6572460/995555300/1663cc7a7e72578335c4f0c6c50f3062.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 152,
+   "priceKRW": 1124130,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.502522,
+    "lng": -0.153724
+   },
+   "refLandmark": "하이드 파크 코너역"
+  },
+  {
+   "propertyId": 142276,
+   "name": "알렉산더 하우스 호텔 앤 유토피아 스파 (Alexander House Hotel & Utopia Spa)",
+   "agodaUrl": "https://www.agoda.com/alexander-house-hotel-utopia-spa/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/142276/0/186eea40d797e6f39ca6cb2c55746ad5.jpeg",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 148,
+   "priceKRW": 331169,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.103939,
+    "lng": -0.083285
+   },
+   "refLandmark": "쓰리 브리지스역"
+  },
+  {
+   "propertyId": 37864021,
+   "name": "Luxurious House near Excel- Air Conditioning, 9 Beds, 2 Baths, Garden, fast WiFi",
+   "agodaUrl": "https://www.agoda.com/house-near-excel-air-conditioning-9-beds-2-baths-garden-fast-wifi/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/543778026.jpg?k=af61a28f837c0ec3658f1ebd04897142dd1c425a0bdea865b82c8be0d89e8f97&o=",
+   "star": 5,
+   "score": 10,
+   "reviewCount": 147,
+   "priceKRW": 1080386,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.525524,
+    "lng": 0.056779
+   },
+   "refLandmark": "DLR - 벡턴역"
+  },
+  {
+   "propertyId": 80384972,
+   "name": "Fulham Pier Hotel",
+   "agodaUrl": "https://www.agoda.com/fulham-pier-hotel/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/764529069.jpg?k=1906ab4c947164577ac66fbe0056b8b7cb66f8435f38db964b11395814989e64&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 135,
+   "priceKRW": 523355,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.475365,
+    "lng": -0.222645
+   },
+   "refLandmark": "Putney Bridge"
+  },
+  {
+   "propertyId": 81378324,
+   "name": "The Newman",
+   "agodaUrl": "https://www.agoda.com/the-newman/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/924431552.jpg?k=247c0d74cea635ea6141123fd682752f9e0fd8e77708a532f5168dad97a02094&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 131,
+   "priceKRW": 1059260,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.518803,
+    "lng": -0.136624
+   },
+   "refLandmark": "굿지 스트리트역"
+  },
+  {
+   "propertyId": 8801560,
+   "name": "더 랭글리, 어 럭셔리 컬렉션 호텔, 버킹엄셔 (The Langley, a Luxury Collection Hotel, Buckinghamshire)",
+   "agodaUrl": "https://www.agoda.com/the-langley-a-luxury-collection-hotel-buckingham/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/426607566.jpg?k=9d092be490fe2f1c9154b8f9cc6f48286da7bd966c549cf366695111fa3939aa&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 127,
+   "priceKRW": 994066,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.524261,
+    "lng": -0.54683
+   },
+   "refLandmark": "랭리역"
+  },
+  {
+   "propertyId": 108088,
+   "name": "런던 메리어트 호텔 카나리 워프 (London Marriott Hotel Canary Wharf)",
+   "agodaUrl": "https://www.agoda.com/london-marriott-hotel-west-india-quay/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/108088/0/32d2629dedf417ed504cf98022f45866.jpg?ca=8&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 118,
+   "priceKRW": 539990,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.50724,
+    "lng": -0.021533
+   },
+   "refLandmark": "DLR - 웨스트 인디아 키역"
+  },
+  {
+   "propertyId": 127411,
+   "name": "런던 메리어트 호텔 카운티 홀 (London Marriott Hotel County Hall)",
+   "agodaUrl": "https://www.agoda.com/london-marriott-hotel-county-hall/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/433323969.jpg?k=a9fd63323adb17ad4872bd7c290b67636d5b2ded3624be9f07348e966c92efdf&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 105,
+   "priceKRW": 785697,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.501343,
+    "lng": -0.119176
+   },
+   "refLandmark": "웨스트민스터역"
+  },
+  {
+   "propertyId": 37485323,
+   "name": "Beaverbrook Town House",
+   "agodaUrl": "https://www.agoda.com/beaverbrook-town-house/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/425958775.jpg?k=d077079acf1c247eff850a1255af319c2bfc8387f0985c2bc5eea4faa4039cd9&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 104,
+   "priceKRW": 1698804,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49472,
+    "lng": -0.1587
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 344243,
+   "name": "메리어트 이그제큐티브 아파트먼트 런던, 캐너리워프 (Marriott Executive Apartments London, Canary Wharf)",
+   "agodaUrl": "https://www.agoda.com/marriott-executive-apartments-london-west-india-quay/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/344243/0/de20abbc169d4b65338bd01877d7fe42.jpeg?ce=0",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 104,
+   "priceKRW": 1156691,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.507519,
+    "lng": -0.021123
+   },
+   "refLandmark": "DLR - 웨스트 인디아 키역"
+  },
+  {
+   "propertyId": 15801567,
+   "name": "The Hari London",
+   "agodaUrl": "https://www.agoda.com/the-hari_5/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/81850541/0/ec3eee3e19bab0c4d23d0c755f2b1774.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 100,
+   "priceKRW": 747258,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49733,
+    "lng": -0.156209
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 79120967,
+   "name": "Six Senses London",
+   "agodaUrl": "https://www.agoda.com/six-senses-london/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/870272648.jpg?k=f4cc1c16b0588601334cb4be9db6c873b16c266e9d13b6393ea0d9b157f99405&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 87,
+   "priceKRW": 1179949,
+   "brand": "six-senses",
+   "brandLabel": "식스센스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.515224,
+    "lng": -0.188831
+   },
+   "refLandmark": "베이스워터역"
+  },
+  {
+   "propertyId": 407912,
+   "name": "더 드래이콧 호텔 (The Draycott Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-draycott-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/407912/0/0e1dae9f269a2558ba3bd5ce2f0653c8.jpeg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 80,
+   "priceKRW": 677357,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.49321,
+    "lng": -0.159624
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 3273091,
+   "name": "The Mayfair Townhouse",
+   "agodaUrl": "https://www.agoda.com/the-mayfair-townhouse-an-iconic-luxury-hotel_7/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/435546921.jpg?k=886b19cd53d507dba4a8198ad5e4720cb246f3812e319d86f81b4b622b3c21a1&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 80,
+   "priceKRW": 532119,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.506516,
+    "lng": -0.145824
+   },
+   "refLandmark": "그린 파크역"
+  },
+  {
+   "propertyId": 84336,
+   "name": "더 라운즈 런던 – 어 주메이라 파트너 호텔 (The Lowndes London – A Jumeirah Partner Hotel )",
+   "agodaUrl": "https://www.agoda.com/jumeirah-lowndes-hotel/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/843/84336/84336_14102317310022919783.jpg?ca=3&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 79,
+   "priceKRW": 690918,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.499328,
+    "lng": -0.15781
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 71143983,
+   "name": "The Chancery Rosewood",
+   "agodaUrl": "https://www.agoda.com/the-chancery-rosewood/hotel/all/westminster-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/737479717.jpg?k=11023238da6c693337ba59ece74dee214acc423ee8b0f815c19a18eecf7cc58c&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 74,
+   "priceKRW": 3096778,
+   "brand": "rosewood",
+   "brandLabel": "로즈우드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.511166,
+    "lng": -0.153073
+   },
+   "refLandmark": "본드 스트리트역"
+  },
+  {
+   "propertyId": 306940,
+   "name": "더 그로브 (The Grove)",
+   "agodaUrl": "https://www.agoda.com/the-grove/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/306940/0/ec8a27cf2a809c0d75bc686921357fe9.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 71,
+   "priceKRW": 743207,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.677132,
+    "lng": -0.437581
+   },
+   "refLandmark": "왓포드역"
+  },
+  {
+   "propertyId": 3849623,
+   "name": "만다린 오리엔탈 하이드 파크 런던 (Mandarin Oriental Hyde Park, London)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-hyde-park_3/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3849623/0/d96653e2c1c2a92b8e4e0458669c0868.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 60,
+   "priceKRW": 1804979,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": true,
+   "geo": {
+    "lat": 51.502956,
+    "lng": -0.159768
+   },
+   "refLandmark": "나이츠브리지역"
+  },
+  {
+   "propertyId": 89159937,
+   "name": "The Gem Stansted",
+   "agodaUrl": "https://www.agoda.com/the-gem-stansted/hotel/all/stansted-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/865341042.jpg?k=dec750efb449130c25ab53fc6f56702e5443a194edf2b46e174695cbde3046e0&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 40,
+   "priceKRW": 207042,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.902508,
+    "lng": 0.192608
+   },
+   "refLandmark": "Stansted Mountfitchet Train Station"
+  },
+  {
+   "propertyId": 13836417,
+   "name": "타지 51 버킹엄 게이트 스위트 앤 레지던스, 런던 (Taj 51 Buckingham Gate Suites & Residences, London)",
+   "agodaUrl": "https://www.agoda.com/taj-51-buckingham-gate-suites-and-residences_4/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13836417/0/7a444116f302da05b5fb6b74294f0206.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 35,
+   "priceKRW": 908923,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.498531,
+    "lng": -0.13713
+   },
+   "refLandmark": "London Buses"
+  },
+  {
+   "propertyId": 337490,
+   "name": "Montcalm Brewery Townhouse",
+   "agodaUrl": "https://www.agoda.com/the-barbican-rooms/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/337490/0/24f9d4efc00d42ea4e815b580d59a7ba.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 35,
+   "priceKRW": 277443,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.52108,
+    "lng": -0.091994
+   },
+   "refLandmark": "Moorgate Train Station"
+  },
+  {
+   "propertyId": 83639041,
+   "name": "Great Entire Apartment Between West End and St Pauls Cathedral",
+   "agodaUrl": "https://www.agoda.com/great-entire-apartment-between-west-end-and-st-pauls-cathedral/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/803154096.jpg?k=16a6e206f2be2f917bec2944ae798da94135374d413a6932b225b34b6fba44f0&o=",
+   "star": 5,
+   "score": 7.9,
+   "reviewCount": 34,
+   "priceKRW": 490848,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.516926,
+    "lng": -0.111087
+   },
+   "refLandmark": "챈서리 레인역"
+  },
+  {
+   "propertyId": 6755454,
+   "name": "리버 아츠 클럽 (River Arts Club)",
+   "agodaUrl": "https://www.agoda.com/river-arts-club/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/675/6755454/6755454_19100210190081722206.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 32,
+   "priceKRW": 563790,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.522579,
+    "lng": -0.70326
+   },
+   "refLandmark": "태플로역"
+  },
+  {
+   "propertyId": 9085687,
+   "name": "클리브덴 하우스 (Cliveden House)",
+   "agodaUrl": "https://www.agoda.com/cliveden-house/hotel/london-gb.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9085687/0/b000627e9086309c73158e97c3890a52.jpeg?va=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 31,
+   "priceKRW": 906029,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.55827,
+    "lng": -0.68829
+   },
+   "refLandmark": "태플로역"
+  },
+  {
+   "propertyId": 3283868,
+   "name": "11 Cadogan Gardens and The Apartments",
+   "agodaUrl": "https://www.agoda.com/11-cadogan-gardens-the-apartments-and-the-chelsea-townhouse-by-iconic-luxury-hotels/hotel/all/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/273589558.jpg?k=2cda71bbf05f3678ee686c331456d3ad84541da158772df887eecb32d959dfb4&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 30,
+   "priceKRW": 709220,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.493553,
+    "lng": -0.159495
+   },
+   "refLandmark": "슬로운 스퀘어역"
+  },
+  {
+   "propertyId": 25141054,
+   "name": "버진 호텔 런던 쇼디치 (Virgin Hotels London Shoreditch)",
+   "agodaUrl": "https://www.agoda.com/the-curtain/hotel/london-gb.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/429832234.jpg?k=d46fc8f33bf0954f6fa55f24e0f2fbb4e28d285cff3ef53eb2d90982dfe9bcf0&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 30,
+   "priceKRW": 635282,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 51.523651,
+    "lng": -0.08047
+   },
+   "refLandmark": "Shoreditch High Street"
+  }
+ ]
+}

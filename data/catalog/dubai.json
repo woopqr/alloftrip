@@ -1,0 +1,570 @@
+{
+ "slug": "dubai",
+ "city": "두바이",
+ "region": "middle-east",
+ "cityId": 2994,
+ "agodaCityName": "두바이",
+ "fetchedAt": "2026-10-07T23:40:17.592Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 65480661,
+   "name": "파이브 럭스 (FIVE LUXE)",
+   "agodaUrl": "https://www.agoda.com/five-luxe/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65480661/0/5c7ee6c993c1279420f22a7aed8dadf3.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 11678,
+   "priceKRW": 714673,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.081551,
+    "lng": 55.136311
+   },
+   "refLandmark": "Jumeirah Beach Residence 2 Tram Station"
+  },
+  {
+   "propertyId": 166821,
+   "name": "켐핀스키 센트럴 애비뉴 두바이 (Kempinski Central Avenue Dubai)",
+   "agodaUrl": "https://www.agoda.com/address-dubai-mall/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/166821/-1/29bbff6d0fed1bf53f58b5b8925dfb66.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 6069,
+   "priceKRW": 921730,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.199627,
+    "lng": 55.277546
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 75817403,
+   "name": "아틀란티스 더 로열 (Atlantis The Royal)",
+   "agodaUrl": "https://www.agoda.com/the-royal-atlantis-resort/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/534061997.jpg?k=9b47f6c7e61f2be60830d61c1f5d9562dd51a6f9288240653cc4e0515a3e4941&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 6065,
+   "priceKRW": 1565855,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.137739,
+    "lng": 55.12653
+   },
+   "refLandmark": "Palm Atlantis Monorail Station"
+  },
+  {
+   "propertyId": 1374583,
+   "name": "켐핀스키 더 블러바드 두바이 (Kempinski The Boulevard Dubai)",
+   "agodaUrl": "https://www.agoda.com/address-boulevard/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/137/1374583/1374583_17022823290051303862.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 5364,
+   "priceKRW": 971076,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.200899,
+    "lng": 55.276199
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 96535,
+   "name": "팰리스 다운타운 (Palace Downtown)",
+   "agodaUrl": "https://www.agoda.com/palace-downtown/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/965/96535/96535_17091719260056482103.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4147,
+   "priceKRW": 846504,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.196011,
+    "lng": 55.27269
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 38710638,
+   "name": "주메이라 비치 호텔 두바이 (Jumeirah Beach Hotel Dubai)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-beach-hotel/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38710638/0/384d9b731da9a62bdb4f476962c62a4a.png?ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 3763,
+   "priceKRW": 1168398,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.141608,
+    "lng": 55.190811
+   },
+   "refLandmark": "퍼스트 걸프 뱅크역"
+  },
+  {
+   "propertyId": 7471257,
+   "name": "어드레스 스카이 뷰 호텔 (Address Sky View Hotel)",
+   "agodaUrl": "https://www.agoda.com/address-sky-view-hotel/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7471257/0/43aaf2fa0e9bc990ebe0b78ba48c43ef.png?va=1&ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 3542,
+   "priceKRW": 864367,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.201317,
+    "lng": 55.270687
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 17237406,
+   "name": "어드레스 비치 리조트 (Address Beach Resort)",
+   "agodaUrl": "https://www.agoda.com/address-beach-resort/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/17237406/0/895fc20a7c12211fd0ab4d127b6e6f91.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 3402,
+   "priceKRW": 830308,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.072556,
+    "lng": 55.126545
+   },
+   "refLandmark": "Jumeirah Beach Residence 2 Tram Station"
+  },
+  {
+   "propertyId": 168706,
+   "name": "원 앤 온리 로얄 미라지 리조트 두바이 앳 주메이라 비치 (One&Only Royal Mirage Resort Dubai at Jumeirah Beach)",
+   "agodaUrl": "https://www.agoda.com/one-only-royal-mirage/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/168706/-1/8a184d12c1fe47291d16503cf3556ce6.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3170,
+   "priceKRW": 945544,
+   "brand": "one-and-only",
+   "brandLabel": "원앤온리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.09717,
+    "lng": 55.150692
+   },
+   "refLandmark": "Jumeirah Palm Tram Station"
+  },
+  {
+   "propertyId": 41046751,
+   "name": "주메이라 자빌 사라이 두바이 (Jumeirah Zabeel Saray Dubai)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-zabeel-saray-royal-residences-h16254932/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 2833,
+   "priceKRW": 3162028,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.098204,
+    "lng": 55.123679
+   },
+   "refLandmark": "Al Ittihad Park Station"
+  },
+  {
+   "propertyId": 4916405,
+   "name": "어드레스 다운타운 (Address Downtown)",
+   "agodaUrl": "https://www.agoda.com/address-downtown_4/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4916405/-1/194c2123451011c9dbc5eba41d1bfb9d.jpg?va=1&ca=0&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2428,
+   "priceKRW": 855435,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.194349,
+    "lng": 55.279003
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 55611208,
+   "name": "원앤온리 원 자아빌 (One&Only One Za'abeel)",
+   "agodaUrl": "https://www.agoda.com/one-only-one-za-abeel/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/864426012.jpg?k=0f7a5a97660cead13e5198a107aa09cf341c72ae62375743792a698b08bd19c3&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2421,
+   "priceKRW": 945109,
+   "brand": "one-and-only",
+   "brandLabel": "원앤온리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.22794,
+    "lng": 55.290401
+   },
+   "refLandmark": "월드 트레이드 센터역"
+  },
+  {
+   "propertyId": 47261784,
+   "name": "The Lana - Dorchester Collection",
+   "agodaUrl": "https://www.agoda.com/the-lana-dorchester-collection/hotel/all/dubai-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/520686787.jpg?k=9a61bdd6f788fc47df20d961bfeaea3492abd5b08317522fd40758b8449ce221&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2282,
+   "priceKRW": 906814,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.187958,
+    "lng": 55.288601
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 159472,
+   "name": "아틀란티스 더 팜 두바이 호텔 (Atlantis The Palm Dubai)",
+   "agodaUrl": "https://www.agoda.com/atlantis-the-palm-dubai/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/159472/-1/115f459ec32307e05bfc7f6c8badb7ca.jpg?va=1&ca=16&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2146,
+   "priceKRW": 900451,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.131298,
+    "lng": 55.118752
+   },
+   "refLandmark": "Palm Atlantis Monorail Station"
+  },
+  {
+   "propertyId": 40316045,
+   "name": "주메이라 미나 알 살람 두바이 (Jumeirah Mina Al Salam Dubai)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-mina-a-salam-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/40316045/0/96a2c9f116c47505c9ace0e983f05955.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1643,
+   "priceKRW": 1436346,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.135144,
+    "lng": 55.185967
+   },
+   "refLandmark": "몰 오브 에미레이츠역"
+  },
+  {
+   "propertyId": 40316041,
+   "name": "주메이라 알 카스르 두바이 (Jumeirah Al Qasr Dubai)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-al-qasr-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/40316041/-1/eb40eb5ee2ff88b64214abef08051526.jpg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1538,
+   "priceKRW": 1570320,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.131865,
+    "lng": 55.184462
+   },
+   "refLandmark": "몰 오브 에미레이츠역"
+  },
+  {
+   "propertyId": 186852,
+   "name": "켐핀스키 호텔 팜 주메이라 (Kempinski Hotel Palm Jumeirah)",
+   "agodaUrl": "https://www.agoda.com/kempinski-hotel-residences-palm-jumeirah/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/37437804/1326668864/ed7003f0420c2b4df791832321041ec9.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1402,
+   "priceKRW": 914530,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.112921,
+    "lng": 55.109081
+   },
+   "refLandmark": "Palm Atlantis Monorail Station"
+  },
+  {
+   "propertyId": 41046756,
+   "name": "주메이라 알 나심 두바이 (Jumeirah Al Naseem Dubai)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-al-naseem-madinat-jumeirah-h9844547/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41046756/0/29a78eae6e3019189ec7c14963e1dd3d.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1288,
+   "priceKRW": 2195532,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.13606,
+    "lng": 55.187927
+   },
+   "refLandmark": "몰 오브 에미레이츠역"
+  },
+  {
+   "propertyId": 47430529,
+   "name": "반얀 트리 두바이 (Banyan Tree Dubai)",
+   "agodaUrl": "https://www.agoda.com/caesars-resort-bluewaters-dubai-h9097390/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47430529/-1/d45c52d7e11fa69cb1f4dc8179cd9950.jpg?ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 1235,
+   "priceKRW": 1329167,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.080912,
+    "lng": 55.120756
+   },
+   "refLandmark": "Jumeirah Beach Residence 2 Tram Station"
+  },
+  {
+   "propertyId": 41046747,
+   "name": "주메이라 다르 알 마샤프-마디낫 주메이라 (Jumeirah Dar Al Masyaf-Madinat Jumeirah)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-dar-al-masyaf-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41046747/0/1ea083ab75d9f801f7db17b37a494bb6.png?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1010,
+   "priceKRW": 1875635,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.132417,
+    "lng": 55.182762
+   },
+   "refLandmark": "Mashreq Metro Station"
+  },
+  {
+   "propertyId": 58687400,
+   "name": "델라노 두바이 (Delano Dubai)",
+   "agodaUrl": "https://www.agoda.com/caesars-palace-bluewaters-dubai_2/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/58687400/-1/bff783d52796cb68ee62b6240f95491a.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 976,
+   "priceKRW": 1214917,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.081949,
+    "lng": 55.12149
+   },
+   "refLandmark": "Jumeirah Beach Residence 2 Tram Station"
+  },
+  {
+   "propertyId": 41240331,
+   "name": "주메이라 리빙 월드 트레이드 센터 (Jumeirah Living World Trade Centre)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-living-world-trade-centre-residence-suites-and-hotel-apartments_3/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41240331/-1/a07320895c421b04e07aa79ce8ba501d.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 933,
+   "priceKRW": 900451,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.227527,
+    "lng": 55.28993
+   },
+   "refLandmark": "월드 트레이드 센터역"
+  },
+  {
+   "propertyId": 60156122,
+   "name": "주메이라 마르사 알 아랍 (Jumeirah Marsa Al Arab)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-marsa-al-arab/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60156122/0/3a7919cf76db9c03149f143e63e36b98.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 889,
+   "priceKRW": 2463480,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.144979,
+    "lng": 55.189058
+   },
+   "refLandmark": "퍼스트 걸프 뱅크역"
+  },
+  {
+   "propertyId": 5797891,
+   "name": "만다린 오리엔탈 주메이라, 두바이 (Mandarin Oriental Jumeira, Dubai)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-jumeira-dubai/hotel/dubai-ae.html?cid=1925461",
+   "img": "",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 860,
+   "priceKRW": 2106216,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.216974,
+    "lng": 55.250816
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 245414,
+   "name": "원&온리 더 팜 (One&Only The Palm)",
+   "agodaUrl": "https://www.agoda.com/one-only-the-palm/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/245414/0/3e96989fec262bf38f7545b32815333d.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 598,
+   "priceKRW": 1514516,
+   "brand": "one-and-only",
+   "brandLabel": "원앤온리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.099054,
+    "lng": 55.132721
+   },
+   "refLandmark": "Al Ittihad Park Station"
+  },
+  {
+   "propertyId": 5059899,
+   "name": "불가리 리조트 두바이 (Bvlgari Resort Dubai)",
+   "agodaUrl": "https://www.agoda.com/bulgari-resort-dubai/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5059899/0/48dd8685aca18e37873eec1fe4124797.jpeg?va=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 554,
+   "priceKRW": 2016901,
+   "brand": "bulgari",
+   "brandLabel": "불가리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.211012,
+    "lng": 55.234707
+   },
+   "refLandmark": "Business Bay Metro Bus Stop Seaside"
+  },
+  {
+   "propertyId": 61376108,
+   "name": "만다린 오리엔탈 다운타운, 두바이 (Mandarin Oriental Downtown, Dubai)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-downtown-dubai/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61376108/-1/3996d9ad30df764da79a374fed19304d.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 372,
+   "priceKRW": 899335,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.203173,
+    "lng": 55.268715
+   },
+   "refLandmark": "Burj Khalifa/Dubai Mall Metro Station"
+  },
+  {
+   "propertyId": 37329424,
+   "name": "Al Marmoom Dome Luxury Desert Experiential Stay",
+   "agodaUrl": "https://www.agoda.com/al-marmoom-oasis-luxury-camping-bedouin-experience/hotel/all/dubai-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/640403367.jpg?k=6c3d09afea1f34f120a22ae3de5ebb2193b3ff85cf46b21a68cfbbab8aa315cd&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 200,
+   "priceKRW": 1354718,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.837843,
+    "lng": 55.312855
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 5817386,
+   "name": "J5 빌라 홀리데이 홈 바르샤 가든스 (J5 Villas Holiday Homes Barsha Gardens)",
+   "agodaUrl": "https://www.agoda.com/j5-villas-holiday-homes-barsha-gardens/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5817386/0/540ecbbd49993ad63d28cd6239cb954d.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 197,
+   "priceKRW": 876306,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.10651,
+    "lng": 55.200749
+   },
+   "refLandmark": "Mashreq Metro Station"
+  },
+  {
+   "propertyId": 59031518,
+   "name": "더 빌트모어 호텔 빌라 두바이 (The Biltmore Hotel Villas Dubai)",
+   "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 109,
+   "priceKRW": 2883264,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.114389,
+    "lng": 55.198681
+   },
+   "refLandmark": "몰 오브 에미레이츠역"
+  },
+  {
+   "propertyId": 51437635,
+   "name": "나스 하우스 (Nas House )",
+   "agodaUrl": "https://www.agoda.com/nas-house-dubai/hotel/dubai-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51437635/0/639cc05c1875cc3bd6e68da6f7f3c3e9.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 63,
+   "priceKRW": 3151577,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.111368,
+    "lng": 55.19978
+   },
+   "refLandmark": "Mashreq Metro Station"
+  }
+ ]
+}

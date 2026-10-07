@@ -1,0 +1,516 @@
+{
+ "slug": "mauritius",
+ "city": "모리셔스",
+ "region": "indian-ocean",
+ "cityId": 19226,
+ "agodaCityName": "모리셔스",
+ "fetchedAt": "2026-10-07T23:40:17.638Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 3534614,
+   "name": "콘스탄스 벨 마 플라주 (Constance Belle Mare Plage)",
+   "agodaUrl": "https://www.agoda.com/constance-belle-mare-plage_6/hotel/all/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/103936927.jpg?k=4359e0ffb1488039c903fe933039029796adbc970fcff6ce369ba933e4e24c68&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 3357,
+   "priceKRW": 1041771,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.164673,
+    "lng": 57.764168
+   },
+   "refLandmark": "벨리 메어 비치"
+  },
+  {
+   "propertyId": 190125,
+   "name": "LUX* Grand Gaube",
+   "agodaUrl": "https://www.agoda.com/lux-grand-gaube/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/417341169.jpg?k=7a10881417061bd3b83d93ad379c06dd0d711d0677b604a26d22f9bbc429ce55&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2437,
+   "priceKRW": 964721,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.002144,
+    "lng": 57.660458
+   },
+   "refLandmark": "페레베레 비치"
+  },
+  {
+   "propertyId": 2407663,
+   "name": "C Mauritius Palmar",
+   "agodaUrl": "https://www.agoda.com/c-mauritius-all-inclusive/hotel/all/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/273805391.jpg?k=065ccd81e67495d8930f3ab42c3929a6ba71036f9655e772d32aabbcd0c8f1ce&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2323,
+   "priceKRW": 746263,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.21196,
+    "lng": 57.791908
+   },
+   "refLandmark": "일 오 세르프"
+  },
+  {
+   "propertyId": 188729,
+   "name": "럭스* 벨 마레 (LUX* Belle Mare)",
+   "agodaUrl": "https://www.agoda.com/lux-belle-mare/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/188729/0/fc1480112e81e2779e94379ea07e0a5f.jpg?va=1&ca=8&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2168,
+   "priceKRW": 1208291,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.197365,
+    "lng": 57.781155
+   },
+   "refLandmark": "일 오 세르프"
+  },
+  {
+   "propertyId": 2061434,
+   "name": "이지 스테이 레지던스 (Easy Stay Residence)",
+   "agodaUrl": "https://www.agoda.com/easy-stay-residence_2/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/206/2061434/2061434_17030100260051304395.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1839,
+   "priceKRW": 226422,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.03541,
+    "lng": 57.544754
+   },
+   "refLandmark": "Mont Choisy Bus Stop"
+  },
+  {
+   "propertyId": 190302,
+   "name": "럭스* 그랜드 베이 (LUX* Grand Baie)",
+   "agodaUrl": "https://www.agoda.com/merville-beach-resort-grand-baie/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/190302/-1/2035d0f7d4f4cd455e36a8b4c16ae2fa.jpg?va=1&ca=25&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1326,
+   "priceKRW": 1526108,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.000452,
+    "lng": 57.582579
+   },
+   "refLandmark": "Mont Choisy Bus Stop"
+  },
+  {
+   "propertyId": 1104911,
+   "name": "Seapoint Boutique Hotel",
+   "agodaUrl": "https://www.agoda.com/seapoint-boutique-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1104911/-1/8f2486e2337e28887e36da7895bf9c90.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1260,
+   "priceKRW": 514766,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.001379,
+    "lng": 57.554838
+   },
+   "refLandmark": "Mont Choisy Bus Stop"
+  },
+  {
+   "propertyId": 32304382,
+   "name": "씨 다이아몬드 부티크 호텔 앤 스파 바이 씨 리조트 (Sea Diamond Boutique Hotel & Spa by Sea Resorts)",
+   "agodaUrl": "https://www.agoda.com/karats-boutique-hotel-spa/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32304382/0/b3a95e02c3c88c9305cff88d0cdc7d25.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1191,
+   "priceKRW": 349351,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.001921,
+    "lng": 57.646206
+   },
+   "refLandmark": "Mont Choisy Bus Stop"
+  },
+  {
+   "propertyId": 286530,
+   "name": "Sugar Beach Mauritius",
+   "agodaUrl": "https://www.agoda.com/sugar-beach-a-sun-resort/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/286/286530/286530_15082616070035115515.jpg?va=1&ca=5&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1075,
+   "priceKRW": 1197553,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.304142,
+    "lng": 57.365711
+   },
+   "refLandmark": "플릭 앙 플락 비치"
+  },
+  {
+   "propertyId": 3534613,
+   "name": "콩스탕스 프랭스 모리스 (Constance Prince Maurice)",
+   "agodaUrl": "https://www.agoda.com/constance-prince-maurice/hotel/all/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/384012543.jpg?k=3b4cc46a37b49a9026d645d4913b0b2c94f4b09dd54aaa5c8de55cd0be9aa630&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1068,
+   "priceKRW": 1561720,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.149633,
+    "lng": 57.746098
+   },
+   "refLandmark": "Bras d'Eau Public Beach"
+  },
+  {
+   "propertyId": 199836,
+   "name": "라 피로그 모리셔스 (La Pirogue Mauritius)",
+   "agodaUrl": "https://www.agoda.com/la-pirogue-a-sun-resort/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/199/199836/199836_15082612520035090088.jpg?va=1&ca=5&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 979,
+   "priceKRW": 976691,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.298611,
+    "lng": 57.36488
+   },
+   "refLandmark": "플릭 앙 플락 비치"
+  },
+  {
+   "propertyId": 293435,
+   "name": "샨티 모리스 리조트 앤 스파 (Shanti Maurice Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/293435/-1/dcbacd955138b01a1b3e7bf82160417b.jpg?va=1&ca=10&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 976,
+   "priceKRW": 1064339,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.512949,
+    "lng": 57.470878
+   },
+   "refLandmark": "라 바닐 자연 공원"
+  },
+  {
+   "propertyId": 36717352,
+   "name": "르 자디스 비치 리조트 앤 웰니스 - 매니지드 바이 반얀트리 호텔 앤 리조트 (Le Jadis Beach Resort & Wellness - Managed by Banyan Tree Hotels & Resorts)",
+   "agodaUrl": "https://www.agoda.com/angsana-balaclava-mauritius_2/hotel/balaclava-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36717352/-1/7c7e55cfa5b0505cb15c7f9c8320aecd.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 937,
+   "priceKRW": 522142,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.09343,
+    "lng": 57.517532
+   },
+   "refLandmark": "시테 라 큐레 버스터미널"
+  },
+  {
+   "propertyId": 5948602,
+   "name": "SALT of Palmar, Mauritius, a Member of Design Hotels™",
+   "agodaUrl": "https://www.agoda.com/salt-of-palmar-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5948602/-1/76f162fd4e9be902261fb779f6d389b4.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 931,
+   "priceKRW": 744347,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.206141,
+    "lng": 57.789557
+   },
+   "refLandmark": "일 오 세르프"
+  },
+  {
+   "propertyId": 630052,
+   "name": "아웃리거 모리셔스 비치 리조트 (Outrigger Mauritius Beach Resort)",
+   "agodaUrl": "https://www.agoda.com/outrigger-mauritius-beach-resort/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35925366/0/0bb09f64c2c88ffdbc1dc2cd80564fb7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 854,
+   "priceKRW": 465847,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.510635,
+    "lng": 57.417918
+   },
+   "refLandmark": "샤마렐 폭포"
+  },
+  {
+   "propertyId": 286531,
+   "name": "Long Beach Mauritius",
+   "agodaUrl": "https://www.agoda.com/long-beach-a-sun-resort/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/286531/0/c8051807122cb07cb19afe34e1807c41.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 835,
+   "priceKRW": 706578,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.171162,
+    "lng": 57.769341
+   },
+   "refLandmark": "벨리 메어 비치"
+  },
+  {
+   "propertyId": 295692,
+   "name": "더 레지던스 마우리티어스 (The Residence Mauritius)",
+   "agodaUrl": "https://www.agoda.com/the-residence-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/295692/-1/f4e0716eb91165af4c32246c2c749037.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 789,
+   "priceKRW": 601250,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.198544,
+    "lng": 57.78183
+   },
+   "refLandmark": "일 오 세르프"
+  },
+  {
+   "propertyId": 59248,
+   "name": "힐튼 마우리티어스 리조트 앤 스파 (Hilton Mauritius Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/hilton-mauritius-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/857092688.jpg?k=e471849a9349d42989566213401fceb570a7251194884ced41e4c791cb5747f1&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 702,
+   "priceKRW": 843410,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.307281,
+    "lng": 57.366486
+   },
+   "refLandmark": "플릭 앙 플락 비치"
+  },
+  {
+   "propertyId": 31470849,
+   "name": "Labourdonnais Waterfront Hotel",
+   "agodaUrl": "https://www.agoda.com/labourdonnais-waterfront-hotel_3/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2294702/0/a5dbea89fa790a225ada6f427d714204.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 561,
+   "priceKRW": 434566,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.160669,
+    "lng": 57.498081
+   },
+   "refLandmark": "시테 라 큐레 버스터미널"
+  },
+  {
+   "propertyId": 79031,
+   "name": "소피텔 모리셔스 림페리얼 리조트 앤 스파 (Sofitel Mauritius L’Imperial Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/sofitel-mauritius-l-imperial-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/79031/0/fbb53422cb896c767a79161b294fb89a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 490,
+   "priceKRW": 893696,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.312901,
+    "lng": 57.368
+   },
+   "refLandmark": "플릭 앙 플락 비치"
+  },
+  {
+   "propertyId": 522630,
+   "name": "The Oberoi, Mauritius",
+   "agodaUrl": "https://www.agoda.com/the-oberoi-mauritius-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34629853/0/82f25a9f34128da7d048a52c9723db49.png?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 474,
+   "priceKRW": 1616230,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.079149,
+    "lng": 57.512825
+   },
+   "refLandmark": "Mont Choisy Bus Stop"
+  },
+  {
+   "propertyId": 3532999,
+   "name": "원앤드온니 르 생 제랑, 모리셔스 (One&Only Le Saint Geran, Mauritius)",
+   "agodaUrl": "https://www.agoda.com/one-only-le-saint-geran-mauritius_2/hotel/all/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/680197501.jpg?k=c028a7f3b0fc5e189ab863348ff834a34a36877aec8eb5ad0c0a925e63e7c8ec&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 458,
+   "priceKRW": 1776685,
+   "brand": "one-and-only",
+   "brandLabel": "원앤온리",
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.16069,
+    "lng": 57.756989
+   },
+   "refLandmark": "벨리 메어 비치"
+  },
+  {
+   "propertyId": 59245,
+   "name": "헤리티지 아왈리 골프 앤 스파 리조트 - 올 인클루시브 (Heritage Awali Golf & Spa Resort - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/heritage-awali-golf-spa-resort-all-inclusive/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/592/59245/59245_15081914220034600870.jpg?va=1&ca=5&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 430,
+   "priceKRW": 997201,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.506538,
+    "lng": 57.409809
+   },
+   "refLandmark": "샤마렐 폭포"
+  },
+  {
+   "propertyId": 217318,
+   "name": "Maritim Resort & Spa Mauritius",
+   "agodaUrl": "https://www.agoda.com/maritim-resort-spa-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/217318/-1/432bba4aa05131c5c9468571c7b50ef9.jpg?va=1&ca=25&ce=0",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 391,
+   "priceKRW": 379509,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.08584,
+    "lng": 57.517029
+   },
+   "refLandmark": "시테 라 큐레 버스터미널"
+  },
+  {
+   "propertyId": 68363,
+   "name": "마라디바 빌라 리조트 앤 스파 (Maradiva Villas Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/maradiva-villas-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/750293476.jpg?k=a89de8602e473ce9dd3ed2046629877b02cadee7af92946b621e375ca56168de&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 361,
+   "priceKRW": 2147917,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.314423,
+    "lng": 57.369671
+   },
+   "refLandmark": "플릭 앙 플락 비치"
+  },
+  {
+   "propertyId": 5809978,
+   "name": "포 시즌스 리조트 모리셔스 앳 아나히타 (Four Seasons Resort Mauritius at Anahita)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-mauritius-at-anahita/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5809978/-1/d7ab20c7984bd5cc7080580c8b2cc12e.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 156,
+   "priceKRW": 2400686,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.283625,
+    "lng": 57.794081
+   },
+   "refLandmark": "일 오 세르프"
+  },
+  {
+   "propertyId": 218600,
+   "name": "아나히타 골프 앤 스파 리조트 모리셔스 (Anahita Golf & Spa Resort Mauritius)",
+   "agodaUrl": "https://www.agoda.com/anahita-golf-spa-resort-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/218600/-1/82dcdb8ea49769b6014a99ce564feeaf.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 120,
+   "priceKRW": 1679596,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -20.278522,
+    "lng": 57.789063
+   },
+   "refLandmark": "일 오 세르프"
+  },
+  {
+   "propertyId": 256775,
+   "name": "소 소피텔 모리셔스 (SO Sofitel Mauritius)",
+   "agodaUrl": "https://www.agoda.com/so-sofitel-mauritius/hotel/mauritius-island-mu.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/764585085.jpg?k=17c108fcd3455780def885f4e8321bd899f6b255842b1c5508bb5ceac79359a4&o=",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 68,
+   "priceKRW": 541832,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -20.50831,
+    "lng": 57.434978
+   },
+   "refLandmark": "샤마렐 폭포"
+  }
+ ]
+}

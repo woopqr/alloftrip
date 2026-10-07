@@ -1,0 +1,282 @@
+{
+ "slug": "tulum",
+ "city": "툴룸",
+ "region": "americas",
+ "cityId": 19741,
+ "agodaCityName": "툴룸",
+ "fetchedAt": "2026-10-07T23:40:17.785Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 7818554,
+   "name": "Ikal Tulum Hotel",
+   "agodaUrl": "https://www.agoda.com/ikal-tulum-hotel/hotel/all/tulum-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/413624396.jpg?k=bf7491b65cfd6686f4c728e3ffb70795f6d61904361178a86acc2ac7e7e96625&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1175,
+   "priceKRW": 285164,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.203053,
+    "lng": -87.432571
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 22403847,
+   "name": "Layla Tulum - Adults Only",
+   "agodaUrl": "https://www.agoda.com/layla-tulum-adults-only/hotel/all/tulum-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495178175.jpg?k=f467bb7fa22f63e52c934c5e2ead5a16b591cb354e61b02e3abec162e4cfdd06&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 547,
+   "priceKRW": 495756,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.210188,
+    "lng": -87.458664
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 2459301,
+   "name": "Secrets Akumal Riviera Maya - Adults Only - All Inclusive",
+   "agodaUrl": "https://www.agoda.com/secrets-akumal-riviera-maya-all-inclusive-adults-only_2/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/62137852.jpg?k=d53405f0438bcd2a27b552eb70fd6a2b146fdf366a3d1c8e78eeeb0a8ea68e6c&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 353,
+   "priceKRW": 967519,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.397249,
+    "lng": -87.319122
+   },
+   "refLandmark": "Akumal Beach"
+  },
+  {
+   "propertyId": 2457424,
+   "name": "Unico Hotel Riviera Maya - All Inclusive - Adults Only",
+   "agodaUrl": "https://www.agoda.com/unico-20-n-87-w-riviera-maya_2/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2457424/-1/028dd14bf038f1a81c7529cd6a2b7d0f.jpg?ca=13&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 295,
+   "priceKRW": 1605986,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.449087,
+    "lng": -87.281212
+   },
+   "refLandmark": "Kantenah Beach"
+  },
+  {
+   "propertyId": 39563675,
+   "name": "SIWA Wellness Villa Collection",
+   "agodaUrl": "https://www.agoda.com/siwa-tulum/hotel/all/tulum-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/483319643.jpg?k=097883157bec1dfcd8588631ee0861f9708d394f266a0e32e3c7da219dc36fa3&o=",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 293,
+   "priceKRW": 365395,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.182011,
+    "lng": -87.465363
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 61792510,
+   "name": "Anat Tantric Boutique Hotel",
+   "agodaUrl": "https://www.agoda.com/anat-tantric-boutique-hotel/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61792510/0/2fc3933ed11fbed435a444ed4185ba55.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 222,
+   "priceKRW": 225113,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.199562,
+    "lng": -87.499062
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 58682534,
+   "name": "Sana Tulum Beachfront Boutique Hotel",
+   "agodaUrl": "https://www.agoda.com/layla-tulum-beach-boutique-hotel/hotel/all/tulum-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/787011931.jpg?k=caf2e2479ec135b55f4f8c081a85cb31a42189e0f2c2a5335b864b5edb202cd3&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 177,
+   "priceKRW": 1102638,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.137011,
+    "lng": -87.463379
+   },
+   "refLandmark": "South Tulum Beach"
+  },
+  {
+   "propertyId": 87194248,
+   "name": "Jashita Hotel",
+   "agodaUrl": "https://www.agoda.com/jashita-hotel/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/87194248/0/f5a4d9cf13dfa1bbc95428a7aa8e4064.jpg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 117,
+   "priceKRW": 1415802,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.286592,
+    "lng": -87.375938
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 52698298,
+   "name": "HOTELITO AZUL",
+   "agodaUrl": "https://www.agoda.com/hotelito-azul/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52698298/-1/ca7e6cdd94b15cd526a2cc8c3178c8a8.png?va=1&ce=0",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 114,
+   "priceKRW": 371687,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.164867,
+    "lng": -87.453102
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 15256668,
+   "name": "Tago Tulum by G Hotels",
+   "agodaUrl": "https://www.agoda.com/coral-tulum_4/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/34378014/1330523775/03b7ad89ab7b4923a480c8aafd2e822b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 102,
+   "priceKRW": 239643,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.165901,
+    "lng": -87.452362
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 74726359,
+   "name": "NABOA Hotel Tulum",
+   "agodaUrl": "https://www.agoda.com/naboa-tulum/hotel/all/tulum-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/690575334.jpg?k=592d7fa6492523852a0d2b0acd5edf651b9c95bcd1165898afceb70e1df0703b&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 76,
+   "priceKRW": 372291,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.183413,
+    "lng": -87.473122
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 86694282,
+   "name": "Trobbu Boutique Collection Riviera Maya - All Inclusive",
+   "agodaUrl": "https://www.agoda.com/trobbu-tulum-h60728298/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/86694282/0/e4101a6728a77414ffd49ab6929e4aee.png?ce=3",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 62,
+   "priceKRW": 611636,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.210716,
+    "lng": -87.479614
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 86199640,
+   "name": "Hotel Qamar",
+   "agodaUrl": "https://www.agoda.com/hotel-qamar-lux/hotel/all/chunyaxche-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/892820417.jpg?k=d8b644e13c425fb58a51e00573a16bda134c2b4b5ac5b8a1f1c293e26b172a8e&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 38,
+   "priceKRW": 275818,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.16725,
+    "lng": -87.451576
+   },
+   "refLandmark": "Tulum Bus station"
+  },
+  {
+   "propertyId": 2676174,
+   "name": "El Dorado Seaside Suites Oceanfront, All & More Inclusive -Adults Only ",
+   "agodaUrl": "https://www.agoda.com/el-dorado-seaside-suites-oceanfront-all-more-inclusive-adults-only-h2676174/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2676174/-1/48e40a001a543d080bc33785d7131612.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 34,
+   "priceKRW": 473182,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.454691,
+    "lng": -87.271843
+   },
+   "refLandmark": "Kantenah Beach"
+  },
+  {
+   "propertyId": 83538639,
+   "name": "ARKA TULUM",
+   "agodaUrl": "https://www.agoda.com/arka-tulum/hotel/tulum-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/83538639/0/30bbbb6f40082376671f30b8f11d127a.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 31,
+   "priceKRW": 247575,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.21265,
+    "lng": -87.477493
+   },
+   "refLandmark": "Tulum Bus station"
+  }
+ ]
+}

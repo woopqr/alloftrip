@@ -1,0 +1,1146 @@
+{
+ "slug": "sydney",
+ "city": "시드니",
+ "region": "oceania",
+ "cityId": 14370,
+ "agodaCityName": "시드니",
+ "fetchedAt": "2026-10-07T23:40:17.833Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 9586127,
+   "name": "더 풀러턴 호텔 시드니 (The Fullerton Hotel Sydney)",
+   "agodaUrl": "https://www.agoda.com/the-fullerton-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11094719/0/e4ec0ac2368259b47aa68b01aa625f67.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 13144,
+   "priceKRW": 338594,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.867818,
+    "lng": 151.20777
+   },
+   "refLandmark": "윈야드역"
+  },
+  {
+   "propertyId": 446625,
+   "name": "하얏트 리젠시 시드니 (Hyatt Regency Sydney)",
+   "agodaUrl": "https://www.agoda.com/hyatt-regency-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/446625/0/51263114d40a67994941fba5f7f249a2.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 12412,
+   "priceKRW": 289684,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.870121,
+    "lng": 151.2034
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 3135685,
+   "name": "Shangri-La Sydney",
+   "agodaUrl": "https://www.agoda.com/shangri-la-sydney_15/hotel/all/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/328134332.jpg?k=7a56b09459962508c3658ff40974828853cd3d0cb812e5aa452facffe86fd14a&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 12369,
+   "priceKRW": 487683,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.861298,
+    "lng": 151.206268
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 148869,
+   "name": "메리톤 스위트 켄트 스트리트 (Meriton Suites Kent Street)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-kent-street/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/148869/-1/607026d81e03b524da202795e9b99cf7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 11837,
+   "priceKRW": 527110,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.875938,
+    "lng": 151.205673
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 1306,
+   "name": "아모라 제이미슨 호텔  (Amora Jamison Hotel)",
+   "agodaUrl": "https://www.agoda.com/amora-jamison-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1306/0/db64a19ee6aa2b0c096ba994478dd426.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 10410,
+   "priceKRW": 313341,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.864559,
+    "lng": 151.206299
+   },
+   "refLandmark": "윈야드역"
+  },
+  {
+   "propertyId": 8707176,
+   "name": "메리톤 스위트 마스코트 센트럴 (Meriton Suites Mascot Central)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-mascot-central/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8707176/110795465/50e03f0cf1cd7678495567cb2ad94714.jpeg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 8667,
+   "priceKRW": 261456,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.923321,
+    "lng": 151.184357
+   },
+   "refLandmark": "Mascot Train Station"
+  },
+  {
+   "propertyId": 34388734,
+   "name": "메리톤 스위트 조지 스트리트, 파라마타 (Meriton Suites George Street, Parramatta)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-george-street-parramatta_2/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34388734/0/4003c4641f8fbd57f9035af5f6e0eb38.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 8646,
+   "priceKRW": 256558,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.81493,
+    "lng": 151.009583
+   },
+   "refLandmark": "파라마타역"
+  },
+  {
+   "propertyId": 37236103,
+   "name": "패러독스 시드니 (Paradox Sydney)",
+   "agodaUrl": "https://www.agoda.com/radisson-blu-plaza-hotel-sydney_3/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/724922749.jpg?k=69eb3fc31c2b48404fa889333816118eddd6a413496b633da4bf538fea5edcf9&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 8602,
+   "priceKRW": 364779,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.865271,
+    "lng": 151.208897
+   },
+   "refLandmark": "윈야드역"
+  },
+  {
+   "propertyId": 11875,
+   "name": "포시즌스 호텔 시드니 (Four Seasons Hotel Sydney)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/70339968/0/21d9dd353563a5ad99d3cb4fb6c5f186.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 8591,
+   "priceKRW": 480463,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.861679,
+    "lng": 151.207626
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 396356,
+   "name": "YHA 시드니 하버 (YHA Sydney Harbour)",
+   "agodaUrl": "https://www.agoda.com/sydney-harbour-yha/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/396356/0/d6b5389575b15b445c00d7699976f3f0.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 8500,
+   "priceKRW": 262690,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.860004,
+    "lng": 151.206696
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 8673927,
+   "name": "메리톤 스위트 서섹스 스트리트 (Meriton Suites Sussex Street)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-sussex-street_2/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8673927/0/b0b2f78fdeed995314d7a9fd0e7de540.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 7999,
+   "priceKRW": 270552,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.872193,
+    "lng": 151.204091
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 45622452,
+   "name": "W 시드니 (W Sydney)",
+   "agodaUrl": "https://www.agoda.com/w-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500278492.jpg?k=af3b69b276dc5c519a0d0df7d3d7c2db7ca3baa714773141ab5394896ed0f57f&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 7547,
+   "priceKRW": 409560,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.873459,
+    "lng": 151.201614
+   },
+   "refLandmark": "Convention"
+  },
+  {
+   "propertyId": 44945,
+   "name": "스위소텔 시드니 (Swissôtel Sydney)",
+   "agodaUrl": "https://www.agoda.com/swissotel-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21725487/0/639b9a23ec619a0e417882fbfa1f1373.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 7503,
+   "priceKRW": 353584,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.870617,
+    "lng": 151.207504
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 49902,
+   "name": "힐튼 시드니 (Hilton Sydney)",
+   "agodaUrl": "https://www.agoda.com/hilton-sydney_6/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49902/0/b61df40a61f46a6c383192dfca2bbc6c.jpeg?ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 7183,
+   "priceKRW": 337397,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.871761,
+    "lng": 151.207336
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 5426,
+   "name": "더 스타 그랜드 호텔 앤 레지던스 시드니 (The Star Grand Hotel and Residences Sydney)",
+   "agodaUrl": "https://www.agoda.com/the-star-grand-hotel-and-residences-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5426/0/059313f24b42bccb391a037f4adb9c48.jpeg?ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 7006,
+   "priceKRW": 274598,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.868099,
+    "lng": 151.195221
+   },
+   "refLandmark": "The Star"
+  },
+  {
+   "propertyId": 148937,
+   "name": "Meriton Suites Campbell Street, Sydney",
+   "agodaUrl": "https://www.agoda.com/meriton-serviced-apartments-campbell-street/hotel/all/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/888046391.jpg?k=8155e7150f67c7628dd320db30adeef8132851404bc131db4401e61b6416b158&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6359,
+   "priceKRW": 382505,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.879108,
+    "lng": 151.206055
+   },
+   "refLandmark": "Capitol Square"
+  },
+  {
+   "propertyId": 11897,
+   "name": "시드니 하버 메리어트 호텔 앳 서큘러 키 (Sydney Harbour Marriott Hotel at Circular Quay)",
+   "agodaUrl": "https://www.agoda.com/sydney-harbour-marriott-hotel-at-circular-quay_7/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630038998.jpg?k=d571e02e7867804cffb8cccfa03ad77140b05fca7b6fbf2773429768cb89d42c&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6284,
+   "priceKRW": 446878,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.862804,
+    "lng": 151.20932
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 48574,
+   "name": "메리톤 스위트 본디 정션 (Meriton Suites Bondi Junction)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-bondi-junction/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/48574/0/8fa9c79c0671574c6bb1e98bacfcd96a.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6151,
+   "priceKRW": 284546,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.891209,
+    "lng": 151.24939
+   },
+   "refLandmark": "Bondi Junction Station"
+  },
+  {
+   "propertyId": 2870,
+   "name": "인터컨티넨탈 시드니 바이 IHG (InterContinental Sydney By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5662672/0/6bf443bbd4260f23467c0e860eab5fcd.jpg?va=1&ca=25&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5926,
+   "priceKRW": 507519,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.86335,
+    "lng": 151.211899
+   },
+   "refLandmark": "서큘러 키역"
+  },
+  {
+   "propertyId": 181982,
+   "name": "메리톤 스위트 워털루 (Meriton Suites Waterloo)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-waterloo/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/859167058.jpg?k=359ffb4c79682e3d5406eadb8cbeaa37cb48bf7622126c68da214a9696605fb3&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 5207,
+   "priceKRW": 217141,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.898281,
+    "lng": 151.21521
+   },
+   "refLandmark": "Green Square"
+  },
+  {
+   "propertyId": 4829,
+   "name": "쉐라톤 그랜드 시드니 하이드 파크 (Sheraton Grand Sydney Hyde Park)",
+   "agodaUrl": "https://www.agoda.com/sheraton-grand-sydney-hyde-park/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5076097/1153953994/d50e9c63d458226abe5649b3534390db.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 5120,
+   "priceKRW": 362913,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.871574,
+    "lng": 151.209763
+   },
+   "refLandmark": "세인트 제임스역"
+  },
+  {
+   "propertyId": 41730073,
+   "name": "에이스 호텔 시드니 (Ace Hotel Sydney)",
+   "agodaUrl": "https://www.agoda.com/ace-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41730073/0/f0e4ed354c2a0e6049ad0e6f179c4c42.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4981,
+   "priceKRW": 339068,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.878799,
+    "lng": 151.209976
+   },
+   "refLandmark": "뮤지엄역"
+  },
+  {
+   "propertyId": 148868,
+   "name": "메리톤 스위트 월드 타워 (Meriton Suites World Tower)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-world-tower/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/889614633.jpg?k=b3850ed82d578bdb3b76facac6489026a3b3f137972d73a536eed5e3f64bae0c&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4957,
+   "priceKRW": 737021,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.876575,
+    "lng": 151.206781
+   },
+   "refLandmark": "뮤지엄역"
+  },
+  {
+   "propertyId": 8707177,
+   "name": "메리톤 스위트 제틀랜드 (Meriton Suites Zetland)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-zetland/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8707177/0/465279f9e372a1eb5709bd15764346f5.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 4926,
+   "priceKRW": 284546,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.908058,
+    "lng": 151.212753
+   },
+   "refLandmark": "Green Square"
+  },
+  {
+   "propertyId": 9355686,
+   "name": "메리톤 스위트 시드니 에어포트 (Meriton Suites Sydney Airport)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-coward-street-mascot/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9355686/0/920d6225b1486dc85b951b2ea5c3d3cb.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4703,
+   "priceKRW": 252593,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.92474,
+    "lng": 151.190826
+   },
+   "refLandmark": "Mascot Train Station"
+  },
+  {
+   "propertyId": 8707178,
+   "name": "메리톤 스위트 채스우드 (Meriton Suites Chatswood)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-chatswood/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8707178/-1/5c17a53e73e8eb3f69a0ccdafd563eb0.jpg?va=1&ca=25&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 4053,
+   "priceKRW": 382505,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.799,
+    "lng": 151.179688
+   },
+   "refLandmark": "채스우드역"
+  },
+  {
+   "propertyId": 10694923,
+   "name": "메리톤 스위트 처치 스트리트, 패러매타 (Meriton Suites Church Street, Parramatta)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-church-street-parramatta/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10694923/0/6439930b836c65ed13041f059e7e049c.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3924,
+   "priceKRW": 256558,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.81133,
+    "lng": 151.00456
+   },
+   "refLandmark": "파라마타역"
+  },
+  {
+   "propertyId": 334347,
+   "name": "풀먼 시드니 하이드 파크 (Pullman Sydney Hyde Park)",
+   "agodaUrl": "https://www.agoda.com/pullman-sydney-hyde-park-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21631843/0/4456b236b0dcd13e64eaf820c6da9c6c.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 3873,
+   "priceKRW": 351848,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.876339,
+    "lng": 151.212494
+   },
+   "refLandmark": "뮤지엄역"
+  },
+  {
+   "propertyId": 304897,
+   "name": "QT 시드니 (QT Sydney)",
+   "agodaUrl": "https://www.agoda.com/qt-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/501001490.jpg?k=755348b931b31f376978039f74eb2d35e95e0e66c3aceb9edbdb0301b3183c94&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3558,
+   "priceKRW": 283257,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.870922,
+    "lng": 151.207397
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 1094057,
+   "name": "킴튼 마고 시드니 바이 IHG (Kimpton Margot Sydney By IHG)",
+   "agodaUrl": "https://www.agoda.com/kimpton-margot-sydney-h1094057/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/26960291/0/374aa157935f595f7c88ebc1f3e81c4b.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 3356,
+   "priceKRW": 404895,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.874924,
+    "lng": 151.207703
+   },
+   "refLandmark": "타운 홀역"
+  },
+  {
+   "propertyId": 8707172,
+   "name": "메리톤 스위트 노스 시드니 (Meriton Suites North Sydney)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-north-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8707172/0/7027804dfcfa5467de3067b9c8b2af30.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3173,
+   "priceKRW": 303205,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.83942,
+    "lng": 151.209915
+   },
+   "refLandmark": "노스 시드니역"
+  },
+  {
+   "propertyId": 1192015,
+   "name": "풀만 시드니 에어포트 (Pullman Sydney Airport)",
+   "agodaUrl": "https://www.agoda.com/pullman-sydney-airport/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/895137384.jpg?k=bf59efdcb3a01e4b4ca77c8ab52a3e315b970b4884f78879c6feddfa54b9ba92&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 2875,
+   "priceKRW": 269619,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.92757,
+    "lng": 151.187073
+   },
+   "refLandmark": "Mascot Train Station"
+  },
+  {
+   "propertyId": 35135758,
+   "name": "더 퍼시픽 하우스 (The Pacific House)",
+   "agodaUrl": "https://www.agoda.com/the-pacific-house/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35135758/-1/65eb1333b8d80f1037ebf3535a8b3ce6.png?ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 2875,
+   "priceKRW": 249841,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.871525,
+    "lng": 151.21669
+   },
+   "refLandmark": "세인트 제임스역"
+  },
+  {
+   "propertyId": 42279474,
+   "name": "메리톤 스위트 리버풀 (Meriton Suites Liverpool)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-liverpool/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42279474/0/f11a57525ac315bdced8ee7d62a4f44a.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2869,
+   "priceKRW": 261223,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.921749,
+    "lng": 150.922333
+   },
+   "refLandmark": "리버풀역"
+  },
+  {
+   "propertyId": 41735673,
+   "name": "스카이 스위트 시드니 (SKYE Suites Sydney)",
+   "agodaUrl": "https://www.agoda.com/skye-suites-sydney_2/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/161830952.jpg?k=33937cf73e31c96fb804eeda3bebfb3c9a7ba090ad33fe6eb3e3ef80609e1fd0&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2779,
+   "priceKRW": 301242,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.868302,
+    "lng": 151.20475
+   },
+   "refLandmark": "윈야드역"
+  },
+  {
+   "propertyId": 8707175,
+   "name": "메리톤 스위트 노스 라이드 (Meriton Suites North Ryde)",
+   "agodaUrl": "https://www.agoda.com/meriton-suites-north-ryde/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8707175/0/4598bf806fee9b4b4338960023c7b86d.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2740,
+   "priceKRW": 289211,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.775372,
+    "lng": 151.121658
+   },
+   "refLandmark": "Macquarie Park Station"
+  },
+  {
+   "propertyId": 2013473,
+   "name": "원 글로벌 리조트 파라마타 (One Global Resorts Parramatta)",
+   "agodaUrl": "https://www.agoda.com/one-global-resorts-parramatta-h2013473/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2013473/0/6bdad37c8073327112cca1fd7413b74c.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2396,
+   "priceKRW": 223882,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.815132,
+    "lng": 150.999176
+   },
+   "refLandmark": "파라마타역"
+  },
+  {
+   "propertyId": 1620140,
+   "name": "소피텔 시드니 달링 하버 (Sofitel Sydney Darling Harbour)",
+   "agodaUrl": "https://www.agoda.com/sofitel-sydney-darling-harbour/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1620140/0/686edc2379b4a2af78c43827a7804a37.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2383,
+   "priceKRW": 403962,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -33.872822,
+    "lng": 151.198563
+   },
+   "refLandmark": "Convention"
+  },
+  {
+   "propertyId": 32586621,
+   "name": "Crown Towers Sydney",
+   "agodaUrl": "https://www.agoda.com/crown-towers-sydney_2/hotel/all/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/603946581.jpg?k=e77c6491b98d516dd77735599991a9615b1ac802ed98ab375d4465cf2c475d40&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2216,
+   "priceKRW": 738078,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.86256,
+    "lng": 151.201202
+   },
+   "refLandmark": "윈야드역"
+  },
+  {
+   "propertyId": 4761,
+   "name": "더 세벨 키 웨스트 스위트 시드니 (The Sebel Quay West Suites Sydney)",
+   "agodaUrl": "https://www.agoda.com/quay-west-suites-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/673261531.jpg?k=61ee4104436559937aeef4e8b5e7cb06572d57a3dc15333ef5b7964446458d8d&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2123,
+   "priceKRW": 583087,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.861813,
+    "lng": 151.206802
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 108212,
+   "name": "풀만 호텔 앳 시드니 올림픽 파크 (Pullman Hotel at Sydney Olympic Park)",
+   "agodaUrl": "https://www.agoda.com/pullman-at-sydney-olympic-park-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/108212/0/e13c4d0aa883a2f9d47f6130b0ff9fba.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1993,
+   "priceKRW": 278949,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.84697,
+    "lng": 151.066422
+   },
+   "refLandmark": "Concord West"
+  },
+  {
+   "propertyId": 11895,
+   "name": "피어 원 시드니 하버, 오토그래프 컬렉션 (Pier One Sydney Harbour, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/pier-one-sydney-harbour-autograph-collection/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5607640/1154083459/b2c923eff8f7852e5e7a1e86e29d8328.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1819,
+   "priceKRW": 362913,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.854015,
+    "lng": 151.207993
+   },
+   "refLandmark": "밀슨스 포인트역"
+  },
+  {
+   "propertyId": 11890,
+   "name": "더 랑햄 시드니 호텔 (The Langham Sydney Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-langham-sydney-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6771110/0/77fe59fff496778cba29ba90b144363e.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1456,
+   "priceKRW": 511250,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.859833,
+    "lng": 151.203613
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 315697,
+   "name": "더 달링 앳 더 스타 (The Darling at The Star)",
+   "agodaUrl": "https://www.agoda.com/the-darling-at-the-star/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/315697/0/e0f68469345ea18f1b77dd9fcfb24419.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1368,
+   "priceKRW": 332114,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.86776,
+    "lng": 151.194519
+   },
+   "refLandmark": "The Star"
+  },
+  {
+   "propertyId": 45894224,
+   "name": "카펠라 시드니 (Capella Sydney)",
+   "agodaUrl": "https://www.agoda.com/capella-sydney-h41691969/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45894224/0/7057a8d2a50621b7dbdfc46f00693932.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 1355,
+   "priceKRW": 1113552,
+   "brand": "capella",
+   "brandLabel": "카펠라",
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.863091,
+    "lng": 151.210363
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 2853,
+   "name": "풀맨 키 그랜드 시드니 하버 (Pullman Quay Grand Sydney Harbour)",
+   "agodaUrl": "https://www.agoda.com/pullman-quay-grand-sydney-harbour/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/285/2853/2853_17100407030057079042.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1347,
+   "priceKRW": 639063,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.860687,
+    "lng": 151.212936
+   },
+   "refLandmark": "서큘러 키역"
+  },
+  {
+   "propertyId": 4601995,
+   "name": "더 윌리엄 잉글리스 호텔 워릭 팜 - 엠갤러리 컬렉션 (The William Inglis Hotel Warwick Farm - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/the-william-inglis-mgallery-by-sofitel_2/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4601995/0/a075032ed41024df753974637d9e1799.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1246,
+   "priceKRW": 284640,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.914692,
+    "lng": 150.945557
+   },
+   "refLandmark": "워윅 팜역"
+  },
+  {
+   "propertyId": 89538,
+   "name": "이스타블리시먼트 호텔  (Establishment Hotel)",
+   "agodaUrl": "https://www.agoda.com/establishment-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/89538/-1/87162f2f35fa65ad1fe73be93188b74b.jpg?va=1&ca=0&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1010,
+   "priceKRW": 438610,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.864101,
+    "lng": 151.208023
+   },
+   "refLandmark": "윈야드역"
+  },
+  {
+   "propertyId": 648661,
+   "name": "인터컨티넨탈 시드니 더블베이 바이 IHG (InterContinental Sydney Double Bay By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-sydney-double-bay/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7227593/0/01a21310dc8ee4da655c9a79b5344d8a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 956,
+   "priceKRW": 484195,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.876205,
+    "lng": 151.242981
+   },
+   "refLandmark": "에지클리프역"
+  },
+  {
+   "propertyId": 1161419,
+   "name": "QT 본다이 (QT Bondi)",
+   "agodaUrl": "https://www.agoda.com/qt-bondi/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1161419/0/a6830688b9c94aaf77f636cb8fbaa530.jpeg",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 944,
+   "priceKRW": 331006,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.888924,
+    "lng": 151.27597
+   },
+   "refLandmark": "Bondi Junction Station"
+  },
+  {
+   "propertyId": 46217122,
+   "name": "호텔 인디고 시드니 포츠포인트 바이 IHG (Hotel Indigo Sydney Potts Point By IHG)",
+   "agodaUrl": "https://www.agoda.com/larmont-sydney-by-lancemore_3/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46217122/0/02a03deb8d76a26123d60f2e046cc806.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 745,
+   "priceKRW": 256558,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.875465,
+    "lng": 151.222855
+   },
+   "refLandmark": "킹스 크로스역"
+  },
+  {
+   "propertyId": 79085947,
+   "name": "스파이스 온 브로드웨이 (Spice On Broadway)",
+   "agodaUrl": "https://www.agoda.com/liv-central/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/79085947/0/8a6b5811474f8c9c122ec047f9b2b9a5.jpg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 662,
+   "priceKRW": 252054,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.884346,
+    "lng": 151.20166
+   },
+   "refLandmark": "Central Station Sydney"
+  },
+  {
+   "propertyId": 706498,
+   "name": "오볼로 시드니 울루물루, 어 윈덤 호텔 (Ovolo Sydney Woolloomooloo, a Wyndham Hotel)",
+   "agodaUrl": "https://www.agoda.com/ovolo-woolloomooloo-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/924621928.jpg?k=262887e2b4f644fb289406c4b415077ec89acbc46829b933d1ee3df4c8975ead&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 579,
+   "priceKRW": 443285,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.868664,
+    "lng": 151.220261
+   },
+   "refLandmark": "킹스 크로스역"
+  },
+  {
+   "propertyId": 4968693,
+   "name": "크리스탈브룩 알비온 (Crystalbrook Albion)",
+   "agodaUrl": "https://www.agoda.com/little-albion-a-crystalbrook-collection-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4968693/0/d1a58c7ff41f40569a41e93f14f3eca1.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 557,
+   "priceKRW": 257005,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.882594,
+    "lng": 151.211723
+   },
+   "refLandmark": "센트럴역"
+  },
+  {
+   "propertyId": 41730116,
+   "name": "파크 하얏트 - 시드니 (Park Hyatt - Sydney)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-sydney_5/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2291516/0/215b678d52071684aecb1c85806feddd.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 523,
+   "priceKRW": 1592140,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.855659,
+    "lng": 151.209396
+   },
+   "refLandmark": "서큘러 키역"
+  },
+  {
+   "propertyId": 76783685,
+   "name": "노보텔 시드니 카브라마타 (Novotel Sydney Cabramatta)",
+   "agodaUrl": "https://www.agoda.com/novotel-sydney-cabramatta/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/76783685/0/5ec3e487ef7d5566ceede2fa6368d2bb.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 520,
+   "priceKRW": 204314,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.8899,
+    "lng": 150.93988
+   },
+   "refLandmark": "캔리 베일역"
+  },
+  {
+   "propertyId": 3135313,
+   "name": "스파이서스 포츠 포인트 (Spicers Potts Point)",
+   "agodaUrl": "https://www.agoda.com/spicers-potts-point_3/hotel/all/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/106194551.jpg?k=593724670988e12591fe4a86047d16d3530fe310830a06cdce1a6152857fd3c3&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 376,
+   "priceKRW": 440550,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.87162,
+    "lng": 151.2229
+   },
+   "refLandmark": "킹스 크로스역"
+  },
+  {
+   "propertyId": 90299950,
+   "name": "더 이브 호텔 시드니 (The EVE Hotel Sydney)",
+   "agodaUrl": "https://www.agoda.com/the-eve-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/772944325.jpg?k=9a1d58f227632ca340c3daf9bda037007341461680e3931985880c1a486dac82&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 337,
+   "priceKRW": 423191,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.891628,
+    "lng": 151.21228
+   },
+   "refLandmark": "센트럴역"
+  },
+  {
+   "propertyId": 67798182,
+   "name": "The Grand National Hotel by Saint Peter",
+   "agodaUrl": "https://www.agoda.com/the-grand-national-hotel-by-saint-peter/hotel/all/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/806651825.jpg?k=d97a353a2055a4e82ebcf91526236e14d372e6be5e3969ed8d0eb2a0331cd41b&o=",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 216,
+   "priceKRW": 582154,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.886459,
+    "lng": 151.231781
+   },
+   "refLandmark": "에지클리프역"
+  },
+  {
+   "propertyId": 13571993,
+   "name": "원 글로벌 리조트 그린스퀘어 (One Global Resorts Green Square)",
+   "agodaUrl": "https://www.agoda.com/skye-suites-green-square/hotel/sydney-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13571993/0/ad6afcd1e8e258a9eba79b07b0f1cb19.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 212,
+   "priceKRW": 327783,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.90559,
+    "lng": 151.20287
+   },
+   "refLandmark": "Green Square"
+  },
+  {
+   "propertyId": 7983,
+   "name": "소피텔 시드니 웬트워스 (Sofitel Sydney Wentworth)",
+   "agodaUrl": "https://www.agoda.com/sofitel-sydney-wentworth-hotel/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914473725.jpg?k=e9ded9d16088970f215f60d69583ada01fd6028437fed5e71aedb057b26e5eae&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 200,
+   "priceKRW": 396499,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.865437,
+    "lng": 151.211105
+   },
+   "refLandmark": "마틴 플레이스역"
+  },
+  {
+   "propertyId": 11876,
+   "name": "하버 록스 바이 오드 호텔스 (Harbour Rocks by Ode Hotels)",
+   "agodaUrl": "https://www.agoda.com/harbour-rocks-hotel-sydney-mgallery-by-sofitel_2/hotel/sydney-au.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/10210312.jpg?k=f35e5e5da09720b25bf9ba6e4f86019dad75ebae6d0b34641aa1e3016b7ab63e&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 173,
+   "priceKRW": 433737,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.859661,
+    "lng": 151.208054
+   },
+   "refLandmark": "Sydney Light Rail"
+  },
+  {
+   "propertyId": 41731761,
+   "name": "디 올드 클레어 바이 오드 호텔스 (The Old Clare by Ode Hotels)",
+   "agodaUrl": "https://www.agoda.com/the-old-clare-hotel/hotel/wollongong-au.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41731761/0/0835616cf7fc72e9dfe3054df4926ad3.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 75,
+   "priceKRW": 278361,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -33.885059,
+    "lng": 151.201706
+   },
+   "refLandmark": "Central Station Sydney"
+  }
+ ]
+}

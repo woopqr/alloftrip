@@ -1,0 +1,768 @@
+{
+ "slug": "barcelona",
+ "city": "바르셀로나",
+ "region": "europe",
+ "cityId": 2002,
+ "agodaCityName": "바르셀로나",
+ "fetchedAt": "2026-10-07T23:40:17.842Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 9480,
+   "name": "유로스타 그랜드 마리나 Gl 호텔 (Eurostars Grand Marina Gl Hotel)",
+   "agodaUrl": "https://www.agoda.com/eurostars-grand-marina-gl-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9480/0/9db4ee4fd4165f4c2c1ab847e1b8061d.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 5348,
+   "priceKRW": 263911,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.372459,
+    "lng": 2.1798
+   },
+   "refLandmark": "드라사네스역"
+  },
+  {
+   "propertyId": 161330,
+   "name": "W 바르셀로나 (W Barcelona)",
+   "agodaUrl": "https://www.agoda.com/w-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/161330/69307106/8880c3252ae135ef35ee211320afc66c.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 4150,
+   "priceKRW": 648231,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.369511,
+    "lng": 2.188879
+   },
+   "refLandmark": "Teleferico del Puerto"
+  },
+  {
+   "propertyId": 85270,
+   "name": "하얏트 리젠시 바르셀로나 타워 (Hyatt Regency Barcelona Tower)",
+   "agodaUrl": "https://www.agoda.com/hotel-hesperia-barcelona-tower-a-hyatt-affiliate/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/85270/0/021c7afbabb5684b72c4fb5416ebb8ca.jpeg?ce=3",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 3497,
+   "priceKRW": 249966,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.346222,
+    "lng": 2.10864
+   },
+   "refLandmark": "오스피탈 데 벨비트헤역"
+  },
+  {
+   "propertyId": 9481,
+   "name": "마제스틱 호텔 앤 스파 바르셀로나 (Majestic Hotel & Spa Barcelona)",
+   "agodaUrl": "https://www.agoda.com/majestic-hotel-spa-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/872764964.jpg?k=0d7740f01cbb8ee2d30268d5f8fddab9e55601662da4f0ffd8077ea774448a2e&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3310,
+   "priceKRW": 479270,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.39352,
+    "lng": 2.163932
+   },
+   "refLandmark": "Passeig de Gràcia Railway Station"
+  },
+  {
+   "propertyId": 3305496,
+   "name": "Lamaro Hotel Barcelona - Preferred Hotels & Resorts - Lifestyle Collection",
+   "agodaUrl": "https://www.agoda.com/colon_4/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/713754525.jpg?k=a05477571deba13e6941b84c9e8b8c13b227aeb49dd301bb3bf549a97e4d595e&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3099,
+   "priceKRW": 456821,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.38501,
+    "lng": 2.175925
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 8067931,
+   "name": "Nobu Hotel Barcelona",
+   "agodaUrl": "https://www.agoda.com/nobu-hotel-barcelona/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/468067921.jpg?k=416d8c662939212d9079bf67aee93fa253d722ae349d23fedba9d8fe802bb636&o=",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 2831,
+   "priceKRW": 329974,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.379559,
+    "lng": 2.14255
+   },
+   "refLandmark": "산츠-에스타시오역"
+  },
+  {
+   "propertyId": 60816,
+   "name": "NH 콜렉션 바르셀로나 그란 호텔 칼데론 (NH Collection Barcelona Gran Hotel Calderon)",
+   "agodaUrl": "https://www.agoda.com/nh-collection-barcelona-gran-hotel-calderon/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60816/0/64fd7e2f04d1fc9c8640469d9627686c.jpeg?va=1",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 2665,
+   "priceKRW": 398197,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.389351,
+    "lng": 2.166085
+   },
+   "refLandmark": "파세이그 데 그라시아역"
+  },
+  {
+   "propertyId": 11515,
+   "name": "인터컨티넨탈 바르셀로나 바이 IHG (InterContinental Barcelona By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-barcelona_3/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11515/0/8f6e9a2493485995a769f7d88f4a012f.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2448,
+   "priceKRW": 545708,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.372787,
+    "lng": 2.154922
+   },
+   "refLandmark": "포블레 세크역"
+  },
+  {
+   "propertyId": 70122,
+   "name": "카사 푸스터 호텔 (Casa Fuster Hotel)",
+   "agodaUrl": "https://www.agoda.com/casa-fuster-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70122/0/e3d5937ba1edf0fc08f055cf94f6d9e3.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1950,
+   "priceKRW": 321721,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.397869,
+    "lng": 2.15803
+   },
+   "refLandmark": "프로벤사역"
+  },
+  {
+   "propertyId": 45893117,
+   "name": "토레 멜리나, 어 그란 멜리아 호텔 (Torre Melina, a Gran Meliá Hotel)",
+   "agodaUrl": "https://www.agoda.com/torre-melina-a-gran-melia-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45893117/0/84ff021b8e6f6362ed3d82d47a553d10.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1935,
+   "priceKRW": 308508,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.382584,
+    "lng": 2.108391
+   },
+   "refLandmark": "소나 우니베르시타리아역"
+  },
+  {
+   "propertyId": 52284538,
+   "name": "SLS 바르셀로나 (SLS Barcelona)",
+   "agodaUrl": "https://www.agoda.com/sls-barcelona-opening-fall-2024/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52284538/0/bf94ec8cec5bba81e07d39da98497b48.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1898,
+   "priceKRW": 333486,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.416931,
+    "lng": 2.231271
+   },
+   "refLandmark": "Sant Adria de Besos Station"
+  },
+  {
+   "propertyId": 120615,
+   "name": "아파트먼트 히스파노스 시에테 수이자 바르셀로나 (Apartments Hispanos Siete Suiza)",
+   "agodaUrl": "https://www.agoda.com/apartments-hispanos-siete-suiza/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/120615/-1/0ab47139a76916e37b76a19857d964de.jpg?va=1&ca=13&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1691,
+   "priceKRW": 373223,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.402946,
+    "lng": 2.171565
+   },
+   "refLandmark": "사그라다 파밀리아역"
+  },
+  {
+   "propertyId": 86645,
+   "name": "소피텔 바르셀로나 스키퍼 (Sofitel Barcelona Skipper                                                                   )",
+   "agodaUrl": "https://www.agoda.com/pullman-barcelona-skipper-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/86645/0/3250d59d91fe8762b55d87b5cd6ff826.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1617,
+   "priceKRW": 477438,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.386414,
+    "lng": 2.195302
+   },
+   "refLandmark": "시우타데야 - 빌라 올림피카역"
+  },
+  {
+   "propertyId": 245052,
+   "name": "오흐라 바르셀로나 호텔 (Ohla Barcelona Hotel)",
+   "agodaUrl": "https://www.agoda.com/ohla-barcelona-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/245052/0/6a40faf75659d5e5e1d9ac218a37d5d5.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1613,
+   "priceKRW": 424404,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.387074,
+    "lng": 2.174262
+   },
+   "refLandmark": "Urquinaona"
+  },
+  {
+   "propertyId": 11290,
+   "name": "멜리아 바르셀로나 사리아 (Meliá Barcelona Sarrià)",
+   "agodaUrl": "https://www.agoda.com/melia-barcelona-sarria_2/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11290/0/c2db82d35e10ca9b245a04e69b548ce4.jpeg?ce=3",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 1450,
+   "priceKRW": 271505,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.390774,
+    "lng": 2.141714
+   },
+   "refLandmark": "엔텐사역"
+  },
+  {
+   "propertyId": 13826690,
+   "name": "엘 팔라세 바르셀로나 (El Palace Barcelona)",
+   "agodaUrl": "https://www.agoda.com/palace-gl/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/223383975.jpg?k=bcd642619a9bd79bde21c45fe9dce5d746b1294e2bed7acfc62152408a29cd06&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1447,
+   "priceKRW": 531638,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.391441,
+    "lng": 2.17145
+   },
+   "refLandmark": "파세이그 데 그라시아역"
+  },
+  {
+   "propertyId": 1122493,
+   "name": "모뉴먼트 호텔 (Monument Hotel)",
+   "agodaUrl": "https://www.agoda.com/monument-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1122493/0/831b20019853b4ee59fc6a9af3ca6042.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1272,
+   "priceKRW": 703683,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.393909,
+    "lng": 2.162256
+   },
+   "refLandmark": "프로벤사역"
+  },
+  {
+   "propertyId": 2599942,
+   "name": "블레스 바르셀로나 - 프리퍼드 호텔스 앤 리조트, 레전드 컬렉션 (BLESS Barcelona - Preferred Hotels & Resorts, Legend Collection)",
+   "agodaUrl": "https://www.agoda.com/iberostar-paseo-de-gracia/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2599942/0/2c0b8c44cb0d4b50799a23ff15e00cd8.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1245,
+   "priceKRW": 552100,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.387928,
+    "lng": 2.169456
+   },
+   "refLandmark": "Plaça Catalunya Metro Station"
+  },
+  {
+   "propertyId": 149803,
+   "name": "호텔 아츠 바르셀로나 (Hotel Arts Barcelona)",
+   "agodaUrl": "https://www.agoda.com/hotel-arts-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/149803/0/5ca932c1ac23510c9508a8a2bdd61359.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1165,
+   "priceKRW": 649220,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.38699,
+    "lng": 2.196216
+   },
+   "refLandmark": "시우타데야 - 빌라 올림피카역"
+  },
+  {
+   "propertyId": 1979624,
+   "name": "더 원 바르셀로나 (The One Barcelona)",
+   "agodaUrl": "https://www.agoda.com/h10-the-one-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1979624/0/40aa8c09c7d3c764b70f952a556c5e90.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1115,
+   "priceKRW": 473941,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.396107,
+    "lng": 2.163206
+   },
+   "refLandmark": "프로벤사역"
+  },
+  {
+   "propertyId": 487953,
+   "name": "더 레벨 앳 멜리아 바르셀로나 스카이 (The Level at Meliá Barcelona Sky)",
+   "agodaUrl": "https://www.agoda.com/the-level-at-melia-barcelona-sky/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/487953/0/07bcdf1e49b64904ea289d16f02515ab.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 912,
+   "priceKRW": 383207,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.406178,
+    "lng": 2.200967
+   },
+   "refLandmark": "포블레노우역"
+  },
+  {
+   "propertyId": 23750764,
+   "name": "Hotel Boutique Mirlo Barcelona",
+   "agodaUrl": "https://www.agoda.com/hotel-boutique-mirlo-barcelona/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/287786291.jpg?k=6720ebc309117a8f9104f457192106955508511f0a67b441208183334688f7ca&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 852,
+   "priceKRW": 327444,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.413601,
+    "lng": 2.13496
+   },
+   "refLandmark": "아빈구다 티비다보역"
+  },
+  {
+   "propertyId": 2830356,
+   "name": "유로스타즈 바르셀로나 센트럴 (Eurostars Barcelona Central)",
+   "agodaUrl": "https://www.agoda.com/od-barcelona_4/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2830356/0/7d00f87889fd0e85285583445d7daf6b.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 840,
+   "priceKRW": 278117,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.393802,
+    "lng": 2.167628
+   },
+   "refLandmark": "Passeig de Gràcia Railway Station"
+  },
+  {
+   "propertyId": 7650922,
+   "name": "킴튼 비비도라 호텔 바이 IHG (Kimpton Vividora Hotel By IHG)",
+   "agodaUrl": "https://www.agoda.com/kimpton-barcelona_2/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7650922/0/98ed9a132411705b685bf57e9579fd85.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 767,
+   "priceKRW": 459444,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.38475,
+    "lng": 2.172892
+   },
+   "refLandmark": "Plaça Catalunya Metro Station"
+  },
+  {
+   "propertyId": 3304463,
+   "name": "Claris Hotel & Spa GL a Small Luxury Hotel of the World",
+   "agodaUrl": "https://www.agoda.com/claris-hotel-spa-gl-a-small-luxury-hotel-of-the-world/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/813381586.jpg?k=2a7c2a004da9e12aef1ed82d2f3db58d5985d0eb2d495e846d9d800a972be152&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 735,
+   "priceKRW": 346505,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.394451,
+    "lng": 2.165168
+   },
+   "refLandmark": "Passeig de Gràcia Railway Station"
+  },
+  {
+   "propertyId": 5902497,
+   "name": "알마낙 바르셀로나 (Almanac Barcelona)",
+   "agodaUrl": "https://www.agoda.com/almanac-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5902497/0/c501de036111e473b1ac11847780c76a.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 549,
+   "priceKRW": 608079,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.39064,
+    "lng": 2.169338
+   },
+   "refLandmark": "파세이그 데 그라시아역"
+  },
+  {
+   "propertyId": 66662,
+   "name": "METT 바르셀로나 (METT Barcelona)",
+   "agodaUrl": "https://www.agoda.com/gran-hotel-la-florida/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/37395665/619201643/0c3e22524c1934c84281c7a9709d1b1a.jpeg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 515,
+   "priceKRW": 302535,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.425071,
+    "lng": 2.120514
+   },
+   "refLandmark": "발 데브론역"
+  },
+  {
+   "propertyId": 3303788,
+   "name": "Hotel Neri – Relais & Chateaux",
+   "agodaUrl": "https://www.agoda.com/hotel-neri-relais-chateaux_2/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/320305087.jpg?k=c613decabc808035bf8ccb2046de3084345f62607a78d041e0770ef57750dabf&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 393,
+   "priceKRW": 572995,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.383221,
+    "lng": 2.17528
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 184257,
+   "name": "Mandarin Oriental, Barcelona",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-barcelona/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/184257/0/4b0ab7844f34326811eb2d0029ea46bf.jpeg?va=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 371,
+   "priceKRW": 1433365,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.39109,
+    "lng": 2.166581
+   },
+   "refLandmark": "Passeig de Gràcia"
+  },
+  {
+   "propertyId": 13826448,
+   "name": "호텔 미라마르 바르셀로나 GL (Hotel Miramar Barcelona GL)",
+   "agodaUrl": "https://www.agoda.com/hotel-miramar-barcelona-h8787099/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/690010637.jpg?k=d64111472a59f4eb07fffebf9e6c7643506c330cb238204ce6c9d220307ed38b&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 344,
+   "priceKRW": 460907,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.3703,
+    "lng": 2.17116
+   },
+   "refLandmark": "파랄-렐역"
+  },
+  {
+   "propertyId": 1413243,
+   "name": "Wittmore Hotel GL- Adults Only, Small Luxury Hotels",
+   "agodaUrl": "https://www.agoda.com/wittmore-hotel-adults-only/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/923936381.jpg?k=f958fc72f923d0ce58d9ba32ad8e7956ebce85fdad4ead742ea9a171624d27ae&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 339,
+   "priceKRW": 475645,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.381157,
+    "lng": 2.179595
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 824444,
+   "name": "Serras Barcelona",
+   "agodaUrl": "https://www.agoda.com/hotel-the-serras/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/824/824444/824444_15032423000026424639.jpg?va=1&ca=3&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 303,
+   "priceKRW": 661876,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.38018,
+    "lng": 2.18095
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 3299822,
+   "name": "ABaC Hotel Boutique 5 GL",
+   "agodaUrl": "https://www.agoda.com/abac-restaurant-hotel-barcelona-gl-monumento_2/hotel/all/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/143107017.jpg?k=6fa3f6efd2130a6826c43ed91119d43ea0d2d1cee2ac614b7f3cad5d6009210d&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 298,
+   "priceKRW": 517325,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.410725,
+    "lng": 2.136459
+   },
+   "refLandmark": "아빈구다 티비다보역"
+  },
+  {
+   "propertyId": 5777072,
+   "name": "더 바르셀로나 에디션 (The Barcelona EDITION)",
+   "agodaUrl": "https://www.agoda.com/the-barcelona-edition/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5777072/0/6853fce8f50bb8e3b1917235775ce0b3.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 202,
+   "priceKRW": 646581,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.385998,
+    "lng": 2.177675
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 75360,
+   "name": "그랜드 호텔 센트럴 (Grand Hotel Central)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-central/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5673057/0/600f5f74557ab7725af28ad18df71e26.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 202,
+   "priceKRW": 377407,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.38488,
+    "lng": 2.1776
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 337796,
+   "name": "호텔 메르서 바르셀로나 (Hotel Mercer Barcelona)",
+   "agodaUrl": "https://www.agoda.com/hotel-mercer-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/337796/0/323411227dcc5b07faba0e5cb3ac4170.jpg?va=1&ca=0&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 198,
+   "priceKRW": 660377,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.382587,
+    "lng": 2.178945
+   },
+   "refLandmark": "하우메 I역"
+  },
+  {
+   "propertyId": 569188,
+   "name": "알마 바르셀로나 GL (Alma Barcelona GL)",
+   "agodaUrl": "https://www.agoda.com/alma-hotel-gl-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/569188/0/431b5b3ce5f208f43649b1003eb390ba.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 122,
+   "priceKRW": 484754,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.39447,
+    "lng": 2.163363
+   },
+   "refLandmark": "Passeig de Gràcia Railway Station"
+  },
+  {
+   "propertyId": 6363390,
+   "name": "그랜드 하얏트 바르셀로나 (Grand Hyatt Barcelona)",
+   "agodaUrl": "https://www.agoda.com/sofia_3/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6363390/0/874b2907ddfbcfd412295cdedaab8219.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 107,
+   "priceKRW": 357009,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.385979,
+    "lng": 2.123314
+   },
+   "refLandmark": "마리아 크리스티나역"
+  },
+  {
+   "propertyId": 22031089,
+   "name": "메 바르셀로나 (ME Barcelona)",
+   "agodaUrl": "https://www.agoda.com/me-barcelona-h22031089/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/22031089/0/4c90252be4401e2042ac9e9442af23be.jpeg?va=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 92,
+   "priceKRW": 549363,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.389069,
+    "lng": 2.170015
+   },
+   "refLandmark": "파세이그 데 그라시아역"
+  },
+  {
+   "propertyId": 11289,
+   "name": "르 메르디앙 바르셀로나 (Le Méridien Barcelona)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5061604/985736540/dbf62b796861cf3b62ad963bee8400af.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 54,
+   "priceKRW": 461101,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.383759,
+    "lng": 2.170854
+   },
+   "refLandmark": "Plaça Catalunya Metro Station"
+  },
+  {
+   "propertyId": 13836424,
+   "name": "서 빅터 호텔 바르셀로나 (Sir Victor Hotel Barcelona)",
+   "agodaUrl": "https://www.agoda.com/hotel-omm-5-estrellas-barcelona/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/204514135.jpg?k=ec2a89781617e6d0b3494842b906c11d7be7623b53d01aa8b49c6dbf2d73ab06&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 48,
+   "priceKRW": 526922,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.396179,
+    "lng": 2.16099
+   },
+   "refLandmark": "프로벤사역"
+  },
+  {
+   "propertyId": 120542,
+   "name": "에이백 레스토랑 & 호텔 (ABAC Restaurant Hotel)",
+   "agodaUrl": "https://www.agoda.com/abac-restaurant-hotel/hotel/barcelona-es.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/120542/0/02454c30a95e7675863b450f8c23eced.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 39,
+   "priceKRW": 419786,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.410436,
+    "lng": 2.136605
+   },
+   "refLandmark": "아빈구다 티비다보역"
+  }
+ ]
+}

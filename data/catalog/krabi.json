@@ -1,0 +1,246 @@
+{
+ "slug": "krabi",
+ "city": "크라비",
+ "region": "southeast-asia",
+ "cityId": 14865,
+ "agodaCityName": "끄라비 / 크라비",
+ "fetchedAt": "2026-10-07T23:40:17.825Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 108579,
+   "name": "홀리데이 아오낭 비치 리조트, 끄라비 (Holiday Ao Nang Beach Resort, Krabi)",
+   "agodaUrl": "https://www.agoda.com/holiday-ao-nang-beach-resort-krabi/hotel/krabi-th.html?cid=1925461",
+   "img": "",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 6394,
+   "priceKRW": 309508,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.039731,
+    "lng": 98.815254
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 6430486,
+   "name": "아나나 에콜로지컬 리조트 크라비 (Anana Ecological Resort Krabi)",
+   "agodaUrl": "https://www.agoda.com/anana-ecological-resort-krabi_3/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6430486/0/0d9315bd0b7b7ae868c055e59cfe9a72.jpg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3953,
+   "priceKRW": 323738,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.035941,
+    "lng": 98.841209
+   },
+   "refLandmark": "아오낭 비치"
+  },
+  {
+   "propertyId": 10835,
+   "name": "라야바디 호텔 (Rayavadee Hotel)",
+   "agodaUrl": "https://www.agoda.com/rayavadee-hotel/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10835/0/7c9f4c46a7feec39406d5bb213c9d19a.jpeg?ce=2",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 3016,
+   "priceKRW": 4173695,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.006522,
+    "lng": 98.839958
+   },
+   "refLandmark": "프라 낭 케이브"
+  },
+  {
+   "propertyId": 37130656,
+   "name": "바라나 크라비 호텔 (VARANA Krabi Hotel)",
+   "agodaUrl": "https://www.agoda.com/varana-hotel/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37130656/0/a5192665af75c52f03d9555d8be381e0.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2837,
+   "priceKRW": 267929,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.057204,
+    "lng": 98.750343
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 44886,
+   "name": "나카만다 리조트 앤 스파 (Nakamanda Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/nakamanda-resort-spa/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/44886/0/0bddb1964d9f6807d43738c1c49c6d60.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2589,
+   "priceKRW": 307013,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.055391,
+    "lng": 98.750702
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 46863856,
+   "name": "호텔 아담 끄라비 (Hotel Adam Krabi)",
+   "agodaUrl": "https://www.agoda.com/hotel-adam-krabi/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46863856/0/367bc4fc334d15fb3b858a7e33a000b8.jpeg",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 2571,
+   "priceKRW": 389989,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.032804,
+    "lng": 98.829391
+   },
+   "refLandmark": "아오낭 비치"
+  },
+  {
+   "propertyId": 69352,
+   "name": "소피텔 크라비 포키트라 골프 앤 스파 리조트 (Sofitel Krabi Phokeethra Golf and Spa Resort)",
+   "agodaUrl": "https://www.agoda.com/sofitel-krabi-phokeethra-golf-spa-resort/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21700143/0/5826a2ffbaa872415eade096cfaf4609.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1895,
+   "priceKRW": 741744,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.063835,
+    "lng": 98.746315
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 15883990,
+   "name": "반얀 트리 끄라비 (Banyan Tree Krabi)",
+   "agodaUrl": "https://www.agoda.com/banyan-tree-krabi/hotel/phuket-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/15883990/0/677cc8803602c8f9c518589ef88099e6.jpeg",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1816,
+   "priceKRW": 1445692,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.095243,
+    "lng": 98.747993
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 90434,
+   "name": "아마리 보그 끄라비 (Amari Vogue Krabi)",
+   "agodaUrl": "https://www.agoda.com/amari-vogue-krabi/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4881401/0/e568513e4b44a855b28671eab2de5d1d.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1661,
+   "priceKRW": 704810,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.093889,
+    "lng": 98.74778
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 1270506,
+   "name": "더 쉘씨 크라비 럭셔리 비치 프론트 리조트 앤 풀 빌라 (The ShellSea Krabi Luxury Beach Front Resort & Pool Villa)",
+   "agodaUrl": "https://www.agoda.com/the-shell-sea-krabi/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1270506/0/438e8ee9d191172ee25857501ff45e0e.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1264,
+   "priceKRW": 305342,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.025702,
+    "lng": 98.88331
+   },
+   "refLandmark": "라일레이 해변"
+  },
+  {
+   "propertyId": 48412,
+   "name": "풀라이 베이, 어 리츠칼튼 리저브 (Phulay Bay, a Ritz-Carlton Reserve)",
+   "agodaUrl": "https://www.agoda.com/phulay-bay-a-ritz-carlton-reserve/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/48412/0/03fc7da3920fd1788c2aad555a4c9e5c.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 557,
+   "priceKRW": 1488212,
+   "brand": "ritz-carlton-reserve",
+   "brandLabel": "리츠칼튼 리저브",
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.084979,
+    "lng": 98.745796
+   },
+   "refLandmark": "노파라타라 비치"
+  },
+  {
+   "propertyId": 81666314,
+   "name": "그랜드 머큐어 끄라비 아오낭 (Grand Mercure Krabi Ao Nang)",
+   "agodaUrl": "https://www.agoda.com/grand-mercure-krabi-aonang/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/81666314/0/b418c12ec93691079d93b412923cdc1e.jpg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 203,
+   "priceKRW": 394967,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.034958,
+    "lng": 98.829216
+   },
+   "refLandmark": "아오낭 비치"
+  },
+  {
+   "propertyId": 34055596,
+   "name": "골든 팜 리조트 (Golden Palm Resort)",
+   "agodaUrl": "https://www.agoda.com/golden-palm-resort-h34055596/hotel/krabi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34055596/0/6c1e787ffb6b68acfc0215c91576b4d0.jpeg?ce=3",
+   "star": 5,
+   "score": 6.6,
+   "reviewCount": 31,
+   "priceKRW": 240997,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 8.043221,
+    "lng": 98.856773
+   },
+   "refLandmark": "아오낭 비치"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "amalfi",
+ "city": "아말피",
+ "region": "europe",
+ "cityId": 9286,
+ "agodaCityName": "아말피",
+ "fetchedAt": "2026-10-07T23:40:17.668Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 162084,
+   "name": "아난타라 콘벤토 디 아말피 그랜드 호텔 (Anantara Convento di Amalfi Grand Hotel)",
+   "agodaUrl": "https://www.agoda.com/nh-collection-grand-hotel-convento-di-amalfi/hotel/amalfi-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4341011/0/07f2e9950afba189839388bc43742dd4.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 524,
+   "priceKRW": 749977,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": true,
+   "geo": {
+    "lat": 40.632996,
+    "lng": 14.597456
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 124556,
+   "name": "Palazzo Confalone",
+   "agodaUrl": "https://www.agoda.com/palazzo-confalone_3/hotel/all/ravello-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/124556/0/9e1d3992b2d9b3d9dec2f834512ae807.jpeg?va=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 250,
+   "priceKRW": 1173429,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 40.65033,
+    "lng": 14.61284
+   },
+   "refLandmark": null
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "slug": "guam",
+ "city": "괌",
+ "region": "oceania",
+ "cityId": 6126,
+ "agodaCityName": "괌",
+ "fetchedAt": "2026-10-07T23:40:17.792Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 870053,
+   "name": "두짓타니 괌 리조트 (Dusit Thani Guam Resort)",
+   "agodaUrl": "https://www.agoda.com/dusit-thani-guam-resort/hotel/guam-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/870053/0/d88740e9948663e39aa5555c98e4e454.png?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 11027,
+   "priceKRW": 414689,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 13.514501,
+    "lng": 144.804962
+   },
+   "refLandmark": "괌 씰 버스정류장"
+  },
+  {
+   "propertyId": 8754192,
+   "name": "더 츠바키 타워 (The Tsubaki Tower)",
+   "agodaUrl": "https://www.agoda.com/the-tsubaki-tower/hotel/guam-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8754192/0/028b4868b941e2a267fecf59995be740.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5304,
+   "priceKRW": 416796,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 13.521581,
+    "lng": 144.805926
+   },
+   "refLandmark": "괌 씰 버스정류장"
+  },
+  {
+   "propertyId": 6441,
+   "name": "힐튼 괌 리조트 앤 스파 (Hilton Guam Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/hilton-guam-resort-spa/hotel/guam-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6441/0/75b2131c3392cf07b415be0b0d7cac3a.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 2125,
+   "priceKRW": 265313,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.505276,
+    "lng": 144.785889
+   },
+   "refLandmark": "괌 씰 버스정류장"
+  },
+  {
+   "propertyId": 263418,
+   "name": "크라운 플라자 리조트 괌 바이 IHG (Crowne Plaza Resort Guam By IHG)",
+   "agodaUrl": "https://www.agoda.com/fiesta-resort-guam/hotel/guam-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/263418/0/907525ef8db0f93cefc5775eb41b036c.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1948,
+   "priceKRW": 257137,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.506124,
+    "lng": 144.798386
+   },
+   "refLandmark": "괌 씰 버스정류장"
+  },
+  {
+   "propertyId": 32182559,
+   "name": "리가 로얄 라구나 괌 리조트 (RIHGA Royal Laguna Guam Resort)",
+   "agodaUrl": "https://www.agoda.com/sheraton-laguna-guam-resort-h30141464/hotel/tamuning-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32182559/0/473b96c0e92bd977e93faaa00184f72b.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 1850,
+   "priceKRW": 210322,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.496807,
+    "lng": 144.771462
+   },
+   "refLandmark": "괌 씰 버스정류장"
+  },
+  {
+   "propertyId": 49072,
+   "name": "웨스틴 리조트 괌 (The Westin Resort Guam)",
+   "agodaUrl": "https://www.agoda.com/the-westin-resort-guam/hotel/guam-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49072/0/dcd4efea8c7a73a3d04b2af53d242b51.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 983,
+   "priceKRW": 291269,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.517927,
+    "lng": 144.806641
+   },
+   "refLandmark": "괌 씰 버스정류장"
+  },
+  {
+   "propertyId": 58853798,
+   "name": "레오팔레스 리조트 괌 - 콘도 (Leopalace Resort Guam - Condo)",
+   "agodaUrl": "https://www.agoda.com/leopalace-resort-guam-hotel/hotel/guam-gu.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/58853798/0/580b4917ff05cc5d3d0433b1c8e901a7.jpeg?va=1",
+   "star": 5,
+   "score": 7.8,
+   "reviewCount": 140,
+   "priceKRW": 255376,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.414835,
+    "lng": 144.73724
+   },
+   "refLandmark": "BMT Bus Stop"
+  }
+ ]
+}

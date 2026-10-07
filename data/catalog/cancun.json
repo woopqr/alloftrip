@@ -1,0 +1,624 @@
+{
+ "slug": "cancun",
+ "city": "칸쿤",
+ "region": "americas",
+ "cityId": 5954,
+ "agodaCityName": "칸쿤",
+ "fetchedAt": "2026-10-07T23:40:17.633Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 1530838,
+   "name": "The Pyramid Cancun by Oasis -Premium Gourmet All Inclusive",
+   "agodaUrl": "https://www.agoda.com/the-pyramid-at-grand-oasis-all-inclusive/hotel/all/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/906569086.jpg?k=4e385487419171633be9f6483c3bfd8de27fe739d5b34bc70a9f883bf7a0bf83&o=",
+   "star": 5,
+   "score": 7.9,
+   "reviewCount": 2348,
+   "priceKRW": 315635,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.117941,
+    "lng": -86.757065
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 45988,
+   "name": "그랜드 피에스타 아메리카나 코랄 비치 칸쿤 올 인클루시브 (Grand Fiesta Americana Coral Beach Cancun All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/grand-fiesta-americana-coral-beach-cancun_6/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/692326093.jpg?k=3c00f5ad746c972763d7067c8ddaa64e7cb1b4e20abd1a0aa7a64bda8898a6ce&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1833,
+   "priceKRW": 961258,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.135685,
+    "lng": -86.744995
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 2458661,
+   "name": "Dreams Sapphire Resort & Spa - All Inclusive",
+   "agodaUrl": "https://www.agoda.com/now-sapphire-riviera-cancun-all-inclusive_3/hotel/puerto-morelos-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2458661/0/bf1311ee5301c5b913d2576ff97bee7a.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 883,
+   "priceKRW": 481438,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.895691,
+    "lng": -86.85833
+   },
+   "refLandmark": "Playa Punta Caracol"
+  },
+  {
+   "propertyId": 2462495,
+   "name": "켐핀스키 호텔 칸쿤 (Kempinski Hotel Cancun)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-cancun-managed-by-kempinski/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2462495/0/8c5ece3164d3b79526c6767077d02751.jpeg?va=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 863,
+   "priceKRW": 586217,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.093458,
+    "lng": -86.768753
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 3473507,
+   "name": "Privilege Aluxes Adults Only",
+   "agodaUrl": "https://www.agoda.com/privilege-aluxes-adults-only_2/hotel/all/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/293901524.jpg?k=9567a354979a0d2ffbea0c816d18036d11905ad3c88e0377fa61deb1e6897182&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 806,
+   "priceKRW": 435416,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.25749,
+    "lng": -86.75132
+   },
+   "refLandmark": "North Beach"
+  },
+  {
+   "propertyId": 50565376,
+   "name": "Mondrian Cancun",
+   "agodaUrl": "https://www.agoda.com/mondrian-cancun-h50565376/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50565376/0/7a85d0f2aac5ef3c12a58ddf3c9d9bc2.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 703,
+   "priceKRW": 562132,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.066761,
+    "lng": -86.783226
+   },
+   "refLandmark": "플라야 델파인"
+  },
+  {
+   "propertyId": 29265471,
+   "name": "Sensira Resort & Spa Riviera Maya",
+   "agodaUrl": "https://www.agoda.com/crown-paradise-club-riviera-maya-h18918533/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34296804/0/5e4cfeba11b16d49f20b28bf1bf8df65.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 651,
+   "priceKRW": 508811,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.909376,
+    "lng": -86.847778
+   },
+   "refLandmark": "소치밀코 칸쿤 바이 스카렛"
+  },
+  {
+   "propertyId": 7011015,
+   "name": "니수크 리조트 앤 스파 (Nizuc Resort and Spa)",
+   "agodaUrl": "https://www.agoda.com/nizuc-resort-spa/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7011015/0/a4352fe690cf8b6258a8c280d2e172c5.jpeg?va=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 621,
+   "priceKRW": 850845,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.034103,
+    "lng": -86.78907
+   },
+   "refLandmark": "웻앤와일드 칸쿤"
+  },
+  {
+   "propertyId": 83461,
+   "name": "JW 메리어트 칸쿤 리조트 앤 스파 (JW Marriott Cancun Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-cancun-resort-spa/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/83461/0/e51eb1150ea3eb74c6fcfba1fc79333c.jpeg?va=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 575,
+   "priceKRW": 650428,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.088253,
+    "lng": -86.770866
+   },
+   "refLandmark": "아베니다 쿠쿨칸"
+  },
+  {
+   "propertyId": 42552525,
+   "name": "시크릿츠 플라야 블랑카 코스타 무헤레스 - 올 인클루시브 - 성인 전용 (Secrets Playa Blanca Costa Mujeres - All Inclusive - Adults Only)",
+   "agodaUrl": "https://www.agoda.com/secrets-playa-blanca-costa-mujeres/hotel/cuautitlan-izcalli-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42552525/0/9d164c067e9b677beb8be55e861ff0af.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 573,
+   "priceKRW": 1010864,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.295889,
+    "lng": -86.813469
+   },
+   "refLandmark": "Mujeres Beach"
+  },
+  {
+   "propertyId": 17985785,
+   "name": "SLS Cancun Hotel & Spa",
+   "agodaUrl": "https://www.agoda.com/sls-cancun/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/17985785/-1/b2406b2cde9b79e2b0fb60f2a9a20340.jpg?va=1&ca=17&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 517,
+   "priceKRW": 425963,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.166912,
+    "lng": -86.803955
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 7011046,
+   "name": "문 팰리스 더 그랜드 칸쿤 - 올인클루시브 (Moon Palace The Grand Cancun - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/the-grand-at-moon-palace-all-inclusive_6/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7011046/0/1098a5567ec0f3d39fd7a61518a84722.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 516,
+   "priceKRW": 1548142,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.988239,
+    "lng": -86.829239
+   },
+   "refLandmark": "소치밀코 칸쿤 바이 스카렛"
+  },
+  {
+   "propertyId": 32383781,
+   "name": "로얄턴 스플래시 리비에라 칸쿤, 언 오토그래프 컬렉션 올-인클루시브 리조트 (Royalton Splash Riviera Cancun, An Autograph Collection All-Inclusive Resort)",
+   "agodaUrl": "https://www.agoda.com/royalton-splash-riviera-cancun/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32383781/0/7acaac427cb073f272d93ab2ce650cda.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 7.9,
+   "reviewCount": 451,
+   "priceKRW": 644885,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.940228,
+    "lng": -86.838646
+   },
+   "refLandmark": "소치밀코 칸쿤 바이 스카렛"
+  },
+  {
+   "propertyId": 2457916,
+   "name": "르 블랑 스파 리조트 칸쿤 – 성인 전용 – 올 인클루시브 (Le Blanc Spa Resort Cancun – Adults Only – All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/le-blanc-spa-resort-all-inclusive-adults-only_2/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2457916/0/cb11caa64fda5484405f0a6977cb2eee.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 421,
+   "priceKRW": 1370041,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.126194,
+    "lng": -86.753479
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 60218145,
+   "name": "SLS PLAYA MUJERES",
+   "agodaUrl": "https://www.agoda.com/paradisus-playa-mujeres-h15842968/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60218145/0/776fc23f31d4c0022865caae19a84604.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 400,
+   "priceKRW": 688671,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.236206,
+    "lng": -86.802498
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 25562174,
+   "name": "Casa del Jaguar Beach Hotel",
+   "agodaUrl": "https://www.agoda.com/casa-del-jaguar-beach-hotel/hotel/all/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/353368260.jpg?k=677dc89f83907cf2b32678a71e75abfa08a0c663d87956e54f48548d9847cd85&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 307,
+   "priceKRW": 730329,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.261471,
+    "lng": -86.749641
+   },
+   "refLandmark": "North Beach"
+  },
+  {
+   "propertyId": 9771240,
+   "name": "아틀리에 플라야 무헤레스 - 올인클루시브 - 성인 전용 (Atelier Playa Mujeres - All Inclusive - Adults Only)",
+   "agodaUrl": "https://www.agoda.com/inspira-by-atelier-playa-mujeres-all-inclusive-resort/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9771240/0/0ab5337b2f12a1f3f46c4d7e1c9f555e.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 264,
+   "priceKRW": 1166442,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.252681,
+    "lng": -86.812784
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 2459421,
+   "name": "Secrets The Vine Cancun Resort & Spa - All Inclusive -  Adults Only",
+   "agodaUrl": "https://www.agoda.com/secrets-the-vine-cancun-resort-spa-all-inclusive-adult-only/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2459421/0/63b1cf1be4b3fce2ac2ce3a9d6f527ea.jpeg?va=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 233,
+   "priceKRW": 825100,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.090296,
+    "lng": -86.770699
+   },
+   "refLandmark": "아베니다 쿠쿨칸"
+  },
+  {
+   "propertyId": 2458545,
+   "name": "라이브 아쿠아 비치 리조트 칸쿤 - 성인 전용 - 올 인클루시브 (Live Aqua Beach Resort Cancun - Adults Only - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/live-aqua-beach-resort-cancun-adults-only-all-inclusive_2/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2458545/0/d7e6ff48ab4e75e1a66b6e7f09dc6600.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 227,
+   "priceKRW": 706650,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.107782,
+    "lng": -86.763161
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 2540403,
+   "name": "파이니스트 플라야 무헤레스 - 올 인클루시브 (Finest Playa Mujeres - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/finest-playa-mujeres-all-inclusive/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2540403/-1/741feb0342f94eb189b3c6541db0bdc3.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 206,
+   "priceKRW": 1014458,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.244522,
+    "lng": -86.80603
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 33406879,
+   "name": "임프레션 이슬라 무헤레스 바이 시크릿 – 성인 전용 – 올 인클루시브 (Impression Isla Mujeres by Secrets – Adults only – All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/secrets-impression-isla-mujeres/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 194,
+   "priceKRW": 2241549,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.212769,
+    "lng": -86.72319
+   },
+   "refLandmark": "Indios Beach"
+  },
+  {
+   "propertyId": 288798,
+   "name": "빌라 델 팔마르 칸쿤 (Villa Del Palmar Cancun)",
+   "agodaUrl": "https://www.agoda.com/villa-del-palmar-cancun/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/288798/-1/44b33eec623469633d0de5dcaa891766.jpg?va=1&ca=22&ce=0",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 186,
+   "priceKRW": 493278,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.232752,
+    "lng": -86.80201
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 7314692,
+   "name": "Lotus Beach Hotel - Adults Only",
+   "agodaUrl": "https://www.agoda.com/lotus-beach-hotel-adults-only/hotel/all/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/199114045.jpg?k=825fd9aebbf23b63532c1be1fdff5f25043fd9f544c85dcf6867a937e90ebc8d&o=",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 161,
+   "priceKRW": 728269,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.261829,
+    "lng": -86.749474
+   },
+   "refLandmark": "North Beach"
+  },
+  {
+   "propertyId": 28259950,
+   "name": "Garza Blanca Resort and Spa Cancun",
+   "agodaUrl": "https://www.agoda.com/garza-blanca-resort-spa-cancun/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/28259950/-1/aa1021b8d7580eadf84cb613bd2ad430.jpg?va=1&ca=26&ce=0",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 161,
+   "priceKRW": 707473,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.231752,
+    "lng": -86.803551
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 4853723,
+   "name": "Temptation at The Tower Cancún Resort - All Inclusive - Adults Only (Temptation at The Tower Cancun Resort - All Inclusive - Adults Only)",
+   "agodaUrl": "https://www.agoda.com/the-tower-by-temptation-cancun-resort-all-inclusive-adults-only/hotel/all/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/336408350.jpg?k=e8b8143d41808246967cf20fbbaa6cb51078520bb2822151e2e8e33deaa67ed7&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 156,
+   "priceKRW": 765091,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.148359,
+    "lng": -86.792297
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 21964836,
+   "name": "Waldorf Astoria Riviera Maya",
+   "agodaUrl": "https://www.agoda.com/waldorf-astoria-cancun/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/833739628.jpg?k=4722ac603dc055f2108ef7eea532c19e1c048e4d091654e625c91b0729345a20&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 151,
+   "priceKRW": 1272094,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.966711,
+    "lng": -86.863937
+   },
+   "refLandmark": "소치밀코 칸쿤 바이 스카렛"
+  },
+  {
+   "propertyId": 7485333,
+   "name": "Secrets Mirabel Cancun Resort & Spa - Adults Only - Breathtaking Lagoon and Ocean Views",
+   "agodaUrl": "https://www.agoda.com/now-emerald-cancun/hotel/all/san-miguel-de-cozumel-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/874489925.jpg?k=682044020b58d8c4ab3471c1353a935f7032a077eeb4f5514cf84ffd1f77b232&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 131,
+   "priceKRW": 709561,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.05401,
+    "lng": -86.781906
+   },
+   "refLandmark": "플라야 델파인"
+  },
+  {
+   "propertyId": 23044389,
+   "name": "Secrets Riviera Cancún Resort & Spa - Adults Only - All Inclusive",
+   "agodaUrl": "https://www.agoda.com/secrets-riviera-cancun-resort-spa/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23044389/0/e3c44f762f5756c4fea4cb7da1fbb15c.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 108,
+   "priceKRW": 756987,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.902712,
+    "lng": -86.849564
+   },
+   "refLandmark": "Playa Punta Caracol"
+  },
+  {
+   "propertyId": 54626516,
+   "name": "Hotel Mousai Cancun All-Inclusive Adults Only",
+   "agodaUrl": "https://www.agoda.com/hotel-mousai-cancun-adults-only/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/740484165.jpg?k=ca9045a8385bf6ff99e8b8dfc19764ae312520cefc7fde0aceeae4c6a5e17339&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 103,
+   "priceKRW": 1462318,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.229578,
+    "lng": -86.803894
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 80162303,
+   "name": "Royalton Reserve Paraíso de la Bonita, A Luxury Collection Resort, Riviera Maya, Adult All-Inclusive",
+   "agodaUrl": "https://www.agoda.com/zoetry-paraiso-de-la-bonita-riviera-maya-all-inclusive_3/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2465829/0/0fe3e937d037b62be22e8d26a7786210.jpeg?va=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 93,
+   "priceKRW": 802625,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.911039,
+    "lng": -86.847031
+   },
+   "refLandmark": "소치밀코 칸쿤 바이 스카렛"
+  },
+  {
+   "propertyId": 4290,
+   "name": "인터컨티넨탈 프레지덴테 칸쿤 리조트 바이 IHG (Intercontinental Presidente Cancun Resort By IHG)",
+   "agodaUrl": "https://www.agoda.com/presidente-intercontinental-cancun-resort/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4290/0/194320ed0c5ca2c434871c773207b77c.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 62,
+   "priceKRW": 529018,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.135004,
+    "lng": -86.754257
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 2457535,
+   "name": "Almare, a Luxury Collection Resort, Isla Mujeres Cancun, Adult All-Inclusive",
+   "agodaUrl": "https://www.agoda.com/almare-isla-mujeres/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2457535/0/fe3c46798d6c533a2269c6a7dcf45e64.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 61,
+   "priceKRW": 886303,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.218523,
+    "lng": -86.728851
+   },
+   "refLandmark": "Lancheros Beach"
+  },
+  {
+   "propertyId": 2540402,
+   "name": "엑셀런스 플라야 무헤레스 - 올 인클루시브 - 성인 전용 (Excellence Playa Mujeres- All Inclusive- Adults Only)",
+   "agodaUrl": "https://www.agoda.com/excellence-playa-mujeres-all-inclusive-adults-only/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2540402/-1/c3e5afcf9849c7a3af96037d1613f264.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 41,
+   "priceKRW": 1054760,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.243092,
+    "lng": -86.805557
+   },
+   "refLandmark": "Cancun Bus Station"
+  },
+  {
+   "propertyId": 182739,
+   "name": "엑셀런스 리베라 캉쿤 올 인클루시브 - 어덜트 온리 (Excellence Riviera Cancun All Inclusive - Adults Only)",
+   "agodaUrl": "https://www.agoda.com/excellence-riviera-cancun-all-inclusive-adults-only/hotel/cancun-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/182739/0/ac8176446d2c7a9de5b7d771779027e1.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 41,
+   "priceKRW": 788928,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.875343,
+    "lng": -86.866356
+   },
+   "refLandmark": "Playa Punta Caracol"
+  }
+ ]
+}

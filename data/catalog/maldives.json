@@ -1,0 +1,2208 @@
+{
+ "slug": "maldives",
+ "city": "몰디브",
+ "region": "indian-ocean",
+ "cityId": 17759,
+ "agodaCityName": "몰디브 아일랜드",
+ "fetchedAt": "2026-10-07T23:40:17.534Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 12161,
+   "name": "빌라 노티카 파라다이스 아일랜드 리조트 (Villa Nautica Paradise Island Resort)",
+   "agodaUrl": "https://www.agoda.com/the-haven-at-paradise-island/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12161/0/de9fa7708c5012afc1727d85c2323be4.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 7136,
+   "priceKRW": 689448,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.286329,
+    "lng": 73.55394
+   },
+   "refLandmark": "후라 섬"
+  },
+  {
+   "propertyId": 12159,
+   "name": "미루 몰디브 리조트 아일랜드 (Meeru Maldives Resort Island)",
+   "agodaUrl": "https://www.agoda.com/meeru-island-resort-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12159/0/f617bfb6f49c5fbcbd8379edc6cb524b.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 6069,
+   "priceKRW": 677367,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.453854,
+    "lng": 73.716972
+   },
+   "refLandmark": "Meeru Island Beach"
+  },
+  {
+   "propertyId": 12136,
+   "name": "반도스 몰디브 (Bandos Maldives)",
+   "agodaUrl": "https://www.agoda.com/bandos-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12136/0/c7a2e17c1e09ca75c6fda005cc5a38c7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4307,
+   "priceKRW": 580033,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.269382,
+    "lng": 73.491669
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 12153,
+   "name": "니바 쿠룸바 몰디브 (Niva Kurumba Maldives)",
+   "agodaUrl": "https://www.agoda.com/kurumba-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12153/0/176686bcb8c455bec229f1539a332b39.png?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2668,
+   "priceKRW": 446097,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.225478,
+    "lng": 73.520653
+   },
+   "refLandmark": "Villingili Public Beach"
+  },
+  {
+   "propertyId": 12154,
+   "name": "니바 벨라사루 몰디브 (Niva Velassaru Maldives)",
+   "agodaUrl": "https://www.agoda.com/velassaru-maldives-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12154/0/fa1b172dffb42e9a53dfbb9fd40b182e.png?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2565,
+   "priceKRW": 641682,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.121635,
+    "lng": 73.436996
+   },
+   "refLandmark": "Velassaru Beach"
+  },
+  {
+   "propertyId": 6361911,
+   "name": "하드 록 호텔 몰디브 (Hard Rock Hotel Maldives - FREE shared speedboat for stays from 01st Mar to 21st Dec 2026)",
+   "agodaUrl": "https://www.agoda.com/hard-rock-hotel-maldives_3/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/410902685.jpg?k=afa17fbbd3960e58572d7f6022195cc10a78406bfbafdc454e55ba954e2e201b&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2544,
+   "priceKRW": 580763,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.123857,
+    "lng": 73.472794
+   },
+   "refLandmark": "Velassaru Beach"
+  },
+  {
+   "propertyId": 1994725,
+   "name": "그랜드 파크 코디파루 몰디브 (Grand Park Kodhipparu Maldives)",
+   "agodaUrl": "https://www.agoda.com/grand-park-kodhipparu-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1994725/-1/1c20dd2f27924a9e77b4653ff5be1d60.jpg?va=1&ca=20&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2516,
+   "priceKRW": 612723,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.25945,
+    "lng": 73.379761
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 12163,
+   "name": "로얄 아일랜드 리조트 몰디브 (Royal Island Resort Maldives)",
+   "agodaUrl": "https://www.agoda.com/royal-island-resort-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12163/-1/4c774147deb4128bffa3f7363fa9f7fb.jpg?ca=23&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1968,
+   "priceKRW": 431272,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.162743,
+    "lng": 73.053108
+   },
+   "refLandmark": "Turtle Beach"
+  },
+  {
+   "propertyId": 12147,
+   "name": "쉐라톤 몰디브 풀 문 리조트 앤 스파 (Sheraton Maldives Full Moon Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/sheraton-maldives-full-moon-resort-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/573840463.jpg?k=9ed2cd58f815ab7f56e57643c557023876a0d3096d204763f75b4f789b413ccf&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1841,
+   "priceKRW": 806709,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.250102,
+    "lng": 73.546364
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 1110380,
+   "name": "푸라베리 몰디브 (Furaveri Maldives - FREE seaplane transfer for two pax 5 night+ 10th April 2026 to 23rd Dec 2026)",
+   "agodaUrl": "https://www.agoda.com/furaveri-island-resort-and-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1110380/-1/0cbda75f807871972805dd878f6ca322.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1808,
+   "priceKRW": 974767,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.440274,
+    "lng": 72.908852
+   },
+   "refLandmark": "Heritance Aarah Beach"
+  },
+  {
+   "propertyId": 12167,
+   "name": "빌라 파크 선 아일랜드 리조트 (Villa Park Sun Island Resort)",
+   "agodaUrl": "https://www.agoda.com/sun-island-resort-spa_12/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12167/-1/115eed7204686f44187bdcaa3af3296e.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1692,
+   "priceKRW": 595210,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.484185,
+    "lng": 72.801659
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 13801511,
+   "name": "래디슨 블루 리조트 몰디브 (Radisson Blu Resort Maldives with 50 percent off on Sea Plane round trip & SPA 03 nights & above)",
+   "agodaUrl": "https://www.agoda.com/radisson-blu-resort-maldives/hotel/alifu-alifu-atoll-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/667682736.jpg?k=8171e85bcf384d6e9c096a4b3c8fc9838fd7208bcc449360f5678ecca097834a&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1588,
+   "priceKRW": 881330,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.544117,
+    "lng": 72.719833
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 1198620,
+   "name": "후라와히 아일랜드 리조트 (Hurawalhi Island Resort)",
+   "agodaUrl": "https://www.agoda.com/hurawalhi-island-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1198620/0/a4f215225c56230bf871f41a93cecfea.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1436,
+   "priceKRW": 1411735,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.520982,
+    "lng": 73.441811
+   },
+   "refLandmark": "Kudadhoo Maldives Beach"
+  },
+  {
+   "propertyId": 4220014,
+   "name": "Malahini Kuda Bandos Resort (Malahini Kuda Bandos Special Offer Begin your island escape with ease airport pick up and return by )",
+   "agodaUrl": "https://www.agoda.com/malahini-kuda-bandos-resort_3/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/903596809.jpg?k=5faed0619d2f096c5c5ab4b24c7c8442ce2a9790243a831bd29e4296967f22d7&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1375,
+   "priceKRW": 269252,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.26383,
+    "lng": 73.499893
+   },
+   "refLandmark": "One Love Beach"
+  },
+  {
+   "propertyId": 168871,
+   "name": "선 시얌 이루 푸시 - 최소 7박 숙박 시 2인 무료 트랜스퍼 포함 (Sun Siyam Iru Fushi - Free Transfer for two with minimum 7 nights stay)",
+   "agodaUrl": "https://www.agoda.com/the-sun-siyam-iru-fushi-luxury-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/168871/0/fe7fcb6fdf8889e330faa963b1a3b64a.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1330,
+   "priceKRW": 764763,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.744612,
+    "lng": 73.323334
+   },
+   "refLandmark": "Sun Siyam Iru Fushi Beach"
+  },
+  {
+   "propertyId": 49121,
+   "name": "아다란 프레스티지 바두 – 성인 전용 프리미엄 올 인클루시브 위드 프리 트랜스퍼스 (Adaaran Prestige Vadoo – Adults Only Premium All Inclusive with Free Transfers)",
+   "agodaUrl": "https://www.agoda.com/adaaran-prestige-vadoo-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49121/-1/b657e304a31878e75b23f5b39fc3dca2.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1222,
+   "priceKRW": 1902193,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.123786,
+    "lng": 73.457359
+   },
+   "refLandmark": "Velassaru Beach"
+  },
+  {
+   "propertyId": 7449513,
+   "name": "사이 라군 몰디브, 큐리오 컬렉션 바이 힐튼 (SAii Lagoon Maldives, Curio Collection by Hilton)",
+   "agodaUrl": "https://www.agoda.com/saii-lagoon-maldives-curio-collection-by-hilton/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7449513/-1/e625ad892eafef4ca26eb0751867c494.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1190,
+   "priceKRW": 1276253,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.120249,
+    "lng": 73.468185
+   },
+   "refLandmark": "Velassaru Beach"
+  },
+  {
+   "propertyId": 1196176,
+   "name": "말라히니 쿠다 반도스 (Malahini Kuda Bandos offers speedboat transfer for only USD 75 per person until 31 October)",
+   "agodaUrl": "https://www.agoda.com/malahini-kuda-bandos-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1196176/0/0d4a4105b55b070c9484bea4765b0ac9.jpeg",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 1143,
+   "priceKRW": 361299,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.264161,
+    "lng": 73.499268
+   },
+   "refLandmark": "One Love Beach"
+  },
+  {
+   "propertyId": 35496510,
+   "name": "누이 몰디브스 쿠나바시 (NOOE Maldives Kunaavashi)",
+   "agodaUrl": "https://www.agoda.com/kunaavashi-resort-maldives/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35496510/-1/f659efbe83eab6e0876abfa6a49015be.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1135,
+   "priceKRW": 596101,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.618821,
+    "lng": 73.368843
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 6362619,
+   "name": "더 스탠다드, 몰디브스, 바이 하얏트 (The Standard, Maldives, by Hyatt)",
+   "agodaUrl": "https://www.agoda.com/carpe-diem-beach-resort-spa_2/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/73892022/0/1942c650bac8ee4231ffaeb1503f386c.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1075,
+   "priceKRW": 719752,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.392237,
+    "lng": 72.978905
+   },
+   "refLandmark": "Adaaran Meedhupparu Beach"
+  },
+  {
+   "propertyId": 1258071,
+   "name": "칸디마 몰디브 (Kandima Maldives – 50% Off Domestic Flights for stays of min 4 nights from 11th Apr to 31st Oct 2026)",
+   "agodaUrl": "https://www.agoda.com/kandima-maldives-escape-the-ordinary/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/125/1258071/1258071_17082221240055597437.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1062,
+   "priceKRW": 330992,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.738257,
+    "lng": 73.016411
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 8112507,
+   "name": "VARU by Atmosphere - Premium All Inclusive with Free Transfers",
+   "agodaUrl": "https://www.agoda.com/varu-by-atmosphere-premium-all-inclusive-with-free-transfers/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/35801623/0/850e73fd4862d056afd75edbc943d461.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1029,
+   "priceKRW": 1508693,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.5009,
+    "lng": 73.368477
+   },
+   "refLandmark": "One & Only Reethi Rah Beach"
+  },
+  {
+   "propertyId": 16069494,
+   "name": "시얌 월드 몰디브 - 24시간 프리미엄 올 인클루시브 위드 프리 트랜스퍼 (Siyam World Maldives - 24-Hour Premium All-inclusive with Free Transfer)",
+   "agodaUrl": "https://www.agoda.com/siyam-world/hotel/male-city-and-airport-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/16069494/0/66a2d46a7aa8d36e75c0dc4c20f175e5.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1022,
+   "priceKRW": 1285833,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.733253,
+    "lng": 73.358963
+   },
+   "refLandmark": "Sun Siyam Iru Fushi Beach"
+  },
+  {
+   "propertyId": 7474724,
+   "name": "시나몬 벨리푸시 몰디브 (Cinnamon Velifushi Maldives)",
+   "agodaUrl": "https://www.agoda.com/cinnamon-velifushi-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7474724/-1/cb82ef16d4f699ce1d4079650d7b5237.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1016,
+   "priceKRW": 973788,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.499129,
+    "lng": 73.529068
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 97247,
+   "name": "시나몬 하쿠라 후라 몰디브 - 올 인클루시브 성인 전용 이스케이프 (Cinnamon Hakuraa Huraa Maldives - All Inclusive Adults-Only Escape)",
+   "agodaUrl": "https://www.agoda.com/cinnamon-hakuraa-huraa-maldives-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/97247/-1/afb1586c4f97d8679c4b05d2d8d64df4.jpg?va=1&ca=10&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 907,
+   "priceKRW": 946198,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.853663,
+    "lng": 73.53907
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 13303538,
+   "name": "카기 몰디브 리조트 앤 스파 (Kagi Maldives Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/kagi-maldives-spa-island/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13303538/-1/20e01fd4ccd531829d329825e50e7e17.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 889,
+   "priceKRW": 818473,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.677001,
+    "lng": 73.501114
+   },
+   "refLandmark": "OBLU by Atmosphere at Helengeli Beach"
+  },
+  {
+   "propertyId": 12142,
+   "name": "코코 보두 히티 - 최소 5박 투숙 시 무료 트랜스퍼, 2027년 9월 30일까지 투숙, 2026년 10월 15일까지 예약 (Coco Bodu Hithi - Free transfer for min 5 night stay, for stays until 30 Sep'27, book by 15 Oct'26)",
+   "agodaUrl": "https://www.agoda.com/coco-bodu-hithi/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12142/0/3b6d9da31b5c4bc1df9caa993cdee7c2.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 846,
+   "priceKRW": 1249429,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.429466,
+    "lng": 73.38485
+   },
+   "refLandmark": "Bodu Hithi Beach"
+  },
+  {
+   "propertyId": 49059,
+   "name": "선 시얌 빌루 리프 – 24 아워즈 올-인클루시브 (Sun Siyam Vilu Reef – 24 Hours All-Inclusive)",
+   "agodaUrl": "https://www.agoda.com/sun-aqua-vilu-reef_6/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49059/-1/5c4e8d6e9245e96c69b10799eebfc2fb.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 823,
+   "priceKRW": 848522,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.003337,
+    "lng": 73.000626
+   },
+   "refLandmark": "Sun Aqua Beach"
+  },
+  {
+   "propertyId": 4140104,
+   "name": "에메랄드 몰디브 리조트 앤 스파 - 디럭스 올 인클루시브 (Emerald Maldives Resort & Spa - Deluxe All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/emerald-maldives-resort-spa-deluxe-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4140104/0/ebcc0708ae47a8f0ef661d3cca58ece0.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 779,
+   "priceKRW": 1400948,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.493483,
+    "lng": 72.880295
+   },
+   "refLandmark": "Dhigali Maldives Beach"
+  },
+  {
+   "propertyId": 41474,
+   "name": "바로스 몰디브  (Baros Maldives)",
+   "agodaUrl": "https://www.agoda.com/baros-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/829449315.jpg?k=3a1bff91b1445804adb5485f875ebac510b82334063bf985867f4943dca06cf5&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 753,
+   "priceKRW": 1083025,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.28504,
+    "lng": 73.427048
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 41483,
+   "name": "릴리 비치 리조트 앤 스파 - 올 인클루시브 (Lily Beach Resort & Spa - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/lily-beach-resort-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41483/0/2279241f1842725edd6f014efa1e1a2d.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 745,
+   "priceKRW": 1755060,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.653681,
+    "lng": 72.954132
+   },
+   "refLandmark": "Maafushivaru Maldives Beach"
+  },
+  {
+   "propertyId": 237780,
+   "name": "콘스탄스 무푸시 - 올 인클루시브 (Constance Moofushi - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/constance-moofushi/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/887796875.jpg?k=99f0b804b93e6db74302290d9cd0f3c0e2a2d19d3f5ff36ee1cb1374464388b4&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 701,
+   "priceKRW": 1320042,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.884839,
+    "lng": 72.727969
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 41513,
+   "name": "앙사나 벨라바루 - 2026년 9월 30일까지 무료 왕복 씨플레인 트랜스퍼 (Angsana Velavaru - Free return Seaplane Transfers until 30th Sep 2026)",
+   "agodaUrl": "https://www.agoda.com/angsana-velavaru-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41513/-1/80cb6d231a329578bead7e0e42fc578c.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 686,
+   "priceKRW": 638284,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.98073,
+    "lng": 73.014931
+   },
+   "refLandmark": "Velavaru Beach"
+  },
+  {
+   "propertyId": 165484,
+   "name": "콘스턴스 하라벨리 (Constance Halaveli)",
+   "agodaUrl": "https://www.agoda.com/constance-halaveli/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/33381457.jpg?k=a5d5e281dc1d0e1e808363502a8d659ccd1d941eb400db84d22d4ab8c07d7912&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 624,
+   "priceKRW": 1489236,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.038291,
+    "lng": 72.919393
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 12137,
+   "name": "반얀 트리 바빈파루 (Banyan Tree Vabbinfaru)",
+   "agodaUrl": "https://www.agoda.com/banyan-tree-vabbinfaru-resort_4/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12137/0/44b927496ca5a43e3dfcf04b253289ce.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 582,
+   "priceKRW": 1631419,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.309887,
+    "lng": 73.424004
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 148962,
+   "name": "아난타라 벨리 몰디브 리조트 (Anantara Veli Maldives Resort)",
+   "agodaUrl": "https://www.agoda.com/anantara-veli-maldives-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/148962/-1/fba48f786fdad9993acc537778417458.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 578,
+   "priceKRW": 1583166,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.967396,
+    "lng": 73.505316
+   },
+   "refLandmark": "Makunufushi Cocoa Island Beach"
+  },
+  {
+   "propertyId": 852968,
+   "name": "Atmosphere Kanifushi - Premium All Inclusive with Free Transfers",
+   "agodaUrl": "https://www.agoda.com/atmosphere-kanifushi-premium-all-inclusive-with-free-transfers/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/34101736/0/0ecc12fc80961f668e1e7a2971a7b1c3.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 524,
+   "priceKRW": 1501312,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.36335,
+    "lng": 73.333267
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 70348,
+   "name": "아난타라 디구 몰디브 리조트 (Anantara Dhigu Maldives Resort)",
+   "agodaUrl": "https://www.agoda.com/anantara-dhigu-maldives-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/222597522.jpg?k=4f6380476dda48dede968fa453226b19d6a15a90f46cf0c8d30cd5c34b30b921&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 523,
+   "priceKRW": 1376363,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.972801,
+    "lng": 73.502054
+   },
+   "refLandmark": "Makunufushi Cocoa Island Beach"
+  },
+  {
+   "propertyId": 1535787,
+   "name": "니바 디갈리 몰디브 - 어 프리미엄 올인클루시브 리조트 (Niva Dhigali Maldives - A Premium All-Inclusive Resort)",
+   "agodaUrl": "https://www.agoda.com/dhigali-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1535787/0/1d7799bcfb5f6edb0b118eeb181c7d69.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 500,
+   "priceKRW": 933360,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.475669,
+    "lng": 72.954086
+   },
+   "refLandmark": "Dhigali Maldives Beach"
+  },
+  {
+   "propertyId": 2196299,
+   "name": "푸시파루 몰디브 (Fushifaru Maldives)",
+   "agodaUrl": "https://www.agoda.com/fushifaru-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2196299/0/b404facb5d7de0c9e70fd0ebab3db42e.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 491,
+   "priceKRW": 1037396,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.491099,
+    "lng": 73.515579
+   },
+   "refLandmark": "Kudadhoo Maldives Beach"
+  },
+  {
+   "propertyId": 1642172,
+   "name": "OZEN LIFE MAADHOO - Luxury All Inclusive",
+   "agodaUrl": "https://www.agoda.com/ozen-life-maadhoo-luxury-all-inclusive/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/24897226/0/4fbb5aa04cbee50d7972e6a94982c7ec.jpg?va=1&ca=19&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 490,
+   "priceKRW": 2156644,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.8712,
+    "lng": 73.458656
+   },
+   "refLandmark": "Kandooma Beach"
+  },
+  {
+   "propertyId": 2570309,
+   "name": "리티 파루 리조트 - 5박 이상 투숙 시 무료 선셋 크루즈 제공 (Reethi Faru Resort - Stay 5 Nights or More and Enjoy a Free Sunset Cruise)",
+   "agodaUrl": "https://www.agoda.com/reethi-faru-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2570309/-1/b0d143b203d627eadec03a67cdc33d41.png?ca=15&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 467,
+   "priceKRW": 338669,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.491389,
+    "lng": 72.937737
+   },
+   "refLandmark": "Dhigali Maldives Beach"
+  },
+  {
+   "propertyId": 5820571,
+   "name": "쿠레디바루 리조트 앤 스파 - 몰디브스 (Kuredhivaru Resort and Spa - Maldives)",
+   "agodaUrl": "https://www.agoda.com/movenpick-resort-kuredhivaru-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5820571/0/a63fb9ec4f412137bb504ca81a9ae7f0.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 465,
+   "priceKRW": 1033410,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.875099,
+    "lng": 73.343323
+   },
+   "refLandmark": "Kuredhivaru Beach"
+  },
+  {
+   "propertyId": 178193,
+   "name": "LUX* 사우스 아리 아톨 (LUX* South Ari Atoll)",
+   "agodaUrl": "https://www.agoda.com/lux-south-ari-atoll/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/624629166.jpg?k=da2ffafd9448b7e5287bec4aa602c0477c951f53ec6822b7b5d018b0b8a98983&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 450,
+   "priceKRW": 1863917,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.49903,
+    "lng": 72.896988
+   },
+   "refLandmark": "Vakarufalhi Maldives Beach"
+  },
+  {
+   "propertyId": 64575769,
+   "name": "두싯D2 페이두 몰디브 - 올 인클루시브 리조트 위드 프리 트랜스퍼 (dusitD2 Feydhoo Maldives - All Inclusive Resort with Free Transfers)",
+   "agodaUrl": "https://www.agoda.com/dusitd2-feydhoo-maldives/hotel/male-city-and-airport-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64575769/0/0b936b6983239a9264c2c9e417cd5e9b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 439,
+   "priceKRW": 1347156,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.21289,
+    "lng": 73.484726
+   },
+   "refLandmark": "One Love Beach"
+  },
+  {
+   "propertyId": 40266545,
+   "name": "RAAYA By Atmosphere - Premium All Inclusive with Free Transfers",
+   "agodaUrl": "https://www.agoda.com/amari-raaya-maldives_9/hotel/all/default-city-km.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/598313004.jpg?k=7ec0814118280967396a339a1a8122136a56b0460d71366335e993dd3b4f9874&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 438,
+   "priceKRW": 1565922,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.584643,
+    "lng": 73.044952
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 24329775,
+   "name": "코라 코라 몰디브스 - 프리미엄 올-인클루시브 리조트 (Cora Cora Maldives - Premium All-Inclusive Resort)",
+   "agodaUrl": "https://www.agoda.com/cora-cora-maldives-premium-all-inclusive-resort/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/24329775/-1/43118178fb082d683a909fb01b6d21d2.jpg?va=1&ca=27&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 438,
+   "priceKRW": 1012486,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.650883,
+    "lng": 72.885056
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 161911,
+   "name": "마차푸시 아일랜드 리조트 앤 스파 몰디브, 더 센타라 컬렉션 (Machchafushi Island Resort & Spa Maldives, The Centara Collection)",
+   "agodaUrl": "https://www.agoda.com/centara-grand-island-resort-spa-maldives-ultimate-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/161911/-1/0146fed15abe49a1e7da27237ab5a2be.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 433,
+   "priceKRW": 1033406,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.59388,
+    "lng": 72.88353
+   },
+   "refLandmark": "Maafushivaru Maldives Beach"
+  },
+  {
+   "propertyId": 3532770,
+   "name": "Machchafushi Island Resort & Spa Maldives, The Centara Collection (Machchafushi Island Resort & Spa Maldives, The Centara Collection - Stay 4 nights or more, enjoy 25 )",
+   "agodaUrl": "https://www.agoda.com/centara-grand-island-resort-spa/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/356793061.jpg?k=714796856e54a4ded493894ac5b2fcb89a41a5305d82b7d05a5f5d90abcbb398&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 425,
+   "priceKRW": 973043,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.594629,
+    "lng": 72.883957
+   },
+   "refLandmark": "Maafushivaru Maldives Beach"
+  },
+  {
+   "propertyId": 6358918,
+   "name": "유 앤 미 몰디브 - 성인 전용 - 프리미엄 올-인클루시브 (You & Me Maldives - Adults Only - Premium All-Inclusive)",
+   "agodaUrl": "https://www.agoda.com/you-me-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6358918/0/e6ba52aed517edca314d0d7a7cacd9cd.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 403,
+   "priceKRW": 1293117,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.670075,
+    "lng": 72.845848
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 32183167,
+   "name": "노바 몰디브스 (Nova Maldives)",
+   "agodaUrl": "https://www.agoda.com/nova-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32183167/0/fa455c9cec543f062171458b8c48adba.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 402,
+   "priceKRW": 1028489,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.579077,
+    "lng": 72.90197
+   },
+   "refLandmark": "Vakarufalhi Maldives Beach"
+  },
+  {
+   "propertyId": 5235945,
+   "name": "Sun Siyam Iru Veli - 24 Hours Premium All-Inclusive Dine Around with Free Transfers (Sun Siyam Iru Veli - 24 Hours Premium All Inclusive Dine Around with Free Sea Plane Transfers & Excl)",
+   "agodaUrl": "https://www.agoda.com/sun-siyam-iru-veli-premium-all-inclusive_2/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/871500667.jpg?k=c9d25cbcd87d1491125005c60afb164d9b29951a5520a06c521a1138b084b93d&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 385,
+   "priceKRW": 2074419,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.933911,
+    "lng": 72.960831
+   },
+   "refLandmark": "Bandidhoo Crystal Beach"
+  },
+  {
+   "propertyId": 42240735,
+   "name": "조이 아일랜드 몰디브스 올 인클루시브 리조트 (Joy Island Maldives All Inclusive Resort)",
+   "agodaUrl": "https://www.agoda.com/joy-island/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42240735/0/caf0a536f8bf8b396aba9818b19adc06.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 377,
+   "priceKRW": 1206148,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.416667,
+    "lng": 73.5
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 12169,
+   "name": "타지 엑조티카 리조트 앤 스파, 몰디브 (Taj Exotica Resort & Spa, Maldives)",
+   "agodaUrl": "https://www.agoda.com/taj-exotica-resort-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/121/12169/12169_16110218060048365837.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 371,
+   "priceKRW": 879309,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.101827,
+    "lng": 73.525871
+   },
+   "refLandmark": "Villingili Public Beach"
+  },
+  {
+   "propertyId": 31445943,
+   "name": "힐튼 몰디브 아밍기리 리조트 앤 스파 (Hilton Maldives Amingiri Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/hilton-maldives-amingiri-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31445943/0/03d6758975782f3bafd6076d835035cf.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 365,
+   "priceKRW": 1518898,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.250044,
+    "lng": 73.366714
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 97270,
+   "name": "콘래드 몰디브 랑갈리 아일랜드 (Conrad Maldives Rangali Island)",
+   "agodaUrl": "https://www.agoda.com/conrad-maldives-rangali-island-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/838330142.jpg?k=19918c3d4b5024c0d4754e57d085a726fe1b1b7c67a4b511d421a450a17634d2&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 356,
+   "priceKRW": 1484516,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.616796,
+    "lng": 72.722839
+   },
+   "refLandmark": "Mandhoo Beach"
+  },
+  {
+   "propertyId": 1265320,
+   "name": "디구파루 아일랜드 리조트 (Dhigufaru Island Resort)",
+   "agodaUrl": "https://www.agoda.com/dhigufaru-island-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1265320/0/7775edd4e91d9543a7e4412c8c6ce035.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 347,
+   "priceKRW": 550888,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.35241,
+    "lng": 72.989922
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 1184769,
+   "name": "코쿤 몰디브 - 올인클루시브 (Cocoon Maldives - All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/cocoon-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1184769/0/9c9b0b3662890b0e0ec1138c43ae6352.png?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 343,
+   "priceKRW": 730580,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.281695,
+    "lng": 73.622864
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 5796569,
+   "name": "에메랄드 파루푸시 리조트 앤 스파 - 디럭스 올인클루시브 (Emerald Faarufushi Resort & Spa – Deluxe All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/faarufushi-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5796569/-1/f527bc6ba39cf38a078ae746b4ed5b7f.jpg?va=1&ca=27&ce=0",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 332,
+   "priceKRW": 2009308,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.768432,
+    "lng": 72.965622
+   },
+   "refLandmark": "Dhekunu Thundi Beach"
+  },
+  {
+   "propertyId": 168882,
+   "name": "JA 마나파루 더 리얼 몰디브 (JA Manafaru The Real Maldives)",
+   "agodaUrl": "https://www.agoda.com/ja-manafaru/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/168882/0/e488c8e41713fda12407f64e1f6a0883.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 330,
+   "priceKRW": 1108995,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.996055,
+    "lng": 72.940666
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 41484,
+   "name": "V 빌라스 몰디브 앳 미리히 - 엠갤러리 컬렉션 (V Villas Maldives at Mirihi - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/v-villas-maldives-at-mirihi-mgallery-collection-h41484/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41484/0/8b93810c084b0908bb49d39042f2be33.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 315,
+   "priceKRW": 1606509,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.619911,
+    "lng": 72.781143
+   },
+   "refLandmark": "Angaga Island Beach"
+  },
+  {
+   "propertyId": 3534092,
+   "name": "Coco Bodu Hithi (Coco Bodu Hithi - Stay Minimum 5 Nights and Enjoy Complimentary Shared Roundtrip Speedboat Valid for)",
+   "agodaUrl": "https://www.agoda.com/coco-bodu-hithi_2/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/741132037.jpg?k=19c1af163196cf5f173a6c40be747565808f7d41db0039d45837959a0a659a19&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 313,
+   "priceKRW": 1496988,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.43045,
+    "lng": 73.384552
+   },
+   "refLandmark": "Bodu Hithi Beach"
+  },
+  {
+   "propertyId": 12168,
+   "name": "타지 코랄 리프 리조트 앤 스파 몰디브 - 프리미엄 올 인클루시브 위드 프리 트랜스퍼 (Taj Coral Reef Resort & Spa, Maldives - Premium All Inclusive with Free Transfers)",
+   "agodaUrl": "https://www.agoda.com/vivanta-by-taj-coral-reef_4/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12168/0/8f7e356c113b8366fb40f7f2e11582dc.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 306,
+   "priceKRW": 1238485,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.482135,
+    "lng": 73.393478
+   },
+   "refLandmark": "One & Only Reethi Rah Beach"
+  },
+  {
+   "propertyId": 287062,
+   "name": "두싯 타니 몰디브 – 5박 투숙 시 트랜스퍼 50% 할인, 2026년 10월 23일까지 투숙 (Dusit Thani Maldives – 50% Discount on Transfers for Stays of 5 Nights stay until 23rd October 2026)",
+   "agodaUrl": "https://www.agoda.com/dusit-thani-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/287062/-1/fd8f17c2fc1b06493c256369f129d31a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 280,
+   "priceKRW": 1206576,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.205515,
+    "lng": 73.083755
+   },
+   "refLandmark": "Turtle Beach"
+  },
+  {
+   "propertyId": 11136898,
+   "name": "브레니아 코테파루 몰디브 (Brennia Kottefaru Maldives)",
+   "agodaUrl": "https://www.agoda.com/brennia-kottefaru/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11136898/-1/359ebc9b8ed151a5e93a90b4be10d350.jpg?va=1&ca=27&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 278,
+   "priceKRW": 819933,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.509815,
+    "lng": 73.042023
+   },
+   "refLandmark": "Adaaran Meedhupparu Beach"
+  },
+  {
+   "propertyId": 295576,
+   "name": "더 레지던스 몰디브 앳 팔후마아푸시 (The Residence Maldives at Falhumaafushi)",
+   "agodaUrl": "https://www.agoda.com/the-residence-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/295/295576/295576_15061514550029539615.jpg?va=1&ca=4&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 278,
+   "priceKRW": 2176481,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.669807,
+    "lng": 73.43811
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 296607,
+   "name": "니야마 프라이빗 아일랜드 몰디브 (Niyama Private Islands Maldives)",
+   "agodaUrl": "https://www.agoda.com/niyama-private-islands-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/296607/0/d8f68aa01adcb9ed6d07045aeaa8368a.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 275,
+   "priceKRW": 1617633,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.680886,
+    "lng": 72.93235
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 626247,
+   "name": "하이드어웨이 비치 리조트 앤 스파 (Hideaway Beach Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/hideaway-beach-resort-and-spa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/626247/0/eced443c6694ed2f7e6f9de694fb73b4.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 274,
+   "priceKRW": 1137152,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.8444,
+    "lng": 73.050797
+   },
+   "refLandmark": "Thakandhoo Beach"
+  },
+  {
+   "propertyId": 985574,
+   "name": "NH 컬렉션 몰디브 하보다 리조트 (NH Collection Maldives Havodda Resort)",
+   "agodaUrl": "https://www.agoda.com/nh-collection-maldives-havodda-resort/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/985574/-1/dc984dec9bf6e27fc9323e8cb870a26c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 248,
+   "priceKRW": 816273,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.54032,
+    "lng": 73.095169
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 34735800,
+   "name": "오아가 아트 리조트 몰디브 – 올 인클루시브 (Oaga Art Resort Maldives – All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/oaga-art-resort/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34735800/-1/2fa2d22ca33425dc59f03b40cb80f1a8.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 242,
+   "priceKRW": 2494420,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.610056,
+    "lng": 73.420395
+   },
+   "refLandmark": "Eriyadu Beach"
+  },
+  {
+   "propertyId": 3524572,
+   "name": "Dusit Thani Maldives - Mudhdhoo Island, Baa Atoll",
+   "agodaUrl": "https://www.agoda.com/dusit-thani-maldives_4/hotel/all/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/639739088.jpg?k=a7c93f42163de24793bc268e9b510d820d35f4e82be5d0c8540baaf5fc19260d&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 240,
+   "priceKRW": 1111136,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.205515,
+    "lng": 73.083755
+   },
+   "refLandmark": "Turtle Beach"
+  },
+  {
+   "propertyId": 64596428,
+   "name": "무라카 디구라 (Muraka Dhigurah)",
+   "agodaUrl": "https://www.agoda.com/muraka-dhigurah/hotel/south-ari-atoll-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64596428/-1/6d002d21d7f1a40336301642d0eff9a3.jpg?ce=0",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 233,
+   "priceKRW": 320636,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.538194,
+    "lng": 72.931053
+   },
+   "refLandmark": "Vakarufalhi Maldives Beach"
+  },
+  {
+   "propertyId": 3219820,
+   "name": "시루 펜 후시 프라이빗 라군 리조트 몰디브 (Sirru Fen Fushi Private Lagoon Resort Maldives)",
+   "agodaUrl": "https://www.agoda.com/sirru-fen-fushi-maldives/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/654496618.jpg?k=013831b79dac0f38de48ca558a78d6db2a1ab474f5bebf3fee02ed4570eb4bb0&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 232,
+   "priceKRW": 1004348,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.291041,
+    "lng": 73.010918
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 6887624,
+   "name": "더 레지던스 몰디브 앳 디구라 (The Residence Maldives at Dhigurah)",
+   "agodaUrl": "https://www.agoda.com/the-residence-maldives-at-dhigurah/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6887624/0/9499d25da50c5c26ce4f33accb4d7333.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 223,
+   "priceKRW": 2543349,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.691471,
+    "lng": 73.441277
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 19090091,
+   "name": "바글리오니 리조트 몰디브 - 럭셔리 올 인클루시브 (Baglioni Resort Maldives - Luxury All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/baglioni-restort-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/19090091/0/2a82790c270282f7f896aff64ddd362b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 220,
+   "priceKRW": 3099787,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.947552,
+    "lng": 72.914528
+   },
+   "refLandmark": "Maagau Beach"
+  },
+  {
+   "propertyId": 9612246,
+   "name": "풀만 몰디브 마무타 올-인클루시브 리조트 (Pullman Maldives Maamutaa All-Inclusive Resort)",
+   "agodaUrl": "https://www.agoda.com/pullman-maldives-maamutaa-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9612246/-1/13cbe83c220dbdee6bc4af863a3490d9.jpg?va=1&ca=10&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 215,
+   "priceKRW": 2377625,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.847116,
+    "lng": 73.4077
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 2549250,
+   "name": "바카루 몰디브 (Vakkaru Maldives)",
+   "agodaUrl": "https://www.agoda.com/vakkaru-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2549250/-1/c9428b4cf127d2b8270478f34ff65372.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 213,
+   "priceKRW": 1794711,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.133935,
+    "lng": 72.909882
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 65498,
+   "name": "코모 코코아 아일랜드 (COMO Cocoa Island)",
+   "agodaUrl": "https://www.agoda.com/como-cocoa-island/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/371376160.jpg?k=46362125e587bc8cea9963001cd37cdd3e2fb321bc83f65ab73e930e7204710c&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 213,
+   "priceKRW": 1521142,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.918013,
+    "lng": 73.469444
+   },
+   "refLandmark": "Makunufushi Cocoa Island Beach"
+  },
+  {
+   "propertyId": 70351,
+   "name": "후바펜 푸시 몰디브 (Huvafen Fushi Maldives)",
+   "agodaUrl": "https://www.agoda.com/huvafen-fushi-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70351/-1/7f67db9e72e714b1ed4d87992eb83629.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 206,
+   "priceKRW": 3266244,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.368213,
+    "lng": 73.37014
+   },
+   "refLandmark": "Bodu Hithi Beach"
+  },
+  {
+   "propertyId": 37920969,
+   "name": "마디푸시 프라이빗 아일랜드 - 5박 이상 투숙 시 국내선 왕복 항공권 및 스피드보트 무료 제공 (Madifushi Private Island- Stay 5 Nights or More & Enjoy Free Roundtrip DOMESTIC FLIGHT & SPEEDBOAT)",
+   "agodaUrl": "https://www.agoda.com/madifushi-private-island/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37920969/0/76a1ad459c70dfd726f4ab994dca330f.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 206,
+   "priceKRW": 1112847,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.009034,
+    "lng": 73.512291
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 1162982,
+   "name": "밀라이두 몰디브 (Milaidhoo Maldives)",
+   "agodaUrl": "https://www.agoda.com/milaidhoo-island-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1162982/0/1633e835955ef33e98f53fb2889b290c.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 196,
+   "priceKRW": 2457718,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.266897,
+    "lng": 73.128693
+   },
+   "refLandmark": "Four Seasons Voavah Beach"
+  },
+  {
+   "propertyId": 178294,
+   "name": "아난타라 키하바 몰디브 빌라 (Anantara Kihavah Maldives Villas)",
+   "agodaUrl": "https://www.agoda.com/anantara-kihavah-maldives-villas/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/56147064/1283955006/cf7eeae025f941eb7385751d8bc9d518.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 188,
+   "priceKRW": 3065249,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.296263,
+    "lng": 73.057068
+   },
+   "refLandmark": "Four Seasons Voavah Beach"
+  },
+  {
+   "propertyId": 409631,
+   "name": "아웃트리거 몰디브 마푸시바루 리조트 (Outrigger Maldives Maafushivaru Resort)",
+   "agodaUrl": "https://www.agoda.com/maafushivaru-maldives-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/409631/-1/8857b85d625e46a04264e633cd163d9f.jpg?va=1&ca=13&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 187,
+   "priceKRW": 2537017,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.607947,
+    "lng": 72.900452
+   },
+   "refLandmark": "Maafushivaru Maldives Beach"
+  },
+  {
+   "propertyId": 41984866,
+   "name": "루쉬코카 비치 빌라 (Rushkokaa Beach Villa)",
+   "agodaUrl": "https://www.agoda.com/rushkokaa-beach-villa/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41984866/0/e7db48e4deaf4ba7f2b00ee2927b8ea1.jpg?ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 180,
+   "priceKRW": 236663,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.680349,
+    "lng": 73.417625
+   },
+   "refLandmark": "Dhiggiri Beach"
+  },
+  {
+   "propertyId": 30794581,
+   "name": "OBLU SELECT Lobigili - Premium All-Inclusive with Free Transfers",
+   "agodaUrl": "https://www.agoda.com/oblu-select-lobigili-premium-all-inclusive-with-free-transfers/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/50667996/0/084bec7733a51f8b54f1fdb5ee0351b5.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 177,
+   "priceKRW": 1826635,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.30668,
+    "lng": 73.501343
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 286275,
+   "name": "Ayada Maldives ",
+   "agodaUrl": "https://www.agoda.com/ayada-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/286275/0/10a9930643410dea024338c4db29bc61.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 172,
+   "priceKRW": 2008312,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.277404,
+    "lng": 73.357002
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 5869355,
+   "name": "헤리턴스 아라 - 프리미엄 올 인클루시브 - 말레에서 수상 비행기로 40분 거리 (Heritance Aarah - Premium All Inclusive - 40 Minutes away from Male by Seaplane)",
+   "agodaUrl": "https://www.agoda.com/heritance-aarah-premium-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5869355/-1/3810a44ece17c769d5ce3cfee9bc578f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 170,
+   "priceKRW": 2077023,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.447347,
+    "lng": 72.94088
+   },
+   "refLandmark": "Heritance Aarah Beach"
+  },
+  {
+   "propertyId": 5312760,
+   "name": "선 시암 이루 벨리 - 24 아워즈 올-인클루시브 위드 프리 트랜스퍼즈 (Sun Siyam Iru Veli - 24 Hours All-Inclusive with Free Transfers)",
+   "agodaUrl": "https://www.agoda.com/sun-aqua-iru-veli-premium-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5312760/0/3c160cae99f29b30f0d1f7c5d1be3a8c.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 163,
+   "priceKRW": 1181360,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.933204,
+    "lng": 72.961159
+   },
+   "refLandmark": "Bandidhoo Crystal Beach"
+  },
+  {
+   "propertyId": 55664817,
+   "name": "센타라 미라지 라군 몰디브 - 프리 라운드 트립 스피드보트, 17 4월 - 15 10월 26 사이 최소 4박 (Centara Mirage Lagoon Maldives - Free Round Trip Speedboat, Min 4 nights between 17 Apr - 15 Oct 26)",
+   "agodaUrl": "https://www.agoda.com/centara-mirage-lagoon-maldives/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/55664817/0/554035553f274a10466dcf5431b7a294.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 156,
+   "priceKRW": 574962,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.314653,
+    "lng": 73.347565
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 6601321,
+   "name": "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi)",
+   "agodaUrl": "https://www.agoda.com/waldorf-astoria-maldives-ithaafushi/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8545711/0/800b4985dd8402f597a14da27494ee70.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 154,
+   "priceKRW": 5017860,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.013,
+    "lng": 73.382736
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 759829,
+   "name": "아밀라 몰디브스 (Amilla Maldives)",
+   "agodaUrl": "https://www.agoda.com/amilla-fushi-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/759829/0/78bd8bd0f47cd5922f2e4dc4ffd75949.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 151,
+   "priceKRW": 1519108,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.234024,
+    "lng": 73.113014
+   },
+   "refLandmark": "Four Seasons Voavah Beach"
+  },
+  {
+   "propertyId": 33104090,
+   "name": "알릴라 코타이파루 몰디브스, 어 하얏트 리조트 (Alila Kothaifaru Maldives, A Hyatt Resort)",
+   "agodaUrl": "https://www.agoda.com/alila-kothaifaru-maldives/hotel/raa-atoll-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31130122/0/222af1795c7bbaa1cb9771356acfb904.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 133,
+   "priceKRW": 1653813,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.525925,
+    "lng": 72.842758
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 63312882,
+   "name": "노쿠 몰디브, 비그넷 컬렉션 바이 IHG (Noku Maldives, Vignette Collection By IHG)",
+   "agodaUrl": "https://www.agoda.com/noku-maldives/hotel/noonu-atoll-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/638060482.jpg?k=214d69be0ed79ff15076f9de61b284ca5a152351d106a92fce770454010636ca&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 133,
+   "priceKRW": 928282,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.884517,
+    "lng": 73.377861
+   },
+   "refLandmark": "Kuredhivaru Beach"
+  },
+  {
+   "propertyId": 6890324,
+   "name": "인터컨티넨탈 몰디브 마무나가우 리조트 위드 클럽 베네핏 바이 IHG (Intercontinental Maldives Maamunagau Resort with Club benefits By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-maldives-maamunagau-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6890324/-1/67b3debaf8b395b632cddb12031c8190.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 129,
+   "priceKRW": 1580171,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.359949,
+    "lng": 72.919502
+   },
+   "refLandmark": "Heritance Aarah Beach"
+  },
+  {
+   "propertyId": 1160419,
+   "name": "피놀루, 어 씨사이드 컬렉션 리조트 (Finolhu, a Seaside Collection Resort)",
+   "agodaUrl": "https://www.agoda.com/finolhu/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1160419/-1/14328d5fcc6dfc7b3b27f4296e5d1742.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 128,
+   "priceKRW": 1218091,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.011594,
+    "lng": 72.95054
+   },
+   "refLandmark": "Coco Palm Dhuni Kolhu Beach"
+  },
+  {
+   "propertyId": 79099,
+   "name": "W 몰디브 (W Maldives)",
+   "agodaUrl": "https://www.agoda.com/w-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/790/79099/79099_19012210410071569049.jpg?va=1&ca=13&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 127,
+   "priceKRW": 4141337,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.007253,
+    "lng": 72.810684
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 40316040,
+   "name": "주메이라 올하할리 아일랜드 (Jumeirah Olhahali Island)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-olhahali-island/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/40316040/-1/b7280ccf6cb5e04a2deb45ad327f8afe.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 118,
+   "priceKRW": 2102491,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.689438,
+    "lng": 73.451347
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 564118,
+   "name": "칸돌루 몰디브 (Kandolhu Maldives)",
+   "agodaUrl": "https://www.agoda.com/kandolhu-maldives/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/564118/0/2707cf3a4c76057f14f529d64537bb87.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 118,
+   "priceKRW": 2344610,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.002477,
+    "lng": 72.881775
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 45329435,
+   "name": "이푸루 아일랜드 몰디브 (Ifuru Island Maldives)",
+   "agodaUrl": "https://www.agoda.com/ifuru-island-premium-all-inclusive-resort/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45329435/0/9e05d131e126261f7299243ac2b7ce46.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 118,
+   "priceKRW": 444457,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.70813,
+    "lng": 73.022499
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 165225,
+   "name": "아다란 프레스티지 워터 빌라 – 24hrs 다인 어라운드 프리미엄 올 인클루시브 (Adaaran Prestige Water Villas – 24hrs Dine around Premium All inclusive )",
+   "agodaUrl": "https://www.agoda.com/adaaran-prestige-water-villas-premium-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/165/165225/165225_15122916570038787834.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 114,
+   "priceKRW": 1450550,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.456124,
+    "lng": 72.979149
+   },
+   "refLandmark": "Adaaran Meedhupparu Beach"
+  },
+  {
+   "propertyId": 5750598,
+   "name": "쿠다두 몰디브 프라이빗 아일랜드 - 럭셔리 올 인클루시브 (Kudadoo Maldives Private Island – Luxury All inclusive)",
+   "agodaUrl": "https://www.agoda.com/kudadoo-maldives-private-island-luxury-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5750598/-1/a5efdca085d406eb617aa48fd208ea3e.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 112,
+   "priceKRW": 5831165,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.502619,
+    "lng": 73.433556
+   },
+   "refLandmark": "Kudadhoo Maldives Beach"
+  },
+  {
+   "propertyId": 22139529,
+   "name": "Patina Maldives, Fari Islands",
+   "agodaUrl": "https://www.agoda.com/patina-maldives-fari-islands_2/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/380232020.jpg?k=07bd7084ad42aa9a23826a094f7d2104e95882221649e5282ca1b1bcd5c1a264&o=",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 107,
+   "priceKRW": 5512401,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.623052,
+    "lng": 73.568916
+   },
+   "refLandmark": "OBLU by Atmosphere at Helengeli Beach"
+  },
+  {
+   "propertyId": 23738295,
+   "name": "더 리츠칼튼 몰디브, 파리 아일랜드 (The Ritz-Carlton Maldives, Fari Islands)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23738295/-1/b523e4581d34768f6f01f7ab794f551f.jpg?va=1&ca=28&ce=0",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 98,
+   "priceKRW": 7263258,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.604176,
+    "lng": 73.580399
+   },
+   "refLandmark": "OBLU by Atmosphere at Helengeli Beach"
+  },
+  {
+   "propertyId": 38589216,
+   "name": "팜스 리트리트 (Palms retreat )",
+   "agodaUrl": "https://www.agoda.com/palms-retreat/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38589216/0/979244a5e9f5a3e171e69cdc1b6e51da.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 98,
+   "priceKRW": 241823,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.884598,
+    "lng": 72.936501
+   },
+   "refLandmark": "White Sandy Beach"
+  },
+  {
+   "propertyId": 186617,
+   "name": "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives)",
+   "agodaUrl": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/186617/-1/09ade07dcc28c32ffec99a0ab58b19d3.jpg?va=1&ca=24&ce=0",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 95,
+   "priceKRW": 2305933,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.971175,
+    "lng": 73.506437
+   },
+   "refLandmark": "Makunufushi Cocoa Island Beach"
+  },
+  {
+   "propertyId": 529297,
+   "name": "COMO 말리푸시 (COMO Maalifushi)",
+   "agodaUrl": "https://www.agoda.com/como-maalifushi/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/371355321.jpg?k=d857dba710e4e753b483a16f1895a7daa6004ba0d10a30940ec16b6bb75248ae&o=",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 95,
+   "priceKRW": 3838207,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.30985,
+    "lng": 73.298119
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 61870202,
+   "name": "JW 메리어트 몰디브 카푸 아톨 아일랜드 리조트 (JW Marriott Maldives Kaafu Atoll Island Resort)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-maldives-kaafu-atoll-island-resort/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61870202/0/91cc5a227b2e1de0a3f35559eb707015.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 93,
+   "priceKRW": 2731253,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.089934,
+    "lng": 73.523758
+   },
+   "refLandmark": "Villingili Public Beach"
+  },
+  {
+   "propertyId": 46063435,
+   "name": "식스센스 카누후라 (Six Senses Kanuhura)",
+   "agodaUrl": "https://www.agoda.com/kanuhura-resort-maldives/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46063435/0/0ef94df055e45267626e73faba0fe72f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 92,
+   "priceKRW": 2081005,
+   "brand": "six-senses",
+   "brandLabel": "식스센스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.533728,
+    "lng": 73.506035
+   },
+   "refLandmark": "Kudadhoo Maldives Beach"
+  },
+  {
+   "propertyId": 161831,
+   "name": "파크 하얏트 몰디브 하다하 (Park Hyatt Maldives Hadahaa)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-maldives-hadahaa/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2287061/0/4a1392eee5b91682ef086772ed909585.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 81,
+   "priceKRW": 3948045,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.505525,
+    "lng": 73.454094
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 23135020,
+   "name": "쿠다 빌링길리 리조트 몰디브 (Kuda Villingili Resort Maldives - Free return transfers from 3 nights stay and above)",
+   "agodaUrl": "https://www.agoda.com/the-chedi-kudavillingili/hotel/male-city-and-airport-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23135020/-1/f01ff1b2f24ad11ca1c16870f658c114.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 78,
+   "priceKRW": 1943486,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.377471,
+    "lng": 73.661781
+   },
+   "refLandmark": "치킨스 서프 포인트"
+  },
+  {
+   "propertyId": 43723215,
+   "name": "Joy Island Maldives",
+   "agodaUrl": "https://www.agoda.com/joy-island-maldives/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/43723215/0/6df325b91c8d6bf0fb6f963b21331f3a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 73,
+   "priceKRW": 1873276,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.5221,
+    "lng": 73.66301
+   },
+   "refLandmark": "Meeru Island Beach"
+  },
+  {
+   "propertyId": 16260193,
+   "name": "Pullman Maldives All-Inclusive Resort",
+   "agodaUrl": "https://www.agoda.com/pullman-maldives-all-inclusive-resort-h16260193/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/9612246/241936032/f44b261ecf21c59d4a128c5d82cb7f78.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 71,
+   "priceKRW": 2409290,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.847412,
+    "lng": 73.40715
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 4610535,
+   "name": "OBLU SELECT Sangeli - Premium All Inclusive with Free Transfers",
+   "agodaUrl": "https://www.agoda.com/oblu-select-sangeli-premium-all-inclusive-with-free-transfers/hotel/all/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/35784838/0/75b40466aaa51b36cc00d031a6707b46.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 69,
+   "priceKRW": 1460543,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.63777,
+    "lng": 73.400688
+   },
+   "refLandmark": "Eriyadu Beach"
+  },
+  {
+   "propertyId": 1267405,
+   "name": "더 세인트 레지스 몰디브 봄물리 리조트 (The St. Regis Maldives Vommuli Resort)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-maldives-vommuli-resort/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4880847/1154079662/20f58bb41379b5b1d884c1ae545bce0d.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 63,
+   "priceKRW": 5731234,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 2.911319,
+    "lng": 72.866104
+   },
+   "refLandmark": "Rinbudhoo Beach"
+  },
+  {
+   "propertyId": 67594597,
+   "name": "파티나 몰디브 (Patina Maldives)",
+   "agodaUrl": "https://www.agoda.com/patina-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67594597/0/caa18abf224d63291484dcd4a860170d.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 59,
+   "priceKRW": 3067568,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.628029,
+    "lng": 73.570045
+   },
+   "refLandmark": "OBLU by Atmosphere at Helengeli Beach"
+  },
+  {
+   "propertyId": 62927895,
+   "name": "센타라 그랜드 라군 몰디브 (Centara Grand Lagoon Maldives - Free Round Trip Speedboat, Min 4 nights between 17 Apr - 15 Oct 26)",
+   "agodaUrl": "https://www.agoda.com/centara-grand-lagoon-maldives/hotel/north-male-atoll-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/62927895/0/defb507b785e0575df2047af6b7708ab.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 59,
+   "priceKRW": 1198194,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 3.202778,
+    "lng": 73.22068
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 256734,
+   "name": "더 할시온 프라이빗 아일스 몰디브, 오토그래프 컬렉션 (The Halcyon Private Isles Maldives, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/the-halcyon-private-isles-maldives-autograph-collection-h256734/hotel/maldive-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/256734/0/0c6c0a111f5407275a3fd71765532d5a.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 58,
+   "priceKRW": 3961555,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 0.586385,
+    "lng": 73.093414
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 64244803,
+   "name": "Centara Grand Lagoon Maldives - Free Round Trip Speedboat when stay 4 nights or more between 17 Apri",
+   "agodaUrl": "https://www.agoda.com/centara-grand-lagoon-maldives/hotel/all/north-male-atoll-mv.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/718557050.jpg?k=219f4e441c4caa226dc1da0892d678b99960fb8c9b00f12fd8982be921371887&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 54,
+   "priceKRW": 1219608,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.310654,
+    "lng": 73.349182
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 12164,
+   "name": "소네바 푸시 (Soneva Fushi)",
+   "agodaUrl": "https://www.agoda.com/soneva-fushi/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12164/-1/74fa28286e732513983739b21bfb124e.jpg?va=1&ca=13&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 49,
+   "priceKRW": 4323566,
+   "brand": "soneva",
+   "brandLabel": "소네바",
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.11283,
+    "lng": 73.078308
+   },
+   "refLandmark": "Dolphin Beach"
+  },
+  {
+   "propertyId": 75647471,
+   "name": "메야푸시 몰디브 - 프리미엄 올 인클루시브 (Meyyafushi Maldives - Premium All Inclusive)",
+   "agodaUrl": "https://www.agoda.com/meyyafushi-maldives/hotel/faafu-atoll-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/75647471/0/e73dd31193c26d2fa6d32637981b2574.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 48,
+   "priceKRW": 1752780,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.440951,
+    "lng": 73.608871
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 74519679,
+   "name": "아나네아 마디바루 몰디브 (ananea Madivaru Maldives)",
+   "agodaUrl": "https://www.agoda.com/ananea-madivaru-maldives/hotel/alifu-alifu-atoll-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/74519679/0/c69d6c700584da1944b61de6ab49a192.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 39,
+   "priceKRW": 1323715,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 4.118856,
+    "lng": 72.937881
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 1255203,
+   "name": "소네바 자니 (Soneva Jani)",
+   "agodaUrl": "https://www.agoda.com/soneva-jani/hotel/maldives-islands-mv.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1255203/-1/1e198018b0224355b7db1ce00d40ceaf.jpg?va=1&ca=17&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 34,
+   "priceKRW": 4013818,
+   "brand": "soneva",
+   "brandLabel": "소네바",
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.713871,
+    "lng": 73.41581
+   },
+   "refLandmark": "Manadhoo Beach"
+  }
+ ]
+}

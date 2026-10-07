@@ -1,0 +1,912 @@
+{
+ "slug": "kyoto",
+ "city": "교토",
+ "region": "east-asia",
+ "cityId": 1784,
+ "agodaCityName": "교토",
+ "fetchedAt": "2026-10-07T23:40:17.644Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 81775,
+   "name": "호텔 그랑비아 교토 (Hotel Granvia Kyoto)",
+   "agodaUrl": "https://www.agoda.com/hotel-granvia-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/81775/-1/2c7cd1970ba2e913eff80e1dc78752a7.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 13865,
+   "priceKRW": 477845,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.985878,
+    "lng": 135.760254
+   },
+   "refLandmark": "교토역"
+  },
+  {
+   "propertyId": 5583852,
+   "name": "더 사우전드 교토 (THE THOUSAND KYOTO)",
+   "agodaUrl": "https://www.agoda.com/the-thousand-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5583852/0/56d23018bf610cdfe13b52de33573fd8.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 8146,
+   "priceKRW": 839196,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 34.98642,
+    "lng": 135.761233
+   },
+   "refLandmark": "교토역"
+  },
+  {
+   "propertyId": 7491188,
+   "name": "굿 네이처 호텔 교토 (GOOD NATURE HOTEL KYOTO)",
+   "agodaUrl": "https://www.agoda.com/good-nature-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7491188/0/3f10cfe68001be2881b6a3dcb998764b.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 8048,
+   "priceKRW": 764668,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.00259,
+    "lng": 135.769028
+   },
+   "refLandmark": "가와라마치역"
+  },
+  {
+   "propertyId": 2063510,
+   "name": "호텔 더 셀레스틴 교토 기온 (HOTEL THE CELESTINE KYOTO GION)",
+   "agodaUrl": "https://www.agoda.com/hotel-the-celestine-kyoto-gion/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2063510/0/e6adf70ae03ecc149f6e4b890cb0a0be.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 7171,
+   "priceKRW": 790952,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 34.998737,
+    "lng": 135.773828
+   },
+   "refLandmark": "기요미즈고조역"
+  },
+  {
+   "propertyId": 48925486,
+   "name": "미츠이 가든 호텔 교토 산조 프리미어 (Mitsui Garden Hotel Kyoto Sanjo Premier)",
+   "agodaUrl": "https://www.agoda.com/kyoto-sanjo-hotel-tentative-name/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/48925486/0/75d0f27a0fb80cfd7f2e2e8cc393b7ab.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 5476,
+   "priceKRW": 712551,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.008438,
+    "lng": 135.762009
+   },
+   "refLandmark": "가라스마오이케역"
+  },
+  {
+   "propertyId": 13482279,
+   "name": "Ace Hotel Kyoto",
+   "agodaUrl": "https://www.agoda.com/ace-hotel-kyoto_2/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/267232995.jpg?k=c439d6b30272baf6051de6cfc444c5034afa43653e1a64a35867bb5ea648d47c&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 5151,
+   "priceKRW": 914346,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.00951,
+    "lng": 135.759857
+   },
+   "refLandmark": "가라스마오이케역"
+  },
+  {
+   "propertyId": 488381,
+   "name": "호텔 닛코 프린세스 교토 (Hotel Nikko Princess Kyoto)",
+   "agodaUrl": "https://www.agoda.com/hotel-nikko-princess-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/488381/0/81e42e6643176249078cc5e9a311697b.jpeg?ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 4400,
+   "priceKRW": 904762,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.000496,
+    "lng": 135.760773
+   },
+   "refLandmark": "시조역"
+  },
+  {
+   "propertyId": 36108527,
+   "name": "교토 우메코지 카덴쇼 - 프라이빗 배스 퍼실리티 - 교리츠 리조트 (Kyoto Umekoji Kadensho - Private bath facility -Kyoritsu Resort)",
+   "agodaUrl": "https://www.agoda.com/kyoto-umekoji-kadensho-private-bath-facility-kyoritsu-resort-h36108527/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36108527/0/f23e5f4a9b48d0e6dcfce1c139d8b727.png?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 3520,
+   "priceKRW": 607351,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.989723,
+    "lng": 135.742386
+   },
+   "refLandmark": "우메코지교토니시역"
+  },
+  {
+   "propertyId": 52137965,
+   "name": "컨티뉴 니조조 노스 (Continue Nijojo Kita)",
+   "agodaUrl": "https://www.agoda.com/continue-nijojo-kita/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52137965/-1/4050319fb9e4c5593152f7479657e6f9.jpg?ce=0",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 3267,
+   "priceKRW": 348300,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.017838,
+    "lng": 135.74797
+   },
+   "refLandmark": "니조조마에역"
+  },
+  {
+   "propertyId": 41201648,
+   "name": "두짓 타니 교토 (Dusit Thani Kyoto)",
+   "agodaUrl": "https://www.agoda.com/dusit-thani-kyoto-h41201648/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41201648/0/1f351c1825211d11532d0bb14db0f088.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2341,
+   "priceKRW": 1293320,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 34.991962,
+    "lng": 135.755035
+   },
+   "refLandmark": "고조역"
+  },
+  {
+   "propertyId": 51415,
+   "name": "더 웨스틴 미야코 교토 (The Westin Miyako Kyoto)",
+   "agodaUrl": "https://www.agoda.com/the-westin-miyako-kyoto_4/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51415/0/84c44778f829a0ad5c6fa9997612ca4b.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2258,
+   "priceKRW": 1286885,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.008804,
+    "lng": 135.787933
+   },
+   "refLandmark": "게아게역"
+  },
+  {
+   "propertyId": 85113,
+   "name": "교토 아라시야마 란잔 호텔 (Kyoto Arashiyama Ranzan Hotel)",
+   "agodaUrl": "https://www.agoda.com/ranzan-hotel/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/85113/0/e2bed423a809ee2e3f4d7db60ae186bd.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1814,
+   "priceKRW": 636493,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.013844,
+    "lng": 135.674327
+   },
+   "refLandmark": "Ebisuya"
+  },
+  {
+   "propertyId": 55527408,
+   "name": "힐튼 교토 (Hilton Kyoto)",
+   "agodaUrl": "https://www.agoda.com/hilton-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/55527408/0/b28acb2d9fc6f630e102976457155b6f.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1622,
+   "priceKRW": 1147829,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.010166,
+    "lng": 135.769608
+   },
+   "refLandmark": "교토시야쿠쇼마에역"
+  },
+  {
+   "propertyId": 62099843,
+   "name": "KOKO 호텔 레지던스 교토 니조 캐슬 (KOKO HOTEL Residence Kyoto Nijo Castle)",
+   "agodaUrl": "https://www.agoda.com/koko-hotel-residence-kyoto-nijo-castle/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/62099843/0/3024980017e09dc4772d5e46f4f4aa5d.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1459,
+   "priceKRW": 862475,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.011505,
+    "lng": 135.755722
+   },
+   "refLandmark": "가라스마오이케역"
+  },
+  {
+   "propertyId": 178116,
+   "name": "교토 난젠지 료칸 야치요 (Kyoto Nanzenji Ryokan Yachiyo)",
+   "agodaUrl": "https://www.agoda.com/kyoto-nanzenji-ryokan-yachiyo/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/178116/0/4a84d289cab6785c0a9654fe6fd2b1e6.jpeg?ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 1374,
+   "priceKRW": 1045220,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.011027,
+    "lng": 135.788795
+   },
+   "refLandmark": "게아게역"
+  },
+  {
+   "propertyId": 42245165,
+   "name": "와카 헤이안 시라카와 호텔 (Waka Heian Shirakawa Hotel)",
+   "agodaUrl": "https://www.agoda.com/rinn-heian-shirakawa-h30889493/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42245165/-1/d4fd141ab2842039440cebe8cdf2af96.jpg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1370,
+   "priceKRW": 287108,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.010082,
+    "lng": 135.780884
+   },
+   "refLandmark": "히가시야마역"
+  },
+  {
+   "propertyId": 29254719,
+   "name": "모가나 (MOGANA)",
+   "agodaUrl": "https://www.agoda.com/mogana-h9026256/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/29254719/0/65f145b64e11033c0299dbcc27a59d26.jpeg",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1064,
+   "priceKRW": 712113,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.010471,
+    "lng": 135.754303
+   },
+   "refLandmark": "니조조마에역"
+  },
+  {
+   "propertyId": 10642492,
+   "name": "Tassel Hotel Sanjo Shirakawa",
+   "agodaUrl": "https://www.agoda.com/tassel-hotel-sanjo-shirakawa_2/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/315296304.jpg?k=ae31d5154f32fdd8489b619969b3efea772c7bde49088df578c178544e0cb099&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1028,
+   "priceKRW": 390115,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.00964,
+    "lng": 135.780777
+   },
+   "refLandmark": "히가시야마역"
+  },
+  {
+   "propertyId": 18466563,
+   "name": "파우촌 호텔 교토 (Fauchon Hotel Kyoto)",
+   "agodaUrl": "https://www.agoda.com/fauchon-hotel-kyoto/hotel/osaka-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/18466563/0/1b657d93a256ba74fda7f3377e1267b5.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 872,
+   "priceKRW": 945387,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.998501,
+    "lng": 135.767715
+   },
+   "refLandmark": "기요미즈고조역"
+  },
+  {
+   "propertyId": 70111,
+   "name": "하얏트 리젠시 교토 (Hyatt Regency Kyoto)",
+   "agodaUrl": "https://www.agoda.com/hyatt-regency-kyoto-hotel/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70111/0/6dc56b008b1b3edcdc52789e13e88c00.jpeg",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 872,
+   "priceKRW": 929411,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.988491,
+    "lng": 135.773193
+   },
+   "refLandmark": "교토시치조역"
+  },
+  {
+   "propertyId": 67803280,
+   "name": "호텔 교토로지 (HOTEL KYOTOLOGY)",
+   "agodaUrl": "https://www.agoda.com/kyotology/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67803280/0/8f2ac8ef3e65fd8685e696a89869af53.jpg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 859,
+   "priceKRW": 463907,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.98672,
+    "lng": 135.7733
+   },
+   "refLandmark": "교토시치조역"
+  },
+  {
+   "propertyId": 34720570,
+   "name": "Marufukuro",
+   "agodaUrl": "https://www.agoda.com/marufukuro_8/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/655992359.jpg?k=d47b244bf8bae7c69901744a182598e907b361c2c4cf16451dc3ac861858e58c&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 685,
+   "priceKRW": 843140,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.991791,
+    "lng": 135.766296
+   },
+   "refLandmark": "교토시치조역"
+  },
+  {
+   "propertyId": 5249115,
+   "name": "도모야 레지던스 호텔 교토 니조 다카쿠라 (Tomoya Residence Hotel Kyoto Nijo Takakura)",
+   "agodaUrl": "https://www.agoda.com/tomoya-residence-hotel-kyoto-nijo-takakura/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5249115/-1/2972a972d4ed5d7e6e9a643648f37ace.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 676,
+   "priceKRW": 484951,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.013748,
+    "lng": 135.762085
+   },
+   "refLandmark": "마루타마치역"
+  },
+  {
+   "propertyId": 86401964,
+   "name": "호텔 오쿠라 교토 오카자키 벳테이 (Hotel Okura Kyoto Okazaki Bettei)",
+   "agodaUrl": "https://www.agoda.com/h29270641/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/86401964/0/8fb2a53bf3cf9184c1b4a3a2b170a64b.jpg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 674,
+   "priceKRW": 507101,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.016827,
+    "lng": 135.788147
+   },
+   "refLandmark": "게아게역"
+  },
+  {
+   "propertyId": 1329522,
+   "name": "포시즌스 호텔 교토 (Four Seasons Hotel Kyoto)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/348465784.jpg?k=e6dafc51518396ebbb76d6eb4360311ab0d1879d43cb251c330b66e25b2113c4&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 447,
+   "priceKRW": 3172282,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.989769,
+    "lng": 135.77597
+   },
+   "refLandmark": "교토시치조역"
+  },
+  {
+   "propertyId": 17526170,
+   "name": "호텔 더 미츠이 교토, 어 럭셔리 컬렉션 호텔 앤 스파 (HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/hotel-the-mitsui-kyoto-a-luxury-collection-hotel-spa/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/17526170/0/08d6c9de563b391318ad21cd2aca23e1.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 368,
+   "priceKRW": 2895492,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.013191,
+    "lng": 135.753311
+   },
+   "refLandmark": "니조조마에역"
+  },
+  {
+   "propertyId": 55605084,
+   "name": "반얀트리 히가시야마 교토 (Banyan Tree Higashiyama Kyoto )",
+   "agodaUrl": "https://www.agoda.com/banyan-tree-higashiyama-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/55605084/0/c15a3cf6c3096edad8e4762d96c4be43.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 358,
+   "priceKRW": 2332973,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.998453,
+    "lng": 135.783231
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 8066811,
+   "name": "호텔 쿠 오츠햐쿠시오 (HOTEL KOO Otsuhyakucyo)",
+   "agodaUrl": "https://www.agoda.com/hotel-koo-otsuhyakucho/hotel/otsu-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/806/8066811/8066811_19071514050078116682.png?ca=9&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 353,
+   "priceKRW": 630664,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.00758,
+    "lng": 135.86351
+   },
+   "refLandmark": "Kamisakaemachi"
+  },
+  {
+   "propertyId": 17641647,
+   "name": "가리야 니조 캐슬 교토 바이 바니안 그룹 (Garrya Nijo Castle Kyoto by Banyan Group)",
+   "agodaUrl": "https://www.agoda.com/garrya-nijo-castle-kyoto-by-banyan-group/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/17641647/0/f6cc50d9b10334d3514ab5853afdd168.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 351,
+   "priceKRW": 1734131,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.011726,
+    "lng": 135.749115
+   },
+   "refLandmark": "니조조마에역"
+  },
+  {
+   "propertyId": 876909,
+   "name": "스이란, 어 럭셔리 컬렉션 호텔, 교토 (Suiran, a Luxury Collection Hotel, Kyoto)",
+   "agodaUrl": "https://www.agoda.com/suiran-a-luxury-collection-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/467560089.jpg?k=5b48cd3355ee287277c5df32fd124a15769412a04a1574a073d9cb10473be2e5&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 345,
+   "priceKRW": 3410246,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.013397,
+    "lng": 135.673981
+   },
+   "refLandmark": "Ebisuya"
+  },
+  {
+   "propertyId": 46556401,
+   "name": "교토 아야니시키 시마바라-오몬 레지던스 (Kyoto Ayanishiki Shimabara-Omon Residence)",
+   "agodaUrl": "https://www.agoda.com/kyoto-ayanishiki-shimabara-omon-residence-ayanishiki/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46556401/-1/b41535cd68b84bd592aab90c5417619d.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 311,
+   "priceKRW": 331183,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.993343,
+    "lng": 135.743927
+   },
+   "refLandmark": "단바구치역"
+  },
+  {
+   "propertyId": 2908830,
+   "name": "벤텐 레지던스 (BenTen Residences)",
+   "agodaUrl": "https://www.agoda.com/benten-residences/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2908830/-1/1efdc87fbd39e04e09bd4f63eae5c9da.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 288,
+   "priceKRW": 855087,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.000347,
+    "lng": 135.778214
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 69350875,
+   "name": "호텔 에스파시온 폰토초 (Hotel Espasion Pontocho)",
+   "agodaUrl": "https://www.agoda.com/hotel-espasion-pontocho/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/69350875/0/96a0b5cb5512297e75758c4fdb88dbb0.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 277,
+   "priceKRW": 249775,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.00621,
+    "lng": 135.77068
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 50609734,
+   "name": "Six Senses Kyoto",
+   "agodaUrl": "https://www.agoda.com/six-senses-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/590875157.jpg?k=10f86eb72b0e0351cd24ca2ff8574cdd15f800af5e5ba23e720c2d1546e6697c&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 273,
+   "priceKRW": 2468336,
+   "brand": "six-senses",
+   "brandLabel": "식스센스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.991058,
+    "lng": 135.774246
+   },
+   "refLandmark": "교토시치조역"
+  },
+  {
+   "propertyId": 867073,
+   "name": "아오이 호텔 교토 - 럭셔리 호텔- (Aoi Hotel Kyoto - Luxury Hotel-)",
+   "agodaUrl": "https://www.agoda.com/aoi-hotel-kyoto-luxury-apartment/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/867073/0/6fe3c5e6c51e2bdd1bff000bd86c22bf.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 232,
+   "priceKRW": 1349095,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.001579,
+    "lng": 135.769732
+   },
+   "refLandmark": "가와라마치역"
+  },
+  {
+   "propertyId": 14668221,
+   "name": "Higashiyama Shikikaboku",
+   "agodaUrl": "https://www.agoda.com/higashiyama-shikikaboku/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/14668221/0/5514bea08dcdd3c0fdfcea4feba922bf.jpg?ce=2",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 232,
+   "priceKRW": 704646,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.009274,
+    "lng": 135.78009
+   },
+   "refLandmark": "히가시야마역"
+  },
+  {
+   "propertyId": 58087930,
+   "name": "교토 노 야도 - 기온 노 츠키 (Kyoto no Yado - Gion no Tsuki)",
+   "agodaUrl": "https://www.agoda.com/h58087930/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/58087930/0/9c628b5d17e70b8be63109e123e9e4d2.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 224,
+   "priceKRW": 827298,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.005257,
+    "lng": 135.776825
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 26862568,
+   "name": "로쿠 교토, LXR 호텔스 앤 리조트 (ROKU KYOTO, LXR Hotels & Resorts)",
+   "agodaUrl": "https://www.agoda.com/roku-kyoto-lxr-hotels-resorts/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/26862568/0/576f5840d3bf24e3a5a27263d4a474b9.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 205,
+   "priceKRW": 2559614,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.047668,
+    "lng": 135.734589
+   },
+   "refLandmark": "기타오지역"
+  },
+  {
+   "propertyId": 32727605,
+   "name": "쿠라야 난세이초 (Kuraya Nanseicho)",
+   "agodaUrl": "https://www.agoda.com/kuraya-nanseicho/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32727605/0/a73026e45fbaf66b3ad1338c6a7fbded.jpeg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 197,
+   "priceKRW": 579215,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.009165,
+    "lng": 135.743871
+   },
+   "refLandmark": "니조역"
+  },
+  {
+   "propertyId": 33830872,
+   "name": "빌라 프런트 교토 세이메이 (Villa Front Kyoto Seimei)",
+   "agodaUrl": "https://www.agoda.com/villa-front-kyoto-seimei/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33830872/0/aa81d07e43b8dde2daed3f986c842817.jpg?ce=0",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 185,
+   "priceKRW": 383231,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.027275,
+    "lng": 135.751
+   },
+   "refLandmark": "이마데가와역"
+  },
+  {
+   "propertyId": 78970797,
+   "name": "카모 레지던스 바이 리플렉션스 (Kamo Residences by Reflections)",
+   "agodaUrl": "https://www.agoda.com/kamo-residences-by-reflections/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/78970797/0/b54f7f9e4a768380fb1cd4f8896d264a.jpg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 158,
+   "priceKRW": 1429899,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.029354,
+    "lng": 135.77061
+   },
+   "refLandmark": "데마치야나기역"
+  },
+  {
+   "propertyId": 32727603,
+   "name": "쿠라야 오미야 시마바라 (Kuraya Omiya Shimabara)",
+   "agodaUrl": "https://www.agoda.com/kuraya-omiya-shimabara_3/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32727603/535486136/5fcf7ff2a11beeb0ddc102c5295cecd9.jpeg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 129,
+   "priceKRW": 573910,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.992571,
+    "lng": 135.749067
+   },
+   "refLandmark": "우메코지교토니시역"
+  },
+  {
+   "propertyId": 60796470,
+   "name": "Hotel Utano Kyoto Besho",
+   "agodaUrl": "https://www.agoda.com/hotel-utano-kyoto-besho/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/614044436.jpg?k=37c7f8b90ea3b99cef5f57a8442fdd91da7e160a7158da1bd0c92c8723ebf150&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 118,
+   "priceKRW": 1205256,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.024925,
+    "lng": 135.70929
+   },
+   "refLandmark": "우타노역"
+  },
+  {
+   "propertyId": 87557486,
+   "name": "더 빌라 네네노미치 카제노 헤리티지 (The Villa Nene-no-Michi Kazeno Heritage)",
+   "agodaUrl": "https://www.agoda.com/hotel-vmg-resort-kyoto-h65671799/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/87557486/0/44317d25edb877e66109fd36728283cd.jpg?ce=3",
+   "star": 5,
+   "score": 9.8,
+   "reviewCount": 77,
+   "priceKRW": 1416891,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.000324,
+    "lng": 135.77975
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 626318,
+   "name": "리츠칼튼, 교토 (The Ritz-Carlton, Kyoto)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/626318/0/837399ae2ee45f40bc0e5c9181f80c6a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 66,
+   "priceKRW": 3065042,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.013588,
+    "lng": 135.770844
+   },
+   "refLandmark": "교토시야쿠쇼마에역"
+  },
+  {
+   "propertyId": 83946092,
+   "name": "Capella Kyoto",
+   "agodaUrl": "https://www.agoda.com/capella-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/863443493.jpg?k=ea62c64be482a7094b943ce963cb3539ef420ffcb4012512b61df6066cda712d&o=",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 50,
+   "priceKRW": 3922966,
+   "brand": "capella",
+   "brandLabel": "카펠라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.999348,
+    "lng": 135.772034
+   },
+   "refLandmark": "기요미즈고조역"
+  },
+  {
+   "propertyId": 33907373,
+   "name": "마아나 교토 (Maana Kyoto)",
+   "agodaUrl": "https://www.agoda.com/maana-kyoto-h16593289/hotel/kyoto-jp.html?cid=1925461",
+   "img": "",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 44,
+   "priceKRW": 1545027,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.997532,
+    "lng": 135.740051
+   },
+   "refLandmark": "shuttle bus stop"
+  },
+  {
+   "propertyId": 239667,
+   "name": "키자시 더 스위트 교토 기온 (Kizashi the Suite Kyoto Gion)",
+   "agodaUrl": "https://www.agoda.com/kizashi-the-suite/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/239/239667/239667_16092007200046637996.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 41,
+   "priceKRW": 544197,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.004124,
+    "lng": 135.775803
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 7652335,
+   "name": "파크 하얏트 교토 (Park Hyatt Kyoto)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-kyoto/hotel/kyoto-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7652335/0/0de081fc37a00e6b26c966de912cffc5.jpeg",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 40,
+   "priceKRW": 4536271,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 34.999172,
+    "lng": 135.780762
+   },
+   "refLandmark": "기온시조역"
+  },
+  {
+   "propertyId": 81521571,
+   "name": "Imperial Hotel, Kyoto",
+   "agodaUrl": "https://www.agoda.com/imperial-hotel-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/804122252.jpg?k=434a9af4ce7a110dbd6ac5761929f63ea333b90a701de5345c96a617fa1ac9b9&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 31,
+   "priceKRW": 2786019,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.001736,
+    "lng": 135.775436
+   },
+   "refLandmark": "기온시조역"
+  }
+ ]
+}

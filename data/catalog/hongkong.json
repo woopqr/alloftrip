@@ -1,0 +1,948 @@
+{
+ "slug": "hongkong",
+ "city": "홍콩",
+ "region": "east-asia",
+ "cityId": 16808,
+ "agodaCityName": "홍콩",
+ "fetchedAt": "2026-10-07T23:40:17.706Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 199,
+   "name": "로얄 플라자 호텔 (Royal Plaza Hotel)",
+   "agodaUrl": "https://www.agoda.com/royal-plaza-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/199/-1/5053587cdba1f2013a8fa5c6c6eb428c.jpg?ca=25&ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 72158,
+   "priceKRW": 258283,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.32326,
+    "lng": 114.172
+   },
+   "refLandmark": "MTR 몽콕이스트역"
+  },
+  {
+   "propertyId": 2078870,
+   "name": "디즈니 익스플로러스 로지 (Disney Explorers Lodge)",
+   "agodaUrl": "https://www.agoda.com/disney-explorers-lodge_2/hotel/all/hong-kong-hk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/298458156.jpg?k=a6c917b466ce30246e92be73217265d02ebe82596c8024fad81ed0c46f007b44&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 29000,
+   "priceKRW": 393565,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.307581,
+    "lng": 114.041786
+   },
+   "refLandmark": "幻想世界 Fantasyland"
+  },
+  {
+   "propertyId": 149143,
+   "name": "하버 그랜드 홍콩 호텔 (Harbour Grand Hong Kong Hotel)",
+   "agodaUrl": "https://www.agoda.com/harbour-grand-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/149/149143/149143_15071317090032200302.jpg?ca=4&ce=1",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 28327,
+   "priceKRW": 290744,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.28898,
+    "lng": 114.191771
+   },
+   "refLandmark": "MTR 포트리스힐역"
+  },
+  {
+   "propertyId": 7808,
+   "name": "로얄 파크 호텔 (Royal Park Hotel)",
+   "agodaUrl": "https://www.agoda.com/royal-park-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7808/-1/dabbb595f01c17fabccaa48f925a8240.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 25751,
+   "priceKRW": 227057,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.379768,
+    "lng": 114.188461
+   },
+   "refLandmark": "MTR 샤틴역"
+  },
+  {
+   "propertyId": 48636,
+   "name": "코디스, 홍콩 (Cordis, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/cordis-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/48636/-1/248ee36ecd9218931bf39f65283e84a1.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 25685,
+   "priceKRW": 314266,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.318419,
+    "lng": 114.16803
+   },
+   "refLandmark": "MTR 몽콕역"
+  },
+  {
+   "propertyId": 7437,
+   "name": "로얄 가든 호텔 (Royal Garden Hotel)",
+   "agodaUrl": "https://www.agoda.com/royal-garden-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7437/0/b3e3b96463310daa1a63ef6c12280ded.jpeg?ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 25147,
+   "priceKRW": 247082,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.298477,
+    "lng": 114.17766
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 2786,
+   "name": "리갈 홍콩 호텔 (Regal HongKong Hotel)",
+   "agodaUrl": "https://www.agoda.com/regal-hongkong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/278/2786/2786_15082714540035190413.jpg?va=1&ca=5&ce=1",
+   "star": 5,
+   "score": 7.9,
+   "reviewCount": 21318,
+   "priceKRW": 206270,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.279211,
+    "lng": 114.186768
+   },
+   "refLandmark": "銅鑼灣總站 Causeway Bay Terminus"
+  },
+  {
+   "propertyId": 2571,
+   "name": "마르코 폴로 홍콩 호텔 (Marco Polo Hongkong Hotel)",
+   "agodaUrl": "https://www.agoda.com/marco-polo-hongkong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2571/-1/ece962e6787d69578fe91afe5a6c02d6.jpg?ca=12&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 20858,
+   "priceKRW": 302330,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.295525,
+    "lng": 114.169139
+   },
+   "refLandmark": "MTR 침사추이역"
+  },
+  {
+   "propertyId": 1660970,
+   "name": "디즈니스 할리우드 호텔 (Disney's Hollywood Hotel)",
+   "agodaUrl": "https://www.agoda.com/disney-s-hollywood-hotel_2/hotel/all/hong-kong-hk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/79551954.jpg?k=198688db80223ea8107e8703ccc5da87a1d26860d82f02ff01402f12b9734d61&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 18314,
+   "priceKRW": 360769,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.30928,
+    "lng": 114.037422
+   },
+   "refLandmark": "幻想世界 Fantasyland"
+  },
+  {
+   "propertyId": 2917401,
+   "name": "하얏트 센트릭 빅토리아 하버 (Hyatt Centric Victoria Harbour)",
+   "agodaUrl": "https://www.agoda.com/hyatt-centric-victoria-harbour/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2917401/-1/f526fd54305fe996b8759421e43ad0e5.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 17370,
+   "priceKRW": 335956,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.292538,
+    "lng": 114.199425
+   },
+   "refLandmark": "北角總站 North Point Terminus"
+  },
+  {
+   "propertyId": 52207609,
+   "name": "호프웰 호텔 (Hopewell Hotel)",
+   "agodaUrl": "https://www.agoda.com/hopewell-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 16282,
+   "priceKRW": 245389,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.275053,
+    "lng": 114.170781
+   },
+   "refLandmark": "盧押道 Luard Road"
+  },
+  {
+   "propertyId": 5821,
+   "name": "뉴 월드 밀레니엄 홍콩 호텔 (New World Millennium Hong Kong Hotel)",
+   "agodaUrl": "https://www.agoda.com/new-world-millennium-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5821/0/1317b8af2e96815a6381c1359612108c.jpg?ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 16124,
+   "priceKRW": 303002,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.299391,
+    "lng": 114.179726
+   },
+   "refLandmark": "MTR 홍함역"
+  },
+  {
+   "propertyId": 256227,
+   "name": "호텔 아이콘 (Hotel Icon)",
+   "agodaUrl": "https://www.agoda.com/hotel-icon/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/256227/-1/8e8e21fe902cb3853a6574804e4e4d7e.jpg?ca=25&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 14920,
+   "priceKRW": 411012,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.300844,
+    "lng": 114.179749
+   },
+   "refLandmark": "MTR 홍함역"
+  },
+  {
+   "propertyId": 7312,
+   "name": "더 미라 홍콩 (The Mira Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/the-mira-hong-kong_8/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/731/7312/7312_16021610210039879076.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 14729,
+   "priceKRW": 300212,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.300276,
+    "lng": 114.172188
+   },
+   "refLandmark": "MTR 침사추이역"
+  },
+  {
+   "propertyId": 181832,
+   "name": "니나 호텔 아일랜드 사우스 (Nina Hotel Island South)",
+   "agodaUrl": "https://www.agoda.com/l-hotel-island-south/hotel/default-city-km.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/829182883.jpg?k=a382bc7a8ea989d0cf4a1ce11e36d2b81b3acd5a901b6e9ea9bde0ccb2f63e90&o=",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 14008,
+   "priceKRW": 231361,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.249794,
+    "lng": 114.168129
+   },
+   "refLandmark": "MTR 웡축항역"
+  },
+  {
+   "propertyId": 6123,
+   "name": "카우룬 샹그릴라 홍콩 (Kowloon Shangri-La, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/kowloon-shangri-la-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2310537/0/30cb4c34027a9d666050623fdd533586.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 13546,
+   "priceKRW": 470118,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.297085,
+    "lng": 114.176971
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 8261,
+   "name": "더 랭함 홍콩 호텔 (The Langham Hong Kong Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-langham-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8261/0/e1bc488ccc2e0ad0e75294e645fa03ba.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 13104,
+   "priceKRW": 355094,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.2966,
+    "lng": 114.16986
+   },
+   "refLandmark": "MTR 침사추이역"
+  },
+  {
+   "propertyId": 148821,
+   "name": "홍콩 스카이시티 메리어트 호텔 (Hong Kong SkyCity Marriott Hotel)",
+   "agodaUrl": "https://www.agoda.com/hong-kong-skycity-marriott-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/148821/0/ad2d1dbb0a1b65f1c82aa1506a1f9e64.jpeg",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 11424,
+   "priceKRW": 302216,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.319054,
+    "lng": 113.943687
+   },
+   "refLandmark": "海天客運碼頭 SkyPier"
+  },
+  {
+   "propertyId": 5980886,
+   "name": "홍콩 오션 파크 메리어트 호텔 (Hong Kong Ocean Park Marriott Hotel)",
+   "agodaUrl": "https://www.agoda.com/hong-kong-ocean-park-marriott-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5980886/-1/30bbcd5c663c6e9534f2ee578a22debe.jpg?va=1&ca=10&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 11196,
+   "priceKRW": 242929,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.248112,
+    "lng": 114.175339
+   },
+   "refLandmark": "MTR 오션파크역"
+  },
+  {
+   "propertyId": 197223,
+   "name": "쉐라톤 홍콩 호텔 앤 타워 (Sheraton Hong Kong Hotel & Towers)",
+   "agodaUrl": "https://www.agoda.com/sheraton-hong-kong-hotel-towers_11/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/197223/741131924/15bfb6f1c414654c32ce6d7f779113de.jpg?ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 10688,
+   "priceKRW": 433803,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.295345,
+    "lng": 114.172531
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 1274362,
+   "name": "케리 호텔, 홍콩 (Kerry Hotel, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/kerry-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4346328/0/5620f29aa1b4d7aceac94ab2f2927024.jpg?ca=10&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 9902,
+   "priceKRW": 580678,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.301079,
+    "lng": 114.188004
+   },
+   "refLandmark": "MTR 왐포아역"
+  },
+  {
+   "propertyId": 5449,
+   "name": "인터컨티넨탈 그랜드 스탠포드 홍콩 바이 IHG (InterContinental Grand Stanford Hong Kong By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-grand-stanford-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5449/0/2d2d966bbfabeeada3520fb7915c735e.jpg?ca=8&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 9822,
+   "priceKRW": 276378,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.299053,
+    "lng": 114.17939
+   },
+   "refLandmark": "MTR 홍함역"
+  },
+  {
+   "propertyId": 2511,
+   "name": "더 파크 레인 홍콩, 오토그래프 컬렉션 (The Park Lane Hong Kong, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/the-park-lane-hong-kong-autograph-collection/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2511/0/2bb286f97983abeac6cd6d61b96fc2e3.jpg?ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 9118,
+   "priceKRW": 379664,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.281403,
+    "lng": 114.186508
+   },
+   "refLandmark": "百德新街 Paterson Street"
+  },
+  {
+   "propertyId": 165222,
+   "name": "이스트 홍콩 (EAST Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/east-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/678850464.jpg?k=42f23a692e5cae8b6aa5caf2b278c3e9b1ef5f8fcc2ce62673d854119cf8ac0e&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 8127,
+   "priceKRW": 290646,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.286043,
+    "lng": 114.216195
+   },
+   "refLandmark": "康山 Kornhill"
+  },
+  {
+   "propertyId": 18456810,
+   "name": "더 하리 홍콩, 비네트 컬렉션 바이 IHG (The Hari Hong Kong, Vignette Collection By IHG)",
+   "agodaUrl": "https://www.agoda.com/the-hari-hong-kong-vignette-collection-by-ihg-h18456810/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/18456810/-1/db7403aab1d2cfd828d1fef709f26d71.jpg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 7811,
+   "priceKRW": 381746,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.278866,
+    "lng": 114.178406
+   },
+   "refLandmark": "杜老誌道 Tonnochy Road"
+  },
+  {
+   "propertyId": 14651421,
+   "name": "더 실베리 호텔 홍콩 – 엠갤러리 컬렉션 (The Silveri Hotel Hong Kong – MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/the-silveri-hong-kong-mgallery/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/14651421/-1/fb06a9a659384343ac6a8e442848651b.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 7363,
+   "priceKRW": 227120,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.290522,
+    "lng": 113.941116
+   },
+   "refLandmark": "MTR 똥총역"
+  },
+  {
+   "propertyId": 6410796,
+   "name": "K11 아터스 (K11 ARTUS)",
+   "agodaUrl": "https://www.agoda.com/k11-artus_2/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6410796/-1/6c9d99ada9825b8b8f9b44d98d7b632f.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 6420,
+   "priceKRW": 804557,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.294004,
+    "lng": 114.174324
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 2183,
+   "name": "르네상스 홍콩 하버 뷰 호텔 (Renaissance Hong Kong Harbour View Hotel)",
+   "agodaUrl": "https://www.agoda.com/renaissance-hong-kong-harbour-view-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5149426/1154046652/ebedba1601dcb65f3b2a3d15fa459f62.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 6337,
+   "priceKRW": 381746,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.281458,
+    "lng": 114.173729
+   },
+   "refLandmark": "Exhibition Centre MTR Station"
+  },
+  {
+   "propertyId": 5913,
+   "name": "그랜드 하얏트 홍콩 (Grand Hyatt Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/grand-hyatt-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/591/5913/5913_17110906230058959399.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 5875,
+   "priceKRW": 569323,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.28149,
+    "lng": 114.172058
+   },
+   "refLandmark": "Exhibition Centre MTR Station"
+  },
+  {
+   "propertyId": 19852510,
+   "name": "셰라톤 홍콩 퉁청 호텔 (Sheraton Hong Kong Tung Chung Hotel)",
+   "agodaUrl": "https://www.agoda.com/sheraton-hong-kong-tung-chung-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/669723560.jpg?k=a54704b36cacdb916b430a7cdab768fd02a5bf2df1e556b6013c2ddb1d37e067&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 5864,
+   "priceKRW": 225577,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.295292,
+    "lng": 113.946541
+   },
+   "refLandmark": "MTR 똥총역"
+  },
+  {
+   "propertyId": 3301704,
+   "name": "The Royal Garden Kowloon East",
+   "agodaUrl": "https://www.agoda.com/crowne-plaza-hong-kong-kowloon-east_12/hotel/all/hong-kong-hk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/799524923.jpg?k=cbcfc3e9aab5a9c22ebb24d383d98a5dbc7e353abe09eecaee09bf3461c0178a&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5323,
+   "priceKRW": 287350,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.308329,
+    "lng": 114.258987
+   },
+   "refLandmark": "MTR 청콴오역"
+  },
+  {
+   "propertyId": 200056,
+   "name": "W 홍콩 (W Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/w-hong-kong_13/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/200056/0/315344a15b5fd4de053ea5455d5db1af.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5090,
+   "priceKRW": 607324,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.304918,
+    "lng": 114.16066
+   },
+   "refLandmark": "MTR 카우룽역"
+  },
+  {
+   "propertyId": 5263,
+   "name": "콘래드 홍콩 (Conrad Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/conrad-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5263/0/a1e5d486b4d27f8d28bdb0439c52ee1d.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 4961,
+   "priceKRW": 549726,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.276722,
+    "lng": 114.165512
+   },
+   "refLandmark": "金鐘港鐵站 Admiralty MTR Station"
+  },
+  {
+   "propertyId": 2728001,
+   "name": "더 머레이, 홍콩, 어 니콜로 호텔 (The Murray, Hong Kong, a Niccolo Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-murray-hong-kong-a-niccolo-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2728001/-1/7830bdde84ddc241d035d08675ceb98e.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4903,
+   "priceKRW": 770241,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.27813,
+    "lng": 114.160117
+   },
+   "refLandmark": "Peak Tram"
+  },
+  {
+   "propertyId": 4030,
+   "name": "아일랜드 샹그릴라, 홍콩 (Island Shangri-La, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/island-shangri-la-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4030/0/983717432e9aff126f2641345cd8a367.jpg?ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 4698,
+   "priceKRW": 790485,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.277157,
+    "lng": 114.164448
+   },
+   "refLandmark": "Admiralty MTR Station"
+  },
+  {
+   "propertyId": 2730,
+   "name": "리젠트 홍콩 바이 IHG (Regent Hong Kong By IHG)",
+   "agodaUrl": "https://www.agoda.com/regent-hong-kong_7/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38045916/0/67ce2bac94fd925d9df6607c44180f87.jpeg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 4084,
+   "priceKRW": 1052723,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.29347,
+    "lng": 114.174103
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 9729,
+   "name": "더 페닌슐라 홍콩 (The Peninsula Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/the-peninsula-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9729/-1/8f5f1a63a5849683999ce4d7444f081f.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 4065,
+   "priceKRW": 1130779,
+   "brand": "peninsula",
+   "brandLabel": "페닌슐라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.295191,
+    "lng": 114.171722
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 3849632,
+   "name": "만다린 오리엔탈 홍콩 (Mandarin Oriental, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-hong-kong_10/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3849632/0/5d25a9617178e465db09ba483e2b33d1.jpeg",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 3942,
+   "priceKRW": 1170642,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.281939,
+    "lng": 114.159393
+   },
+   "refLandmark": "雪廠街 Ice House Street"
+  },
+  {
+   "propertyId": 1916,
+   "name": "JW 메리어트 호텔 홍콩 (JW Marriott Hotel Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1916/0/ccee813cc6b7333825c827e57630d72c.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3615,
+   "priceKRW": 534445,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.277473,
+    "lng": 114.166
+   },
+   "refLandmark": "金鐘港鐵站 Admiralty MTR Station"
+  },
+  {
+   "propertyId": 31265863,
+   "name": "AKI 호텔 홍콩 - M갤러리 컬렉션 (AKI Hotel Hong Kong - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/aki-hong-kong-mgallery/hotel/zhuhai-cn.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914627226.jpg?k=f8736d8b09c07f57ed8567a4d5aa6a4edeb752f62ad2306f3dcca866970afa7e&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3483,
+   "priceKRW": 347042,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.279238,
+    "lng": 114.17688
+   },
+   "refLandmark": "杜老誌道 Tonnochy Road"
+  },
+  {
+   "propertyId": 68042,
+   "name": "포시즌스 호텔 홍콩 (Four Seasons Hotel Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/68042/-1/331efa8029585134e8b5fafa84380c5f.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 2914,
+   "priceKRW": 1311048,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.286833,
+    "lng": 114.156532
+   },
+   "refLandmark": "機利文街 Gilman Street"
+  },
+  {
+   "propertyId": 17209693,
+   "name": "Rosewood Hong Kong",
+   "agodaUrl": "https://www.agoda.com/rosewood-hong-kong-h17209693/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/83731753/1607553951/ea49b6d799877917753fdc64581b01ea.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2903,
+   "priceKRW": 1590334,
+   "brand": "rosewood",
+   "brandLabel": "로즈우드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.294977,
+    "lng": 114.175812
+   },
+   "refLandmark": "East Tsim Sha Tsui MTR Station"
+  },
+  {
+   "propertyId": 489721,
+   "name": "미라 문 (Mira Moon)",
+   "agodaUrl": "https://www.agoda.com/mira-moon/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/489721/-1/7ce932875d8d726284a9f63912fcc1c2.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 2520,
+   "priceKRW": 307318,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.279785,
+    "lng": 114.179428
+   },
+   "refLandmark": "天樂里 Tin Lok Lane"
+  },
+  {
+   "propertyId": 928879,
+   "name": "호텔 마데라 할리우드 (Hotel Madera Hollywood)",
+   "agodaUrl": "https://www.agoda.com/hotel-madera-hollywood/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/928879/-1/b1013793025fb6d2dd43f305ee902f9d.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2212,
+   "priceKRW": 328231,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.282784,
+    "lng": 114.153091
+   },
+   "refLandmark": "租庇利街 Jubilee Street"
+  },
+  {
+   "propertyId": 623600,
+   "name": "더 포팅거 홍콩 (The Pottinger Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/the-pottinger-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/623600/-1/0ce9b6d19b57f100063d9d1f5a4282cc.jpg?ca=15&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2186,
+   "priceKRW": 481332,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.282658,
+    "lng": 114.155418
+   },
+   "refLandmark": "砵典乍街 Pottinger Street"
+  },
+  {
+   "propertyId": 69391,
+   "name": "랜슨 플레이스 코즈웨이 베이, 홍콩 (Lanson Place Causeway Bay, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/lanson-place-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/69391/806349500/4ba525289903f787e752972057dd5e9d.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1866,
+   "priceKRW": 320134,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.278564,
+    "lng": 114.186797
+   },
+   "refLandmark": "邊寧頓街 Pennington Street"
+  },
+  {
+   "propertyId": 216104,
+   "name": "어퍼 하우스 홍콩 (Upper House Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/the-upper-house/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/216104/0/bca7e8ffd8ec71253c9e05c9732e955b.jpg?ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1795,
+   "priceKRW": 1372698,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.277294,
+    "lng": 114.166295
+   },
+   "refLandmark": "金鐘港鐵站 Admiralty MTR Station"
+  },
+  {
+   "propertyId": 951198,
+   "name": "The Olympian Hong Kong",
+   "agodaUrl": "https://www.agoda.com/the-olympian-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/951198/-1/ce9798cee55754006f5dbc4741ed669f.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1625,
+   "priceKRW": 312165,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.317541,
+    "lng": 114.15612
+   },
+   "refLandmark": "MTR 올림픽역"
+  },
+  {
+   "propertyId": 51697,
+   "name": "르 메르디앙 홍콩, 사이버포트 (Le Méridien Hong Kong, Cyberport)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-cyberport_12/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/667366127.jpg?k=54dab26f83c8396733a22beea6ae3716a19faf8d4b284b0a1796c8259d478e70&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1432,
+   "priceKRW": 241194,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.262012,
+    "lng": 114.129303
+   },
+   "refLandmark": "士美菲路 Smithfield"
+  },
+  {
+   "propertyId": 60690648,
+   "name": "애스콧 노스 포인트 홍콩 (Ascott North Point Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/ascott-north-point-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60690648/-1/5e0f4add1bcd051dd382158a0afbb309.jpg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1367,
+   "priceKRW": 347042,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.292093,
+    "lng": 114.198273
+   },
+   "refLandmark": "北角總站 North Point Terminus"
+  },
+  {
+   "propertyId": 6907351,
+   "name": "더 세인트 레지스 홍콩 (The St. Regis Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6907351/-1/2b5ef5ee21d5c628f8e18feac0147222.jpg?ca=8&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1285,
+   "priceKRW": 954366,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.279882,
+    "lng": 114.174889
+   },
+   "refLandmark": "Exhibition Centre MTR Station"
+  },
+  {
+   "propertyId": 3849627,
+   "name": "만다린 오리엔탈 더 랜드마크 홍콩 (Mandarin Oriental The Landmark, Hong Kong)",
+   "agodaUrl": "https://www.agoda.com/landmark-mandarin-oriental-hong-kong_2/hotel/hong-kong-hk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3849627/0/691b8a93ccf266ac16b7e578d1991ed8.jpg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 315,
+   "priceKRW": 1696650,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.280611,
+    "lng": 114.157776
+   },
+   "refLandmark": "雪廠街 Ice House Street"
+  }
+ ]
+}

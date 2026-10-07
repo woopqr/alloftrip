@@ -1,0 +1,228 @@
+{
+ "slug": "santorini",
+ "city": "산토리니",
+ "region": "europe",
+ "cityId": 16084,
+ "agodaCityName": "산토리니",
+ "fetchedAt": "2026-10-07T23:40:17.625Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 34284755,
+   "name": "클라딕 스위트 앤 스파 (Cycladic Suites & Spa )",
+   "agodaUrl": "https://www.agoda.com/cycladic-suites/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34284755/0/818448b4b0b8e8ceaec7cf5d2cae2cf9.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 1479,
+   "priceKRW": 276668,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 36.42317,
+    "lng": 25.433006
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 13825329,
+   "name": "볼케이노 뷰 바이 칼데라 컬렉션  (Volcano View by Caldera Collection)",
+   "agodaUrl": "https://www.agoda.com/volcano-view-by-caldera-collection_2/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13825329/0/06f2940bc437f1c395439d4cb9ca4c14.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 891,
+   "priceKRW": 776117,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 36.39418,
+    "lng": 25.43849
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 23707101,
+   "name": "유 앤 미 스위트 (You and Me Suites)",
+   "agodaUrl": "https://www.agoda.com/you-me-suites/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23707101/0/13b11da19dc48dbfa26584ed76b84582.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 525,
+   "priceKRW": 215668,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.422939,
+    "lng": 25.428289
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 8947793,
+   "name": "소피아 럭셔리 스위트 (Sophia Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/sophia-luxury-suites/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8947793/0/de505c3de80140da849d34081f7d3093.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 460,
+   "priceKRW": 391667,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.43372,
+    "lng": 25.42127
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 22148665,
+   "name": "와이너리 호텔 1870 (Winery Hotel 1870)",
+   "agodaUrl": "https://www.agoda.com/winery-hotel-1870/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/22148665/-1/1f59b8e2052b40a54beb2b72022b75f4.jpg?va=1&ca=17&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 460,
+   "priceKRW": 269238,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 36.419868,
+    "lng": 25.43203
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 6750542,
+   "name": "호텔 티레아스 (Hotel Thireas)",
+   "agodaUrl": "https://www.agoda.com/hotel-thireas/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6750542/0/9a40b607deee8e2a5f9ba31936108940.jpeg?va=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 424,
+   "priceKRW": 208429,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.41634,
+    "lng": 25.431061
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 1084553,
+   "name": "데이 드림 럭셔리 스위트 (Day Dream Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/day-dream-luxury-suites/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1084553/0/db42a5e20d2df9f6e64189821ff77d2b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 338,
+   "priceKRW": 234176,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 36.419308,
+    "lng": 25.43108
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 602865,
+   "name": "아네미 하우스 & 빌라스 (Anemi House & Villas)",
+   "agodaUrl": "https://www.agoda.com/anemi-house-villas/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/602/602865/602865_17010504080050132516.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 323,
+   "priceKRW": 210679,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.461277,
+    "lng": 25.372784
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 8947454,
+   "name": "아스파키 바이 아트 메종 (Aspaki by Art Maisons)",
+   "agodaUrl": "https://www.agoda.com/aspaki-by-art-maisons/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/262428270.jpg?k=b3f5cc3daae7fa81cdff3c379d0ead3d38de9d3d3fbfb58a4de1f4d9088a4105&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 303,
+   "priceKRW": 671375,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.461208,
+    "lng": 25.37623
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 10650449,
+   "name": "Saint Santorini",
+   "agodaUrl": "https://www.agoda.com/the-saint-hotel/hotel/all/santorini-gr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/883064980.jpg?k=d965950d43bb5f1eaf8c34439dcf289a88b03d54b96965247454bf67cadc829b&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 255,
+   "priceKRW": 1130166,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.4617,
+    "lng": 25.38624
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 47500216,
+   "name": "Santo Mangata Boutique Hotel and Spa",
+   "agodaUrl": "https://www.agoda.com/santo-mangata-boutique-hotel/hotel/all/santorini-gr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/639988931.jpg?k=2ac62aa93e4f0622787b352e4a62ca2a585df7e36c4240003d9aeb5526208aba&o=",
+   "star": 5,
+   "score": 9.8,
+   "reviewCount": 232,
+   "priceKRW": 371019,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.35358,
+    "lng": 25.468294
+   },
+   "refLandmark": "Fira Bus Station"
+  },
+  {
+   "propertyId": 400921,
+   "name": "아트 메이슨 오이아 캐슬 호텔 (Art Maisons Oia Castle Hotel)",
+   "agodaUrl": "https://www.agoda.com/art-maisons-oia-castle-hotel/hotel/santorini-gr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/400921/0/c7c0ecc23ed910d380b936f070f1169e.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 206,
+   "priceKRW": 515177,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 36.460537,
+    "lng": 25.373133
+   },
+   "refLandmark": "Fira Bus Station"
+  }
+ ]
+}

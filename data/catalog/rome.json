@@ -1,0 +1,1272 @@
+{
+ "slug": "rome",
+ "city": "로마",
+ "region": "europe",
+ "cityId": 16594,
+ "agodaCityName": "로마",
+ "fetchedAt": "2026-10-07T23:40:17.769Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 31589020,
+   "name": "Umiltà 36 - Preferred Hotels & Resorts (Umilta 36 - Preferred Hotels & Resorts)",
+   "agodaUrl": "https://www.agoda.com/umilta-36_2/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/593207611.jpg?k=44578679a6f37a413cbd9d1475d152c33cd096b165fdf356d2d94534f96dd626&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 2188,
+   "priceKRW": 1025728,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.899399,
+    "lng": 12.482399
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 1120539,
+   "name": "NH 콜렉션 팔라조 친퀘첸토 (NH Collection Palazzo Cinquecento)",
+   "agodaUrl": "https://www.agoda.com/nh-collection-palazzo-cinquecento/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1120539/0/e3d11c36f1ce66dae1c602d5c8bc808e.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1779,
+   "priceKRW": 492613,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.902473,
+    "lng": 12.500984
+   },
+   "refLandmark": "Leonardo Express"
+  },
+  {
+   "propertyId": 13822139,
+   "name": "호텔 카라비타 (Hotel Caravita)",
+   "agodaUrl": "https://www.agoda.com/hotel-caravita/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13822139/0/c831e2cfa89f9cef43ff86932d0ec5b2.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1754,
+   "priceKRW": 247512,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.899422,
+    "lng": 12.48092
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 6724277,
+   "name": "QC 테르메로마 스파 앤 리조트 (QC Termeroma Spa and Resort)",
+   "agodaUrl": "https://www.agoda.com/qc-termeroma-spa-and-resort/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/875580422.jpg?k=07f7aca891812752a0a56725d6a2be10ca95120789d3eb0c16af8a9d6c713313&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1585,
+   "priceKRW": 239878,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.782021,
+    "lng": 12.26841
+   },
+   "refLandmark": "레오나르도 다빈치-피우미치노 공항역"
+  },
+  {
+   "propertyId": 13828817,
+   "name": "도무스 오스트레일리아 (Domus Australia)",
+   "agodaUrl": "https://www.agoda.com/domus-australia/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/30146692.jpg?k=2e3c21e271395f63ec1384040c40c017e940f5c46f2a42f12a362b1d35c9384f&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1577,
+   "priceKRW": 266028,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.906601,
+    "lng": 12.50022
+   },
+   "refLandmark": "카스트로 프레토리오역"
+  },
+  {
+   "propertyId": 633539,
+   "name": "팔라조 몬테마르티니 로마, 어 래디슨 컬렉션 호텔 (Palazzo Montemartini Rome, A Radisson Collection Hotel)",
+   "agodaUrl": "https://www.agoda.com/palazzo-montemartini-rome-a-radisson-collection-hotel/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9456811/0/5836b184f48b5463b12b53210e5e22cd.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1507,
+   "priceKRW": 569807,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90364,
+    "lng": 12.500333
+   },
+   "refLandmark": "Leonardo Express"
+  },
+  {
+   "propertyId": 49683614,
+   "name": "브램블 럭셔리 스위트 (Bramble Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/bramble-luxury-suites/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49683614/0/721fcb2565b99ba7e4905ebeb619245d.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1474,
+   "priceKRW": 227169,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.903337,
+    "lng": 12.487011
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 6724306,
+   "name": "호텔 라파엘-를레 앤 샤토 (Hotel Raphael – Relais & Châteaux)",
+   "agodaUrl": "https://www.agoda.com/hotel-raphael-relais-chateaux/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6724306/0/e2a44dcb6fcd8813a14a77071bc7db1a.jpeg",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1333,
+   "priceKRW": 998662,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.899891,
+    "lng": 12.47202
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 33706629,
+   "name": "메종 스파그나 스위트 (Maison Spagna Suite)",
+   "agodaUrl": "https://www.agoda.com/maison-spagna-suites/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33706629/0/8adb8c6cd62a65dd1d1704201b3c65a0.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1285,
+   "priceKRW": 213831,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90382,
+    "lng": 12.484779
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 36105724,
+   "name": "루두스 룸 (Ludus Rooms)",
+   "agodaUrl": "https://www.agoda.com/ludus-rooms/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36105724/0/ed9a66f9f260f269b7a8f42a3e6bf455.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1237,
+   "priceKRW": 253517,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.88992,
+    "lng": 12.494514
+   },
+   "refLandmark": "콜로세오역"
+  },
+  {
+   "propertyId": 6724231,
+   "name": "해리스 바 트레비 호텔 앤 레스토랑 (Harry's Bar Trevi Hotel & Restaurant)",
+   "agodaUrl": "https://www.agoda.com/harry-s-bar-trevi-hotel-restaurant/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/79686192.jpg?k=1fb6c65aaf53676924c291a89be51fa20a66962812110778095902ebc507a639&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1214,
+   "priceKRW": 526033,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.900318,
+    "lng": 12.48379
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 27996110,
+   "name": "Maalot Roma - Small Luxury Hotels of the World",
+   "agodaUrl": "https://www.agoda.com/maalot-roma-small-luxury-hotels-of-the-world/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/478895409.jpg?k=6247192d78e4f908b105ef877b6cac0e5c133f2d7fdeef24c6f80ae7269bdbab&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 1132,
+   "priceKRW": 835328,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.900459,
+    "lng": 12.48205
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 7149716,
+   "name": "NH 컬렉션 로마 포리 임페리얼리 (NH Collection Roma Fori Imperiali)",
+   "agodaUrl": "https://www.agoda.com/nh-collection-roma-fori-imperiali/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/858990728.jpg?k=e23c26c06758b50db7c2d223fb7b1859d3cb7d0f022043b889866c14499f2bfa&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1096,
+   "priceKRW": 591654,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.896179,
+    "lng": 12.484793
+   },
+   "refLandmark": "카보우르역"
+  },
+  {
+   "propertyId": 35959363,
+   "name": "피콜라 나보나 루프 가든 (Piccola Navona Roof Garden)",
+   "agodaUrl": "https://www.agoda.com/little-queen-navona/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35959363/0/7e4bb85d7733e01b63e9eba89a1a668b.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1077,
+   "priceKRW": 244331,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.896572,
+    "lng": 12.47292
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 1255297,
+   "name": "호텔 딘길테라 로마 - 스타호텔 콜레지오네 (Hotel d'Inghilterra Roma - Starhotels Collezione)",
+   "agodaUrl": "https://www.agoda.com/hotel-d-inghilterra-roma-starhotels-collezione/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1255297/-1/72b467b89235b7a19f4c3edd8e7f4556.jpg?ce=0",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 1063,
+   "priceKRW": 942885,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.904781,
+    "lng": 12.480597
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 11221,
+   "name": "레지나 호텔 발리오니 - 더 리딩 호텔 오브 더 월드 (Baglioni Hotel Regina – The Leading Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/baglioni-hotel-regina-the-leading-hotels-of-the-world/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11221/-1/2ceb151a004e9b325d4f1fe261c9d18c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1025,
+   "priceKRW": 698014,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90707,
+    "lng": 12.489999
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 42106255,
+   "name": "마스 부티크 호텔 로마 (Màs Boutique Hotel Rome)",
+   "agodaUrl": "https://www.agoda.com/mas-boutique-hotel-h41292508/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42106255/-1/81c742868222d6e3fc09fbcae383164a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1006,
+   "priceKRW": 241358,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90832,
+    "lng": 12.477272
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 1155986,
+   "name": "팔라초 다마 (Palazzo Dama)",
+   "agodaUrl": "https://www.agoda.com/palazzo-dama/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/115/1155986/1155986_15121718570038590371.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 941,
+   "priceKRW": 496989,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.910339,
+    "lng": 12.47349
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 5071186,
+   "name": "그랜드 호텔 플라자 (Grand Hotel Plaza)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-plaza_16/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5071186/0/c3ccbc2e82565b546030fbb0dbb1046b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 936,
+   "priceKRW": 414646,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.905117,
+    "lng": 12.478887
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 42817,
+   "name": "로마 카발리에리, 어 월도프 아스토리아 호텔 (Rome Cavalieri, A Waldorf Astoria Hotel)",
+   "agodaUrl": "https://www.agoda.com/rome-cavalieri-a-waldorf-astoria-resort/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42817/0/5b79eedfa5463204ca64c801a0ccc09e.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 854,
+   "priceKRW": 490192,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.919266,
+    "lng": 12.445843
+   },
+   "refLandmark": "로마 발두이나역"
+  },
+  {
+   "propertyId": 9360965,
+   "name": "그랜드 호텔 팰리스 (Grand Hotel Palace Rome)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-palace-rome/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9360965/0/c4dffa422827cc9fb093dc4a8319cd78.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 816,
+   "priceKRW": 424835,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.906906,
+    "lng": 12.489996
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 877152,
+   "name": "아난타라 팔라초 나이아디 - 어 리딩 호텔 오브 더 월드 (Anantara Palazzo Naiadi - A Leading Hotel of the World)",
+   "agodaUrl": "https://www.agoda.com/palazzo-naiadi-the-dedica-anthology-autograph-collection/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/877152/0/0fbe7b71d875d49cc50f617e437a4455.jpg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 814,
+   "priceKRW": 1037349,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.901955,
+    "lng": 12.496
+   },
+   "refLandmark": "레푸블리카 - 테아트로 델오페라역"
+  },
+  {
+   "propertyId": 31474129,
+   "name": "The First Musica - Preferred Hotels & Resorts",
+   "agodaUrl": "https://www.agoda.com/the-first-musica/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/615373084.jpg?k=f6f8d8e327d23d0fbb6e7f04b1b74373d6de375da6bead481e6dba9dc78490ea&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 795,
+   "priceKRW": 616563,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.907078,
+    "lng": 12.47313
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 13836123,
+   "name": "로마 럭셔스 호텔 (Roma Luxus Hotel)",
+   "agodaUrl": "https://www.agoda.com/roma-luxus-hotel_4/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/916870906.jpg?k=de3b656d49d30f6740ac51a8e7b5bba52c09a0feec4f71b6aaad98e3d010efdb&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 694,
+   "priceKRW": 385022,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.896099,
+    "lng": 12.48729
+   },
+   "refLandmark": "카보우르역"
+  },
+  {
+   "propertyId": 49563,
+   "name": "호텔 스플렌디드 로얄 (Hotel Splendide Royal)",
+   "agodaUrl": "https://www.agoda.com/hotel-splendide-royal-small-luxury-hotels-of-the-world/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49563/-1/55f9e9ad261db8be2a2f164865ff863b.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 686,
+   "priceKRW": 821422,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.907738,
+    "lng": 12.486423
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 13833067,
+   "name": "호텔 로카르노 (Hotel Locarno)",
+   "agodaUrl": "https://www.agoda.com/hotel-locarno/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13833067/0/8ff55706d7801a865dca32c06f57c40e.jpeg",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 663,
+   "priceKRW": 837512,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90966,
+    "lng": 12.47473
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 411986,
+   "name": "레지덴자 루스폴리 보나파르테 (Residenza Ruspoli Bonaparte)",
+   "agodaUrl": "https://www.agoda.com/residenza-ruspoli-bonaparte/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/411/411986/411986_15072116470032711651.jpg?va=1&ca=4&ce=1",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 663,
+   "priceKRW": 421100,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.904435,
+    "lng": 12.478677
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 17032045,
+   "name": "포에시스 익스피리언스 호텔 (Poesis Experience Hotel)",
+   "agodaUrl": "https://www.agoda.com/poesis-experience-hotel/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/170/17032045/17032045_20090820180092192022.jpg?va=1&ca=13&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 661,
+   "priceKRW": 441692,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.908367,
+    "lng": 12.478348
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 290647,
+   "name": "빌라 아그리피나 그란 멜리아 - 더 리딩 호텔스 오브 더 월드 (Villa Agrippina Gran Meliá - The Leading Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/hotel-gran-melia-rome/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/290647/-1/4718b3796313a9dadf5be281c116d9fc.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 643,
+   "priceKRW": 825365,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.897861,
+    "lng": 12.46113
+   },
+   "refLandmark": "로마 산 피에트로역"
+  },
+  {
+   "propertyId": 31220639,
+   "name": "로마 다모레 (Roma d'Amore)",
+   "agodaUrl": "https://www.agoda.com/roma-d-amore/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/99422177.jpg?k=f5c690b1370c1bf0eee0191dbb0850d629af861af9841d452221633c231d629b&o=",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 557,
+   "priceKRW": 396541,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.878864,
+    "lng": 12.518337
+   },
+   "refLandmark": "폰테 룬고역"
+  },
+  {
+   "propertyId": 10257169,
+   "name": "더 룸 오브 로마 - 팔라초 라이노서러스 | 디자인 바이 진 누벨 | (The Rooms of Rome - Palazzo Rhinoceros | Designed by Jean Nouvel |)",
+   "agodaUrl": "https://www.agoda.com/the-rooms-of-rome-palazzo-rhinoceros-designed-by-jean-nouvel/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/297799055.jpg?k=7cad4183f3148845e3e02e996ef75de7eae8bbd13f83c3b7b2dd79186ff92110&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 555,
+   "priceKRW": 612275,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.889141,
+    "lng": 12.48246
+   },
+   "refLandmark": "치르코 마시모역"
+  },
+  {
+   "propertyId": 538715,
+   "name": "돔 호텔 로마 (Dom Hotel Roma)",
+   "agodaUrl": "https://www.agoda.com/dom-hotel-roma/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/538/538715/538715_16052417580042679427.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 522,
+   "priceKRW": 779736,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.897377,
+    "lng": 12.467224
+   },
+   "refLandmark": "로마 산 피에트로역"
+  },
+  {
+   "propertyId": 2232375,
+   "name": "마르구타 19 - 스몰 럭셔리 호텔 오브 더 월드 (Margutta 19 - Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/margutta-19-small-luxury-hotels-of-the-world_2/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/229501731.jpg?k=7c269079135b5cf3534129ff52aff8be6caddadda77d7372398b59244788f9e7&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 496,
+   "priceKRW": 839587,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.909247,
+    "lng": 12.47898
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 52092432,
+   "name": "Casa Monti Roma",
+   "agodaUrl": "https://www.agoda.com/casa-monti-roma/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/569747780.jpg?k=5be01a1a17c2a7639f60266925000052d3ad76ad705764ee7aa0891d63f42a91&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 480,
+   "priceKRW": 832293,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.896599,
+    "lng": 12.49227
+   },
+   "refLandmark": "카보우르역"
+  },
+  {
+   "propertyId": 28237161,
+   "name": "도무스 21 럭셔리 스위트 (Domus 21 Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/domus-21-luxury-suites/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/28237161/0/30441e2e7b042335373184fd8422d0e6.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 450,
+   "priceKRW": 234636,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.896057,
+    "lng": 12.478249
+   },
+   "refLandmark": "콜로세오역"
+  },
+  {
+   "propertyId": 1156964,
+   "name": "더 퍼스트 아르테 (The First Arte)",
+   "agodaUrl": "https://www.agoda.com/the-first-roma/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1156964/-1/b1a5b79e1cf3b84779602da1b81469e7.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 404,
+   "priceKRW": 777265,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.908657,
+    "lng": 12.475569
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 1113586,
+   "name": "라이프스타일 스위트 로마 (Lifestyle Suites Rome)",
+   "agodaUrl": "https://www.agoda.com/lifestyle-suites-rome/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/111/1113586/1113586_17100114590056942211.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 397,
+   "priceKRW": 513239,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.898848,
+    "lng": 12.473428
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 64534358,
+   "name": "보호 스위트 - 로마 콜로세움 (Boho Suites - Rome Colosseum)",
+   "agodaUrl": "https://www.agoda.com/boho-suites-rome-colosseum/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64534358/0/94bb8a20f1f9817f41cd6a8b86f7788a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 389,
+   "priceKRW": 329738,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.895382,
+    "lng": 12.49522
+   },
+   "refLandmark": "카보우르역"
+  },
+  {
+   "propertyId": 13826639,
+   "name": "더 홀 테일러 스위트 로마 (The H'All Tailor Suite Roma)",
+   "agodaUrl": "https://www.agoda.com/the-h-all-tailor-suite-roma/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/37380950/0/791ba0b78164abc4f989ba369bc77a34.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 385,
+   "priceKRW": 353340,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.913818,
+    "lng": 12.47303
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 63379,
+   "name": "더 웨스틴 엑셀시어, 로마 (The Westin Excelsior, Rome)",
+   "agodaUrl": "https://www.agoda.com/the-westin-excelsior-rome/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630391640.jpg?k=6f14a618d67d648553c78a2addd6c65cfceb950e70a49cd2141b7f9195cc3601&o=",
+   "star": 5,
+   "score": 7.9,
+   "reviewCount": 384,
+   "priceKRW": 583782,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.907635,
+    "lng": 12.489758
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 49371571,
+   "name": "모나스테로 데이 산티 (Monastero dei Santi)",
+   "agodaUrl": "https://www.agoda.com/monastero-dei-santi/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49371571/0/b6303d377afa619cccf4cd33c0b264ca.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 384,
+   "priceKRW": 357309,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.92127,
+    "lng": 12.44775
+   },
+   "refLandmark": "로마 발두이나역"
+  },
+  {
+   "propertyId": 23166477,
+   "name": "돔나 럭셔리 스위트 (Domna Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/domna-luxury-suites/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/231/23166477/23166477_21033019250095756695.jpg?va=1&ca=18&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 382,
+   "priceKRW": 298827,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.899914,
+    "lng": 12.476419
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 13829153,
+   "name": "시나 베르니니 브리스톨, 오토그래프 컬렉션 (Sina Bernini Bristol, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/bernini-bristol_3/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643493600.jpg?k=59133fa5605a222494512a6858befdec4ff45fa03a71ae11c23fa9d4a375649a&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 375,
+   "priceKRW": 704762,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90395,
+    "lng": 12.48923
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 50626090,
+   "name": "Palazzo Talìa - Small Luxury Hotels of the World (Palazzo Talia - Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/palazzo-talia/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/605099033.jpg?k=4ffac57b547ec8a3b9c37eac9611a0f9a0dacfb2047bc23465fe0a84ae4dd298&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 345,
+   "priceKRW": 875296,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90284,
+    "lng": 12.48356
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 75000271,
+   "name": "바티칸 페르투사 럭셔리 스위트 (Vatican Pertusa Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/vatican-pertusa-luxury-suites/hotel/gianicolo-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/793638278.jpg?k=2526e78095677d023b32cedd8476f3deda57e340e9c44f69fd95ef12863c1740&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 340,
+   "priceKRW": 291922,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.901463,
+    "lng": 12.445806
+   },
+   "refLandmark": "Valle Aurelia"
+  },
+  {
+   "propertyId": 30444683,
+   "name": "인터컨티넨탈 로마 암바시아토리 팰리스 바이 IHG (Intercontinental Rome Ambasciatori Palace By IHG)",
+   "agodaUrl": "https://www.agoda.com/ambasciatori-palace-hotel_13/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23092022/0/23847ce021c3ef276ac137f380e7ad54.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 317,
+   "priceKRW": 689767,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.906342,
+    "lng": 12.489627
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 6377523,
+   "name": "팜 스위트 - 스몰 럭셔리 호텔 오브 더 월드 (Palm Suites - Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/palm-suites/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/637/6377523/6377523_18121819090070453627.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 315,
+   "priceKRW": 1083683,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.8922,
+    "lng": 12.490556
+   },
+   "refLandmark": "콜로세오역"
+  },
+  {
+   "propertyId": 191697,
+   "name": "빌라 스팔레티 트리벨리 - 스몰 럭셔리 호텔 오브 더 월드 (Villa Spalletti Trivelli - Small Luxury Hotels of The World)",
+   "agodaUrl": "https://www.agoda.com/villa-spalletti-trivelli-small-luxury-hotels-of-the-world/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4886312/0/4a55f1c169ad5b588e2de3902edcbfdc.jpeg?ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 300,
+   "priceKRW": 1040648,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.899181,
+    "lng": 12.48834
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 299474,
+   "name": "그랜드 호텔 비아 베네토 (Grand Hotel Via Veneto)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-via-veneto/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/299/299474/299474_14042523490019214136.jpg?va=1&ca=2&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 287,
+   "priceKRW": 677047,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90827,
+    "lng": 12.48954
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 4042,
+   "name": "더 세인트 레지스 로마 (The St. Regis Rome)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-rome/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4870055/0/e84fdd6c5802f1c8307324b8eec251a2.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 282,
+   "priceKRW": 1572218,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.903702,
+    "lng": 12.495
+   },
+   "refLandmark": "레푸블리카 - 테아트로 델오페라역"
+  },
+  {
+   "propertyId": 5059903,
+   "name": "더 판테온 아이코닉 로마 호텔, 오토그래프 컬렉션 (The Pantheon Iconic Rome Hotel, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/the-pantheon-iconic-rome-hotel-autograph-collection/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5059903/0/bea9732f919278de3f557e53d2c7deb7.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 272,
+   "priceKRW": 871205,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.897987,
+    "lng": 12.475978
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 10257113,
+   "name": "엘리자베스 유니크 호텔 (Elizabeth Unique Hotel | a Member of Design Hotels™)",
+   "agodaUrl": "https://www.agoda.com/elizabeth-unique-hotel-a-member-of-design-hotels_2/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/543139103.jpg?k=c4387f702934e5fcd3e3efa4fd7c668883f6e3cb108b4ffc4b8b858971dd4d7b&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 270,
+   "priceKRW": 851862,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.907188,
+    "lng": 12.4772
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 309980,
+   "name": "트레비 팰리스 럭셔리 인 (Trevi Palace Luxury Inn)",
+   "agodaUrl": "https://www.agoda.com/trevi-palace-luxury-inn_2/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/309980/0/ddae65160cbcca48dc6a98fca13e5d99.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 261,
+   "priceKRW": 232699,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.901199,
+    "lng": 12.4845
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 7916,
+   "name": "오리엔트 익스프레스 라 미네르바 (Orient Express La Minerva)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-de-la-minerve/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7916/0/3a123fd54615885c67a507f9e79745c3.jpg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 228,
+   "priceKRW": 1907766,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.897774,
+    "lng": 12.477679
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 4970,
+   "name": "파르코 데이 프린치피 그랜드 호텔 앤 스파 (Parco dei Principi Grand Hotel & SPA)",
+   "agodaUrl": "https://www.agoda.com/parco-dei-principi-grand-hotel-spa/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/497/4970/4970_16072820470045039844.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 213,
+   "priceKRW": 494174,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.917709,
+    "lng": 12.491423
+   },
+   "refLandmark": "Euclide"
+  },
+  {
+   "propertyId": 65695288,
+   "name": "포포스위트 (FoffoSuite)",
+   "agodaUrl": "https://www.agoda.com/foffosuite-h65695288/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65695288/0/b42032ad95dc08241f2c4abe62415731.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 213,
+   "priceKRW": 208943,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.903309,
+    "lng": 12.505405
+   },
+   "refLandmark": "카스트로 프레토리오역"
+  },
+  {
+   "propertyId": 10257315,
+   "name": "J.K. 플레이스 로마 (J.K. Place Roma)",
+   "agodaUrl": "https://www.agoda.com/j-k-place-roma/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34294684/0/b8ab9fb053bbce5eaf1e5340fcaebd6a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 200,
+   "priceKRW": 1125992,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.904339,
+    "lng": 12.47693
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 1005,
+   "name": "호텔 에덴  도체스터 컬렉션 (Hotel Eden - Dorchester Collection)",
+   "agodaUrl": "https://www.agoda.com/hotel-eden-dorchester-collection/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/505741249.jpg?k=14c36bf07bfcdfe8846dcec848d7f46728612d01817ef72151c5a995b363ea2d&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 184,
+   "priceKRW": 1613454,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90646,
+    "lng": 12.486734
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 124845,
+   "name": "호텔 팔라쪼 만프레디 - 스몰 럭셔리 호텔 오브 더 월드 (Hotel Palazzo Manfredi – Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/hotel-palazzo-manfredi-relais-chateaux/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/124845/-1/8484d28bf1538e5a7378676bf6a2bdfd.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 164,
+   "priceKRW": 923705,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 41.890312,
+    "lng": 12.494921
+   },
+   "refLandmark": "콜로세오역"
+  },
+  {
+   "propertyId": 39422789,
+   "name": "더 로마 에디션 (The Rome EDITION)",
+   "agodaUrl": "https://www.agoda.com/the-rome-edition/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38046362/995489514/67c04e5a9a957783dd475acbee864e74.jpeg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 151,
+   "priceKRW": 947079,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.905388,
+    "lng": 12.490621
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 47848263,
+   "name": "래디슨 컬렉션 호텔, 로마 안티카 (Radisson Collection Hotel, Roma Antica)",
+   "agodaUrl": "https://www.agoda.com/radisson-collection-hotel-roma-antica/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47848263/-1/7984b15097a5cb75c4ce7ce74795996c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 147,
+   "priceKRW": 533819,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.895123,
+    "lng": 12.479186
+   },
+   "refLandmark": "콜로세오역"
+  },
+  {
+   "propertyId": 295942,
+   "name": "포트레이트 로마 - 룽가르노 컬렉션 (Portrait Roma - Lungarno Collection)",
+   "agodaUrl": "https://www.agoda.com/portrait-roma-lungarno-collection/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/295942/0/1b77316d1405353fcc6077d677b9beae.jpeg",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 111,
+   "priceKRW": 1667436,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.905338,
+    "lng": 12.480382
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 583569,
+   "name": "코르소 281 럭셔리 스위트 (Corso 281 Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/corso-281-luxury-suites/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/64298439.jpg?k=3f3dd80f3c440f9cbbf7b0a2f59256ebc520e8e1d6906d6bf77a3816ab3c519f&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 68,
+   "priceKRW": 555843,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.89735,
+    "lng": 12.481896
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 6724242,
+   "name": "해슬러 로마 (Hassler Roma)",
+   "agodaUrl": "https://www.agoda.com/hassler-roma/hotel/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/134755105.jpg?k=24e8e3773b7275aadac30f9781be4da2ccdf19992d53bccc4b482c46e0afa22e&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 59,
+   "priceKRW": 1930126,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.90591,
+    "lng": 12.48369
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 287809,
+   "name": "로코 포트 호텔 드 러시 (Rocco Forte Hotel de Russie)",
+   "agodaUrl": "https://www.agoda.com/rocco-forte-hotel-de-russie/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/287809/0/93606a44c277bc270e94fb147379e98e.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 55,
+   "priceKRW": 3343868,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.909916,
+    "lng": 12.477343
+   },
+   "refLandmark": "플라미니오 - 피아차 델 포폴로역"
+  },
+  {
+   "propertyId": 5837338,
+   "name": "싱어 팰리스 호텔 (Singer Palace Hotel)",
+   "agodaUrl": "https://www.agoda.com/singer-palace-hotel_2/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/583/5837338/5837338_18101622270068521980.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 45,
+   "priceKRW": 1724855,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.898941,
+    "lng": 12.48115
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 61737358,
+   "name": "도무스 아우레아 럭셔리 스위트 (Domus Aurea Luxury Suites)",
+   "agodaUrl": "https://www.agoda.com/domus-aurea-luxury-suites-h61737358/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61737358/0/8817e0505a7bb40a7fd57a7ab703dcd2.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 37,
+   "priceKRW": 237180,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.897221,
+    "lng": 12.496
+   },
+   "refLandmark": "카보우르역"
+  },
+  {
+   "propertyId": 35239902,
+   "name": "Six Senses Rome",
+   "agodaUrl": "https://www.agoda.com/six-senses-rome/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/602232451.jpg?k=bf2ca1b313d78c08aabe2105081344f374c8b38a76d20044ba37ae2f9258fe86&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 35,
+   "priceKRW": 1482732,
+   "brand": "six-senses",
+   "brandLabel": "식스센스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.898651,
+    "lng": 12.48139
+   },
+   "refLandmark": "바르베리니 - 폰타나 디 트레비"
+  },
+  {
+   "propertyId": 46590611,
+   "name": "Palazzo Roma - The Leading Hotels of the World",
+   "agodaUrl": "https://www.agoda.com/palazzo-roma-h46590611/hotel/all/rome-it.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/541156846.jpg?k=5b67f55ebc84e03a8e75eded1053e3f98977d4130b7fc1f18966cee47bc601fa&o=",
+   "star": 5,
+   "score": 9.8,
+   "reviewCount": 31,
+   "priceKRW": 990417,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.900249,
+    "lng": 12.48065
+   },
+   "refLandmark": "스파냐역"
+  },
+  {
+   "propertyId": 569100,
+   "name": "호텔 인디고 로마 - 세인트 조지 바이 IHG (Hotel Indigo Rome - St. George By IHG)",
+   "agodaUrl": "https://www.agoda.com/hotel-indigo-rome-st-george/hotel/rome-it.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/569100/0/ea23d36d65f84fb398beede422fdaa16.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 30,
+   "priceKRW": 365967,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 41.898247,
+    "lng": 12.466224
+   },
+   "refLandmark": "로마 산 피에트로역"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "zermatt",
+ "city": "체르마트",
+ "region": "europe",
+ "cityId": 4498,
+ "agodaCityName": "체르마트",
+ "fetchedAt": "2026-10-07T23:40:17.775Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 59184416,
+   "name": "Face D'or Luxury Serviced Apartments",
+   "agodaUrl": "https://www.agoda.com/face-d-or/hotel/all/zermatt-ch.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/918059130.jpg?k=f42d4ae528957c81b868762fa1186c082fa3303bee5314307d3ba9a68180235a&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 117,
+   "priceKRW": 1629168,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 46.025841,
+    "lng": 7.751997
+   },
+   "refLandmark": "체르마트 ZBAG-Zsb역"
+  }
+ ]
+}

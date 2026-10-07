@@ -1,0 +1,102 @@
+{
+ "slug": "bora-bora",
+ "city": "보라보라",
+ "region": "oceania",
+ "cityId": 16974,
+ "agodaCityName": "보라보라 아일랜드",
+ "fetchedAt": "2026-10-07T23:40:17.670Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 336870,
+   "name": "르 보라 보라 바이 펄 리조트 (Le Bora Bora by Pearl Resorts)",
+   "agodaUrl": "https://www.agoda.com/bora-bora-pearl-beach-resort-and-spa/hotel/bora-bora-island-pf.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/336870/-1/ec8b8bb1a1aa051c087d0e189e58ef68.jpg?ca=22&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 890,
+   "priceKRW": 1462238,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -16.475431,
+    "lng": -151.773056
+   },
+   "refLandmark": "마티라 비치"
+  },
+  {
+   "propertyId": 221917,
+   "name": "포시즌스 리조트 보라보라  (Four Seasons Resort Bora Bora)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-bora-bora/hotel/bora-bora-island-pf.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/88048852/0/08136aebe7c104ad08dec764f8b6691b.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 360,
+   "priceKRW": 5590971,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -16.471001,
+    "lng": -151.707016
+   },
+   "refLandmark": "마티라 비치"
+  },
+  {
+   "propertyId": 81921,
+   "name": "더 웨스틴 보라보라 리조트 앤 스파 (The Westin Bora Bora Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-bora-bora/hotel/bora-bora-island-pf.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/81921/0/db8fcae175ea60582845af3889389501.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 318,
+   "priceKRW": 2016077,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -16.498533,
+    "lng": -151.700409
+   },
+   "refLandmark": "마티라 비치"
+  },
+  {
+   "propertyId": 199353,
+   "name": "콘래드 보라보라 누이 (Conrad Bora Bora Nui)",
+   "agodaUrl": "https://www.agoda.com/conrad-bora-bora-nui/hotel/bora-bora-island-pf.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2311976/461805883/cfdd1a30cb608d177911a5c7d8f16c20.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 214,
+   "priceKRW": 2103924,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": true,
+   "geo": {
+    "lat": -16.528553,
+    "lng": -151.768188
+   },
+   "refLandmark": "마티라 비치"
+  },
+  {
+   "propertyId": 222414,
+   "name": "더 세인트 레지스 보라 보라 리조트 (The St. Regis Bora Bora Resort)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-bora-bora-resort/hotel/bora-bora-island-pf.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/370077361.jpg?k=4e54988520df216acae3a8d95816d349d54dd7ee3614882708ba770ae7836d19&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 35,
+   "priceKRW": 4548035,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -16.48642,
+    "lng": -151.696518
+   },
+   "refLandmark": "마티라 비치"
+  }
+ ]
+}

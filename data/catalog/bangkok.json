@@ -1,0 +1,1470 @@
+{
+ "slug": "bangkok",
+ "city": "방콕",
+ "region": "southeast-asia",
+ "cityId": 9395,
+ "agodaCityName": "방콕",
+ "fetchedAt": "2026-10-07T23:40:17.725Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 286830,
+   "name": "그랜드 센터 포인트 호텔 터미널 21 (Grande Centre Point Hotel Terminal 21)",
+   "agodaUrl": "https://www.agoda.com/grande-centre-point-hotel-terminal-21/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/286830/0/42e50c467f31a4bffc89b2b2cb87865c.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 57112,
+   "priceKRW": 232889,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737397,
+    "lng": 100.560793
+   },
+   "refLandmark": "아속역"
+  },
+  {
+   "propertyId": 38898108,
+   "name": "이스틴 그랜드 호텔 파야타이 (Eastin Grand Hotel Phayathai)",
+   "agodaUrl": "https://www.agoda.com/eastin-grand-hotel-phayathai/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38898108/-1/f34c24e62ca24d192c6889c4e67952eb.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 31271,
+   "priceKRW": 231043,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.756709,
+    "lng": 100.53344
+   },
+   "refLandmark": "파야타이역"
+  },
+  {
+   "propertyId": 108196,
+   "name": "센타라 그랜드 앳 센트럴월드 (Centara Grand at CentralWorld)",
+   "agodaUrl": "https://www.agoda.com/centara-grand-at-central-world-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/362362166.jpg?k=240b0e40e5628a85f5b9fe8030235108d282583686188e7b409b900755721ffc&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 25776,
+   "priceKRW": 428789,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.747898,
+    "lng": 100.53875
+   },
+   "refLandmark": "시암역"
+  },
+  {
+   "propertyId": 10682,
+   "name": "파툼완 프린세스 호텔 (Pathumwan Princess Hotel)",
+   "agodaUrl": "https://www.agoda.com/pathumwan-princess-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10682/-1/3d0185054b1fd68b5348dea4f2782b68.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 24329,
+   "priceKRW": 273958,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.74319,
+    "lng": 100.529701
+   },
+   "refLandmark": "내셔널스타디움역"
+  },
+  {
+   "propertyId": 52152,
+   "name": "밀레니엄 힐튼 방콕 (Millennium Hilton Bangkok)",
+   "agodaUrl": "https://www.agoda.com/millennium-hilton-bangkok_13/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2285734/0/66141c6fa408bd8b01e4f4b5c778b0b6.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 24127,
+   "priceKRW": 205634,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.728532,
+    "lng": 100.510994
+   },
+   "refLandmark": "짜른나콘역"
+  },
+  {
+   "propertyId": 18986416,
+   "name": "칼튼 호텔 방콕 수쿰빗 (Carlton Hotel Bangkok Sukhumvit)",
+   "agodaUrl": "https://www.agoda.com/carlton-hotel-bangkok-sukhumvit-h10231638/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/18986416/0/662040becf370d0f5cb5baca520242aa.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 19457,
+   "priceKRW": 308544,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.734509,
+    "lng": 100.564178
+   },
+   "refLandmark": "수쿰윗역"
+  },
+  {
+   "propertyId": 64162,
+   "name": "자스민 시티 호텔 아속 방콕 (Jasmine City Hotel Asoke Bangkok)",
+   "agodaUrl": "https://www.agoda.com/jasmine-city-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64162/0/5b9c2f7612a92fc469d733160838d6c4.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 15157,
+   "priceKRW": 207901,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.735576,
+    "lng": 100.562692
+   },
+   "refLandmark": "수쿰윗역"
+  },
+  {
+   "propertyId": 1257979,
+   "name": "스카이뷰 호텔 방콕 - 엠 디스트릭트 (SKYVIEW Hotel Bangkok - Em District)",
+   "agodaUrl": "https://www.agoda.com/compass-skyview-hotel-h28097255/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1257979/-1/3d6f34e604c4f85800b004c51ddee84d.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 14723,
+   "priceKRW": 201650,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.729239,
+    "lng": 100.569119
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 12505308,
+   "name": "신돈 미드타운 호텔 방콕 비네트 컬렉션 - 바이 IHG (Sindhorn Midtown Hotel Bangkok Vignette Collection - By IHG)",
+   "agodaUrl": "https://www.agoda.com/sindhorn-midtown-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12505308/-1/e88cca0686fe6459653545560661696f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 13730,
+   "priceKRW": 239809,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.741378,
+    "lng": 100.542961
+   },
+   "refLandmark": "칫롬역"
+  },
+  {
+   "propertyId": 33845457,
+   "name": "차트리움 그랜드 방콕 (Chatrium Grand Bangkok)",
+   "agodaUrl": "https://www.agoda.com/chatrium-grand-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33845457/-1/6dd3a4221c0e7ac4ba6a0695bae13470.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 13339,
+   "priceKRW": 286168,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.750022,
+    "lng": 100.534866
+   },
+   "refLandmark": "라차테위역"
+  },
+  {
+   "propertyId": 294217,
+   "name": "더 오쿠라 프레스티지 방콕 (The Okura Prestige Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-okura-prestige-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/294217/-1/6091fa00da0435c21929aafd7af41cf5.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 11538,
+   "priceKRW": 295279,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.742689,
+    "lng": 100.54776
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 247449,
+   "name": "한사르 방콕 호텔 (Hansar Bangkok Hotel)",
+   "agodaUrl": "https://www.agoda.com/hansar-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/866076035.jpg?k=c0e65f55fc9aee2e6c989d0be83a7b9993c2827492e3874e5976168f77054cce&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 10537,
+   "priceKRW": 236423,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.740323,
+    "lng": 100.540861
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 10640,
+   "name": "아난타라 리버사이드 방콕 리조트 (Anantara Riverside Bangkok Resort)",
+   "agodaUrl": "https://www.agoda.com/anantara-riverside-bangkok-resort/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10640/0/ee986b639b9afc4bc667efa81a749782.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 10337,
+   "priceKRW": 342464,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.704309,
+    "lng": 100.492294
+   },
+   "refLandmark": "포니밋역"
+  },
+  {
+   "propertyId": 10696,
+   "name": "샹그릴라 방콕 (Shangri-La Bangkok)",
+   "agodaUrl": "https://www.agoda.com/shangri-la-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10696/-1/7feb3980c65b9f726c71f9d35ea4afe3.jpg?va=1&ca=12&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 10333,
+   "priceKRW": 295135,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.720834,
+    "lng": 100.514015
+   },
+   "refLandmark": "사판탁신역"
+  },
+  {
+   "propertyId": 10692,
+   "name": "로얄 오키드 쉐라톤 리버사이드 호텔 방콕 (Royal Orchid Sheraton Riverside Hotel Bangkok)",
+   "agodaUrl": "https://www.agoda.com/royal-orchid-sheraton-riverside-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/826412650.jpg?k=b22a6f9eba92af14d6732fa2acc82b2e7f1cb19d828de4e34b1a021a21f30c2d&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 8608,
+   "priceKRW": 234234,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.729115,
+    "lng": 100.513275
+   },
+   "refLandmark": "짜른나콘역"
+  },
+  {
+   "propertyId": 186593,
+   "name": "타워 클럽 앳 르부아 호텔 (Tower Club at Lebua Hotel)",
+   "agodaUrl": "https://www.agoda.com/tower-club-at-lebua-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/186593/-1/06795674718b0691c14bf28856a2c5b6.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 8038,
+   "priceKRW": 251751,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.721063,
+    "lng": 100.516739
+   },
+   "refLandmark": "사판탁신역"
+  },
+  {
+   "propertyId": 37726884,
+   "name": "인사이드 바이 멜리아 방콕 스쿰빗 (INNSiDE by Meliá Bangkok Sukhumvit)",
+   "agodaUrl": "https://www.agoda.com/innside-by-melia-bangkok-sukhumvit/hotel/lenggries-de.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37726884/-1/af28f8ecf391794bf3312042d913d1a4.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 7802,
+   "priceKRW": 258672,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.707008,
+    "lng": 100.600006
+   },
+   "refLandmark": "온눗역"
+  },
+  {
+   "propertyId": 178063,
+   "name": "시암 켐핀스키 호텔 방콕 (Siam Kempinski Hotel Bangkok)",
+   "agodaUrl": "https://www.agoda.com/siam-kempinski-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/178063/3210695/6f4800ffacc658f74d56ce98c5468772.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 7697,
+   "priceKRW": 601982,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.748401,
+    "lng": 100.534844
+   },
+   "refLandmark": "시암역"
+  },
+  {
+   "propertyId": 63270994,
+   "name": "그란데 센터 포인트 룸피니 방콕 (Grande Centre Point Lumphini Bangkok)",
+   "agodaUrl": "https://www.agoda.com/grande-centre-point-lumphini-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/63270994/0/92a661fa60cbb4facde3fddbec5bdb80.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 7252,
+   "priceKRW": 235034,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.725112,
+    "lng": 100.54674
+   },
+   "refLandmark": "룸피니역"
+  },
+  {
+   "propertyId": 287357,
+   "name": "SO/ 방콕 (SO/ BANGKOK)",
+   "agodaUrl": "https://www.agoda.com/so-sofitel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/287357/0/2889ef7c32ba64094255e02b567ac8d6.jpeg",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6568,
+   "priceKRW": 341982,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.726223,
+    "lng": 100.543181
+   },
+   "refLandmark": "룸피니역"
+  },
+  {
+   "propertyId": 10697,
+   "name": "쉐라톤 그랜드 수쿰빗, 어 럭셔리 컬렉션 호텔, 방콕 (Sheraton Grande Sukhumvit, a Luxury Collection Hotel, Bangkok)",
+   "agodaUrl": "https://www.agoda.com/sheraton-grande-sukhumvit-a-luxury-collection-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/622991116.jpg?k=9a0b39fc163c78487611e4eb8ae9ea700a6cb39d5c8e22f5533366c383bb1c61&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 6548,
+   "priceKRW": 341982,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737666,
+    "lng": 100.559204
+   },
+   "refLandmark": "아속역"
+  },
+  {
+   "propertyId": 32360469,
+   "name": "애스콧 엠버시 사톤 방콕 (Ascott Embassy Sathorn Bangkok)",
+   "agodaUrl": "https://www.agoda.com/ascott-embassy-sathorn/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32360469/0/115ce75516ea92dfaecf85f2df2a2e12.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 6495,
+   "priceKRW": 206594,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723209,
+    "lng": 100.535255
+   },
+   "refLandmark": "살라댕역"
+  },
+  {
+   "propertyId": 10666,
+   "name": "인터컨티넨탈 방콕 바이 IHG (InterContinental Bangkok By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10666/0/a87d49f55358726b44b9bb69cda4ae36.jpeg?ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 6334,
+   "priceKRW": 420544,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.744695,
+    "lng": 100.541435
+   },
+   "refLandmark": "칫롬역"
+  },
+  {
+   "propertyId": 411514,
+   "name": "방콕 메리어트 호텔 수쿰빗 (Bangkok Marriott Hotel Sukhumvit)",
+   "agodaUrl": "https://www.agoda.com/bangkok-marriott-hotel-sukhumvit/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/477560081.jpg?k=d80d8d03db6fb2beca75a9ef63b638007b145bb218e1825477b14cba57c7ce34&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 6253,
+   "priceKRW": 297477,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723142,
+    "lng": 100.580391
+   },
+   "refLandmark": "통로역"
+  },
+  {
+   "propertyId": 12180509,
+   "name": "오크우드 스위트 방콕 (Oakwood Suites Bangkok)",
+   "agodaUrl": "https://www.agoda.com/oakwood-suites-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12180509/0/4196dfd462e751f6f8c588631845e3df.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 6095,
+   "priceKRW": 211045,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.728591,
+    "lng": 100.56883
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 168925,
+   "name": "르네상스 방콕 라차프라송 호텔 (Renaissance Bangkok Ratchaprasong Hotel)",
+   "agodaUrl": "https://www.agoda.com/renaissance-bangkok-ratchaprasong-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/168925/0/ffd1dbb9c123c6acd661ea3b6d9a78bb.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 5542,
+   "priceKRW": 281081,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.742651,
+    "lng": 100.542
+   },
+   "refLandmark": "칫롬역"
+  },
+  {
+   "propertyId": 10717,
+   "name": "더 수코타이 방콕 (The Sukhothai Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-sukhothai-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10717/0/cde0bd9623c32f7e153fe64fb05575ef.jpeg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 5445,
+   "priceKRW": 412320,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723322,
+    "lng": 100.540695
+   },
+   "refLandmark": "룸피니역"
+  },
+  {
+   "propertyId": 11027646,
+   "name": "신돈 켐핀스키 호텔 방콕 (Sindhorn Kempinski Hotel Bangkok)",
+   "agodaUrl": "https://www.agoda.com/sindhorn-kempinski-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11027646/0/60cbf02006a0a4c4004c72cdfa841804.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 5308,
+   "priceKRW": 562162,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.736729,
+    "lng": 100.543943
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 746293,
+   "name": "호텔 인디고 방콕 와이어리스 로드 바이 IHG (HOTEL INDIGO BANGKOK WIRELESS ROAD By IHG)",
+   "agodaUrl": "https://www.agoda.com/hotel-indigo-bangkok-wireless-road/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/746293/-1/8590dcb55f3896f77b21083bbb02b787.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 5293,
+   "priceKRW": 220180,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.740115,
+    "lng": 100.547264
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 10715,
+   "name": "더 페닌슐라 방콕 (The Peninsula Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-peninsula-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/434993345.jpg?k=7a729dd2f098e2ef7dbd892a06eb154ffdc2b4a58fda929327008148b7916ee5&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 5290,
+   "priceKRW": 629153,
+   "brand": "peninsula",
+   "brandLabel": "페닌슐라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723073,
+    "lng": 100.510956
+   },
+   "refLandmark": "짜른나콘역"
+  },
+  {
+   "propertyId": 254916,
+   "name": "시바텔 방콕 호텔 (Sivatel Bangkok Hotel)",
+   "agodaUrl": "https://www.agoda.com/sivatel-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/254916/0/8c6f7100267754d2677c748f1a156933.png?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5286,
+   "priceKRW": 259237,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.744632,
+    "lng": 100.548111
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 407156,
+   "name": "W 방콕 (W Bangkok)",
+   "agodaUrl": "https://www.agoda.com/w-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/407/407156/407156_16072510200044896858.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 5125,
+   "priceKRW": 285766,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.721751,
+    "lng": 100.529305
+   },
+   "refLandmark": "총논시역"
+  },
+  {
+   "propertyId": 5187,
+   "name": "콘래드 방콕 (Conrad Bangkok)",
+   "agodaUrl": "https://www.agoda.com/conrad-bangkok_14/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2291200/0/de275ce1715f0e1bf0fa7d57bfc48f3b.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4891,
+   "priceKRW": 244191,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.738377,
+    "lng": 100.548332
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 70257,
+   "name": "코모 메트로폴리탄 방콕 (COMO Metropolitan Bangkok)",
+   "agodaUrl": "https://www.agoda.com/como-metropolitan-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5079213/0/5f69e62de304e2774b1e85ec0b224ab7.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4858,
+   "priceKRW": 257751,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723386,
+    "lng": 100.539406
+   },
+   "refLandmark": "룸피니역"
+  },
+  {
+   "propertyId": 108608,
+   "name": "VIE 호텔 방콕 - MGallery (VIE Hotel Bangkok - MGallery)",
+   "agodaUrl": "https://www.agoda.com/vie-hotel-bangkok-mgallery-collection_2/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/108608/0/72e5aae73e7aeb8fefc445c39c833d5d.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4749,
+   "priceKRW": 255362,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.750677,
+    "lng": 100.531631
+   },
+   "refLandmark": "라차테위역"
+  },
+  {
+   "propertyId": 37696925,
+   "name": "실크 (SILQ)",
+   "agodaUrl": "https://www.agoda.com/silq-hotel-and-residence-managed-by-ascott-limited-h79011732/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37696925/-1/47388ed29ec7d1dd7412ebddf4a2e238.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 4631,
+   "priceKRW": 243691,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.725569,
+    "lng": 100.568047
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 10656,
+   "name": "그랜드 하얏트 에라완 방콕 (Grand Hyatt Erawan Bangkok)",
+   "agodaUrl": "https://www.agoda.com/grand-hyatt-erawan-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/921059754.jpg?k=56d3e6a2d72ca73d13625b7a5028a80b2f1cd6c2ef641ceeaa75af10b9d2502f&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4588,
+   "priceKRW": 398198,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.743492,
+    "lng": 100.540466
+   },
+   "refLandmark": "칫롬역"
+  },
+  {
+   "propertyId": 10716,
+   "name": "아난타라 시암 방콕 호텔 (Anantara Siam Bangkok Hotel)",
+   "agodaUrl": "https://www.agoda.com/anantara-siam-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10716/0/66ae591cfded86488fbafb33b27d6cf9.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4508,
+   "priceKRW": 403080,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.740917,
+    "lng": 100.539983
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 77641369,
+   "name": "그란데 센터 포인트 프레스티지 방콕 (Grande Centre Point Prestige Bangkok)",
+   "agodaUrl": "https://www.agoda.com/grande-centre-point-prestige/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/77641369/0/1c011d86df732c00ac2a8010d8d9aeef.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 4284,
+   "priceKRW": 236112,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.741981,
+    "lng": 100.54021
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 1280163,
+   "name": "방콕 메리어트 마퀴스 퀸즈 파크 (Bangkok Marriott Marquis Queen’s Park)",
+   "agodaUrl": "https://www.agoda.com/bangkok-marriott-marquis-queen-s-park/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1280163/-1/3c4156a2697b8ffb04a8f028039c1e00.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 4237,
+   "priceKRW": 267027,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.730467,
+    "lng": 100.565422
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 10306365,
+   "name": "킴튼 마아라이 방콕 바이 IHG (Kimpton Maa-Lai Bangkok by IHG)",
+   "agodaUrl": "https://www.agoda.com/kimpton-maa-lai-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10306365/0/e86b078cd319d892d36b2f3d3c5dff4b.jpeg?ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 4208,
+   "priceKRW": 453102,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737629,
+    "lng": 100.543449
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 290028,
+   "name": "오리엔탈 레지던스 방콕 (Oriental Residence Bangkok)",
+   "agodaUrl": "https://www.agoda.com/oriental-residence-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/290028/0/02fe005c4054de9818a62376c47e1ee7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3945,
+   "priceKRW": 206126,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.738069,
+    "lng": 100.546028
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 1266555,
+   "name": "137 필라스 레지던스 방콕 [방콕] (137 Pillars Residences Bangkok [Bangkok])",
+   "agodaUrl": "https://www.agoda.com/137-pillars-residences-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1266555/0/24805f827df8f74031bea9e208a23b39.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3899,
+   "priceKRW": 212348,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737551,
+    "lng": 100.57185
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 10714,
+   "name": "크라운 플라자 방콕 룸피니 파크 바이 IHG (Crowne Plaza Bangkok Lumpini Park By IHG)",
+   "agodaUrl": "https://www.agoda.com/crowne-plaza-bangkok-lumpini-park/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10714/-1/7b9ce174ff968fe1594e26d4d449d0db.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 3895,
+   "priceKRW": 304832,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.729721,
+    "lng": 100.535568
+   },
+   "refLandmark": "실롬역"
+  },
+  {
+   "propertyId": 148863,
+   "name": "두짓 스위트 호텔 라차담리 (Dusit Suites Hotel Ratchadamri)",
+   "agodaUrl": "https://www.agoda.com/dusit-suites-hotel-ratchadamri-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/148863/0/550fdb37572941f2bf626c55b93d37a6.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 3744,
+   "priceKRW": 210811,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.738708,
+    "lng": 100.541306
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 3014254,
+   "name": "방콕 메리어트 호텔 더 수라웡세 (Bangkok Marriott Hotel The Surawongse)",
+   "agodaUrl": "https://www.agoda.com/bangkok-marriott-hotel-the-surawongse/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3014254/0/a155df9cb9380f05abcea17e15326f33.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3574,
+   "priceKRW": 323243,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.727346,
+    "lng": 100.522308
+   },
+   "refLandmark": "세인트루이스역"
+  },
+  {
+   "propertyId": 10664,
+   "name": "JW 메리어트 호텔 방콕 (JW Marriott Hotel Bangkok)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10664/0/9f09bc43ec6744a03a8b9cd5599dcbc3.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3092,
+   "priceKRW": 351351,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.741945,
+    "lng": 100.552177
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 197970,
+   "name": "더 웨스틴 그랜드 수쿰빗, 방콕 (The Westin Grande Sukhumvit, Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-westin-grande-sukhumvit-bangkok_8/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/197/197970/197970_16061617090043663246.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2709,
+   "priceKRW": 276396,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.73796,
+    "lng": 100.559601
+   },
+   "refLandmark": "아속역"
+  },
+  {
+   "propertyId": 194957,
+   "name": "르 메르디앙 방콕 (Le Méridien Bangkok)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-bangkok_19/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/194957/-1/f6ed94bb33f76e7a116ac1d3dec157b9.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2663,
+   "priceKRW": 285766,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.729959,
+    "lng": 100.530518
+   },
+   "refLandmark": "삼얀역"
+  },
+  {
+   "propertyId": 6578785,
+   "name": "로즈우드 방콕 (Rosewood Bangkok)",
+   "agodaUrl": "https://www.agoda.com/rosewood-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/6578785/1133767477/a2c3c75ae88ce73b9d0f6e58edc39b92.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 2528,
+   "priceKRW": 736666,
+   "brand": "rosewood",
+   "brandLabel": "로즈우드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.743379,
+    "lng": 100.549113
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 6980564,
+   "name": "무븐픽 BDMS 웰니스 리조트 방콕 (Mövenpick BDMS Wellness Resort Bangkok)",
+   "agodaUrl": "https://www.agoda.com/movenpick-bdms-wellness-resort-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6980564/-1/e3c86fded0ca7de5be6c6105ae3f41c4.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2501,
+   "priceKRW": 252973,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.747597,
+    "lng": 100.547234
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 5781206,
+   "name": "하얏트 리젠시 방콕 수쿰빗 (Hyatt Regency Bangkok Sukhumvit)",
+   "agodaUrl": "https://www.agoda.com/hyatt-regency-bangkok-sukhumvit/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/918391391.jpg?k=cce4cec1062554fced419a6d04788df107bfab7be1c0667e03b7b9ec46a33bf7&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2493,
+   "priceKRW": 307784,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.739934,
+    "lng": 100.557083
+   },
+   "refLandmark": "나나역"
+  },
+  {
+   "propertyId": 51555396,
+   "name": "두짓 타니 방콕 (Dusit Thani Bangkok )",
+   "agodaUrl": "https://www.agoda.com/dusit-thani-bangkok_2/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51555396/0/5fcab32a25e60a453c1f98f0a50c34c8.jpeg?ce=2",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 2421,
+   "priceKRW": 548465,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.728492,
+    "lng": 100.536896
+   },
+   "refLandmark": "실롬역"
+  },
+  {
+   "propertyId": 262813,
+   "name": "호텔 뮤즈 방콕, 오토그래프 컬렉션 (Hotel Muse Bangkok, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/hotel-muse-bangkok_4/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/262813/0/893d09b01d7eb77eecf1d8c72ba3b537.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1976,
+   "priceKRW": 234234,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.740192,
+    "lng": 100.543411
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 35137329,
+   "name": "빌라 데바 리조트 앤 호텔 (VILLA DEVA RESORT & HOTEL BANGKOK)",
+   "agodaUrl": "https://www.agoda.com/villa-deva-resort-and-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35137329/-1/7273e79cf0d03ef0cffe9e633265ebac.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1931,
+   "priceKRW": 218432,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.722961,
+    "lng": 100.544591
+   },
+   "refLandmark": "룸피니역"
+  },
+  {
+   "propertyId": 37462759,
+   "name": "인터컨티넨탈 방콕 수쿰빗 바이 IHG (InterContinental Bangkok Sukhumvit By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-bangkok-sukhumvit/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38046697/0/3c25ccb27370201070b4729b23e0e54c.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1907,
+   "priceKRW": 333784,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.722514,
+    "lng": 100.581451
+   },
+   "refLandmark": "에까마이 버스 터미널"
+  },
+  {
+   "propertyId": 161588,
+   "name": "사톤 비스타, 방콕 - 메리어트 이그제큐티브 아파트먼트 (Sathorn Vista, Bangkok - Marriott Executive Apartments)",
+   "agodaUrl": "https://www.agoda.com/sathorn-vista-bangkok-marriott-executive-apartments/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/915443397.jpg?k=7c8c6f7ad493a5b8816eab746eb9407c851c3955520abac8fd30674319b1211d&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1896,
+   "priceKRW": 201441,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723167,
+    "lng": 100.536934
+   },
+   "refLandmark": "살라댕역"
+  },
+  {
+   "propertyId": 165350,
+   "name": "메리어트 이그제큐티브 아파트먼트 수쿰빗 파크 방콕 (Marriott Executive Apartments Sukhumvit Park, Bangkok)",
+   "agodaUrl": "https://www.agoda.com/sukhumvit-park-bangkok-marriott-executive-apartments/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/165350/-1/5a8842c54f140b870ca76508ca3a57d2.jpg?va=1&ca=10&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1835,
+   "priceKRW": 213153,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.72436,
+    "lng": 100.566704
+   },
+   "refLandmark": "퀸시리킷국립컨벤션센터역"
+  },
+  {
+   "propertyId": 1994765,
+   "name": "파크 하얏트 방콕 (Park Hyatt Bangkok)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1994765/0/674e97396d6174d15d98eabd8499d09a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1775,
+   "priceKRW": 679279,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.743867,
+    "lng": 100.547325
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 8634385,
+   "name": "포시즌스 호텔 방콕 앳 차오프라야 리버 (Four Seasons Hotel Bangkok at Chao Phraya River)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-bangkok-at-chao-praya-river/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8634385/0/92e7410da49726758c252974fc929764.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1704,
+   "priceKRW": 860545,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.7119,
+    "lng": 100.5101
+   },
+   "refLandmark": "사판탁신역"
+  },
+  {
+   "propertyId": 70467573,
+   "name": "크로모 방콕, 큐리오 컬렉션 바이 힐튼 (KROMO Bangkok, Curio Collection by Hilton)",
+   "agodaUrl": "https://www.agoda.com/kromo-bangkok-curio-collection-by-hilton/hotel/saraburi-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70467573/0/2c2b03cf3ca60d01b837478194784ccc.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1649,
+   "priceKRW": 257043,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.733968,
+    "lng": 100.565331
+   },
+   "refLandmark": "수쿰윗역"
+  },
+  {
+   "propertyId": 10713,
+   "name": "만다린 오리엔탈 방콕 (Mandarin Oriental, Bangkok)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-bangkok_12/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10713/0/e8ba6b072e363423f6e622538e2a06c5.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1591,
+   "priceKRW": 915855,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.724011,
+    "lng": 100.514442
+   },
+   "refLandmark": "사판탁신역"
+  },
+  {
+   "propertyId": 36875536,
+   "name": "퍼블릭 하우스 방콕, 어 멤버 오브 디자인 호텔스 (Public House Bangkok, a Member of Design Hotels)",
+   "agodaUrl": "https://www.agoda.com/the-public-house-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36875536/-1/a515aedfca6ac084c528b071de4e97d7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1563,
+   "priceKRW": 250928,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737801,
+    "lng": 100.566895
+   },
+   "refLandmark": "수쿰윗역"
+  },
+  {
+   "propertyId": 1266554,
+   "name": "137 필라스 스위트 방콕 [방콕] (137 Pillars Suites Bangkok [Bangkok])",
+   "agodaUrl": "https://www.agoda.com/137-pillars-suites-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1266554/0/00095b489f24358dff8775ebca81120f.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1462,
+   "priceKRW": 402842,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737467,
+    "lng": 100.571836
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 197181,
+   "name": "더 아테네 호텔 럭셔리 컬렉션 방콕 (The Athenee Hotel, a Luxury Collection Hotel, Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-athenee-hotel-a-luxury-collection-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5105415/1154052482/d7c6f9e413db5a2f5c0a1cf19d40f27c.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1456,
+   "priceKRW": 365358,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.741294,
+    "lng": 100.547768
+   },
+   "refLandmark": "플런칫역"
+  },
+  {
+   "propertyId": 4898044,
+   "name": "월도프 아스토리아 방콕 (Waldorf Astoria Bangkok)",
+   "agodaUrl": "https://www.agoda.com/waldorf-astoria-bangkok_4/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4898044/0/125a4559cfb496864ad684e8f054f408.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1454,
+   "priceKRW": 628898,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.742447,
+    "lng": 100.540421
+   },
+   "refLandmark": "칫롬역"
+  },
+  {
+   "propertyId": 460493,
+   "name": "메리어트 이그제큐티브 아파트 방콕, 수쿰빗 통로 (Marriott Executive Apartments Bangkok, Sukhumvit Thonglor)",
+   "agodaUrl": "https://www.agoda.com/marriott-executive-apartments-bangkok-sukhumvit-thonglor/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/460/460493/460493_16031011580040645850.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1289,
+   "priceKRW": 257611,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.723164,
+    "lng": 100.58036
+   },
+   "refLandmark": "통로역"
+  },
+  {
+   "propertyId": 624337,
+   "name": "힐튼 방콕 수완나품 골프 리조트 앤 스파 (Hilton Bangkok Suvarnabhumi Golf Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-suvarnabhumi-bangkok-golf-resort-and-spa_5/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82466703/0/b2385968f504c54d6b662529e50f4d28.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1235,
+   "priceKRW": 231797,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.656632,
+    "lng": 100.70578
+   },
+   "refLandmark": "수완나품역"
+  },
+  {
+   "propertyId": 335032,
+   "name": "더 세인트 레지스 방콕 (The St. Regis Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-bangkok_15/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5076674/1153983018/91eb8f543f6ed23feb4646b65a9f4631.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1127,
+   "priceKRW": 637117,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.739936,
+    "lng": 100.540039
+   },
+   "refLandmark": "라차담리역"
+  },
+  {
+   "propertyId": 60235592,
+   "name": "메리어트 이그제큐티브 아파트먼트, 방콕 타운홀 수쿰윗 (Marriott Executive Apartments, Bangkok Townhall Sukhumvit)",
+   "agodaUrl": "https://www.agoda.com/marriott-executive-apartments-bangkok-townhall-sukhumvit/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/691752178.jpg?k=7e3725c0f6bf9aafc7aba6ff5b6ee5023b16b4fbb40404e2fa544fe6c8f53daf&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1100,
+   "priceKRW": 224865,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.733009,
+    "lng": 100.577141
+   },
+   "refLandmark": "프롬퐁역"
+  },
+  {
+   "propertyId": 296765,
+   "name": "더 시암 호텔 (The Siam Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-siam-hotel/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/63837450/1153989446/6254546cbc5d97e780e1f71b01123a1b.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 932,
+   "priceKRW": 772432,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.781157,
+    "lng": 100.506187
+   },
+   "refLandmark": "방플랏역"
+  },
+  {
+   "propertyId": 61425890,
+   "name": "리츠칼튼 방콕 (The Ritz-Carlton, Bangkok)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/625542449.jpg?k=849468bb99d1cb453d4deed1bbbef770a72e25e22c4b14c12e02eb973e87e7e3&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 750,
+   "priceKRW": 655855,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.728714,
+    "lng": 100.545288
+   },
+   "refLandmark": "룸피니역"
+  },
+  {
+   "propertyId": 76379971,
+   "name": "더 머스탱 블루 (The Mustang Blu)",
+   "agodaUrl": "https://www.agoda.com/the-mustang-blu-h13565111/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/76379971/0/9b93c8610f3f0d762b667d4ae194ad6e.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 737,
+   "priceKRW": 213504,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.73915,
+    "lng": 100.515
+   },
+   "refLandmark": "후아람퐁 기차역"
+  },
+  {
+   "propertyId": 276597,
+   "name": "차크라봉세 빌라스 (Chakrabongse Villas)",
+   "agodaUrl": "https://www.agoda.com/chakrabongse-villas/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/276597/0/70e7c7529b3e6bd98ff3f2e72460fa88.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 552,
+   "priceKRW": 770556,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.743888,
+    "lng": 100.493111
+   },
+   "refLandmark": "사남차이역"
+  },
+  {
+   "propertyId": 16997294,
+   "name": "Capella Bangkok",
+   "agodaUrl": "https://www.agoda.com/capella-bangkok-sha-plus-certified/hotel/all/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/279436767.jpg?k=688dce57756d7e4f4523bda0002b453a72171ea5b63b04169de52e9598dc4898&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 466,
+   "priceKRW": 1348387,
+   "brand": "capella",
+   "brandLabel": "카펠라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.712069,
+    "lng": 100.510193
+   },
+   "refLandmark": "사판탁신역"
+  },
+  {
+   "propertyId": 42940081,
+   "name": "마디 파이디 방콕, 오토그래프 컬렉션 (Madi Paidi Bangkok, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/madi-paidi-bangkok-autograph-collection/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42940081/0/ed7fbcbcf0afb19fcbcdc2428fc3d408.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 422,
+   "priceKRW": 346620,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.726107,
+    "lng": 100.577881
+   },
+   "refLandmark": "통로역"
+  },
+  {
+   "propertyId": 77465339,
+   "name": "그랜드 닛코 방콕 사톤 (Grand Nikko Bangkok Sathorn)",
+   "agodaUrl": "https://www.agoda.com/grand-nikko-bangkok-sathorn/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/77465339/0/018680ce6d8532a4603d436fac2d98ca.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 311,
+   "priceKRW": 282486,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.722956,
+    "lng": 100.534912
+   },
+   "refLandmark": "총논시역"
+  },
+  {
+   "propertyId": 2542968,
+   "name": "반 2459 헤리티지 하우스 (Baan 2459 Heritage House)",
+   "agodaUrl": "https://www.agoda.com/baan2459/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2542968/-1/38220102e51a344cf94cdc937448bb72.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 217,
+   "priceKRW": 218361,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.739129,
+    "lng": 100.510894
+   },
+   "refLandmark": "왓망콘역"
+  },
+  {
+   "propertyId": 86406942,
+   "name": "하이드 수쿰빗 11 방콕 (Hyde Sukumvit 11 bankok)",
+   "agodaUrl": "https://www.agoda.com/hyde-sukhumvit-11-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/86406942/0/ae783e6f7d680a95221ad13d585e43db.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 169,
+   "priceKRW": 290901,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.743641,
+    "lng": 100.55653
+   },
+   "refLandmark": "나나역"
+  },
+  {
+   "propertyId": 88089813,
+   "name": "캐노피 바이 힐튼 방콕 수쿰빗 (Canopy by Hilton Bangkok Sukhumvit)",
+   "agodaUrl": "https://www.agoda.com/canopy-by-hilton-bangkok-sukhumvit-h85304165/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/888101051.jpg?k=04dae0355e1b6fdac0cb84580637feeb27dd760432e9556046c8e811a04a1316&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 79,
+   "priceKRW": 252973,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.737426,
+    "lng": 100.557869
+   },
+   "refLandmark": "아속역"
+  },
+  {
+   "propertyId": 81182503,
+   "name": "언다즈 원 방콕, 바이 하얏트 (Andaz One Bangkok, By Hyatt)",
+   "agodaUrl": "https://www.agoda.com/andaz-one-bangkok/hotel/bangkok-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/81182503/0/e25c1182c61071061fdf0f239bad389f.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 49,
+   "priceKRW": 505946,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 13.727556,
+    "lng": 100.545456
+   },
+   "refLandmark": "룸피니역"
+  }
+ ]
+}

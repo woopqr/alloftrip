@@ -1,0 +1,714 @@
+{
+ "slug": "koh-samui",
+ "city": "코사무이",
+ "region": "southeast-asia",
+ "cityId": 17198,
+ "agodaCityName": "꼬사무이 / 코사무이",
+ "fetchedAt": "2026-10-07T23:40:17.620Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 159251,
+   "name": "한사르 사무이 리조트 (Hansar Samui Resort)",
+   "agodaUrl": "https://www.agoda.com/hansar-samui-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/159251/0/cb894e479785c71819bdf759310054ad.jpeg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 6571,
+   "priceKRW": 297570,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.561649,
+    "lng": 100.025879
+   },
+   "refLandmark": "피셔맨스 빌리지"
+  },
+  {
+   "propertyId": 103945,
+   "name": "실라바디 풀 스파 리조트 (Silavadee Pool Spa Resort)",
+   "agodaUrl": "https://www.agoda.com/silavadee-pool-spa-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/103945/0/9b746241706ca1cd2056ee5af87103c8.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3017,
+   "priceKRW": 292864,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.468288,
+    "lng": 100.069954
+   },
+   "refLandmark": "라마이 비치"
+  },
+  {
+   "propertyId": 16822418,
+   "name": "하얏트 리젠시 코사무이 (Hyatt Regency Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/hyatt-regency-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/16822418/0/1176827fc84c2fcd239234a8d1fe17e8.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2841,
+   "priceKRW": 260791,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.556071,
+    "lng": 100.07946
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 1624710,
+   "name": "살라 사무이 차웽 비치 리조트 (SALA Samui Chaweng Beach Resort )",
+   "agodaUrl": "https://www.agoda.com/sala-samui-chaweng-beach/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1624710/0/7d9ccf175ab746c0ea9938d8b1853f7d.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2667,
+   "priceKRW": 392765,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.537641,
+    "lng": 100.069891
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 10820,
+   "name": "가리야 통사이 베이 사무이 (Garrya Tongsai Bay Samui)",
+   "agodaUrl": "https://www.agoda.com/the-tongsai-bay-hotel/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10820/0/abecb78f97c3cc17121de1f76e25b5d0.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2350,
+   "priceKRW": 347722,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.579169,
+    "lng": 100.079097
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 48422,
+   "name": "살라 사무이 청몬 비치 (SALA Samui Choengmon Beach )",
+   "agodaUrl": "https://www.agoda.com/sala-samui-choengmon-beach/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/48422/0/352b4ba2939418ad9731f69238304fe5.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2048,
+   "priceKRW": 405285,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.572398,
+    "lng": 100.080081
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 164223,
+   "name": "더 라마이 사무이 (The Lamai Samui)",
+   "agodaUrl": "https://www.agoda.com/le-meridien-koh-samui-resort-spa/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/164223/0/b166affe081330b63eb8383e669d947d.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1966,
+   "priceKRW": 232953,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.471987,
+    "lng": 100.061401
+   },
+   "refLandmark": "라마이 비치"
+  },
+  {
+   "propertyId": 186780,
+   "name": "반얀 트리 사무이 (Banyan Tree Samui)",
+   "agodaUrl": "https://www.agoda.com/banyan-tree-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/186780/0/ee3db872ac5d9ba868abc4ff44ffd184.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1901,
+   "priceKRW": 903558,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.472373,
+    "lng": 100.071289
+   },
+   "refLandmark": "라마이 비치"
+  },
+  {
+   "propertyId": 24092433,
+   "name": "센타라 리저브 사무이 (Centara Reserve Samui)",
+   "agodaUrl": "https://www.agoda.com/centara-reserve-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/24092433/-1/fae11806f97e0108429c6e04d2af1056.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1844,
+   "priceKRW": 396868,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.5201,
+    "lng": 100.057198
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 96986,
+   "name": "멜라티 비치 리조트 앤 스파 (Melati Beach Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/melati-beach-resort-spa/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/96986/0/38765179b198990664182cd0861d0c04.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1832,
+   "priceKRW": 213167,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.586254,
+    "lng": 100.075218
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 105034,
+   "name": "로얄 무앙 사무이 빌라스 (Royal Muang Samui Villas)",
+   "agodaUrl": "https://www.agoda.com/royal-muang-samui-villas/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/105034/0/cb8793e65ca95f3d0e4fa9d270b41d8a.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1697,
+   "priceKRW": 258642,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.570134,
+    "lng": 100.082893
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 63321,
+   "name": "무앙 사무이 스파 리조트 (Muang Samui Spa Resort)",
+   "agodaUrl": "https://www.agoda.com/muang-samui-spa-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/63321/0/73cd1ccd975faedafada9a91825a2c07.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1623,
+   "priceKRW": 236432,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.534038,
+    "lng": 100.06734
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 84278,
+   "name": "더 라이브러리 호텔 (The Library Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-library-hotel/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/84278/0/31b86d8b89038384b6ad10bafe4cc858.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1459,
+   "priceKRW": 319723,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.52765,
+    "lng": 100.060036
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 109176,
+   "name": "Sareeraya Villas & Suites",
+   "agodaUrl": "https://www.agoda.com/sareeraya-villas-suites-hotel/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/109176/0/99b96577a26b9691092bbdfea5a3548d.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1377,
+   "priceKRW": 222146,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.538511,
+    "lng": 100.070241
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 208512,
+   "name": "니키 비치 리조트 앤 스파 (Nikki Beach Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/nikki-beach-resort-spa/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/208512/0/bbc1f63562da7c0cc40e573d2f22f236.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1363,
+   "priceKRW": 207724,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.499075,
+    "lng": 99.934881
+   },
+   "refLandmark": "나 무앙 워터폴 I"
+  },
+  {
+   "propertyId": 89447,
+   "name": "Anantara Lawana Koh Samui Resort",
+   "agodaUrl": "https://www.agoda.com/anantara-lawana-koh-samui-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/89447/0/b63ce149b50de40729f636ef32678b5e.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1322,
+   "priceKRW": 297753,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.54145,
+    "lng": 100.076709
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 2987200,
+   "name": "더 리츠칼튼, 코사무이 (The Ritz-Carlton, Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/818316644.jpg?k=a282af40c8fe86a915418aa39c2133e91269548facbe28920e7c0b2af01d038c&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1230,
+   "priceKRW": 595285,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.58,
+    "lng": 100.074844
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 295299,
+   "name": "SAii Koh Samui Villas Adults Only",
+   "agodaUrl": "https://www.agoda.com/outrigger-koh-samui-beach-resort-ex-akaryn-samui/hotel/samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/295299/0/a7ffc038c464a2e900e957e752526103.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1193,
+   "priceKRW": 234239,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.512017,
+    "lng": 100.013596
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 850178,
+   "name": "쉐라톤 사무이 리조트 (Sheraton Samui Resort)",
+   "agodaUrl": "https://www.agoda.com/sheraton-samui-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/850178/0/13e3eae33e0cfb2a62fac5730d4c8966.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1186,
+   "priceKRW": 203153,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.505585,
+    "lng": 100.054352
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 47878812,
+   "name": "와일드 코티지 엘리펀트 생추어리 리조트 (Wild Cottages Elephant Sanctuary Resort)",
+   "agodaUrl": "https://www.agoda.com/wild-cottages-sanctuary/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47878812/0/f72b0635f3b88034e65e6a965ea17117.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1136,
+   "priceKRW": 253400,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.543797,
+    "lng": 100.023872
+   },
+   "refLandmark": "피셔맨스 빌리지"
+  },
+  {
+   "propertyId": 267449,
+   "name": "콘래드 코사무이 (Conrad Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/conrad-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/267449/990599428/f1150d64a321148d4540f041f039808a.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1050,
+   "priceKRW": 700115,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.419692,
+    "lng": 99.929024
+   },
+   "refLandmark": "나 무앙 워터폴 I"
+  },
+  {
+   "propertyId": 50600847,
+   "name": "Marasca Samui - Small Luxury Hotels of the World",
+   "agodaUrl": "https://www.agoda.com/marasca-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50600847/0/0a847f25f5cbbb1d25c28632fb2b3288.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 926,
+   "priceKRW": 221218,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.531179,
+    "lng": 100.065707
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 10818,
+   "name": "멜리아 코사무이 (MELIA KOH SAMUI)",
+   "agodaUrl": "https://www.agoda.com/melia-koh-samui_9/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10818/0/a6faae0355b7e40712edb20e6d7b10ce.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 826,
+   "priceKRW": 256284,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.571526,
+    "lng": 100.081902
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 48374,
+   "name": "아난타라 보풋 코사무이 리조트 (Anantara Bophut Koh Samui Resort)",
+   "agodaUrl": "https://www.agoda.com/anantara-bophut-koh-samui-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/634678138.jpg?k=36c65ad7e83f386fd527d2774ee34188a6d69e0a9348be780317179e41779a1b&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 817,
+   "priceKRW": 331512,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.562164,
+    "lng": 100.025279
+   },
+   "refLandmark": "피셔맨스 빌리지"
+  },
+  {
+   "propertyId": 285053,
+   "name": "암마타라 푸라 풀 빌라 (Ammatara Pura Pool Villa)",
+   "agodaUrl": "https://www.agoda.com/ammatara-pura-pool-villa/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/285/285053/285053_16111819140048892293.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 753,
+   "priceKRW": 506935,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.459149,
+    "lng": 100.042772
+   },
+   "refLandmark": "라마이 비치"
+  },
+  {
+   "propertyId": 10815,
+   "name": "산티부리 꼬사무이 (Santiburi Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/santiburi-beach-resort-golf-spa/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10815/0/ccb06dd680f7a42c1ae67a62fcdf9224.jpeg?va=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 703,
+   "priceKRW": 309218,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.572467,
+    "lng": 99.992111
+   },
+   "refLandmark": "마에남 비치"
+  },
+  {
+   "propertyId": 28756435,
+   "name": "킴튼 키탈레이 사무이 바이 IHG (Kimpton Kitalay Samui By IHG)",
+   "agodaUrl": "https://www.agoda.com/kimpton-kitalay-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/28756435/0/6b3c5625328308acf1da141677eeb3a9.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 701,
+   "priceKRW": 417077,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 9.57384,
+    "lng": 100.079376
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 409593,
+   "name": "바나 벨, 어 럭셔리 컬렉션 리조트, 코사무이 (Vana Belle, a Luxury Collection Resort, Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/vana-belle-a-luxury-collection-resort-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4875064/0/537a74923cf10eec5285b248a3f6ba03.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 651,
+   "priceKRW": 623632,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.507974,
+    "lng": 100.055138
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 212498,
+   "name": "W Koh Samui",
+   "agodaUrl": "https://www.agoda.com/w-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/328077568.jpg?k=be4a4f2671743bf2675ff76c137b26362436e89aabe7abafc697d2c9c50b6e79&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 605,
+   "priceKRW": 803162,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.572843,
+    "lng": 100.016701
+   },
+   "refLandmark": "마에남 비치"
+  },
+  {
+   "propertyId": 63177670,
+   "name": "ZOG Villas",
+   "agodaUrl": "https://www.agoda.com/zog-villas/hotel/koh-samui-th.html?cid=1925461",
+   "img": "",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 348,
+   "priceKRW": 841638,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.540451,
+    "lng": 99.988144
+   },
+   "refLandmark": "마에남 비치"
+  },
+  {
+   "propertyId": 344587,
+   "name": "Four Seasons Resort Koh Samui, Thailand",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-koh-samui-thailand/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 280,
+   "priceKRW": 2219970,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.570558,
+    "lng": 99.914703
+   },
+   "refLandmark": "마에남 비치"
+  },
+  {
+   "propertyId": 5092165,
+   "name": "Cape Fahn Hotel – Private Islands Samui",
+   "agodaUrl": "https://www.agoda.com/cape-fahn-hotel/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5092165/0/10c5980c04381bc623994697a82b6e08.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 252,
+   "priceKRW": 769360,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.574238,
+    "lng": 100.087554
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 33391242,
+   "name": "앰퍼샌드 리조트 코사무이 (Ampersand Resort Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/ampersand-resort-ko-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33391242/-1/0e194defe753a16008fddd68ffffddd6.jpg?ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 226,
+   "priceKRW": 252677,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.589927,
+    "lng": 100.066362
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 80242420,
+   "name": "Samaraya Wellness Resort",
+   "agodaUrl": "https://www.agoda.com/samaraya-wellnes-resort/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/80242420/0/9079107f759e735feec68e1ca09a9901.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 195,
+   "priceKRW": 219489,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.513574,
+    "lng": 99.93405
+   },
+   "refLandmark": "나 무앙 워터폴 I"
+  },
+  {
+   "propertyId": 3112132,
+   "name": "더 시크릿 풀빌라 바이 더 라이브러리 코사무이 (The Secret Pool Villas by The Library Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/the-secret-pool-villas-by-the-library-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3112132/-1/1a0c5be8ac3a5b5e1900752fceff5938.jpg?va=1&ca=20&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 154,
+   "priceKRW": 767682,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.527129,
+    "lng": 100.060532
+   },
+   "refLandmark": "차웽 노이 비치"
+  },
+  {
+   "propertyId": 51651446,
+   "name": "Kerem Luxury Beachfront Villas",
+   "agodaUrl": "https://www.agoda.com/kerem-villas-h32990399/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51651446/0/0ab35ec112894690336c9cc7bda0ba1f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 123,
+   "priceKRW": 1277346,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.589125,
+    "lng": 100.066368
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 36041880,
+   "name": "블루망고 풀 빌라 앤 리조트 코사무이 (Bluemango Pool Villa & Resort Koh Samui)",
+   "agodaUrl": "https://www.agoda.com/bluemango-poolvilla-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36041880/-1/a909d2d2a28523493130bf3c446f1321.jpg?ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 122,
+   "priceKRW": 209661,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.55361,
+    "lng": 100.078171
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 478914,
+   "name": "Kanda Pool Villas",
+   "agodaUrl": "https://www.agoda.com/kanda-residences-pool-villas/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/478914/0/949d74195850bddba235c5447e471bda.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 109,
+   "priceKRW": 346347,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.55442,
+    "lng": 100.07798
+   },
+   "refLandmark": "왓 플라이 램"
+  },
+  {
+   "propertyId": 73011089,
+   "name": "IDA B DOMAIN - Koh Samui",
+   "agodaUrl": "https://www.agoda.com/ida-b-domain-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/73011089/0/3abb8fcde8871f21826eef3f5d190b34.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 37,
+   "priceKRW": 563357,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 9.492212,
+    "lng": 99.96018
+   },
+   "refLandmark": "나 무앙 워터폴 I"
+  }
+ ]
+}

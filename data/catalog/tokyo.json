@@ -1,0 +1,1848 @@
+{
+ "slug": "tokyo",
+ "city": "도쿄",
+ "region": "east-asia",
+ "cityId": 5085,
+ "agodaCityName": "도쿄 / 동경",
+ "fetchedAt": "2026-10-07T23:40:17.655Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 7263,
+   "name": "게이오 플라자 호텔 도쿄 (Keio Plaza Hotel Tokyo)",
+   "agodaUrl": "https://www.agoda.com/keio-plaza-hotel-tokyo_3/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7263/0/52508d8a9b23b4b6d813303abe4f00dd.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 26777,
+   "priceKRW": 792982,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.689968,
+    "lng": 139.694412
+   },
+   "refLandmark": "도초마에역"
+  },
+  {
+   "propertyId": 43321,
+   "name": "도쿄 돔 호텔 (Tokyo Dome Hotel)",
+   "agodaUrl": "https://www.agoda.com/tokyo-dome-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/43321/0/57d7d31db775e065d1f828ef19aaf373.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 25935,
+   "priceKRW": 388522,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.703725,
+    "lng": 139.753507
+   },
+   "refLandmark": "스이도바시역"
+  },
+  {
+   "propertyId": 3585,
+   "name": "그랜드 닛코 도쿄 다이바 (Grand Nikko Tokyo Daiba)",
+   "agodaUrl": "https://www.agoda.com/grand-nikko-tokyo-daiba/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/16391214/0/7b1ad37db438f4e60ddbd64594ae6544.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 20269,
+   "priceKRW": 497979,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.624931,
+    "lng": 139.770985
+   },
+   "refLandmark": "유리카모메다이바역"
+  },
+  {
+   "propertyId": 9322,
+   "name": "힐튼 도쿄 베이 (Hilton Tokyo Bay)",
+   "agodaUrl": "https://www.agoda.com/hilton-tokyo-bay/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/932/9322/9322_16111516190048736943.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 18084,
+   "priceKRW": 619794,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.627102,
+    "lng": 139.873703
+   },
+   "refLandmark": "베이사이드역"
+  },
+  {
+   "propertyId": 70116,
+   "name": "호텔 오쿠라 도쿄 베이  (Hotel Okura Tokyo Bay)",
+   "agodaUrl": "https://www.agoda.com/hotel-okura-tokyo-bay/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70116/-1/02f83e83f066f9e0b47811126615a8b3.jpg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 17751,
+   "priceKRW": 645831,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.626492,
+    "lng": 139.876203
+   },
+   "refLandmark": "베이사이드역"
+  },
+  {
+   "propertyId": 10672476,
+   "name": "도쿄 베이 시오미 프린스 호텔 (Tokyo Bay Shiomi Prince Hotel)",
+   "agodaUrl": "https://www.agoda.com/tokyo-bay-shiomi-prince-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10672476/-1/ee985e7e4960e73f83de06d86433c903.jpg?ca=16&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 16922,
+   "priceKRW": 527118,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.660397,
+    "lng": 139.817405
+   },
+   "refLandmark": "시오미역"
+  },
+  {
+   "propertyId": 648873,
+   "name": "밀레니엄 미츠이 가든 호텔 도쿄 / 긴자 (Millennium Mitsui Garden Hotel Tokyo / Ginza)",
+   "agodaUrl": "https://www.agoda.com/millennium-mitsui-garden-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/648873/0/49012061e2ab8a01f21c4a40bf913099.jpg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 15636,
+   "priceKRW": 472836,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.669899,
+    "lng": 139.766098
+   },
+   "refLandmark": "히가시긴자역"
+  },
+  {
+   "propertyId": 85,
+   "name": "그랜드 프린스 호텔 신 다카나와 (Grand Prince Hotel Shin Takanawa)",
+   "agodaUrl": "https://www.agoda.com/grand-prince-hotel-new-takanawa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/352789195.jpg?k=8ba167b098f0c70a082380c42cdfeb06b80b51d6313b56a42f625bb5594b6110&o=",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 14675,
+   "priceKRW": 506833,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.629819,
+    "lng": 139.733517
+   },
+   "refLandmark": "다카나와다이역"
+  },
+  {
+   "propertyId": 7028111,
+   "name": "미쓰이 가든 호텔 진구가이엔 도쿄 프리미어 (Mitsui Garden Hotel Jingugaien Tokyo Premier)",
+   "agodaUrl": "https://www.agoda.com/mitsui-garden-hotel-jingugaien-tokyo-premier/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7028111/0/14136ef44a2d65bcec7424d14066f875.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 14537,
+   "priceKRW": 466684,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.680065,
+    "lng": 139.715947
+   },
+   "refLandmark": "고쿠리쓰교기조역"
+  },
+  {
+   "propertyId": 11015798,
+   "name": "미츠이 가든 호텔 토요스 프리미어 / 도쿄 (Mitsui Garden Hotel Toyosu Premier / Tokyo)",
+   "agodaUrl": "https://www.agoda.com/mitsui-garden-hotel-toyosu-bayside-cross-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11015798/0/d5a3701c7ed637075491f1ce283b6df5.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 13106,
+   "priceKRW": 444575,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.654804,
+    "lng": 139.794583
+   },
+   "refLandmark": "도요스역"
+  },
+  {
+   "propertyId": 69183,
+   "name": "미츠이 가든 호텔 긴자 프리미어 (Mitsui Garden Hotel Ginza Premier)",
+   "agodaUrl": "https://www.agoda.com/mitsui-garden-hotel-ginza-premier/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/69183/0/318e3221cd4a7ece2f24e5f55cef20bb.jpg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 11784,
+   "priceKRW": 459069,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.66716,
+    "lng": 139.76326
+   },
+   "refLandmark": "쓰키지시조역"
+  },
+  {
+   "propertyId": 4479315,
+   "name": "미츠이 가든 호텔 니혼바시 프리미어 / 도쿄 (Mitsui Garden Hotel Nihonbashi Premier / Tokyo)",
+   "agodaUrl": "https://www.agoda.com/mitsui-garden-hotel-nihonbashi-premier/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4479315/0/964691d4de61dc2cc61f549b422f48cd.jpg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 11148,
+   "priceKRW": 363880,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.688397,
+    "lng": 139.773332
+   },
+   "refLandmark": "미쓰코시마에역"
+  },
+  {
+   "propertyId": 286,
+   "name": "임페리얼 호텔 도쿄 (Imperial Hotel Tokyo)",
+   "agodaUrl": "https://www.agoda.com/imperial-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/286/0/cc3af6cf559b5bdc27d46a8d5498e3e7.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 9436,
+   "priceKRW": 683839,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.672279,
+    "lng": 139.758331
+   },
+   "refLandmark": "히비야역"
+  },
+  {
+   "propertyId": 59207,
+   "name": "호텔 더 셀레스틴 도쿄 시바 (HOTEL THE CELESTINE TOKYO SHIBA)",
+   "agodaUrl": "https://www.agoda.com/hotel-the-celestine-tokyo-shiba/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59207/0/09a40ac21c529780a7774b23c5e364b0.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 8840,
+   "priceKRW": 299402,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.650986,
+    "lng": 139.748886
+   },
+   "refLandmark": "미타역"
+  },
+  {
+   "propertyId": 1963,
+   "name": "세룰리언 타워 도큐 호텔, 어 팬퍼시픽 파트너 호텔 (Cerulean Tower Tokyu Hotel, A Pan Pacific Partner Hotel)",
+   "agodaUrl": "https://www.agoda.com/cerulean-tower-tokyu-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1963/0/d63f64f6c5ee2c2dd52b3ac5942d4651.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 8100,
+   "priceKRW": 1163842,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.656467,
+    "lng": 139.699554
+   },
+   "refLandmark": "시부야역"
+  },
+  {
+   "propertyId": 2260,
+   "name": "그랜드 프린스 호텔 타카나와 (Grand Prince Hotel Takanawa)",
+   "agodaUrl": "https://www.agoda.com/grand-prince-hotel-takanawa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/171407401.jpg?k=2c9b676d27f7ae1cf1c001cbd74708dcd8c570c69fb59b4bb1499a8c3ce77d86&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 7943,
+   "priceKRW": 373465,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.631807,
+    "lng": 139.73463
+   },
+   "refLandmark": "다카나와다이역"
+  },
+  {
+   "propertyId": 9062269,
+   "name": "미쓰이 가든 호텔 롯폰기 도쿄 프리미어 (Mitsui Garden Hotel Roppongi Tokyo Premier)",
+   "agodaUrl": "https://www.agoda.com/mitsui-garden-hotel-roppongi-tokyo-premier/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9062269/0/a820e12c0b89315814c94bfd946fc54b.jpg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 7327,
+   "priceKRW": 502806,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.66211,
+    "lng": 139.735848
+   },
+   "refLandmark": "롯폰기역"
+  },
+  {
+   "propertyId": 29852968,
+   "name": "라비스타 도쿄베이 - 교리츠 리조트 (Lavista TokyoBay -Kyoritsu Resort)",
+   "agodaUrl": "https://www.agoda.com/lavista-tokyobay-kyoritsu-resort-h29852968/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/29852968/0/519bae4a437d7f7e5d2c0351bd65f7ab.jpeg?va=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 6747,
+   "priceKRW": 339353,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.646957,
+    "lng": 139.783752
+   },
+   "refLandmark": "도요스역"
+  },
+  {
+   "propertyId": 42063100,
+   "name": "와사비 미타 호텔 (Wasabi Mita Hotel)",
+   "agodaUrl": "https://www.agoda.com/rhodes-mita/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42063100/0/7d823d00d9317abb4aae2792b188c895.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 7.8,
+   "reviewCount": 5826,
+   "priceKRW": 311233,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.644527,
+    "lng": 139.743881
+   },
+   "refLandmark": "다마치역"
+  },
+  {
+   "propertyId": 305312,
+   "name": "더 도쿄 스테이션 호텔 (The Tokyo Station Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-tokyo-station-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/305312/0/5f409bb546ee9aae2c31f17eed3d027c.jpeg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 5492,
+   "priceKRW": 1067906,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.680759,
+    "lng": 139.765854
+   },
+   "refLandmark": "도쿄역"
+  },
+  {
+   "propertyId": 63314,
+   "name": "더 프린스 파크 타워 도쿄 - 프리퍼드 호텔 앤 리조트, LVX 컬렉션 (The Prince Park Tower Tokyo - Preferred Hotels & Resorts, LVX Collection)",
+   "agodaUrl": "https://www.agoda.com/the-prince-park-tower-tokyo-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8787386/0/c2dc4d2205447e36c85a11ff24efd807.jpeg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 5485,
+   "priceKRW": 561785,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.655195,
+    "lng": 139.747059
+   },
+   "refLandmark": "아카바네바시역"
+  },
+  {
+   "propertyId": 38400661,
+   "name": "로드스 카구라자카 호텔 (Rhodes Kagurazaka Hotel)",
+   "agodaUrl": "https://www.agoda.com/h38400661/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38400661/634636277/45b062e74089733a13a14e7a3ffc8061.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 7.5,
+   "reviewCount": 5087,
+   "priceKRW": 311233,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.698887,
+    "lng": 139.733398
+   },
+   "refLandmark": "우시고메카구라자카역"
+  },
+  {
+   "propertyId": 38685743,
+   "name": "앤 히어 도쿄 우에노 (＆Here TOKYO UENO)",
+   "agodaUrl": "https://www.agoda.com/here-tokyoueno/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38685743/0/864acb22a430345b77f40dd55a5ac6ec.jpg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4988,
+   "priceKRW": 503824,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.709194,
+    "lng": 139.770844
+   },
+   "refLandmark": "유시마역"
+  },
+  {
+   "propertyId": 2092262,
+   "name": "호텔 더 셀레스틴 긴자 (HOTEL THE CELESTINE GINZA)",
+   "agodaUrl": "https://www.agoda.com/hotel-the-celestine-ginza_2/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2092262/0/db22ccb1ec8134711b6e87df6c52eba5.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4490,
+   "priceKRW": 540437,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.669113,
+    "lng": 139.759857
+   },
+   "refLandmark": "신바시역"
+  },
+  {
+   "propertyId": 108494,
+   "name": "호텔 뉴 오타니 도쿄 더 메인 (Hotel New Otani Tokyo The Main)",
+   "agodaUrl": "https://www.agoda.com/hotel-new-otani-tokyo-the-main/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8787105/0/508dd525e9ec47d71bfa00eb5a16b7ce.jpg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 4457,
+   "priceKRW": 539561,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.681213,
+    "lng": 139.734099
+   },
+   "refLandmark": "Tokyo Metro"
+  },
+  {
+   "propertyId": 55768701,
+   "name": "네스트호텔 도쿄 야에스 (Nesthotel Tokyo Yaesu)",
+   "agodaUrl": "https://www.agoda.com/h55768701/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/55768701/0/6572f169cbfa0de5ae9045b6f511f9d8.jpeg?va=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 4256,
+   "priceKRW": 316742,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.67918,
+    "lng": 139.775908
+   },
+   "refLandmark": "니혼바시역"
+  },
+  {
+   "propertyId": 64264,
+   "name": "힐튼 도쿄 (Hilton Tokyo)",
+   "agodaUrl": "https://www.agoda.com/hilton-tokyo_7/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64264/0/32e19b02edecc71019c9bc5982296a83.jpeg?ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 3773,
+   "priceKRW": 855672,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.692707,
+    "lng": 139.691101
+   },
+   "refLandmark": "니시신주쿠역"
+  },
+  {
+   "propertyId": 52134686,
+   "name": "민 우에노 (Minn Ueno)",
+   "agodaUrl": "https://www.agoda.com/minn-ueno/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52134686/0/b5f23e881555d43ec58e0e5e858f7901.jpg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 2898,
+   "priceKRW": 521415,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.708469,
+    "lng": 139.777786
+   },
+   "refLandmark": "나카오카치마치역"
+  },
+  {
+   "propertyId": 7009454,
+   "name": "The Okura Tokyo",
+   "agodaUrl": "https://www.agoda.com/the-okura-tokyo/hotel/all/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/251112425.jpg?k=3254ba23fa9244d628767f423a7c1f4465e6a7263141538e1e0bf1217b714b39&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 2452,
+   "priceKRW": 1086982,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.66716,
+    "lng": 139.744141
+   },
+   "refLandmark": "토라노몬힐즈역"
+  },
+  {
+   "propertyId": 33014854,
+   "name": "프로스타일 료칸 도쿄 아사쿠사 (Prostyle Ryokan Tokyo Asakusa)",
+   "agodaUrl": "https://www.agoda.com/prostyle-ryokan-asakusa/hotel/hongo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/33014854/0/0cc2fb5e33c74384808e369636020db0.jpg?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2397,
+   "priceKRW": 465626,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.714535,
+    "lng": 139.8008
+   },
+   "refLandmark": "아사쿠사역"
+  },
+  {
+   "propertyId": 2368873,
+   "name": "게이오 플라자 호텔 도쿄 프리미어 그랜드 (Keio Plaza Hotel Tokyo Premier Grand)",
+   "agodaUrl": "https://www.agoda.com/keio-plaza-hotel-tokyo-premier-grand/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2368873/0/43ef7fa578ab514a8e821c9e80b52eb3.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2268,
+   "priceKRW": 899432,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.690144,
+    "lng": 139.694412
+   },
+   "refLandmark": "도초마에역"
+  },
+  {
+   "propertyId": 41028008,
+   "name": "FL-호텔 아사쿠사 (FL-HOTEL ASAKUSA)",
+   "agodaUrl": "https://www.agoda.com/fl-h33951789/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41028008/0/6c57babd9e51b26cde06810029106985.png?va=1&ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 2240,
+   "priceKRW": 280720,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.714615,
+    "lng": 139.7862
+   },
+   "refLandmark": "이나리초역"
+  },
+  {
+   "propertyId": 66057702,
+   "name": "호텔 오페라 (Hotel Opera)",
+   "agodaUrl": "https://www.agoda.com/hotel-opera/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/66057702/0/9c892573c14984ea7cc9d8c04772cb32.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1924,
+   "priceKRW": 303960,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.70159,
+    "lng": 139.69713
+   },
+   "refLandmark": "오쿠보역"
+  },
+  {
+   "propertyId": 186486,
+   "name": "더 캐피톨 호텔 도큐 (The Capitol Hotel Tokyu)",
+   "agodaUrl": "https://www.agoda.com/the-capitol-hotel-tokyu/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8787330/0/bea58dcbe6ac8c2383849842f5962342.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1734,
+   "priceKRW": 1132812,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.673843,
+    "lng": 139.740783
+   },
+   "refLandmark": "다메이케산노역"
+  },
+  {
+   "propertyId": 569164,
+   "name": "팰리스 호텔 도쿄 (Palace Hotel Tokyo)",
+   "agodaUrl": "https://www.agoda.com/palace-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/569164/0/ccf907f71d9a3fa9998dcb31c69b1148.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1690,
+   "priceKRW": 1770691,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.684607,
+    "lng": 139.76142
+   },
+   "refLandmark": "오테마치역"
+  },
+  {
+   "propertyId": 43055198,
+   "name": "우에노 우 호텔 (Ueno Woo Hotel)",
+   "agodaUrl": "https://www.agoda.com/ueno-woo-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/43055198/0/ddb7d944c0918e388048d835e378183c.jpg?ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1585,
+   "priceKRW": 574602,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.708725,
+    "lng": 139.7813
+   },
+   "refLandmark": "신오카치마치역"
+  },
+  {
+   "propertyId": 497719,
+   "name": "더 페닌슐라 도쿄 (The Peninsula Tokyo)",
+   "agodaUrl": "https://www.agoda.com/the-peninsula-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/497719/0/8e5c51cc4e2eaa7350bc3594cd9d7639.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1522,
+   "priceKRW": 2030235,
+   "brand": "peninsula",
+   "brandLabel": "페닌슐라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.674606,
+    "lng": 139.760712
+   },
+   "refLandmark": "히비야역"
+  },
+  {
+   "propertyId": 36931722,
+   "name": "더 skM 도쿄 호텔 앤 다이닝 (THE skM TOKYO  HOTEL & DINING)",
+   "agodaUrl": "https://www.agoda.com/the-skm-tokyo-hotel-dining/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36931722/0/022108d8d824b796d2df3a8b366c0e9d.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1507,
+   "priceKRW": 334806,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.695605,
+    "lng": 139.817046
+   },
+   "refLandmark": "Kinshicho"
+  },
+  {
+   "propertyId": 69184,
+   "name": "콘래드 도쿄 (Conrad Tokyo)",
+   "agodaUrl": "https://www.agoda.com/conrad-tokyo_8/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2286084/0/7357b5b7e58924d225ab3320f2fad804.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1439,
+   "priceKRW": 1925687,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.662998,
+    "lng": 139.760864
+   },
+   "refLandmark": "시오도메역"
+  },
+  {
+   "propertyId": 1637756,
+   "name": "애스콧 마루노우치 도쿄 (Ascott Marunouchi Tokyo)",
+   "agodaUrl": "https://www.agoda.com/ascott-marunouchi-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/99386496.jpg?k=6b81d449b48334254aac6c8d3b8615af373b154b8613f7cf745d5f7e5c1c9c2f&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1387,
+   "priceKRW": 706214,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.68684,
+    "lng": 139.762863
+   },
+   "refLandmark": "오테마치역"
+  },
+  {
+   "propertyId": 38702018,
+   "name": "로드스 오츠카 호텔 (Rhodes Otsuka Hotel)",
+   "agodaUrl": "https://www.agoda.com/h38702018/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38702018/0/0cc50c8494588e1534fc0590b190d239.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 7.3,
+   "reviewCount": 1357,
+   "priceKRW": 249228,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.730339,
+    "lng": 139.730728
+   },
+   "refLandmark": "오쓰카역"
+  },
+  {
+   "propertyId": 215,
+   "name": "쉐라톤 미야코 호텔 도쿄 (Sheraton Miyako Hotel Tokyo)",
+   "agodaUrl": "https://www.agoda.com/sheraton-miyako-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/215/0/ba83060319c438a88bb38527c5563ad3.jpeg",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1259,
+   "priceKRW": 748818,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.639355,
+    "lng": 139.730667
+   },
+   "refLandmark": "지로카네다이역"
+  },
+  {
+   "propertyId": 52134713,
+   "name": "민 우에노 신오카치마치 (Minn Ueno Shin-Okachimachi )",
+   "agodaUrl": "https://www.agoda.com/shinokachimachi-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52134713/0/679b4d4f22709743d80adbb716fb06d0.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1199,
+   "priceKRW": 294325,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.706573,
+    "lng": 139.781479
+   },
+   "refLandmark": "신오카치마치역"
+  },
+  {
+   "propertyId": 22560911,
+   "name": "더 기타노 호텔 도쿄 (THE KITANO HOTEL TOKYO)",
+   "agodaUrl": "https://www.agoda.com/the-kitano-hotel-tokyo-h8787366/hotel/hatoyama-machi-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/22560911/0/6867a1991bdffd93ca63b847bccb3542.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1147,
+   "priceKRW": 654492,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.67955,
+    "lng": 139.740829
+   },
+   "refLandmark": "나가타초역"
+  },
+  {
+   "propertyId": 1450521,
+   "name": "오크우드 프리미어 도쿄 (Oakwood Premier Tokyo)",
+   "agodaUrl": "https://www.agoda.com/oakwood-premier-tokyo_2/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1450521/0/60e34e242a5536e1448b99084d9a23f0.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1131,
+   "priceKRW": 908640,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.682301,
+    "lng": 139.769791
+   },
+   "refLandmark": "도쿄역"
+  },
+  {
+   "propertyId": 52134338,
+   "name": "민 니혼바시 (Minn Nihonbashi)",
+   "agodaUrl": "https://www.agoda.com/monday-apart-nihonbashi-ningyocho-h30306168/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52134338/0/d340cb60f49f5610e9173918f4b0d60d.jpg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 983,
+   "priceKRW": 414464,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.689342,
+    "lng": 139.783676
+   },
+   "refLandmark": "히가시니혼바시역"
+  },
+  {
+   "propertyId": 45888503,
+   "name": "호텔 토라노몬 힐스 (Hotel Toranomon Hills)",
+   "agodaUrl": "https://www.agoda.com/hotel-toranomon-hills-in-the-unbound-collection-by-hyatt/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45888503/0/af5ab3b3803ec2f45594ec42cf6641e0.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 942,
+   "priceKRW": 812883,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.667519,
+    "lng": 139.747345
+   },
+   "refLandmark": "토라노몬힐즈역"
+  },
+  {
+   "propertyId": 2081617,
+   "name": "그랜드 하얏트 도쿄 (Grand Hyatt Tokyo)",
+   "agodaUrl": "https://www.agoda.com/grand-hyatt-tokyo_6/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2081617/1012459133/14d1434665d2514bde2579a72aff8db2.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 929,
+   "priceKRW": 1232193,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.659832,
+    "lng": 139.72821
+   },
+   "refLandmark": "롯폰기역"
+  },
+  {
+   "propertyId": 40548481,
+   "name": "호텔 벨라 (HOTEL BELLA)",
+   "agodaUrl": "https://www.agoda.com/hotel-bella/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/40548481/0/bd9a9631658a9c79e78680c0c48630ab.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 877,
+   "priceKRW": 222100,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.733784,
+    "lng": 139.707642
+   },
+   "refLandmark": "이케부쿠로역"
+  },
+  {
+   "propertyId": 13609165,
+   "name": "더 도쿄 에디션, 도라노몬 (The Tokyo EDITION, Toranomon)",
+   "agodaUrl": "https://www.agoda.com/the-tokyo-edition-toranomon/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21979851/1154077634/667d24874de61890ff175e68a78cff5a.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 869,
+   "priceKRW": 2040960,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.665367,
+    "lng": 139.745132
+   },
+   "refLandmark": "가미야초역"
+  },
+  {
+   "propertyId": 195906,
+   "name": "더 웨스틴 도쿄 (The Westin Tokyo)",
+   "agodaUrl": "https://www.agoda.com/the-westin-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/503646722.jpg?k=74dacc2e6d7e7d48f042881c40f4e923735495ef4bf02f7c19d461eeafe550b1&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 852,
+   "priceKRW": 882764,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.641396,
+    "lng": 139.715424
+   },
+   "refLandmark": "에비스역"
+  },
+  {
+   "propertyId": 3849629,
+   "name": "만다린 오리엔탈 도쿄 (Mandarin Oriental, Tokyo)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-tokyo_11/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3849629/0/a3aac76f7d2defc920d87cdefa98bdf5.jpeg",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 848,
+   "priceKRW": 1749360,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.687117,
+    "lng": 139.773054
+   },
+   "refLandmark": "미쓰코시마에역"
+  },
+  {
+   "propertyId": 36433617,
+   "name": "벨루스타 도쿄, 어 팬 퍼시픽 호텔 (BELLUSTAR TOKYO, A Pan Pacific Hotel)",
+   "agodaUrl": "https://www.agoda.com/bellustar-tokyo-a-pan-pacific-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36433617/0/6cc8fc85685e5a2aa26d8772d59cd697.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 838,
+   "priceKRW": 1215030,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.695896,
+    "lng": 139.700653
+   },
+   "refLandmark": "세이부 신주쿠역"
+  },
+  {
+   "propertyId": 1155276,
+   "name": "더 프린스 갤러리 도쿄 키오이초, 럭셔리 컬렉션 호텔 (The Prince Gallery Tokyo Kioicho, a Luxury Collection Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-prince-gallery-tokyo-kioicho-a-luxury-collection-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/791066175.jpg?k=383b3b4dcdda4af3bf378073e016be0b4d89beec1698cc8bd87786e139cf0f72&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 828,
+   "priceKRW": 1597883,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.680061,
+    "lng": 139.737457
+   },
+   "refLandmark": "나가타초역"
+  },
+  {
+   "propertyId": 148855,
+   "name": "샹그릴라 호텔, 도쿄 (Shangri-La Tokyo)",
+   "agodaUrl": "https://www.agoda.com/shangri-la-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/131133223.jpg?k=41c2db43b2280e8ad8fac60c86082a2af432b4cd0c020b19dee9e27fe23bd2ab&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 796,
+   "priceKRW": 2127374,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.682377,
+    "lng": 139.769386
+   },
+   "refLandmark": "도쿄역"
+  },
+  {
+   "propertyId": 82329400,
+   "name": "일리 타스 신주쿠 (illi Tas Shinjuku)",
+   "agodaUrl": "https://www.agoda.com/illi-tas-shinjuku/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82329400/0/4326451731be7042647bf7bfe56c8200.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 796,
+   "priceKRW": 633275,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.690556,
+    "lng": 139.70988
+   },
+   "refLandmark": "신주쿠교엔마에역"
+  },
+  {
+   "propertyId": 567347,
+   "name": "안다즈 도쿄 토라노몬 힐스 (Andaz Tokyo Toranomon Hills)",
+   "agodaUrl": "https://www.agoda.com/andaz-tokyo-a-concept-by-hyatt/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/567347/0/0f3b190b811cb49050134112b1495018.jpeg",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 766,
+   "priceKRW": 1480991,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.666653,
+    "lng": 139.748352
+   },
+   "refLandmark": "토라노몬힐즈역"
+  },
+  {
+   "propertyId": 8672,
+   "name": "더 프린스 사쿠라 타워 도쿄, 오토그래프 콜렉션 (The Prince Sakura Tower Tokyo, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/the-prince-sakura-tower-tokyo-autograph-collection/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/696993729.jpg?k=a35df6511bfe525a74ce5f2fb289a3034566bb6c19b36287560143c573ce1fad&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 751,
+   "priceKRW": 836851,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.630947,
+    "lng": 139.735413
+   },
+   "refLandmark": "시나가와역"
+  },
+  {
+   "propertyId": 47218986,
+   "name": "사케 바 호텔 아사쿠사 (SAKE Bar Hotel ASAKUSA )",
+   "agodaUrl": "https://www.agoda.com/cotoha-hotel-asakusa-h31985561/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47218986/0/b9393e23743cdaa6c6b6c401783f27ac.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 628,
+   "priceKRW": 802379,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.70819,
+    "lng": 139.794209
+   },
+   "refLandmark": "다와라마치역"
+  },
+  {
+   "propertyId": 21806544,
+   "name": "The Okura Heritage Tokyo",
+   "agodaUrl": "https://www.agoda.com/the-okura-heritage-tokyo/hotel/all/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/268526230.jpg?k=7c276943d8d4e1546b0809c8e6bca7b053ecc2cdeabbd9661ef3c3d0e0dd0808&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 492,
+   "priceKRW": 1715847,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.667088,
+    "lng": 139.745529
+   },
+   "refLandmark": "토라노몬힐즈역"
+  },
+  {
+   "propertyId": 2170433,
+   "name": "TRUNK(HOTEL)CAT STREET",
+   "agodaUrl": "https://www.agoda.com/trunk-hotel/hotel/all/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/313544557.jpg?k=c22ed04f8440bd76105e7a42e692c5fa08895e92d9aae41b4ff78c89ec07ed8e&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 461,
+   "priceKRW": 5913003,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.664352,
+    "lng": 139.70401
+   },
+   "refLandmark": "메이지진구마에역"
+  },
+  {
+   "propertyId": 80241155,
+   "name": "일리 에누 요쓰야 (illi Enu Yotsuya)",
+   "agodaUrl": "https://www.agoda.com/illi-enu-yotsuya/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/80241155/0/a9d34cc29b967c9f3104903c935c01e2.jpg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 436,
+   "priceKRW": 476081,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.687038,
+    "lng": 139.727249
+   },
+   "refLandmark": "요쓰야역"
+  },
+  {
+   "propertyId": 47210524,
+   "name": "더 도쿄 에디션, 긴자 (The Tokyo EDITION, Ginza)",
+   "agodaUrl": "https://www.agoda.com/the-tokyo-edition-ginza/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47210524/0/40f5e0b4a689e4c469f4d29835ca0788.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 431,
+   "priceKRW": 2148201,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.672802,
+    "lng": 139.767929
+   },
+   "refLandmark": "긴자잇초메역"
+  },
+  {
+   "propertyId": 82328147,
+   "name": "일리 콤 시모키타자와 (illi Com Shimokitazawa)",
+   "agodaUrl": "https://www.agoda.com/illi-com-shimokitazawa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82328147/0/7bea2a7b51fd9fb9943e97f71d4531df.jpeg?va=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 426,
+   "priceKRW": 410554,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.659416,
+    "lng": 139.6673
+   },
+   "refLandmark": "시모키타자와역"
+  },
+  {
+   "propertyId": 910,
+   "name": "파크 하얏트 도쿄 (Park Hyatt Tokyo)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/910/0/693161bcb450b069489ccff6e40d2310.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 397,
+   "priceKRW": 2675823,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.68573,
+    "lng": 139.690918
+   },
+   "refLandmark": "Toei Subway"
+  },
+  {
+   "propertyId": 51491,
+   "name": "포시즌스 호텔 도쿄 앳 마루노우치 (Four Seasons Hotel Tokyo at Marunouchi)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-tokyo-at-marunouchi/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51491/0/c51ce587d140d05213eb3665ad602887.jpg?ca=8&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 396,
+   "priceKRW": 2312143,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.67799,
+    "lng": 139.766922
+   },
+   "refLandmark": "교바시역"
+  },
+  {
+   "propertyId": 80241196,
+   "name": "일리 선 시모키타자와 (illi Sun Shimokitazawa)",
+   "agodaUrl": "https://www.agoda.com/the-illi-hotel-shimokitazawa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/80241196/0/b9eb6ede62e9608f2a592538dd7cc3fa.jpg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 384,
+   "priceKRW": 482385,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.662403,
+    "lng": 139.668198
+   },
+   "refLandmark": "시모키타자와역"
+  },
+  {
+   "propertyId": 11024063,
+   "name": "포시즌스 호텔 도쿄 앳 오테마치 (Four Seasons Hotel Tokyo at Otemachi)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-tokyo-at-otemachi/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11024063/0/69602c56a94eab4a2e162f73290d3dbc.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 355,
+   "priceKRW": 2499993,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.687919,
+    "lng": 139.763394
+   },
+   "refLandmark": "오테마치역"
+  },
+  {
+   "propertyId": 76675434,
+   "name": "1 Hotel Tokyo",
+   "agodaUrl": "https://www.agoda.com/1-hotel-tokyo/hotel/all/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/766044747.jpg?k=7c31d1e8109305ef68e1d052dc6e25824d57c6e1b15e186f29fbfee497a030ca&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 354,
+   "priceKRW": 883805,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.669926,
+    "lng": 139.740662
+   },
+   "refLandmark": "다메이케산노역"
+  },
+  {
+   "propertyId": 82328779,
+   "name": "일리 마니 시부야 (illi Mani Shibuya)",
+   "agodaUrl": "https://www.agoda.com/illi-mani-shibuya/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82328779/0/047b186b1976d870b87a6d9526dfc5bb.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 341,
+   "priceKRW": 667318,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.662064,
+    "lng": 139.6956
+   },
+   "refLandmark": "신센역"
+  },
+  {
+   "propertyId": 74742974,
+   "name": "스테이루프 긴시초 (Stayloop Kinshicho)",
+   "agodaUrl": "https://www.agoda.com/livcity-kinshicho-402/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/74742974/0/3e9707f46fa39c4de8d1c636190ffdc9.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 307,
+   "priceKRW": 221534,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.69307,
+    "lng": 139.81067
+   },
+   "refLandmark": "긴시초역"
+  },
+  {
+   "propertyId": 70978375,
+   "name": "페어몬트 도쿄 (Fairmont Tokyo)",
+   "agodaUrl": "https://www.agoda.com/fairmont-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70978375/0/3a490e6139752752b8059f9ade361b80.jpeg?ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 304,
+   "priceKRW": 1544712,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.650898,
+    "lng": 139.757599
+   },
+   "refLandmark": "Hinode"
+  },
+  {
+   "propertyId": 82332522,
+   "name": "일리 텍스 아오야마 (illi Tex Aoyama)",
+   "agodaUrl": "https://www.agoda.com/illi-tex-aoyama/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82332522/0/db6f8be9da0392e838df4948f26a279b.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 236,
+   "priceKRW": 535898,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.670265,
+    "lng": 139.72025
+   },
+   "refLandmark": "가이엔마에역"
+  },
+  {
+   "propertyId": 78226195,
+   "name": "고호우 가든 호텔 (Gouhou Garden Hotel)",
+   "agodaUrl": "https://www.agoda.com/gouhou-grdan-hotel/hotel/taito-ku-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/78226195/0/41a0afb5cfdc201a2dc22f9982888b70.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 229,
+   "priceKRW": 431581,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.712177,
+    "lng": 139.79083
+   },
+   "refLandmark": "다와라마치역"
+  },
+  {
+   "propertyId": 65513939,
+   "name": "오야도네네, 아나모리이나리 스테이션, 15초 (OyadoNene, Anamori-Inari Station, 15 seconds)",
+   "agodaUrl": "https://www.agoda.com/oyadonene-haneda/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65513939/0/74ae19e6e8973b6fd23b4ee9325a60cb.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 227,
+   "priceKRW": 327511,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.550308,
+    "lng": 139.747421
+   },
+   "refLandmark": "오토리역"
+  },
+  {
+   "propertyId": 529393,
+   "name": "도쿄 메리어트 호텔 (Tokyo Marriott Hotel)",
+   "agodaUrl": "https://www.agoda.com/tokyo-marriott-hotel/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/529393/-1/f8578b628d5ad3f7abd7a91e39b77093.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 219,
+   "priceKRW": 804245,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.621407,
+    "lng": 139.737152
+   },
+   "refLandmark": "신바바역"
+  },
+  {
+   "propertyId": 82330702,
+   "name": "일리 서프 시바파크 (illi Surp Shiba-Park)",
+   "agodaUrl": "https://www.agoda.com/illi-surp-shiba-park/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82330702/0/3b84c889234ecfcbda76393006775ec8.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 203,
+   "priceKRW": 488310,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.65848,
+    "lng": 139.75403
+   },
+   "refLandmark": "다이몬역"
+  },
+  {
+   "propertyId": 35717436,
+   "name": "모아레 에도 호텔 아사쿠사 (moire Edo Hotel Asakusa )",
+   "agodaUrl": "https://www.agoda.com/moire-hotel-yoshiwara/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/35717436/0/9f36767dcb2e81bef2932a31a26ce7b6.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 7.5,
+   "reviewCount": 184,
+   "priceKRW": 279992,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.72382,
+    "lng": 139.796219
+   },
+   "refLandmark": "미노와역"
+  },
+  {
+   "propertyId": 46608859,
+   "name": "야도야 후쿠로우 (Yadoya Fukurou)",
+   "agodaUrl": "https://www.agoda.com/yadoya-h30800594/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46608859/0/01f4f2954056f1f0b57bc02a02d4bbf5.jpg?ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 182,
+   "priceKRW": 460070,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.719921,
+    "lng": 139.799561
+   },
+   "refLandmark": "아사쿠사역"
+  },
+  {
+   "propertyId": 62510990,
+   "name": "토라 호텔 오카치마치 (TORA HOTEL OKACHIMACHI)",
+   "agodaUrl": "https://www.agoda.com/tora-hotel-okachimachi/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/62510990/0/27ab1fdc3654631a5ccdde8946bdad0b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 180,
+   "priceKRW": 496242,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.708218,
+    "lng": 139.784592
+   },
+   "refLandmark": "신오카치마치역"
+  },
+  {
+   "propertyId": 64860928,
+   "name": "오야도 네네 도쿄 헤이와지마, 스테이션에서 4분 (Oyado Nene Tokyo Heiwajima, 4 minutes from the station)",
+   "agodaUrl": "https://www.agoda.com/oyadonene-tokyo-heiwajima/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64860928/0/e65f460eb2f01f6d9284815c63bcf7b7.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 171,
+   "priceKRW": 281991,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.576889,
+    "lng": 139.736984
+   },
+   "refLandmark": "헤이와지마역"
+  },
+  {
+   "propertyId": 80079635,
+   "name": "루미 호텔 도쿄 신코이와 (Lumi Hotel Tokyo Shinkoiwa)",
+   "agodaUrl": "https://www.agoda.com/lumi-hotel-tokyo-shinkoiwa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/80079635/0/6fd210e5e51cd25863f705824189c900.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 168,
+   "priceKRW": 206087,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.71572,
+    "lng": 139.85777
+   },
+   "refLandmark": "신코이와역"
+  },
+  {
+   "propertyId": 82330230,
+   "name": "일리 롬 하마마츠초 (illi Rom Hamamatsucho)",
+   "agodaUrl": "https://www.agoda.com/illi-rom-hamamatsucho/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82330230/0/71bc965d9b1cd4741a418815091ea863.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 167,
+   "priceKRW": 533397,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.657074,
+    "lng": 139.75339
+   },
+   "refLandmark": "다이몬역"
+  },
+  {
+   "propertyId": 82333459,
+   "name": "일리 트리아 시부야 (illi Tria Shibuya)",
+   "agodaUrl": "https://www.agoda.com/illi-tria-shibuya/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82333459/0/63d19993b32de498651445ea439968c2.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 160,
+   "priceKRW": 623724,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.657085,
+    "lng": 139.69753
+   },
+   "refLandmark": "신센역"
+  },
+  {
+   "propertyId": 95000978,
+   "name": "Villa Customa ヴィラカスタマ",
+   "agodaUrl": "https://www.agoda.com/villa-customa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/95000978/0/bde41876e503bb33594202c2877b5a16.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 147,
+   "priceKRW": 381286,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.70989,
+    "lng": 139.77623
+   },
+   "refLandmark": "오카치마치역"
+  },
+  {
+   "propertyId": 81642219,
+   "name": "일리 에스트 시나가와-고탄다 (illi Aest Shinagawa-Gotanda)",
+   "agodaUrl": "https://www.agoda.com/illi-aest-shinagawa-gotanda/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/81642219/0/38225a504353d754a0099dfda6c0a797.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 125,
+   "priceKRW": 431845,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.62323,
+    "lng": 139.72098
+   },
+   "refLandmark": "고탄다역"
+  },
+  {
+   "propertyId": 85826579,
+   "name": "일리 하쿠 아사쿠사 (illi Haku Asakusa)",
+   "agodaUrl": "https://www.agoda.com/illi-haku-asakusa/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/85826579/0/e622f3cbde0cd8a5e0000fa81b1472bc.jpg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 120,
+   "priceKRW": 432305,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.71517,
+    "lng": 139.79936
+   },
+   "refLandmark": "아사쿠사역"
+  },
+  {
+   "propertyId": 78039894,
+   "name": "JW 메리어트 호텔 도쿄 (JW Marriott Hotel Tokyo)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/78039894/0/dcec3f50e7a239d848ee81605ee335af.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 116,
+   "priceKRW": 1290277,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.634388,
+    "lng": 139.739243
+   },
+   "refLandmark": "다카나와게이트웨이역"
+  },
+  {
+   "propertyId": 73430547,
+   "name": "아이오텔레 미나미 아오야마 (IoTele Minami Aoyama)",
+   "agodaUrl": "https://www.agoda.com/iotele/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/73430547/0/5bcd226add8ef81b97a6c71cbaa65106.jpg?ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 114,
+   "priceKRW": 1518979,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.66296,
+    "lng": 139.719223
+   },
+   "refLandmark": "오모테산도역"
+  },
+  {
+   "propertyId": 31586684,
+   "name": "호텔 발리안 리조트 신주쿠 글램핑 (Hotel BaliAn Resort Shinjuku Glamping)",
+   "agodaUrl": "https://www.agoda.com/hotel-balian-resort-shinjuku-glamping/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31586684/0/f654ea8ddbf37fa0a20256536fb94f94.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 114,
+   "priceKRW": 315236,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.696785,
+    "lng": 139.703568
+   },
+   "refLandmark": "세이부 신주쿠역"
+  },
+  {
+   "propertyId": 83780004,
+   "name": "일리 누토 신주쿠 (illi Nuto Shinjuku)",
+   "agodaUrl": "https://www.agoda.com/illi-nuto-shinjuku/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/83780004/0/7b969e664766f46c69ea499559ea8ccc.jpg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 113,
+   "priceKRW": 711232,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.692455,
+    "lng": 139.70782
+   },
+   "refLandmark": "신주쿠역"
+  },
+  {
+   "propertyId": 38692549,
+   "name": "부티크 사우나 ARCH (Boutique Sauna ARCH)",
+   "agodaUrl": "https://www.agoda.com/arch/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38692549/0/a47b35760bf3f5ecbf6e6c366dc106cd.jpg?ce=0",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 92,
+   "priceKRW": 1014994,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.702858,
+    "lng": 139.740082
+   },
+   "refLandmark": "우시고메카구라자카역"
+  },
+  {
+   "propertyId": 56335244,
+   "name": "발리 언 리조트 신주쿠 메인 빌딩 (Bali An Resort Shinjuku Honten)",
+   "agodaUrl": "https://www.agoda.com/hotel-balian-resort-shinjuku-honten-adult-only/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/56335244/0/d617e491fe840626b52f884e5ff54f82.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 83,
+   "priceKRW": 279365,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.695218,
+    "lng": 139.706602
+   },
+   "refLandmark": "히가시신주쿠역"
+  },
+  {
+   "propertyId": 1161114,
+   "name": "가조엔 도쿄 (Gajoen Tokyo)",
+   "agodaUrl": "https://www.agoda.com/gajoen-tokyo/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1161114/0/09f169b808535aff10d14702d32587c7.jpg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 75,
+   "priceKRW": 2037679,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.631958,
+    "lng": 139.713623
+   },
+   "refLandmark": "Meguro"
+  },
+  {
+   "propertyId": 47622545,
+   "name": "Hotel Blanche 大人専用 Adult only hotel",
+   "agodaUrl": "https://www.agoda.com/hotel-blanche/hotel/all/tokyo-jp.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/549228385.jpg?k=a47d926ec63a354ebe27aa8483e3411e32b43cc20d695eb362bcb08d4a906051&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 74,
+   "priceKRW": 200741,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.658791,
+    "lng": 139.695251
+   },
+   "refLandmark": "신센역"
+  },
+  {
+   "propertyId": 1639663,
+   "name": "타카나와 하나코로 어 멤버 오브 스몰 럭셔리 호텔스 오브 더 월드 (Takanawa Hanakohro, a Member of Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/takanawa-hanakohro-a-member-of-small-luxury-hotels-of-the-world/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/163/1639663/1639663_17062910540054145839.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 70,
+   "priceKRW": 1228789,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.631836,
+    "lng": 139.73465
+   },
+   "refLandmark": "다카나와다이역"
+  },
+  {
+   "propertyId": 85918212,
+   "name": "일리 호텔스 루메 시부야 (illi Hotels Lume Shibuya)",
+   "agodaUrl": "https://www.agoda.com/illi-hotels-lume-shibuya/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/85918212/0/4617cd5f9028ff9cc92add72c288a65e.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 7.6,
+   "reviewCount": 64,
+   "priceKRW": 354733,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.65951,
+    "lng": 139.69658
+   },
+   "refLandmark": "신센역"
+  },
+  {
+   "propertyId": 82332012,
+   "name": "일리 그란 아자부주반 (illi Gran Azabujuban)",
+   "agodaUrl": "https://www.agoda.com/illi-gran-azabujuban/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82332012/0/e3ddaeb05e16e2c2393e1e7d0a84621e.jpg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 60,
+   "priceKRW": 559007,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.656456,
+    "lng": 139.73337
+   },
+   "refLandmark": "아자부주반역"
+  },
+  {
+   "propertyId": 86517474,
+   "name": "Fufu Tokyo Ginza",
+   "agodaUrl": "https://www.agoda.com/fufu-tokyo-ginza-h81557027/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/96538292/0/33061f6906f3bc0ed0c980f7d328655b.jpeg?ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 55,
+   "priceKRW": 2530410,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.674168,
+    "lng": 139.7677
+   },
+   "refLandmark": "긴자잇초메역"
+  },
+  {
+   "propertyId": 81881220,
+   "name": "일리 노아 하마마츠초 (illi Noa Hamamatsucho)",
+   "agodaUrl": "https://www.agoda.com/illi-noa-hamamatsucho/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/81881220/0/3afeebd8b9ba33c19c1ae224dc2a1d37.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 39,
+   "priceKRW": 431210,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.65788,
+    "lng": 139.75612
+   },
+   "refLandmark": "다이몬역"
+  },
+  {
+   "propertyId": 46058663,
+   "name": "야도야 스즈메 (Yadoya Suzume)",
+   "agodaUrl": "https://www.agoda.com/yadoya-h30799930/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46058663/0/251ca2b30e24bdef873c593d786afc8c.jpg?ce=0",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 38,
+   "priceKRW": 467539,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.717994,
+    "lng": 139.801576
+   },
+   "refLandmark": "아사쿠사역"
+  },
+  {
+   "propertyId": 90827250,
+   "name": "토라 호텔 우에노 5-초메 (Tora Hotel Ueno 5-Chome)",
+   "agodaUrl": "https://www.agoda.com/tora-hotel-h90320237/hotel/tokyo-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/90827250/0/6ccde7657985425032396b51ec27eb9d.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 6.6,
+   "reviewCount": 35,
+   "priceKRW": 350886,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.707092,
+    "lng": 139.775406
+   },
+   "refLandmark": "오카치마치역"
+  }
+ ]
+}

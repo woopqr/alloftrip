@@ -1,0 +1,66 @@
+{
+ "slug": "maui-wailea",
+ "city": "하와이 마우이(와일레아)",
+ "region": "americas",
+ "cityId": 7636,
+ "agodaCityName": "와일레아 (HI)",
+ "fetchedAt": "2026-10-07T23:40:17.609Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 152231,
+   "name": "Hotel Wailea Maui",
+   "agodaUrl": "https://www.agoda.com/hotel-wailea-relais-chateaux-adults-only/hotel/wailea-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/152231/0/a313b7eda67efcb93c931544435c0b60.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 292,
+   "priceKRW": 3018612,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 20.67768,
+    "lng": -156.4318
+   },
+   "refLandmark": "Palauea Beach"
+  },
+  {
+   "propertyId": 80378,
+   "name": "Grand Wailea, A Waldorf Astoria Resort",
+   "agodaUrl": "https://www.agoda.com/grand-wailea-resort-hotel-spa/hotel/wailea-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/80378/0/0d46577fe1250cb077f1d06bd62f8030.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 111,
+   "priceKRW": 1648657,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": true,
+   "geo": {
+    "lat": 20.683439,
+    "lng": -156.441132
+   },
+   "refLandmark": "Palauea Beach"
+  },
+  {
+   "propertyId": 49100,
+   "name": "포시즌스 리조트 마우이 앳 와일레아 (Four Seasons Resort Maui at Wailea)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-maui-at-wailea/hotel/wailea-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/85899973/0/80be19a31550fea846bf4cd980f9ab73.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 95,
+   "priceKRW": 1969360,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 20.680243,
+    "lng": -156.442474
+   },
+   "refLandmark": "Palauea Beach"
+  }
+ ]
+}

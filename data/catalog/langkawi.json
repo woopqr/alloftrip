@@ -1,0 +1,228 @@
+{
+ "slug": "langkawi",
+ "city": "랑카위",
+ "region": "southeast-asia",
+ "cityId": 16928,
+ "agodaCityName": "랑카위",
+ "fetchedAt": "2026-10-07T23:40:17.790Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 10442,
+   "name": "펠랑기 비치 리조트 앤 스파 랑카위 (Pelangi Beach Resort & Spa, Langkawi)",
+   "agodaUrl": "https://www.agoda.com/meritus-pelangi-beach-resort-spa/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10442/0/fce42a2ce79e7fe4014d3b078e22c505.jpg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 15665,
+   "priceKRW": 332648,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 6.299158,
+    "lng": 99.720848
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  },
+  {
+   "propertyId": 32359733,
+   "name": "파크로얄 랑카위 리조트 (PARKROYAL Langkawi Resort)",
+   "agodaUrl": "https://www.agoda.com/parkroyal-langkawi-resort/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32359733/-1/eb25c57aa2b088ade136b2d338a07230.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 4651,
+   "priceKRW": 325491,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 6.28315,
+    "lng": 99.730827
+   },
+   "refLandmark": "언더워터월드"
+  },
+  {
+   "propertyId": 187034,
+   "name": "더 다나 랑카위 럭셔리 리조트 앤 비치 빌라 (The Danna Langkawi - A Member of Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/the-danna-langkawi-hotel/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/187034/-1/6bee0d6edebc2da7c843b06aea4459b8.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 3041,
+   "priceKRW": 1513528,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 6.366966,
+    "lng": 99.680992
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  },
+  {
+   "propertyId": 10444,
+   "name": "더 웨스틴 랑카위 리조트 앤 스파 (The Westin Langkawi Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/the-westin-langkawi-resort-spa/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10444/-1/48b57fdd4f49199fbf93b7ec6a57446f.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2811,
+   "priceKRW": 252304,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 6.300639,
+    "lng": 99.855186
+   },
+   "refLandmark": "이글 스퀘어"
+  },
+  {
+   "propertyId": 2264713,
+   "name": "더 리츠칼튼 랑카위 (The Ritz-Carlton, Langkawi)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-langkawi_4/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2264713/-1/7c72fe8deb28c1ef6c413c2ba03b0c34.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1915,
+   "priceKRW": 858490,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": true,
+   "geo": {
+    "lat": 6.359026,
+    "lng": 99.695648
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  },
+  {
+   "propertyId": 10447,
+   "name": "더 다타이 랑카위 (The Datai Langkawi)",
+   "agodaUrl": "https://www.agoda.com/the-datai-langkawi/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10447/-1/fea22a5cead8b0e33c489a68d534bd9c.jpg?ca=8&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1356,
+   "priceKRW": 1183585,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.422569,
+    "lng": 99.670597
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  },
+  {
+   "propertyId": 1148604,
+   "name": "더 세인트 레지스 랑카위 (The St. Regis Langkawi)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-langkawi/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4866302/77759704/c42d6d99316be32e9fed6748ef5448f1.jpg?ca=28&ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 993,
+   "priceKRW": 648782,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": true,
+   "geo": {
+    "lat": 6.296177,
+    "lng": 99.862534
+   },
+   "refLandmark": "이글 스퀘어"
+  },
+  {
+   "propertyId": 49264,
+   "name": "포 시즌스 리조트 랑카위, 말레이시아 (Four Seasons Resort Langkawi, Malaysia)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-langkawi-malaysia/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49264/-1/92d3723bd0a1d0aa2bf3cba2eab7d340.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 920,
+   "priceKRW": 852181,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.446794,
+    "lng": 99.81088
+   },
+   "refLandmark": "탄중 루 비치"
+  },
+  {
+   "propertyId": 85367923,
+   "name": "Hilton Burau Bay Langkawi Resort",
+   "agodaUrl": "https://www.agoda.com/mutiara-burau-bay-resort-langkawi_2/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/71903019/0/29ce8d0090255f0b16d831eec01a9c7f.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 347,
+   "priceKRW": 373794,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.365659,
+    "lng": 99.67128
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  },
+  {
+   "propertyId": 70986608,
+   "name": "Lavanya Villa and Residence by Rimba Hill",
+   "agodaUrl": "https://www.agoda.com/lavanya-sea-view-apartment-with-resort-access/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70986608/0/6abb80e51a975f58edfc665036b5622d.jpg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 59,
+   "priceKRW": 296973,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.27699,
+    "lng": 99.73181
+   },
+   "refLandmark": "언더워터월드"
+  },
+  {
+   "propertyId": 42947336,
+   "name": "Saujana Private Villas",
+   "agodaUrl": "https://www.agoda.com/saujana-private-villas-datai-langkawi/hotel/kampung-padang-masirat-my.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42947336/0/530a44ab1d2b49dfe02788e58b4a67d9.jpeg?ce=0",
+   "star": 5,
+   "score": 9.8,
+   "reviewCount": 49,
+   "priceKRW": 395155,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.425457,
+    "lng": 99.677185
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  },
+  {
+   "propertyId": 64252042,
+   "name": "#1 Bedroom@ Hidden Paradise Villa",
+   "agodaUrl": "https://www.agoda.com/hidden-paradise-villa-h64247889/hotel/langkawi-my.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/639458912.jpg?k=e5c12f9a7f4e5c27487908233673edc3af3b45c7b269443fa4c5a45199bf8f39&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 45,
+   "priceKRW": 330063,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.425479,
+    "lng": 99.666229
+   },
+   "refLandmark": "Panorama Langkawi SkyCab"
+  }
+ ]
+}

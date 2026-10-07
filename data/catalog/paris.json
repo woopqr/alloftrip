@@ -1,0 +1,2118 @@
+{
+ "slug": "paris",
+ "city": "파리",
+ "region": "europe",
+ "cityId": 15470,
+ "agodaCityName": "파리",
+ "fetchedAt": "2026-10-07T23:40:17.606Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 73870,
+   "name": "호텔 뒤 콜렉셔너 파리 (Hotel du Collectionneur Paris )",
+   "agodaUrl": "https://www.agoda.com/hotel-du-collectionneur-arc-de-triomphe/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/73870/0/2e502435edb22d9a456e32f779f186bb.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 2891,
+   "priceKRW": 473373,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.876831,
+    "lng": 2.30737
+   },
+   "refLandmark": "몽소역"
+  },
+  {
+   "propertyId": 99809,
+   "name": "프레이저 스위트 르 클라리지 샹젤리제 (Fraser Suites le Claridge Champs-Elysees)",
+   "agodaUrl": "https://www.agoda.com/fraser-suites-le-claridge-champs-elysees/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/704395214.jpg?k=55bb819046af63e83c4aed6162d1de8f64c55e1ab6f0ca2739a73a3dfd616d8d&o=",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 1817,
+   "priceKRW": 824479,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870926,
+    "lng": 2.304774
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 163449,
+   "name": "메종 알바르 호텔 르 다이아몬드 (Maison Albar Hotels Le Diamond)",
+   "agodaUrl": "https://www.agoda.com/maison-albar-hotels-le-diamond/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/163/163449/163449_17032421490051834088.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1512,
+   "priceKRW": 371605,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.875237,
+    "lng": 2.323458
+   },
+   "refLandmark": "생 라자르역"
+  },
+  {
+   "propertyId": 9864639,
+   "name": "호텔 웨스트민스터 (Hotel Westminster)",
+   "agodaUrl": "https://www.agoda.com/hotel-westminster/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9864639/0/1144bd7368dd809023dceeeaef4805f6.jpeg",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1471,
+   "priceKRW": 623087,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869339,
+    "lng": 2.33116
+   },
+   "refLandmark": "오페라역"
+  },
+  {
+   "propertyId": 6943187,
+   "name": "파리 자도르 호텔 앤 스파 (Paris j’Adore Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/paris-j-adore-hotel-spa/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6943187/-1/979ffab8ed103370adc761c2467c4926.jpg?va=1&ca=16&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1290,
+   "priceKRW": 543269,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.882407,
+    "lng": 2.3193
+   },
+   "refLandmark": "롬역"
+  },
+  {
+   "propertyId": 33395330,
+   "name": "SO/ 파리 호텔 (SO/ Paris Hotel)",
+   "agodaUrl": "https://www.agoda.com/so-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914991587.jpg?k=cb1213c93539ba87ec088689d7d35902757ed6f75a5fb368474f99a539082cc2&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1246,
+   "priceKRW": 649560,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.850212,
+    "lng": 2.362765
+   },
+   "refLandmark": "쉴리 - 모를랑역"
+  },
+  {
+   "propertyId": 699094,
+   "name": "르 싱크 코뎃 호텔 (Le Cinq Codet Hotel)",
+   "agodaUrl": "https://www.agoda.com/le-cinq-codet-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/699/699094/699094_18112015470069812639.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1246,
+   "priceKRW": 452683,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.854786,
+    "lng": 2.308322
+   },
+   "refLandmark": "에콜 밀리테르역"
+  },
+  {
+   "propertyId": 30626464,
+   "name": "라 드메르 몽테뉴 (La Demeure Montaigne)",
+   "agodaUrl": "https://www.agoda.com/la-demeure-montaigne-h28305017/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/30626464/0/114ff0aaac932f2d7f9f1156f5a96212.jpeg",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1234,
+   "priceKRW": 622284,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.867771,
+    "lng": 2.30324
+   },
+   "refLandmark": "알마 - 마르소역"
+  },
+  {
+   "propertyId": 4457099,
+   "name": "호텔 알프레드 소미에르 (Hotel Alfred Sommier)",
+   "agodaUrl": "https://www.agoda.com/hotel-alfred-sommier_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4457099/0/232aba33ddad2f8926f452ad60b71356.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1157,
+   "priceKRW": 483296,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.872143,
+    "lng": 2.324219
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 9346199,
+   "name": "무슈 조지 호텔 앤 스파 샹 젤리제 (Monsieur George Hotel & Spa - Champs Elysées)",
+   "agodaUrl": "https://www.agoda.com/monsieur-george-hotel-spa-champs-elysees/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/413741356.jpg?k=aa57a591e472dc946315dc9ada5c7f7103a8079b19a6793386df27a7513f5f74&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1138,
+   "priceKRW": 632683,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.87299,
+    "lng": 2.30266
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 5361199,
+   "name": "르 다망탕 호텔 앤 스파 (Le Damantin Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/le-damantin-hotel-spa/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/250895708.jpg?k=3a7a75fa2abce728995c90b5af6fda598e4b1e669fd767eea1f61e4a258d4247&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1116,
+   "priceKRW": 623371,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.86506,
+    "lng": 2.307692
+   },
+   "refLandmark": "Rond Point des Champs Elysées"
+  },
+  {
+   "propertyId": 78977,
+   "name": "네스트 호텔 파리 라데팡스 - M갤러리 컬렉션 (Nest Hotel Paris la Défense - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/sofitel-paris-la-defense-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/78977/-1/1790f3a6304ce4592e512b56f8a215f9.jpg?ce=0",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 1102,
+   "priceKRW": 351331,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.888481,
+    "lng": 2.247428
+   },
+   "refLandmark": "에스플라나드 드 라 데팡스역"
+  },
+  {
+   "propertyId": 915,
+   "name": "호텔 나폴레옹 (Hotel Napoleon)",
+   "agodaUrl": "https://www.agoda.com/hotel-napoleon/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/915/-1/3a089694e8e1c63f1032469e9ea399b7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1093,
+   "priceKRW": 654151,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.874222,
+    "lng": 2.2981
+   },
+   "refLandmark": "샤를 드 골 - 에투알역"
+  },
+  {
+   "propertyId": 50539,
+   "name": "라 빌라 생제르맹데프레 (La Villa Saint-Germain-des-Prés)",
+   "agodaUrl": "https://www.agoda.com/villa-saint-germain/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50539/0/cbcbda483c545ed0dd1166855a95744a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1087,
+   "priceKRW": 657083,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.8554,
+    "lng": 2.33414
+   },
+   "refLandmark": "생 제르망 데 프레역"
+  },
+  {
+   "propertyId": 59249125,
+   "name": "Quartier Libre Opera",
+   "agodaUrl": "https://www.agoda.com/quartier-libre-opera/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/61374506/0/11b44ccc7ede57c2e4b821d51eb8eace.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1056,
+   "priceKRW": 742309,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.871319,
+    "lng": 2.32765
+   },
+   "refLandmark": "오베르역"
+  },
+  {
+   "propertyId": 13836313,
+   "name": "호텔 레지나 루브르 (Hotel Regina Louvre)",
+   "agodaUrl": "https://www.agoda.com/regina_9/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/16678967.jpg?k=8e7f72f52d2d545cc92b8f3e5883404929bbb01310c40b03ffd96cbdcb3ce1d6&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1049,
+   "priceKRW": 841482,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.863838,
+    "lng": 2.33242
+   },
+   "refLandmark": "Paris Metro"
+  },
+  {
+   "propertyId": 6751152,
+   "name": "호텔 레 뱅 파리 (Hotel Les Bains Paris)",
+   "agodaUrl": "https://www.agoda.com/hotel-les-bains-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/102663986.jpg?k=a1b91f90b554d56676dfa46b64713d2c6d22975d890b3b06c9f5fc376d423af1&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 979,
+   "priceKRW": 523066,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.863949,
+    "lng": 2.35198
+   },
+   "refLandmark": "에티엔 마르셀역"
+  },
+  {
+   "propertyId": 2260950,
+   "name": "Hôtel Pont Royal Paris (Hotel Pont Royal Paris)",
+   "agodaUrl": "https://www.agoda.com/hotel-pont-royal-paris/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/69379500/0/cc3fe5cfbeaea22679cf2de448b8b935.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 903,
+   "priceKRW": 577884,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.856621,
+    "lng": 2.32744
+   },
+   "refLandmark": "루 뒤 박역"
+  },
+  {
+   "propertyId": 804969,
+   "name": "더 원 알마 파리 (The One Alma Paris )",
+   "agodaUrl": "https://www.agoda.com/hotel-juliana-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/804969/0/86c772b55a9acc6bdf91f50d2c3b4bb7.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 879,
+   "priceKRW": 363340,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.861938,
+    "lng": 2.30403
+   },
+   "refLandmark": "퐁 드 랄마역"
+  },
+  {
+   "propertyId": 67356,
+   "name": "호텔 랭커스터 (Hotel Lancaster)",
+   "agodaUrl": "https://www.agoda.com/hotel-lancaster/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67356/0/ae100623195d38dcb04c2d3ed8272cc2.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 876,
+   "priceKRW": 782947,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.872185,
+    "lng": 2.303629
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 5480215,
+   "name": "포숑 L 호텔 (Fauchon L Hotel)",
+   "agodaUrl": "https://www.agoda.com/fauchon-l-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5480215/-1/2716256a9842207dbdff3c4aff61af02.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 871,
+   "priceKRW": 1073585,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870417,
+    "lng": 2.323584
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 152888,
+   "name": "카스티유 파리 - 스타호텔 콜레지오네 (Castille Paris – Starhotels Collezione)",
+   "agodaUrl": "https://www.agoda.com/hotel-castille-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/152/152888/152888_17101801460057905936.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 871,
+   "priceKRW": 579640,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.86829,
+    "lng": 2.326903
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 734953,
+   "name": "몰리토르 호텔 앤 스파 파리 - M갤러리 컬렉션 (Molitor Hotel & Spa Paris - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/molitor-paris-by-mgallery_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21632315/459346485/093dc1766a39d794b050f25abf66d5be.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 852,
+   "priceKRW": 587876,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.820076,
+    "lng": 2.248786
+   },
+   "refLandmark": "이시역"
+  },
+  {
+   "propertyId": 72232078,
+   "name": "프레이저 스위트 하모니, 파리 라데팡스 (Fraser Suites Harmonie, Paris La Défense)",
+   "agodaUrl": "https://www.agoda.com/fraser-suites-harmonie-paris-la-defense-apartments_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/72232078/0/0f9368a123ef58b52356c7b9894aa67e.jpeg?ce=3",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 808,
+   "priceKRW": 315583,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.888111,
+    "lng": 2.252071
+   },
+   "refLandmark": "에스플라나드 드 라 데팡스역"
+  },
+  {
+   "propertyId": 5915769,
+   "name": "라 클레 샹젤리제 파리 바이 더 크레스트 컬렉션 (La Clef Champs-Élysées Paris by The Crest Collection)",
+   "agodaUrl": "https://www.agoda.com/la-clef-champs-elysees-paris_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5915769/0/c62cc17ad0bba4272aa9ff8649505d32.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 801,
+   "priceKRW": 707930,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870686,
+    "lng": 2.299184
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 2261680,
+   "name": "호텔 마리냥 샹젤리제 (Hotel Marignan Champs-Elysees)",
+   "agodaUrl": "https://www.agoda.com/hotel-marignan-champs-elysees_2/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/332627755.jpg?k=7e0c60dd5db1a5601050ca2171b358cde1544f963235a86b8fbcdf68a352793a&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 801,
+   "priceKRW": 591561,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.868507,
+    "lng": 2.306517
+   },
+   "refLandmark": "Rond Point des Champs Elysées"
+  },
+  {
+   "propertyId": 461490,
+   "name": "호텔 뒤 루브르, 파트 오브 하얏트 (Hotel Du Louvre, Part Of Hyatt)",
+   "agodaUrl": "https://www.agoda.com/hotel-du-louvre-in-the-unbound-collection-by-hyatt/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/638912673.jpg?k=c03a1e0f30dbe53a0142dddd2479a1493200eea39c531a54a3f2181749c20fd9&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 793,
+   "priceKRW": 1096785,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.862923,
+    "lng": 2.335539
+   },
+   "refLandmark": "팔레 루아얄 - 무제 뒤 루브르"
+  },
+  {
+   "propertyId": 80186335,
+   "name": "르 트리옹프 파리 (Le Triomphe Paris)",
+   "agodaUrl": "https://www.agoda.com/mode-paris-aparthotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/80186335/0/e974cf5917d6c56bf696c9dec52bdc1f.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 793,
+   "priceKRW": 551337,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.87128,
+    "lng": 2.287253
+   },
+   "refLandmark": "빅토르 위고역"
+  },
+  {
+   "propertyId": 50522,
+   "name": "소피텔 파리 르 포부르 호텔 (Sofitel Paris Le Faubourg Hotel)",
+   "agodaUrl": "https://www.agoda.com/sofitel-paris-le-faubourg-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/652012766.jpg?k=89b3f9b39e78305dcc76c1c4fb216ec3daa8f774e900df2955f923822422fc60&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 763,
+   "priceKRW": 1032250,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.868557,
+    "lng": 2.321559
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 8663409,
+   "name": "Hôtel Le Ballu (Hotel Le Ballu)",
+   "agodaUrl": "https://www.agoda.com/hotel-le-ballu/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/209909277.jpg?k=8c919b1bf3ccfc636ba5d3f3195d532150dd648f1b777525339cdbbc0eab8326&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 759,
+   "priceKRW": 401930,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.882149,
+    "lng": 2.32956
+   },
+   "refLandmark": "플라스 드 클리시역"
+  },
+  {
+   "propertyId": 181784,
+   "name": "메종 알바 호텔 르 샹젤리제 (Maison Albar Hotels Le Champs-Elysées)",
+   "agodaUrl": "https://www.agoda.com/maison-albar-hotels-le-champs-elysees/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/181784/0/f5a98cfbc9932db25c6d727e86eb30fd.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 757,
+   "priceKRW": 423697,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.875412,
+    "lng": 2.294547
+   },
+   "refLandmark": "샤를 드 골 - 에투알역"
+  },
+  {
+   "propertyId": 191140,
+   "name": "호텔 스퀘어 (Hotel Square)",
+   "agodaUrl": "https://www.agoda.com/hotel-square/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/170894966.jpg?k=305067b1cabc887ab48d483999a80616f9eabce258fa71c1c7e8c95a01307613&o=",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 748,
+   "priceKRW": 233044,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.851559,
+    "lng": 2.278013
+   },
+   "refLandmark": "아브뉘 케네디-라디오-프랑스역"
+  },
+  {
+   "propertyId": 27934343,
+   "name": "호텔 마담 레브 (Hôtel Madame Rêve)",
+   "agodaUrl": "https://www.agoda.com/hotel-madame-reve/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/27934343/0/13902f91d17401106ea4a4881f9e4f0f.jpeg",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 716,
+   "priceKRW": 828607,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.864605,
+    "lng": 2.340786
+   },
+   "refLandmark": "Place des Victoires"
+  },
+  {
+   "propertyId": 833711,
+   "name": "호텔 드 넬 (Hotel de NELL)",
+   "agodaUrl": "https://www.agoda.com/hotel-de-nell/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/867760716.jpg?k=7e0316a73775d21b310e860101123a1f89358e1dbb276b96c692a5e519ebd454&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 693,
+   "priceKRW": 375476,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.873257,
+    "lng": 2.346832
+   },
+   "refLandmark": "본-누벨역"
+  },
+  {
+   "propertyId": 1017,
+   "name": "벨 아미 (Hotel Bel Ami)",
+   "agodaUrl": "https://www.agoda.com/hotel-bel-ami/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1017/-1/a45f8c477466f9dde538dc5b23d4afdc.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 687,
+   "priceKRW": 610922,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.854889,
+    "lng": 2.333028
+   },
+   "refLandmark": "생 제르망 데 프레역"
+  },
+  {
+   "propertyId": 114129,
+   "name": "호텔 도뷔송 (Hotel D'Aubusson)",
+   "agodaUrl": "https://www.agoda.com/hotel-d-aubusson/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/114129/0/c198835698c1881a120479b462da8d4f.jpg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 678,
+   "priceKRW": 1065855,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.854687,
+    "lng": 2.339305
+   },
+   "refLandmark": "오데옹역"
+  },
+  {
+   "propertyId": 7429,
+   "name": "호텔 발자크 샹젤리제 파리 (Hotel Balzac Champs Elysees Paris)",
+   "agodaUrl": "https://www.agoda.com/hotel-balzac-champs-elysees-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/742/7429/7429_15061721510029837275.jpg?va=1&ca=4&ce=1",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 657,
+   "priceKRW": 644111,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.873276,
+    "lng": 2.300331
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 176230,
+   "name": "르네상스 파리 아크 드 트리옹프 호텔 (Renaissance Paris Arc de Triomphe Hotel)",
+   "agodaUrl": "https://www.agoda.com/renaissance-paris-arc-de-triomphe-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/176/176230/176230_16121317220049648429.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 654,
+   "priceKRW": 747572,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.876919,
+    "lng": 2.296935
+   },
+   "refLandmark": "테른역"
+  },
+  {
+   "propertyId": 42603,
+   "name": "엘리시아 호텔 (Elysia Hotel)",
+   "agodaUrl": "https://www.agoda.com/champs-elysees-plaza-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42603/0/80ad6123a4311eda527052b9f201967a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 653,
+   "priceKRW": 706482,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.873596,
+    "lng": 2.30619
+   },
+   "refLandmark": "생 필립 뒤 룰역"
+  },
+  {
+   "propertyId": 38467608,
+   "name": "메종 알바 르 방돔 (Maison Albar Le Vendome )",
+   "agodaUrl": "https://www.agoda.com/maison-albar-hotels-le-vendome/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38467608/-1/fddcb72f23e867a9ec9d0b0657f8d49f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 636,
+   "priceKRW": 499267,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.871892,
+    "lng": 2.334966
+   },
+   "refLandmark": "쇼세 당탱 - 라 파예트역"
+  },
+  {
+   "propertyId": 50532,
+   "name": "호텔 베르네  (Hotel Vernet)",
+   "agodaUrl": "https://www.agoda.com/hotel-vernet/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/505/50532/50532_16031018240040662307.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 625,
+   "priceKRW": 708338,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.872036,
+    "lng": 2.297952
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 8249,
+   "name": "소피텔 파리 볼티모어 투어 에펠 (Sofitel Paris Baltimore Tour Eiffel)",
+   "agodaUrl": "https://www.agoda.com/sofitel-paris-baltimore-tour-eiffel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/885878795.jpg?k=7348ff88e53a54c21e67aa927407e0cb5dfa5ebcc48a90e2488dd110d5a948ee&o=",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 611,
+   "priceKRW": 679870,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.866375,
+    "lng": 2.289402
+   },
+   "refLandmark": "브와시에르역"
+  },
+  {
+   "propertyId": 13823116,
+   "name": "호텔 더 페닌슐라 파리 (Hotel The Peninsula Paris)",
+   "agodaUrl": "https://www.agoda.com/ha-tel-the-peninsula-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/675499460.jpg?k=0369f7d76420b6730743a899b7296e7a40b389c59f3fee9ac71bdce89395dfa6&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 600,
+   "priceKRW": 2460072,
+   "brand": "peninsula",
+   "brandLabel": "페닌슐라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.871059,
+    "lng": 2.29329
+   },
+   "refLandmark": "클레베역"
+  },
+  {
+   "propertyId": 13826499,
+   "name": "그랜드 호텔 뒤 팔레 로열 (Grand Hotel Du Palais Royal)",
+   "agodaUrl": "https://www.agoda.com/grand-hotel-du-palais-royal_8/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13826499/0/e7448852defabd7d6f58d0bd8726b782.jpeg",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 579,
+   "priceKRW": 846811,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.863251,
+    "lng": 2.33786
+   },
+   "refLandmark": "팔레 루아얄 - 무제 뒤 루브르"
+  },
+  {
+   "propertyId": 22079833,
+   "name": "킴튼 생오노레 파리 바이 IHG (Kimpton St Honore Paris By IHG)",
+   "agodaUrl": "https://www.agoda.com/kimpton-st-honore-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/22079833/0/5e67995adfbe582f1a20e5f1bddb88c3.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 566,
+   "priceKRW": 711861,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870098,
+    "lng": 2.330705
+   },
+   "refLandmark": "오페라역"
+  },
+  {
+   "propertyId": 29418733,
+   "name": "Maison Barnes Paris Trocadero",
+   "agodaUrl": "https://www.agoda.com/sweet-inn-maison-boissiere/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/618357342.jpg?k=1fd19593d4029fdfa35a9cc380205b065007dc2160c098b8272d5e960e31bcc7&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 558,
+   "priceKRW": 813624,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.867474,
+    "lng": 2.288561
+   },
+   "refLandmark": "브와시에르역"
+  },
+  {
+   "propertyId": 34515391,
+   "name": "마놀리타 (Manolita)",
+   "agodaUrl": "https://www.agoda.com/manolita-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34515391/0/218a93200dd3c1b4874fe520bf40e31e.jpg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 553,
+   "priceKRW": 877305,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.884003,
+    "lng": 2.332757
+   },
+   "refLandmark": "블랑슈역"
+  },
+  {
+   "propertyId": 67101,
+   "name": "호텔 몬타렘버트 파리 (Hotel Montalembert Paris)",
+   "agodaUrl": "https://www.agoda.com/hotel-montalembert-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/671/67101/67101_14022619170018482415.jpg?va=1&ca=2&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 551,
+   "priceKRW": 617895,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.856777,
+    "lng": 2.328108
+   },
+   "refLandmark": "루 뒤 박역"
+  },
+  {
+   "propertyId": 42987,
+   "name": "빌라 마르키 어 멤버 오브 멜리아 컬렉션 투르 에펠 (Villa Marquis a Member of Melia Collection Tour Eiffel)",
+   "agodaUrl": "https://www.agoda.com/melia-paris-tour-eiffel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42987/-1/f41859218732dc391369042ee17d179c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 548,
+   "priceKRW": 636729,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.865219,
+    "lng": 2.304084
+   },
+   "refLandmark": "알마 - 마르소역"
+  },
+  {
+   "propertyId": 152875,
+   "name": "L 호텔 파리 (L Hotel Paris)",
+   "agodaUrl": "https://www.agoda.com/l-hotel-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/217008033.jpg?k=1335798716c8c63ff78f02986654343f02e08a1da140807696e5552fb9ae73e2&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 521,
+   "priceKRW": 666942,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.856339,
+    "lng": 2.335243
+   },
+   "refLandmark": "생 제르망 데 프레역"
+  },
+  {
+   "propertyId": 77590,
+   "name": "소피텔 파리 아크 드 트리옴프 호텔 (Sofitel Paris Arc De Triomphe Hotel)",
+   "agodaUrl": "https://www.agoda.com/sofitel-paris-arc-de-triomphe-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/867771262.jpg?k=a1e75dd2f34e2ff491100c00ec78ef9504175b6d1038f1d9d239537863941b5d&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 490,
+   "priceKRW": 617764,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.874989,
+    "lng": 2.301448
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 9348,
+   "name": "호텔 드 비니 샹젤리제 파리  (Hotel de Vigny Champs Elysees Paris)",
+   "agodaUrl": "https://www.agoda.com/hotel-de-vigny-champs-elysees-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/934/9348/9348_15060418500028564220.jpg?va=1&ca=4&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 464,
+   "priceKRW": 600641,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.873592,
+    "lng": 2.300374
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 773828,
+   "name": "메종 수케 호텔 (Maison Souquet Hotel)",
+   "agodaUrl": "https://www.agoda.com/maison-souquet-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/773828/-1/a9c2c5e965652d2a33e478ae7d8cd84d.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 461,
+   "priceKRW": 595385,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.883659,
+    "lng": 2.33138
+   },
+   "refLandmark": "블랑슈역"
+  },
+  {
+   "propertyId": 10282439,
+   "name": "호텔 드 몽테스키외 (Hôtel de Montesquieu)",
+   "agodaUrl": "https://www.agoda.com/hotel-daniel-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10282439/-1/a2506e252ba5535742f09f3db111e082.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 454,
+   "priceKRW": 418108,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.872829,
+    "lng": 2.30728
+   },
+   "refLandmark": "생 필립 뒤 룰역"
+  },
+  {
+   "propertyId": 1302932,
+   "name": "르 나르시스 블랑  (Le Narcisse Blanc)",
+   "agodaUrl": "https://www.agoda.com/le-narcisse-blanc/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/74523749.jpg?k=9e53972c59ba070c210b33d82f158f07823b12dc53977809516f1ac56d63e59a&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 446,
+   "priceKRW": 855280,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.860474,
+    "lng": 2.310346
+   },
+   "refLandmark": "라 투르-모부르역"
+  },
+  {
+   "propertyId": 36897199,
+   "name": "Le Grand Mazarin",
+   "agodaUrl": "https://www.agoda.com/le-grand-mazarin/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/492215716.jpg?k=cfe0b6c7cc3628265d3172a6136224b9b67b7c68db04858c1cf2efb203be31b3&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 435,
+   "priceKRW": 1081134,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.857342,
+    "lng": 2.35447
+   },
+   "refLandmark": "오텔 드 빌역"
+  },
+  {
+   "propertyId": 1846134,
+   "name": "1er Etage SoPi-Montmartre",
+   "agodaUrl": "https://www.agoda.com/1er-etage-sopi-montmartre/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/86948557.jpg?k=4690dd5ca95a4320b6e7cb12d340818b8adfe0c3972d6ee8c37df79fd7371876&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 435,
+   "priceKRW": 296785,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.879799,
+    "lng": 2.334312
+   },
+   "refLandmark": "생 조르주역"
+  },
+  {
+   "propertyId": 44638,
+   "name": "인터컨티넨탈 파리 르 그랑 바이 IHG (InterContinental Paris Le Grand By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-paris-le-grand/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/44638/0/c4e0cbe3b49261753c80ad58f591a6e1.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 421,
+   "priceKRW": 901795,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870625,
+    "lng": 2.329881
+   },
+   "refLandmark": "오페라역"
+  },
+  {
+   "propertyId": 97430,
+   "name": "호텔 산 레지스 (Hotel San Regis)",
+   "agodaUrl": "https://www.agoda.com/hotel-san-regis/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5671756/93418600/236c3490a4a7edbf4783d1453ab3faac.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 420,
+   "priceKRW": 1137215,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.866764,
+    "lng": 2.309685
+   },
+   "refLandmark": "Rond Point des Champs Elysées"
+  },
+  {
+   "propertyId": 1146253,
+   "name": "부테 바스티유 호텔 파리 - M갤러리 컬렉션 (Boutet Bastille Hotel Paris - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/hotel-paris-bastille-boutet-mgallery-collection/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1146253/0/6da2eeca70ef7f2a8b2e32252446f12d.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 413,
+   "priceKRW": 424761,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.851585,
+    "lng": 2.38384
+   },
+   "refLandmark": "페데르브 - 샬리니역"
+  },
+  {
+   "propertyId": 399950,
+   "name": "마르키 포부흐 세인트 오노르 랠레 앤 샤토 (Marquis Faubourg St Honore Relais & Chateaux)",
+   "agodaUrl": "https://www.agoda.com/marquis-faubourg-st-honore-relais-chateaux/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/82511398/0/78ba710daee9e19022c39b71d534d869.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 410,
+   "priceKRW": 647742,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869785,
+    "lng": 2.320861
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 67680777,
+   "name": "삭스 파리, LXR 호텔스 앤 리조트 (Sax Paris, LXR Hotels & Resorts)",
+   "agodaUrl": "https://www.agoda.com/sax-paris-lxr-hotels-resorts/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67680777/0/e81781f6cd758a59ea7f9b9b58c8af6a.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 406,
+   "priceKRW": 876303,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.846844,
+    "lng": 2.312865
+   },
+   "refLandmark": "세브르 - 레쿠르브역"
+  },
+  {
+   "propertyId": 670599,
+   "name": "호텔 뒤퐁-스미스 (Hotel Dupond-Smith)",
+   "agodaUrl": "https://www.agoda.com/hotel-dupond-smith/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/32275738.jpg?k=446d1b7a73fc97d1a8c3d98fc0c4a113b3d9e4a94cb037b16f3fa27852aec360&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 406,
+   "priceKRW": 680411,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.85782,
+    "lng": 2.3571
+   },
+   "refLandmark": "생 폴역"
+  },
+  {
+   "propertyId": 2261095,
+   "name": "Fouquet's Paris",
+   "agodaUrl": "https://www.agoda.com/hotel-barriere-le-fouquet-s-paris_2/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/892709614.jpg?k=39660d67f1ae11214af36bb25f6de066b68346ab2c9a2575de74f28db094deba&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 405,
+   "priceKRW": 2063092,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.871517,
+    "lng": 2.301113
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 6639851,
+   "name": "Brach Paris - Evok Collection",
+   "agodaUrl": "https://www.agoda.com/brach-paris_7/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/303423764.jpg?k=c489ff74173fc82745a91bbcd59db84552878f3f4b09d33c0c7be1c22d9c4aef&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 397,
+   "priceKRW": 914540,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.861275,
+    "lng": 2.275438
+   },
+   "refLandmark": "라 뮈에트역"
+  },
+  {
+   "propertyId": 226822,
+   "name": "마제스틱 호텔 스파 (Majestic Hotel Spa)",
+   "agodaUrl": "https://www.agoda.com/majestic-hotel-spa/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/367342576.jpg?k=19bea15f8fed5fb048093ad931cf1fc19b86b938da9100bbe055ab8c7baffe69&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 390,
+   "priceKRW": 564836,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870396,
+    "lng": 2.293789
+   },
+   "refLandmark": "클레베역"
+  },
+  {
+   "propertyId": 1622659,
+   "name": "메종 알바 호텔 르 퐁뇌프 (Maison Albar Hotels Le Pont-Neuf)",
+   "agodaUrl": "https://www.agoda.com/maison-albar-hotel-paris-celine/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1622659/-1/3ac5fef8f3aa8b7a72f259d89830b82b.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 375,
+   "priceKRW": 536346,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.860584,
+    "lng": 2.344468
+   },
+   "refLandmark": "레 알레역"
+  },
+  {
+   "propertyId": 2678,
+   "name": "풀맨 파리 라데팡스 호텔 (Pullman Paris La Defense Hotel)",
+   "agodaUrl": "https://www.agoda.com/pullman-paris-la-defense-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/378377945.jpg?k=e20ca9f4a568f78dc92d86306cf4b7f00edb273957e7bdaaa06578e756793cca&o=",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 371,
+   "priceKRW": 410052,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.894279,
+    "lng": 2.236705
+   },
+   "refLandmark": "라 데팡스역"
+  },
+  {
+   "propertyId": 8703,
+   "name": "파리 메리어트 샹젤리제 호텔 (Paris Marriott Champs Elysees Hotel)",
+   "agodaUrl": "https://www.agoda.com/paris-marriott-champs-elysees-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643389159.jpg?k=bfbf224188362e3413594530fd1d67d09f9c70c5460fd3129bd29ec71ae0b8a3&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 337,
+   "priceKRW": 1113223,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870968,
+    "lng": 2.30524
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 445099,
+   "name": "메종 델라노 (Maison Delano)",
+   "agodaUrl": "https://www.agoda.com/buddha-bar-hotel-paris_8/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36781048/1262948433/ec89689b4c93720b0299771a07b9cd4b.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 334,
+   "priceKRW": 979768,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869492,
+    "lng": 2.32065
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 10256902,
+   "name": "포시즌스 호텔 조지 V 파리 (Four Seasons Hotel George V Paris)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-george-v-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/232783611.jpg?k=70a6c58744856c165976306d8e3be5ec4c29435ea93147f644df677ed512f6e5&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 332,
+   "priceKRW": 3286677,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.868759,
+    "lng": 2.30089
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 10257516,
+   "name": "호텔 플라자 아테네 - 도체스터 컬렉션 (Hotel Plaza Athenee - Dorchester Collection)",
+   "agodaUrl": "https://www.agoda.com/hotel-plaza-athenee-dorchester-collection_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10257516/0/86fd292c7d020677ca6785bdc381ca02.jpeg",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 323,
+   "priceKRW": 2335499,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.86618,
+    "lng": 2.30428
+   },
+   "refLandmark": "알마 - 마르소역"
+  },
+  {
+   "propertyId": 45029,
+   "name": "라 메이슨 챔프 엘리시 (La Maison Champs Elysees)",
+   "agodaUrl": "https://www.agoda.com/la-maison-champs-elysees/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/450/45029/45029_15032319340026373194.jpg?va=1&ca=13&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 313,
+   "priceKRW": 486714,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.866608,
+    "lng": 2.308921
+   },
+   "refLandmark": "Rond Point des Champs Elysées"
+  },
+  {
+   "propertyId": 38475794,
+   "name": "도멘 드 라 렌 마르고 파리-이씨 - M갤러리 컬렉션 (Domaine de la Reine Margot Paris-Issy - MGallery Collection)",
+   "agodaUrl": "https://www.agoda.com/reine-margot-hotel-issy-les-moulineaux-mgallery-fall-2023/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914993941.jpg?k=59de120db36199352f511f1d3a830eed0189b8b12d3b20670faca126bdbd0540&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 311,
+   "priceKRW": 409961,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.822865,
+    "lng": 2.277163
+   },
+   "refLandmark": "메리 디시역"
+  },
+  {
+   "propertyId": 13836152,
+   "name": "샹그릴라 호텔 파리 (Shangri-La Hotel, Paris)",
+   "agodaUrl": "https://www.agoda.com/shangri-la-hotel-paris_3/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/887922554.jpg?k=80514960899c77308b21ca503f5dede968ead28b566b783105f004f2e4c2c32c&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 285,
+   "priceKRW": 2596911,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.863972,
+    "lng": 2.2933
+   },
+   "refLandmark": "예나역"
+  },
+  {
+   "propertyId": 67478,
+   "name": "세인트 제임스 호텔 파리 (Saint James Hotel Paris)",
+   "agodaUrl": "https://www.agoda.com/saint-james-hotel-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67478/-1/13d7c2a17b00261cf4785595de970034.jpg?ca=29&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 281,
+   "priceKRW": 986479,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870338,
+    "lng": 2.279924
+   },
+   "refLandmark": "포르트 도팽역"
+  },
+  {
+   "propertyId": 3723,
+   "name": "프린스 드 갈, 어 럭셔리 컬렉션 호텔, 파리 (Prince de Galles, a Luxury Collection Hotel, Paris)",
+   "agodaUrl": "https://www.agoda.com/prince-de-galles-a-luxury-collection-hotel-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/721426014.jpg?k=da50b6ec9f58a788056b8720e94b0a02645725720987f9689d99a4ddb1ea1433&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 274,
+   "priceKRW": 1506090,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.86903,
+    "lng": 2.30083
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 60643,
+   "name": "호텔 드 세르 파리 샹젤리제 (Hotel de Sers-Paris Champs Elysees)",
+   "agodaUrl": "https://www.agoda.com/hotel-de-sers-paris-champs-elysees/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60643/0/18e43e6c5438db44e0a0cf858f8fb5be.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 273,
+   "priceKRW": 621662,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.868149,
+    "lng": 2.300626
+   },
+   "refLandmark": "알마 - 마르소역"
+  },
+  {
+   "propertyId": 6760206,
+   "name": "호텔 스플렌디드 로얄 파리 (Hotel Splendide Royal Paris)",
+   "agodaUrl": "https://www.agoda.com/splendide-royal-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/683009086.jpg?k=0b0ee4af3a7c4c290c3421c972ffc352f9d1cb26a3366dfe0249e263f326b093&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 262,
+   "priceKRW": 1986317,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870969,
+    "lng": 2.315389
+   },
+   "refLandmark": "미로메닐역"
+  },
+  {
+   "propertyId": 13829298,
+   "name": "르 메우리스 도체스터 컬렉션 (Le Meurice – Dorchester Collection)",
+   "agodaUrl": "https://www.agoda.com/le-meurice_11/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/14441292.jpg?k=30f14d45da1f9ca5e21d900538d14c85480110a8506f151c8f0e6993be341e7d&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 241,
+   "priceKRW": 2318489,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.865108,
+    "lng": 2.32805
+   },
+   "refLandmark": "튈르리역"
+  },
+  {
+   "propertyId": 242957,
+   "name": "르 로얄 몽소 호텔 래플스 파리 (Le Royal Monceau Hotel Raffles Paris)",
+   "agodaUrl": "https://www.agoda.com/le-royal-monceau-hotel-raffles-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/242957/0/e9f05b1acfe07fd8a46b48f5b3821543.jpg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 238,
+   "priceKRW": 1832170,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.875835,
+    "lng": 2.300412
+   },
+   "refLandmark": "테른역"
+  },
+  {
+   "propertyId": 1621699,
+   "name": "르 1er 에타주 오페라 (Le 1er Etage Opera)",
+   "agodaUrl": "https://www.agoda.com/le-1er-etage-opera/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/162/1621699/1621699_16113002280049229953.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 229,
+   "priceKRW": 301180,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.874556,
+    "lng": 2.330906
+   },
+   "refLandmark": "오스만 생라자르역"
+  },
+  {
+   "propertyId": 47231267,
+   "name": "그랜드 호텔 샹젤리제 (Grand Hotel Champs Elysées)",
+   "agodaUrl": "https://www.agoda.com/radisson-blu-champs-elysees_4/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47231267/0/336bc5cd451901322db82a3c05fdcb8f.jpeg",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 224,
+   "priceKRW": 414563,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869644,
+    "lng": 2.298263
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 3632403,
+   "name": "호텔 에스프리 생제르맹 (Hotel Esprit Saint-Germain)",
+   "agodaUrl": "https://www.agoda.com/hotel-esprit-saint-germain_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3632403/-1/84ac0a80b0730c31efc2afdb37a7d644.jpg?ca=18&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 218,
+   "priceKRW": 937206,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.851456,
+    "lng": 2.336427
+   },
+   "refLandmark": "마비용역"
+  },
+  {
+   "propertyId": 276591,
+   "name": "라 클레 투르 에펠 파리 바이 더 크레스트 컬렉션  (La Clef Tour Eiffel Paris by The Crest Collection)",
+   "agodaUrl": "https://www.agoda.com/la-clef-tour-eiffel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/607114967.jpg?k=11afa4936ee926a0be523f8fb02b3f34f485e6dcbdf595ab4c3eacc21a7e2e58&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 193,
+   "priceKRW": 612093,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.864635,
+    "lng": 2.28898
+   },
+   "refLandmark": "트로카데로역"
+  },
+  {
+   "propertyId": 3849634,
+   "name": "만다린 오리엔탈 파리 (Mandarin Oriental, Paris)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-paris_10/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/87942227/1377940718/57b13a4019af4ab93e3bad1bdff3a478.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 191,
+   "priceKRW": 2024355,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.867241,
+    "lng": 2.32682
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 1184859,
+   "name": "놀린스키 파리 (Nolinski Paris)",
+   "agodaUrl": "https://www.agoda.com/nolinski-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1184859/0/611e6125c7bc99610116e07eaa572b58.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 190,
+   "priceKRW": 791777,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.865486,
+    "lng": 2.334893
+   },
+   "refLandmark": "피라미드역"
+  },
+  {
+   "propertyId": 1165147,
+   "name": "르네상스 파리 레퓌블리크 호텔 (Renaissance Paris Republique Hotel)",
+   "agodaUrl": "https://www.agoda.com/renaissance-paris-republique-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/116/1165147/1165147_16122014540049811485.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 170,
+   "priceKRW": 532245,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.868782,
+    "lng": 2.36102
+   },
+   "refLandmark": "자크 봉세르장역"
+  },
+  {
+   "propertyId": 28854353,
+   "name": "불가리 호텔 파리 (Bvlgari Hotel Paris)",
+   "agodaUrl": "https://www.agoda.com/bvlgari-hotel-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/28854353/-1/596aaadda85535a4ad1ed0c5c7df5018.jpg?ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 165,
+   "priceKRW": 3196708,
+   "brand": "bulgari",
+   "brandLabel": "불가리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.868374,
+    "lng": 2.301447
+   },
+   "refLandmark": "알마 - 마르소역"
+  },
+  {
+   "propertyId": 11107,
+   "name": "소피텔 르 스크라이브 파리 오페라 (Sofitel Le Scribe Paris Opéra)",
+   "agodaUrl": "https://www.agoda.com/le-scribe-paris-opera-by-sofitel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11107/0/8a5142191098f47aefddbb77902a3726.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 165,
+   "priceKRW": 764370,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870541,
+    "lng": 2.329978
+   },
+   "refLandmark": "오페라역"
+  },
+  {
+   "propertyId": 39865350,
+   "name": "메종 프루스트 호텔 앤 스파 라 메르 (Maison Proust, Hotel & Spa La Mer)",
+   "agodaUrl": "https://www.agoda.com/maison-proust/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/39865350/0/033ef58ab736b2e83df1a767f5a0d863.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 152,
+   "priceKRW": 1469944,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.86409,
+    "lng": 2.363236
+   },
+   "refLandmark": "필 뒤 칼베르역"
+  },
+  {
+   "propertyId": 26039232,
+   "name": "Cheval Blanc Paris & Dior Spa Cheval Blanc Paris",
+   "agodaUrl": "https://www.agoda.com/cheval-blanc-paris-dior-spa-cheval-blanc-paris/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570774323.jpg?k=5fc9e42e82c18e13c1d30fca8bb903c9ec20bc92e10666bfa90a834027b82b56&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 146,
+   "priceKRW": 3496606,
+   "brand": "cheval-blanc",
+   "brandLabel": "슈발 블랑",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.858898,
+    "lng": 2.34205
+   },
+   "refLandmark": "Pont Neuf Metro Station"
+  },
+  {
+   "propertyId": 10256407,
+   "name": "르 브리스톨 파리 - 언 오에트커 컬렉션 호텔 (Le Bristol Paris - an Oetker Collection Hotel)",
+   "agodaUrl": "https://www.agoda.com/le-bristol-paris-an-oetker-collection-hotel_2/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/715778144.jpg?k=680e998f69dcdbc3e97c96ee2a48bfd6363a6d0b5ba9c7fa36c2bc34427d6f3d&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 143,
+   "priceKRW": 3162865,
+   "brand": "oetker",
+   "brandLabel": "외트커 컬렉션",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.87183,
+    "lng": 2.315
+   },
+   "refLandmark": "미로메닐역"
+  },
+  {
+   "propertyId": 1249328,
+   "name": "르 메트로폴리탄, 파리 투어 에펠, 어 트리뷰트 포트폴리오 호텔 (Le Metropolitan, Paris Tour Eiffel, a Tribute Portfolio Hotel)",
+   "agodaUrl": "https://www.agoda.com/le-metropolitan-a-tribute-portfolio-hotel-paris/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/124/1249328/1249328_17032805400051934523.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 139,
+   "priceKRW": 619890,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.865635,
+    "lng": 2.283017
+   },
+   "refLandmark": "루 드 라 퐁프역"
+  },
+  {
+   "propertyId": 63571,
+   "name": "라 클레프 루브르 파리 바이 더 크레스트 컬렉션 (La Clef Louvre Paris by The Crest Collection)",
+   "agodaUrl": "https://www.agoda.com/la-clef-louvre/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/63571/0/1a0618651934a062b8f1b3c8aad111c3.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 135,
+   "priceKRW": 654337,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.863869,
+    "lng": 2.335957
+   },
+   "refLandmark": "팔레 루아얄 - 무제 뒤 루브르"
+  },
+  {
+   "propertyId": 49417,
+   "name": "파리 생제르맹데프레 (Paris Saint-Germain-des-Prés)",
+   "agodaUrl": "https://www.agoda.com/pont-royal/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49417/-1/23faae6997464fd3150ee25040431445.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 133,
+   "priceKRW": 557977,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.856689,
+    "lng": 2.327345
+   },
+   "refLandmark": "루 뒤 박역"
+  },
+  {
+   "propertyId": 13832777,
+   "name": "호텔 파리스터 (Hotel Parister)",
+   "agodaUrl": "https://www.agoda.com/hotel-parister/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/406119331.jpg?k=a495e4f733e3a03869bb874805aed2732dff51b57935a4559e5374c03520f774&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 122,
+   "priceKRW": 360654,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.87537,
+    "lng": 2.34429
+   },
+   "refLandmark": "카데역"
+  },
+  {
+   "propertyId": 152892,
+   "name": "인터컨티넨탈 파리 샹젤리제 에투알 바이 IHG (InterContinental Paris Champs-Elysées Etoile By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-paris-avenue-marceau/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7521304/0/46c958d3466e18a52b44c158e9c82ab4.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 119,
+   "priceKRW": 613735,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870617,
+    "lng": 2.297961
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 28010251,
+   "name": "Le Prieuré de Bazainville (Le Prieure de Bazainville)",
+   "agodaUrl": "https://www.agoda.com/le-prieure-de-bazainville/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/318978949.jpg?k=30d4aed36ef8a8f5704bdddd427663fa2ad9c3d91733a734d7260a6e786b0c91&o=",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 118,
+   "priceKRW": 326349,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.804001,
+    "lng": 1.668749
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 64238121,
+   "name": "Maison Barrière Vendôme (Maison Barriere Vendome)",
+   "agodaUrl": "https://www.agoda.com/maison-barriere-vendome/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/670076824.jpg?k=5b43ede48298e5ed62eb684003427a03e221c2373f9f01ca62ef466eea45c585&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 109,
+   "priceKRW": 1050034,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.865726,
+    "lng": 2.328095
+   },
+   "refLandmark": "튈르리역"
+  },
+  {
+   "propertyId": 10256536,
+   "name": "라 레세흐브 파리 호텔 앤 스파 (La Reserve Paris Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/la-reserve-paris-hotel-and-spa/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/190511067.jpg?k=905c0f3081945aead2eee3c42a4ed34ca0cfb8eb25a78516a91fb4ef15e3bb9d&o=",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 97,
+   "priceKRW": 3496606,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869759,
+    "lng": 2.31328
+   },
+   "refLandmark": "프랭클린 D. 루즈벨트역"
+  },
+  {
+   "propertyId": 155355,
+   "name": "르 도칸스, 파리 아크 드 트리옹프, 어 트리뷰트 포트폴리오 호텔 (Le Dokhan's, Paris Arc de Triomphe, a Tribute Portfolio Hotel)",
+   "agodaUrl": "https://www.agoda.com/le-dokhan-s-a-tribute-portfolio-hotel-paris_8/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/155/155355/155355_17032812410051945913.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 94,
+   "priceKRW": 612992,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.866283,
+    "lng": 2.286609
+   },
+   "refLandmark": "브와시에르역"
+  },
+  {
+   "propertyId": 4595116,
+   "name": "호텔 보우맨 (Hotel Bowmann)",
+   "agodaUrl": "https://www.agoda.com/hotel-bowmann/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4595116/0/72c3ebde42c274935e8ba4df38f5c227.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 92,
+   "priceKRW": 665457,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.874933,
+    "lng": 2.318662
+   },
+   "refLandmark": "생 오귀스탕역"
+  },
+  {
+   "propertyId": 46583624,
+   "name": "호텔 하나 (Hotel Hana)",
+   "agodaUrl": "https://www.agoda.com/hotel-hana/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/518539978.jpg?k=4c7fad2c294b7623ab8dd9b4f501dbadb05216978461d454c8c157a073c9964d&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 87,
+   "priceKRW": 675850,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869606,
+    "lng": 2.336484
+   },
+   "refLandmark": "카트르-셉탕브르역"
+  },
+  {
+   "propertyId": 26849736,
+   "name": "Château Voltaire (Chateau Voltaire)",
+   "agodaUrl": "https://www.agoda.com/chateau-voltaire/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/578143099.jpg?k=678172544d2b65b58f6b132d5808649874546a7839f4abb5745ad381e0a7b8b4&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 79,
+   "priceKRW": 1429616,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.867111,
+    "lng": 2.33328
+   },
+   "refLandmark": "피라미드역"
+  },
+  {
+   "propertyId": 67168,
+   "name": "르 파빌론 드 라 레이네 호텔 (Le Pavillon de la Reine Hotel)",
+   "agodaUrl": "https://www.agoda.com/le-pavillon-de-la-reine-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/874422464.jpg?k=f9a423e5b65917f49602346c7c709b43dbd96654434f0b57ce8eb4e8935c06ee&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 78,
+   "priceKRW": 2170365,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.856529,
+    "lng": 2.366025
+   },
+   "refLandmark": "슈망 베르역"
+  },
+  {
+   "propertyId": 60655,
+   "name": "호텔 몬테뉴 (Hotel Montaigne)",
+   "agodaUrl": "https://www.agoda.com/hotel-montaigne/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/60655/0/4a8d7bf5cfff60a08ec4c6326ae33c2f.jpeg",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 73,
+   "priceKRW": 700386,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.865499,
+    "lng": 2.303802
+   },
+   "refLandmark": "알마 - 마르소역"
+  },
+  {
+   "propertyId": 2482550,
+   "name": "호텔 드 크리용 (Hotel de Crillon)",
+   "agodaUrl": "https://www.agoda.com/hotel-de-crillon_2/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/104377336.jpg?k=da0eb1611f46976483f96f50b1ec7a5926f8e9f4352114c6149ea6911bf3a1f7&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 66,
+   "priceKRW": 2647566,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.867069,
+    "lng": 2.3214
+   },
+   "refLandmark": "콩코드역"
+  },
+  {
+   "propertyId": 42849,
+   "name": "하얏트 파리 마들렌 (Hyatt Paris Madeleine)",
+   "agodaUrl": "https://www.agoda.com/hyatt-paris-madeleine-hotel/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/42849/0/7b8b7cccc348e98d1dd14381ea8b2ad7.jpeg?ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 66,
+   "priceKRW": 796658,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.872932,
+    "lng": 2.32157
+   },
+   "refLandmark": "생 오귀스탕역"
+  },
+  {
+   "propertyId": 7591520,
+   "name": "디즈니랜드® 호텔 (Disneyland® Hotel)",
+   "agodaUrl": "https://www.agoda.com/disneyland-hotel_16/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/571810091.jpg?k=d5c668f695a04853b9b681f6310711cc8b817c5c074e1ec94cdad9e6c3a8420c&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 62,
+   "priceKRW": 1982288,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.870159,
+    "lng": 2.779855
+   },
+   "refLandmark": "Frontierland Depot"
+  },
+  {
+   "propertyId": 83941243,
+   "name": "Hôtel Aventure (Hotel Aventure)",
+   "agodaUrl": "https://www.agoda.com/l-aventure-hotel/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/810954839.jpg?k=6e983e2361a585b3ae0056169d2f78f1a8e0a6fbfdd75ffb9ab74887542f3fd7&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 59,
+   "priceKRW": 888674,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.873035,
+    "lng": 2.29285
+   },
+   "refLandmark": "샤를 드 골 - 에투알역"
+  },
+  {
+   "propertyId": 79464014,
+   "name": "호텔 버스 팔라디움 (Hotel Bus Palladium)",
+   "agodaUrl": "https://www.agoda.com/le-bus-palladium/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/846129113.jpg?k=2e98b243c2f607ef2a7b885149e8b60a2d3580ab71de36213450e896f77ed4ca&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 59,
+   "priceKRW": 586742,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.88084,
+    "lng": 2.335053
+   },
+   "refLandmark": "피갈레 버스정류장"
+  },
+  {
+   "propertyId": 9385518,
+   "name": "리츠 파리 (Ritz Paris)",
+   "agodaUrl": "https://www.agoda.com/ritz-paris_3/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/22880983/327499863/d18b753e147355361f04cd61da87eab4.jpeg?ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 55,
+   "priceKRW": 3773000,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.867901,
+    "lng": 2.32878
+   },
+   "refLandmark": "마들렌역"
+  },
+  {
+   "propertyId": 38032555,
+   "name": "La Fantaisie",
+   "agodaUrl": "https://www.agoda.com/la-fantaisie/hotel/all/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/480844973.jpg?k=75bbae8486d75919db0a0aee46f808f7d420e2429ba41499e5beba24f13d2ca1&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 52,
+   "priceKRW": 666327,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.875458,
+    "lng": 2.343425
+   },
+   "refLandmark": "카데역"
+  },
+  {
+   "propertyId": 6751193,
+   "name": "메종  브레게 (Maison Bréguet)",
+   "agodaUrl": "https://www.agoda.com/maison-breguet/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/129453222.jpg?k=8fcc9465778bce08e382be57efd4aa2819ee9735d82fb378c7793cede14a7d2a&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 40,
+   "priceKRW": 405099,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.85648,
+    "lng": 2.37201
+   },
+   "refLandmark": "브레게 - 사뱅역"
+  },
+  {
+   "propertyId": 10257340,
+   "name": "그랜드 파워스 호텔 (Grand Powers Hotel)",
+   "agodaUrl": "https://www.agoda.com/grand-powers/hotel/paris-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/180318880.jpg?k=a3807c8e6c3ec96a9bd71f83f32885689f38e0e9bf304e62b06acc581bfee815&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 35,
+   "priceKRW": 908392,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.869221,
+    "lng": 2.30313
+   },
+   "refLandmark": "조루주 V역"
+  },
+  {
+   "propertyId": 1622605,
+   "name": "르 생 (Le Saint)",
+   "agodaUrl": "https://www.agoda.com/le-saint/hotel/paris-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/162/1622605/1622605_16122219210049878534.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 32,
+   "priceKRW": 1300659,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 48.856476,
+    "lng": 2.330287
+   },
+   "refLandmark": "루 뒤 박역"
+  }
+ ]
+}

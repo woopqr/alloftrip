@@ -1,0 +1,156 @@
+{
+ "slug": "honolulu",
+ "city": "하와이 호놀룰루",
+ "region": "americas",
+ "cityId": 10921,
+ "agodaCityName": "호놀룰루 (HI)",
+ "fetchedAt": "2026-10-07T23:40:17.557Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 46259,
+   "name": "알로힐라니 리조트 와이키키 비치 (Alohilani Resort Waikiki Beach)",
+   "agodaUrl": "https://www.agoda.com/alohilani-resort-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46259/0/abb72a62608ad0935ac8f2d8f248bc1a.jpg?ca=0&ce=1",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 3139,
+   "priceKRW": 456824,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.274765,
+    "lng": -157.823166
+   },
+   "refLandmark": "Monsarrat Avenue Station"
+  },
+  {
+   "propertyId": 49107,
+   "name": "하레쿨라니 - 노 리조트 피 (Halekulani - NO RESORT FEE)",
+   "agodaUrl": "https://www.agoda.com/halekulani-hotel/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49107/0/786950a5b24c94fcc2f8db2886a90510.jpeg",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2572,
+   "priceKRW": 967776,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 21.278078,
+    "lng": -157.831421
+   },
+   "refLandmark": "Kalia Station"
+  },
+  {
+   "propertyId": 212225,
+   "name": "카 라이 와이키키 비치, LXR 호텔스 앤 리조트 (Ka La‘i Waikiki Beach, LXR Hotels & Resorts)",
+   "agodaUrl": "https://www.agoda.com/jet-luxury-h27518129/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/212225/0/67e0bc896f4f2b00b94cf177c958b82c.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2525,
+   "priceKRW": 1093396,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 21.279539,
+    "lng": -157.832275
+   },
+   "refLandmark": "Kalia Station"
+  },
+  {
+   "propertyId": 46248,
+   "name": "더 카할라 호텔 앤 리조트 (The Kahala Hotel and Resort)",
+   "agodaUrl": "https://www.agoda.com/the-kahala-hotel-and-resort/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46248/0/70b0042515abb4bf09679c6263645c91.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1384,
+   "priceKRW": 778961,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 21.271893,
+    "lng": -157.773834
+   },
+   "refLandmark": "Monsarrat Avenue Station"
+  },
+  {
+   "propertyId": 161224,
+   "name": "더 로얄 하와이안, 어 럭셔리 컬렉션 리조트, 와이키키 (The Royal Hawaiian, a Luxury Collection Resort, Waikiki)",
+   "agodaUrl": "https://www.agoda.com/the-royal-hawaiian-a-luxury-collection-resort-waikiki/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/486914420.jpg?k=eb3e3dc0c1dff4490d92a22666c5c610c99c31d1413ade8262e6ae8da6b0b884&o=",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 803,
+   "priceKRW": 982929,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 21.276909,
+    "lng": -157.828354
+   },
+   "refLandmark": "Monsarrat Avenue Station"
+  },
+  {
+   "propertyId": 47205159,
+   "name": "르네상스 호놀룰루 호텔 앤 스파 (Renaissance Honolulu Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/renaissance-honolulu-hotel-spa/hotel/holualoa-hi-us.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/546119705.jpg?k=f75ccf29f692792b47fb939e6296d42a86718c9578bd71da2c646616a8777e6c&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 407,
+   "priceKRW": 434311,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.293671,
+    "lng": -157.843765
+   },
+   "refLandmark": "Kalia Station"
+  },
+  {
+   "propertyId": 2452173,
+   "name": "더 리츠칼튼 레지던스, 와이키키 비치 (The Ritz-Carlton Residences, Waikiki Beach)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-residences-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/538653707.jpg?k=39f962523fb3df1d03b3b11fba318dc650ea49a70a36acea6eb4e0c224159c88&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 292,
+   "priceKRW": 1152544,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": true,
+   "geo": {
+    "lat": 21.282114,
+    "lng": -157.830475
+   },
+   "refLandmark": "Kalia Station"
+  },
+  {
+   "propertyId": 295044,
+   "name": "에스파시오 더 주얼 오브 와이키키 (ESPACIO The Jewel of Waikiki)",
+   "agodaUrl": "https://www.agoda.com/aqua-waikiki-beachside-h24809787/hotel/honolulu-hi-us.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/295044/-1/aca429b12a2fa5d37f0cb0df3b75770c.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 86,
+   "priceKRW": 6358437,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 21.275173,
+    "lng": -157.824478
+   },
+   "refLandmark": "Monsarrat Avenue Station"
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "slug": "hakone",
+ "city": "하코네",
+ "region": "east-asia",
+ "cityId": 79849,
+ "agodaCityName": "하코네",
+ "fetchedAt": "2026-10-07T23:40:17.797Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 1410571,
+   "name": "하코네 고와키엔 텐-유 (Hakone Kowakien TEN-YU)",
+   "agodaUrl": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1410571/0/7b7946d01e5cb7b692eb9d9a2f10891f.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 7796,
+   "priceKRW": 1291564,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.238614,
+    "lng": 139.044416
+   },
+   "refLandmark": "호라이엔 버스정류장"
+  },
+  {
+   "propertyId": 45575,
+   "name": "후지야 호텔 (The Fujiya Hotel )",
+   "agodaUrl": "https://www.agoda.com/fujiya-hotel/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45575/0/8d5a81b0f9e0e5c816429dd8ba5baf9a.jpeg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 3788,
+   "priceKRW": 548777,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.244297,
+    "lng": 139.05896
+   },
+   "refLandmark": "미야노시타역"
+  },
+  {
+   "propertyId": 50169341,
+   "name": "하코네 코와키엔 호텔 (Hakone Kowakien Hotel)",
+   "agodaUrl": "https://www.agoda.com/hakone-kowakien-yunessun-inn/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50169341/0/20d67b4dc0955ff7f5045b6bd4df78e0.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2131,
+   "priceKRW": 778977,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.238903,
+    "lng": 139.047456
+   },
+   "refLandmark": "호라이엔 버스정류장"
+  },
+  {
+   "propertyId": 51817295,
+   "name": "놀 하코네 묘진다이 (nol hakone myojindai)",
+   "agodaUrl": "https://www.agoda.com/hotel-harvest-hakone-myojindaira/hotel/kanagawa-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51817295/0/2d0f329dad39117c1aa54dead10e3682.jpeg",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1342,
+   "priceKRW": 746409,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.260784,
+    "lng": 139.049316
+   },
+   "refLandmark": "Miyagino Sales Office Bus Stop"
+  },
+  {
+   "propertyId": 79118,
+   "name": "힐튼 오다와라 리조트 앤 스파 (Hilton Odawara Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/hilton-odawara-resort-spa/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/79118/0/468083038b1e8bf3704351721e02df83.jpeg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1315,
+   "priceKRW": 750976,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.206917,
+    "lng": 139.131317
+   },
+   "refLandmark": "Nebukawa"
+  },
+  {
+   "propertyId": 5000565,
+   "name": "하코네 리트리트 빌라 1/f (Hakone Retreat villa 1/f)",
+   "agodaUrl": "https://www.agoda.com/hakone-retreat-villa-1-f_2/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5000565/0/099ac4218703a4d40cd92a5c42f2fa18.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 964,
+   "priceKRW": 871485,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.267525,
+    "lng": 139.019745
+   },
+   "refLandmark": "시나노크 버스정류장"
+  },
+  {
+   "propertyId": 65446077,
+   "name": "하코네 고라 가라쿠 (오릭스 호텔 앤 리조트) (Hakone Gora Karaku (ORIX HOTELS & RESORTS))",
+   "agodaUrl": "https://www.agoda.com/hakone-gora-karaku-h35392310/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65446077/0/9f638cac82143cf54856c3bf00ec01a9.jpeg?ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 876,
+   "priceKRW": 1776243,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.250072,
+    "lng": 139.04962
+   },
+   "refLandmark": "Hakone Tozan Cable Car"
+  },
+  {
+   "propertyId": 91369674,
+   "name": "하코네 콜링 (HAKONE CALLING)",
+   "agodaUrl": "https://www.agoda.com/hakone-calling/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/91369674/0/a5aaa5fbd609b3958ff2b82f5cb3bd1f.jpg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 623,
+   "priceKRW": 376893,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.232647,
+    "lng": 139.10333
+   },
+   "refLandmark": "하코네유모토역"
+  },
+  {
+   "propertyId": 70990680,
+   "name": "호텔 센고쿠하라 533 (Hotel Sengokuhara 533)",
+   "agodaUrl": "https://www.agoda.com/533/hotel/yokohama-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70990680/0/d285ca93af089f7db245ebcad7fa16f1.jpg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 447,
+   "priceKRW": 294959,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.270348,
+    "lng": 139.00496
+   },
+   "refLandmark": "센고쿠하라 분카센터 마에 버스정류장"
+  },
+  {
+   "propertyId": 399368,
+   "name": "오쿠유가와라 산스이로 (Oku-Yugawara Sansuirou)",
+   "agodaUrl": "https://www.agoda.com/hakone-yugawara-sansuirou/hotel/yugawara-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/399368/0/0ce212b1e9f353bf351624840399ab64.jpeg",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 362,
+   "priceKRW": 660272,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.159809,
+    "lng": 139.060608
+   },
+   "refLandmark": "Okuyugawarairiguchi Bus Stop"
+  },
+  {
+   "propertyId": 399373,
+   "name": "오쿠-유가와라 츠바키 (Oku-Yugawara Tsubaki)",
+   "agodaUrl": "https://www.agoda.com/hakone-oku-yugawara-tsubaki/hotel/yugawara-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/399373/0/20049e171fafe501199d084170a13f6a.jpg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 202,
+   "priceKRW": 1235648,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.161598,
+    "lng": 139.060516
+   },
+   "refLandmark": "Okuyugawarairiguchi Bus Stop"
+  },
+  {
+   "propertyId": 65416630,
+   "name": "Atami Izusan Karaku ORIX HOTELS & RESORTS",
+   "agodaUrl": "https://www.agoda.com/atami-izusan-karaku-h46623414/hotel/atami-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65416630/0/18ef1fba1b1dbefe9e18d6a954c290f3.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 169,
+   "priceKRW": 972371,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.112633,
+    "lng": 139.08675
+   },
+   "refLandmark": "Atami Station"
+  },
+  {
+   "propertyId": 37697719,
+   "name": "호텔 시키 노 야카타 하코네 아시노코 (Hotel Shiki no Yakata Hakone Ashinoko)",
+   "agodaUrl": "https://www.agoda.com/hotel-shiki-no-yakata-hakone-ashinoko/hotel/hakone-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37697719/0/1eed4acb746b8fd409a0541bba649884.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 125,
+   "priceKRW": 1002760,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 35.207878,
+    "lng": 139.035248
+   },
+   "refLandmark": "후타고자야 버스정류장"
+  },
+  {
+   "propertyId": 41976405,
+   "name": "후키야 료칸 (Fukiya Ryokan)",
+   "agodaUrl": "https://www.agoda.com/fukiya/hotel/kanagawa-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41976405/0/9f7861318bfc9283f638d18bf53d9471.jpg?ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 111,
+   "priceKRW": 990129,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.144344,
+    "lng": 139.080109
+   },
+   "refLandmark": "Kouen Iriguchi Bus Station"
+  },
+  {
+   "propertyId": 45934390,
+   "name": "Sen Yugawara",
+   "agodaUrl": "https://www.agoda.com/yugawara-kameya-ryokan/hotel/yugawara-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45934390/0/a9cef199489b82c34735ff2216c9bbc8.jpeg?ce=3",
+   "star": 5,
+   "score": 8,
+   "reviewCount": 91,
+   "priceKRW": 599171,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.14741,
+    "lng": 139.07344
+   },
+   "refLandmark": "Kouen Iriguchi Bus Station"
+  },
+  {
+   "propertyId": 67154699,
+   "name": "yutorie",
+   "agodaUrl": "https://www.agoda.com/yutorie/hotel/atami-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/67154699/0/b2ece0221bfd317cd798dbedc2dfd81d.jpg?ce=0",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 45,
+   "priceKRW": 437543,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 35.104374,
+    "lng": 139.06717
+   },
+   "refLandmark": "Kinomiya"
+  }
+ ]
+}

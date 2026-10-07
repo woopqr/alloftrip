@@ -19,6 +19,9 @@ const REFRESH = Number.isFinite(parsedRefresh) ? Math.max(0, parsedRefresh) : 1;
 (async function main() {
   const made = refill({ count: BATCH });
   refresh({ count: REFRESH });
+  // 럭셔리 카탈로그(핫리스트·브랜드 모음 원천) 순환 갱신 — 6일 지난 도시 7곳씩
+  try { execSync('node collect-luxury.js', { cwd: __dirname, stdio: 'inherit', timeout: 600000, env: { ...process.env, MAX_CITIES: process.env.CATALOG_CITIES || '7' } }); }
+  catch (e) { console.error('카탈로그 갱신 실패(기존 유지): ' + String(e.message).slice(0, 120)); }
   try { await require('./observe-prices').observe(); }
   catch (e) { console.error('가격 관찰 실패(기존 데이터 유지): ' + String(e.message).slice(0, 160)); }
   // 특별기획(국내) 숙소 실시간 수집 — cityId 있는 특별글만, 실패해도 계속

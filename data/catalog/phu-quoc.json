@@ -1,0 +1,426 @@
+{
+ "slug": "phu-quoc",
+ "city": "푸꾸옥",
+ "region": "southeast-asia",
+ "cityId": 17188,
+ "agodaCityName": "푸꾸옥 섬",
+ "fetchedAt": "2026-10-07T23:40:17.683Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 625168,
+   "name": "빈펄 리조트 앤 스파 푸꾸옥 (Vinpearl Resort & Spa Phú Quốc)",
+   "agodaUrl": "https://www.agoda.com/vinpearl-resort-spa-phu-qu-c/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/625168/-1/3dd5dcbcfdd9509dfe470905adad972a.jpg?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 11300,
+   "priceKRW": 221140,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.337814,
+    "lng": 103.849205
+   },
+   "refLandmark": "빈원더스 푸꾸옥"
+  },
+  {
+   "propertyId": 6377313,
+   "name": "빈펄 원더월드 푸꾸옥 (Vinpearl Wonderworld Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/vinpearl-discovery-1-phu-quoc_5/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6377313/-1/f66ebb702fd7e14dd962294538c83c87.jpg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 9627,
+   "priceKRW": 540330,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.338278,
+    "lng": 103.848633
+   },
+   "refLandmark": "빈원더스 푸꾸옥"
+  },
+  {
+   "propertyId": 4968811,
+   "name": "두짓 프린세스 문라이즈 비치 리조트 (Dusit Princess Moonrise Beach Resort)",
+   "agodaUrl": "https://www.agoda.com/dusit-princess-moonrise-beach-resort/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4968811/0/d524195eb22cef401dabc7cf5230f931.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 7131,
+   "priceKRW": 396857,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.181074,
+    "lng": 103.967445
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 5972590,
+   "name": "프리미어 레지던스 푸꾸옥 에메랄드 베이 매니지드 바이 아코르 (Premier Residences Phu Quoc Emerald Bay Managed by Accor)",
+   "agodaUrl": "https://www.agoda.com/premier-residences-phu-quoc-emerald-bay-managed-by-accorhotels/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21726991/1264024098/0d76f28e1ac8cbda4d9c46e7b9ca4de2.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 6975,
+   "priceKRW": 247697,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.035068,
+    "lng": 104.02786
+   },
+   "refLandmark": "Hon Thom Cable Car"
+  },
+  {
+   "propertyId": 21774298,
+   "name": "크라운 플라자 푸꾸옥 스타베이 바이 IHG (Crowne Plaza Phu Quoc Starbay By IHG)",
+   "agodaUrl": "https://www.agoda.com/crowne-plaza-phu-quoc-starbay/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21981129/0/6b7677d87e159c368fb1aabe20fa29a5.jpg?ca=20&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 6633,
+   "priceKRW": 347732,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.317072,
+    "lng": 103.85733
+   },
+   "refLandmark": "빈원더스 푸꾸옥"
+  },
+  {
+   "propertyId": 9776735,
+   "name": "풀만 푸 꾸옥 비치 리조트 (Pullman Phu Quoc Beach Resort)",
+   "agodaUrl": "https://www.agoda.com/pullman-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9776735/-1/8456758e4800f010236a51228a374687.jpg?ca=13&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 5775,
+   "priceKRW": 387382,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.120242,
+    "lng": 103.983467
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 21967772,
+   "name": "오션 베이 푸꾸옥 리조트 앤 스파 (Ocean Bay Phu Quoc Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/ocean-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21967772/0/211197ce544158b45db0bd3ed5d4adee.png?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 5255,
+   "priceKRW": 295417,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.256044,
+    "lng": 103.93967
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 3648660,
+   "name": "인터컨티넨탈 푸꾸옥 롱비치 리조트 바이 IHG (InterContinental Phu Quoc Long Beach Resort By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-phu-quoc-long-beach-resort/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3648660/-1/1e2b3929c2693d0eb4bde5a9265bfd2d.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5242,
+   "priceKRW": 613465,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.112444,
+    "lng": 103.983513
+   },
+   "refLandmark": "Hon Thom Cable Car"
+  },
+  {
+   "propertyId": 46992320,
+   "name": "라 페스타 푸꾸옥, 큐리오 컬렉션 바이 힐튼 (La Festa Phu Quoc, Curio Collection by Hilton)",
+   "agodaUrl": "https://www.agoda.com/la-festa-phu-quoc-curio-collection-by-hilton/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46870866/0/a068d66a7f95be6c31a0a309b3ffbf7b.jpeg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4578,
+   "priceKRW": 376023,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.029544,
+    "lng": 104.007561
+   },
+   "refLandmark": "Hon Thom Cable Car"
+  },
+  {
+   "propertyId": 1266957,
+   "name": "솔 바이 멜리아 푸꾸옥 (SOL By Melia Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/sol-beach-house-phu-quoc_2/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1266957/-1/b0ec3a1ca09f39bae2b4725f6b0c967b.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 4339,
+   "priceKRW": 210407,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.146277,
+    "lng": 103.977356
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 31187083,
+   "name": "세일링 클럽 시그니처 리조트 푸꾸옥 (Sailing Club Signature Resort Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/sailing-club-signature-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31187083/-1/b30e2ec34a9eee9142e991ca46abd563.png?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3841,
+   "priceKRW": 499322,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.125341,
+    "lng": 103.995628
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 1985199,
+   "name": "멜리아 빈펄 푸꾸옥 (Melia Vinpearl Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/vinpearl-discovery-2-phu-quoc_2/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1985199/0/4582dea53a252674fa623a2724bc4975.jpg?ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 3301,
+   "priceKRW": 299918,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.350986,
+    "lng": 103.847267
+   },
+   "refLandmark": "빈원더스 푸꾸옥"
+  },
+  {
+   "propertyId": 1624474,
+   "name": "JW 메리어트 푸쿽 에메랄드 베이 리조트 앤 스파 (JW Marriott Phu Quoc Emerald Bay Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-phu-quoc-emerald-bay-resort-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/656782024.jpg?k=215fe5b0a2e9ecbf261f16526e99286f7183f5a9957d6a4056fa7a7f15c563cb&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2811,
+   "priceKRW": 753957,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.032842,
+    "lng": 104.02935
+   },
+   "refLandmark": "Hon Thom Cable Car"
+  },
+  {
+   "propertyId": 1032420,
+   "name": "쉐라톤 푸꾸옥 롱 비치 리조트 (Sheraton Phu Quoc Long Beach Resort)",
+   "agodaUrl": "https://www.agoda.com/sheraton-phu-quoc-long-beach-resort/hotel/phu-qu-c-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1032420/-1/a38b22a8891521acb6c4d224b4f1808f.jpg?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2787,
+   "priceKRW": 1022809,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.337489,
+    "lng": 103.849892
+   },
+   "refLandmark": "빈원더스 푸꾸옥"
+  },
+  {
+   "propertyId": 5442703,
+   "name": "래디슨 블루 리조트 푸쿽 (Radisson Blu Resort Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/radisson-blu-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9455708/0/a64fedd62c8d2a17372e1d59561fb2cb.jpeg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2552,
+   "priceKRW": 369380,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.328082,
+    "lng": 103.853661
+   },
+   "refLandmark": "빈원더스 푸꾸옥"
+  },
+  {
+   "propertyId": 2169131,
+   "name": "그린 베이 푸쿽 리조트 앤 스파 (Green Bay Phu Quoc Resort and Spa)",
+   "agodaUrl": "https://www.agoda.com/green-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2169131/0/7b773a379f38cd635ea80fdfdd43b5f5.png?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2164,
+   "priceKRW": 585752,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.290786,
+    "lng": 103.900108
+   },
+   "refLandmark": "빈펄 사파리 푸꾸옥"
+  },
+  {
+   "propertyId": 47021962,
+   "name": "그랜드 리조트 오션 베이 푸꾸옥 (Grand Resort Ocean Bay Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/grand-resort-ocean-bay-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47021962/0/33222cef782e6a37ae87eca7f607b1a5.png?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 2143,
+   "priceKRW": 368504,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.255892,
+    "lng": 103.940201
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 14654959,
+   "name": "무븐픽 리조트 웨이벌리 푸 꾸옥 (Mövenpick Resort Waverly Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/movenpick-resort-waverly-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/21726065/0/6ec8a6f8dd973b531fa5e83e080d0bbc.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1924,
+   "priceKRW": 208216,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.283008,
+    "lng": 103.924171
+   },
+   "refLandmark": "푸꾸옥 시골"
+  },
+  {
+   "propertyId": 4518431,
+   "name": "프리미어 빌리지 푸꾸옥 리조트 - 매니지드 바이 아코르 (Premier Village Phu Quoc Resort - Managed by Accor)",
+   "agodaUrl": "https://www.agoda.com/premier-village-phu-quoc-resort-managed-by-accorhotels/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4518431/0/a03f0089b8078d1be4abd641e61ba44c.jpg?ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1846,
+   "priceKRW": 532676,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.010922,
+    "lng": 104.044296
+   },
+   "refLandmark": "Hon Thom Cable Car"
+  },
+  {
+   "propertyId": 70425,
+   "name": "라 베란다 리조트 푸쿽 - M갤러리 (La Veranda Resort Phu Quoc - MGallery)",
+   "agodaUrl": "https://www.agoda.com/la-veranda-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/70425/-1/5bb64590de3e4b92ebb6a0d649a89cbf.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1236,
+   "priceKRW": 256151,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.193092,
+    "lng": 103.964218
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 5943665,
+   "name": "선셋 사나토 리조트 앤 빌라 (Sunset Sanato Resort & Villas)",
+   "agodaUrl": "https://www.agoda.com/sunset-sanato-resort-villas_2/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5943665/-1/accd6ab6bd4e5abc295a018bacfdf5bf.jpg?ce=0",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 1201,
+   "priceKRW": 729191,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.153337,
+    "lng": 103.973816
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 83294991,
+   "name": "월드호텔스 롱 비치 리조트 푸쿡 (WorldHotels Long Beach Resort Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/worldhotels-long-beach-resort-phu-quoc-h83294991/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82466726/0/3d5231064e694f8a5df7794a90061f9b.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 719,
+   "priceKRW": 301508,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.188999,
+    "lng": 103.966431
+   },
+   "refLandmark": "롱 비치"
+  },
+  {
+   "propertyId": 16909722,
+   "name": "M 빌라스 푸 꾸옥 (M Villas Phu Quoc)",
+   "agodaUrl": "https://www.agoda.com/m-villas-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/16909722/-1/986d35b296ed4696799f4fa4862b267a.jpg?ca=13&ce=1",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 486,
+   "priceKRW": 326437,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 10.1329,
+    "lng": 103.979134
+   },
+   "refLandmark": "롱 비치"
+  }
+ ]
+}

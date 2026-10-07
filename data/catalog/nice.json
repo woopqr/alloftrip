@@ -1,0 +1,138 @@
+{
+ "slug": "nice",
+ "city": "니스",
+ "region": "europe",
+ "cityId": 5277,
+ "agodaCityName": "니스",
+ "fetchedAt": "2026-10-07T23:40:17.772Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 7227861,
+   "name": "호텔 네그레스코 (Hotel Negresco)",
+   "agodaUrl": "https://www.agoda.com/hotel-negresco/hotel/nice-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7227861/0/bcef3a88eee99c4c94e02576b351b8b1.jpeg?va=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1661,
+   "priceKRW": 499274,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 43.694489,
+    "lng": 7.25838
+   },
+   "refLandmark": "니스 빌역"
+  },
+  {
+   "propertyId": 15954463,
+   "name": "보스콜로 니스 호텔 앤 스파 (Boscolo Nice Hotel & Spa)",
+   "agodaUrl": "https://www.agoda.com/boscolo-exedra-nice-autograph-collection/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/15954463/0/89f174d6ea33d7489209b3339c3ecc97.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 1646,
+   "priceKRW": 264044,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 43.699997,
+    "lng": 7.265567
+   },
+   "refLandmark": "니스 빌역"
+  },
+  {
+   "propertyId": 487682,
+   "name": "호텔 팔레 드 라 메디테라네 - 더 언바운드 컬렉션 바이 하얏트 (Hôtel Palais de la Méditerranée - The Unbound Collection by Hyatt)",
+   "agodaUrl": "https://www.agoda.com/hyatt-regency-nice-palais-de-la-mediterranee/hotel/nice-fr.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/923827251.jpg?k=41b2bf404da4910cd3315dc0e922742315389076fc55d95ffd10a40ac424b570&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1120,
+   "priceKRW": 388938,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 43.69508,
+    "lng": 7.263395
+   },
+   "refLandmark": "니스 빌역"
+  },
+  {
+   "propertyId": 49372,
+   "name": "아난타라 플라자 니스 호텔 – 어 리딩 호텔 오브 더 월드 (Anantara Plaza Nice Hotel – A Leading Hotel of the World)",
+   "agodaUrl": "https://www.agoda.com/hotel-plaza/hotel/nice-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49372/0/e5a7c8a38a852add31c74abab39240be.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1109,
+   "priceKRW": 532113,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": true,
+   "geo": {
+    "lat": 43.696602,
+    "lng": 7.2682
+   },
+   "refLandmark": "니스 빌역"
+  },
+  {
+   "propertyId": 92019133,
+   "name": "메종 알바르 - 르 빅토리아 (Maison Albar - Le Victoria)",
+   "agodaUrl": "https://www.agoda.com/maison-albar-le-victoria/hotel/nice-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/92019133/0/b6a598cc66aa405e7c033ee1d7d12f2c.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 814,
+   "priceKRW": 459769,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 43.696407,
+    "lng": 7.266588
+   },
+   "refLandmark": "니스 빌역"
+  },
+  {
+   "propertyId": 50243143,
+   "name": "오텔 뒤 쿠방 어 럭셔리 컬렉션 호텔 니스 프랑스 (Hôtel du Couvent, a Luxury Collection Hotel, Nice, France)",
+   "agodaUrl": "https://www.agoda.com/hotel-du-couvent-a-luxury-collection-hotel-nice-france/hotel/nice-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65662412/1153947473/4c057a28edd4d8a792f83672a0446026.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 491,
+   "priceKRW": 498402,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 43.698238,
+    "lng": 7.27828
+   },
+   "refLandmark": "니스 리키에역"
+  },
+  {
+   "propertyId": 65422559,
+   "name": "메종 데 바롱 (Maison des Barons)",
+   "agodaUrl": "https://www.agoda.com/maison-des-barons/hotel/nice-fr.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/65422559/0/d158c5b6e2b9d5be17627e48277ec664.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 391,
+   "priceKRW": 274872,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 43.696884,
+    "lng": 7.257803
+   },
+   "refLandmark": "니스 빌역"
+  }
+ ]
+}

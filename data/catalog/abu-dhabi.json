@@ -1,0 +1,894 @@
+{
+ "slug": "abu-dhabi",
+ "city": "아부다비",
+ "region": "middle-east",
+ "cityId": 10182,
+ "agodaCityName": "아부다비",
+ "fetchedAt": "2026-10-07T23:40:17.732Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 6380691,
+   "name": "래디슨 블루 호텔 앤 리조트, 아부다비 코니시 (Radisson Blu Hotel & Resort, Abu Dhabi Corniche)",
+   "agodaUrl": "https://www.agoda.com/radisson-blu-hotel-resort-abu-dhabi-corniche/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9457367/0/5041a0258124eb2e84dab72c3e8b36bb.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 9955,
+   "priceKRW": 319660,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.462957,
+    "lng": 54.325855
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 338398,
+   "name": "칼리디야 팰리스 레이한 바이 로타나 (Khalidiya Palace Rayhaan by Rotana)",
+   "agodaUrl": "https://www.agoda.com/khalidiya-palace-rayhaan-by-rotana/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338398/0/efeb3a238114ba71934fe5585a1fb2ee.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 8947,
+   "priceKRW": 317409,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.455994,
+    "lng": 54.318848
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 908890,
+   "name": "잔나 부르즈 알 사랍 (Jannah Burj Al Sarab)",
+   "agodaUrl": "https://www.agoda.com/jannah-burj-al-sarab/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/908890/0/08539bde65ed12ee22eacadcb6fcd97b.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 8340,
+   "priceKRW": 270133,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.501549,
+    "lng": 54.37225
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 182665,
+   "name": "쉐라톤 아부다비 호텔 앤 리조트 (Sheraton Abu Dhabi Hotel & Resort)",
+   "agodaUrl": "https://www.agoda.com/sheraton-abu-dhabi-hotel-resort_12/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/886105952.jpg?k=96bf4afb37830d37249e99b246e4a3a33818a9a235a5774a0378dad36b87a5ad&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 7972,
+   "priceKRW": 314706,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.500637,
+    "lng": 54.368629
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 245554,
+   "name": "그랜드 밀레니엄 알 와다 (Grand Millennium Al Wahda Abu Dhabi Hotel)",
+   "agodaUrl": "https://www.agoda.com/grand-millennium-al-wahda-abu-dhabi-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/245554/0/28521145b6408fd7a84d23e96b1accd1.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 7159,
+   "priceKRW": 235534,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.4713,
+    "lng": 54.373474
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 572469,
+   "name": "Royal Rose Hotel Abu Dhabi, Curio Collection by Hilton",
+   "agodaUrl": "https://www.agoda.com/royal-rose-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49215531/0/7df5915a42b54c38428847da2597ce8a.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 6560,
+   "priceKRW": 226447,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.493299,
+    "lng": 54.373032
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 338392,
+   "name": "비치 로타나 호텔 (Beach Rotana Hotel)",
+   "agodaUrl": "https://www.agoda.com/beach-rotana-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338392/0/75089b5b360d9f30398c57812af6c8e3.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5719,
+   "priceKRW": 314706,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.495857,
+    "lng": 54.384361
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 4115,
+   "name": "인터컨티넨탈 아부다비 바이 IHG (InterContinental Abu Dhabi By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/901020457.jpg?k=3ece9574bb65fb43c66bef54910b93269cd1dade27de2dce654af65a45d61cb1&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 5176,
+   "priceKRW": 234940,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.457262,
+    "lng": 54.329014
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 445945,
+   "name": "두짓타니 아부다비 호텔 (Dusit Thani Abu Dhabi Hotel)",
+   "agodaUrl": "https://www.agoda.com/dusit-thani-abu-dhabi-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/445945/0/f86898fc83e831a0448e09838e1529cf.png?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5088,
+   "priceKRW": 293098,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.455042,
+    "lng": 54.394707
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 28344042,
+   "name": "The WB Abu Dhabi hotel, Curio Collection by Hilton",
+   "agodaUrl": "https://www.agoda.com/the-wb-abu-dhabi-curio-collection-by-hilton/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/28344042/-1/55eccfd76837ee608a4eb24a7a21c067.jpg?va=1&ca=28&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4802,
+   "priceKRW": 449409,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.489456,
+    "lng": 54.597919
+   },
+   "refLandmark": "Murur Abu Dhabi Bus Station"
+  },
+  {
+   "propertyId": 284873,
+   "name": "Andaz Capital Gate Abu Dhabi, By Hyatt",
+   "agodaUrl": "https://www.agoda.com/hyatt-capital-gate-abu-dhabi/hotel/al-aysh-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2292924/0/0f69eb9869a146172ca1db17b8460178.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4731,
+   "priceKRW": 436466,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.418758,
+    "lng": 54.434536
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 18793664,
+   "name": "Hilton AbuDhabi Yas Island",
+   "agodaUrl": "https://www.agoda.com/hilton-abu-dhabi-yas-island/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/18793664/-1/16d35a18e4e9a17cc65019a2cb84fb68.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4559,
+   "priceKRW": 417707,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.459045,
+    "lng": 54.599865
+   },
+   "refLandmark": "Murur Abu Dhabi Bus Station"
+  },
+  {
+   "propertyId": 5500214,
+   "name": "그랜드 하얏트 아부다비 호텔 레지던스 (Grand Hyatt Abu Dhabi Hotel Residences)",
+   "agodaUrl": "https://www.agoda.com/grand-hyatt-abu-dhabi-hotel-and-residences-emirates-pearl_2/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5500214/-1/13cf73f0e93dca8ae48e7ac0ccc78126.jpg?va=1&ca=0&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4540,
+   "priceKRW": 731616,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.45859,
+    "lng": 54.320816
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 338393,
+   "name": "Yas Plaza Marina By IHG",
+   "agodaUrl": "https://www.agoda.com/yas-plaza-marina-by-ihg-h338393/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338393/-1/965be618a67971551d21bc87091609b0.jpg?va=1&ca=14&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 4410,
+   "priceKRW": 395298,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.466127,
+    "lng": 54.599228
+   },
+   "refLandmark": "Murur Abu Dhabi Bus Station"
+  },
+  {
+   "propertyId": 155451,
+   "name": "Le Méridien Abu Dhabi Resort",
+   "agodaUrl": "https://www.agoda.com/le-meridien-abu-dhabi-h46959052/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/155451/-1/b44d1d717cdc64ce8aa03ef4284a64f9.jpg?va=1&ca=27&ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4231,
+   "priceKRW": 314706,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.499607,
+    "lng": 54.381081
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 18468242,
+   "name": "콘래드 아부다비 에티하드 타워 (Conrad Abu Dhabi Etihad Towers)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-at-etihad-towers-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 4022,
+   "priceKRW": 505088,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.458853,
+    "lng": 54.321552
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 4949740,
+   "name": "보고 아부다비 골프 리조트 앤 스파 - 구 더 웨스틴 아부다비 골프 리조트 앤 스파 (VOGO Abu Dhabi Golf Resort & Spa - Formerly The Westin Abu Dhabi Golf Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/the-westin-abu-dhabi-golf-resort-spa_4/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4949740/-1/3d1eafc8a776d8d427629c0161bfefab.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 3799,
+   "priceKRW": 229849,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.419388,
+    "lng": 54.528595
+   },
+   "refLandmark": "PRT Line"
+  },
+  {
+   "propertyId": 412527,
+   "name": "더 리츠칼튼 아부다비, 그랜드 커낼 (The Ritz-Carlton Abu Dhabi, Grand Canal)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-abu-dhabi-grand-canal/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/412527/-1/dd4eb267347035561b65773e70976d8f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 3748,
+   "priceKRW": 574037,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.411684,
+    "lng": 54.484615
+   },
+   "refLandmark": "셰이크 자이드 그랜드 모스크 센터"
+  },
+  {
+   "propertyId": 523167,
+   "name": "밀레니엄 캐피탈 게이트 아부다비 (Millennium Al Rawdah Hotel)",
+   "agodaUrl": "https://www.agoda.com/hilton-capital-grand-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/523/523167/523167_17110907080058960434.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 3581,
+   "priceKRW": 272837,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.421713,
+    "lng": 54.457047
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 2099519,
+   "name": "밥 알 카사르 호텔 (Bab Al Qasr Hotel)",
+   "agodaUrl": "https://www.agoda.com/bab-al-qasr-hotel_2/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/209/2099519/2099519_17032013340051630868.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3578,
+   "priceKRW": 360180,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.457968,
+    "lng": 54.320099
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 477867,
+   "name": "로즈우드 호텔 아부다비 (Rosewood Hotel Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/rosewood-hotel-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/550128595.jpg?k=d3a2060e16b7bb448b6b89eb6507d25541f3b687cabb06be0a2eb890ccb0d9f2&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 3060,
+   "priceKRW": 519352,
+   "brand": "rosewood",
+   "brandLabel": "로즈우드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.500525,
+    "lng": 54.387623
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 35536330,
+   "name": "릭소스 마리나 아부다비 (Rixos Marina Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/fairmont-marina-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/882710217.jpg?k=ba730fcbf27ffc4ebf3e65de36de24b3f9cf7bd306b604f354cdcfb534746922&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2901,
+   "priceKRW": 494122,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.480538,
+    "lng": 54.322
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 166830,
+   "name": "W 아부다비 - 야스 아일랜드 (W Abu Dhabi - Yas Island)",
+   "agodaUrl": "https://www.agoda.com/yas-hotel-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/671207137.jpg?k=e814ba8705fbec552af30bc379474c21e738bd25f3bf05cd673b0b5164f67271&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2793,
+   "priceKRW": 494798,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.467236,
+    "lng": 54.6054
+   },
+   "refLandmark": "Murur Abu Dhabi Bus Station"
+  },
+  {
+   "propertyId": 338396,
+   "name": "파크 로타나 호텔 (Park Rotana Hotel)",
+   "agodaUrl": "https://www.agoda.com/park-rotana-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338396/-1/f65fec6b4a198e08b498afa30e071627.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2635,
+   "priceKRW": 337151,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.423706,
+    "lng": 54.473541
+   },
+   "refLandmark": "셰이크 자이드 그랜드 모스크 센터"
+  },
+  {
+   "propertyId": 5943929,
+   "name": "르 로얄 메르디앙 아부다비 (Le Royal Méridien Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/le-royal-meridien-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5943929/0/d2ce64358cc5a6e874472d466a293336.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2497,
+   "priceKRW": 295190,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.49617,
+    "lng": 54.365761
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 295478,
+   "name": "파크 하얏트 아부다비 (Park Hyatt Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-abu-dhabi-hotel-and-villas/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/871445755.jpg?k=70979e46d1cdffc27aa7e34caf6cb4d8389d8050d7e479ad5089113bfe7be76a&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 2474,
+   "priceKRW": 1058028,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.545132,
+    "lng": 54.435539
+   },
+   "refLandmark": "루브르 아부다비"
+  },
+  {
+   "propertyId": 166742,
+   "name": "페어몬트 밥 알 바흐 (Fairmont Bab Al Bahr)",
+   "agodaUrl": "https://www.agoda.com/fairmont-bab-al-bahr/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/166742/0/0c55c93f9e8dd4b99754e62a4448f5d4.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2410,
+   "priceKRW": 515508,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.415148,
+    "lng": 54.490471
+   },
+   "refLandmark": "셰이크 자이드 그랜드 모스크 센터"
+  },
+  {
+   "propertyId": 5776795,
+   "name": "로얄 M 호텔 아부다비 바이 게완 (Royal M Hotel Abu Dhabi by Gewan)",
+   "agodaUrl": "https://www.agoda.com/royal-m-hotel-resort-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5776795/-1/41799190d5904d82f0075354ae4203be.jpg?va=1&ca=8&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 2251,
+   "priceKRW": 311379,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.448864,
+    "lng": 54.337738
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 520310,
+   "name": "더 세인트 레지스 아부다비 (The St. Regis Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600114174.jpg?k=a844a691ad6f35067644a981ec0b510f06b93d124739f68d949be00546fd4e38&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 2245,
+   "priceKRW": 721081,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.4659,
+    "lng": 54.329109
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 2061316,
+   "name": "메리어트 호텔 알 포산, 아부다비 (Marriott Hotel Al Forsan, Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/marriott-hotel-al-forsan-abu-dhabi_9/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/763396842.jpg?k=1799e67078adc0855510b763da0c4cf3caf80b3360bde90e03302b2c29d1aa7d&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 2232,
+   "priceKRW": 435593,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.407167,
+    "lng": 54.548244
+   },
+   "refLandmark": "PRT Line"
+  },
+  {
+   "propertyId": 5862683,
+   "name": "더 아부다비 에디션 (The Abu Dhabi EDITION)",
+   "agodaUrl": "https://www.agoda.com/the-abu-dhabi-edition/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/459581133.jpg?k=312db9fec5d70c9cbe07ae1eabc22ad08fb97b495a0e9cb4534f843619bbfad5&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 2188,
+   "priceKRW": 506503,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.452242,
+    "lng": 54.337059
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 168798,
+   "name": "스테이브리지 스위트 야스 아일랜드 아부다비 바이 IHG (Staybridge Suites Yas Island Abu Dhabi By IHG)",
+   "agodaUrl": "https://www.agoda.com/staybridge-suites-yas-island-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4884232/0/2b1613e3e7ad1f8c91e37a4e5042161b.jpg?va=1&ca=23&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2010,
+   "priceKRW": 685243,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.464914,
+    "lng": 54.597656
+   },
+   "refLandmark": "Murur Abu Dhabi Bus Station"
+  },
+  {
+   "propertyId": 74202,
+   "name": "에미레이트 팰리스 만다린 오리엔탈, 아부다비 (Emirates Palace Mandarin Oriental, Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/emirates-palace-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/74202/0/75ce9d47c4b0b8209377ce7627ccd687.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1997,
+   "priceKRW": 1197809,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.462013,
+    "lng": 54.317169
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 80246582,
+   "name": "Saray Deluxe Hotel Apartments",
+   "agodaUrl": "https://www.agoda.com/saray-deluxe-hotel-apartments/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/783898770.jpg?k=9e725947d448ea8c881acd145d0522e883a3892a35bf0be7957b8d9769015a60&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 1861,
+   "priceKRW": 450224,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.398411,
+    "lng": 54.56588
+   },
+   "refLandmark": "PRT Line"
+  },
+  {
+   "propertyId": 41240324,
+   "name": "주메이라 사디야트 아일랜드 아부다비 (Jumeirah Saadiyat Island Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-saadiyat-island/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41240324/-1/712c272d3635b7558551404a858df9b0.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1808,
+   "priceKRW": 976133,
+   "brand": "jumeirah",
+   "brandLabel": "주메이라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.560147,
+    "lng": 54.452303
+   },
+   "refLandmark": "루브르 아부다비"
+  },
+  {
+   "propertyId": 1521651,
+   "name": "메리어트 호텔 다운타운, 아부다비 (Marriott Hotel Downtown, Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/marriott-hotel-downtown-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/152/1521651/1521651_16100316310047275183.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1660,
+   "priceKRW": 363557,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.470028,
+    "lng": 54.370129
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 64026,
+   "name": "알 라하 비치 리조트 앤 스파 (Al Raha Beach Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/al-raha-beach-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64026/-1/54c5d3d89a217fc378234bdf50c9aa4c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 1643,
+   "priceKRW": 364975,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.438311,
+    "lng": 54.572529
+   },
+   "refLandmark": "PRT Line"
+  },
+  {
+   "propertyId": 253683,
+   "name": "ERTH Hotel.",
+   "agodaUrl": "https://www.agoda.com/officers-club-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/253683/-1/cd8d3feb434acd8e952f67b4ff642ac9.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1562,
+   "priceKRW": 1180943,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.401373,
+    "lng": 54.474227
+   },
+   "refLandmark": "셰이크 자이드 그랜드 모스크 센터"
+  },
+  {
+   "propertyId": 3038644,
+   "name": "사디얏 로타나 리조트 앤 빌라 (Saadiyat Rotana Resort & Villas)",
+   "agodaUrl": "https://www.agoda.com/saadiyat-rotana-resort-villas/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/845563163.jpg?k=90e9f7f605fc1757c8eac8ab686ad9de8bfb9ff36143f1204da88cbdb74fd863&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1353,
+   "priceKRW": 846424,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.541726,
+    "lng": 54.430434
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 6357553,
+   "name": "더 세인트 레지스 사디얏 아일랜드 리조트, 아부다비 (The St. Regis Saadiyat Island Resort, Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-saadiyat-island-resort-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6357553/0/6932b7d17cda398b26ab474b9a444c10.jpg?va=1&ca=7&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1279,
+   "priceKRW": 1053527,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.541121,
+    "lng": 54.424747
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 1267025,
+   "name": "포시즌스 호텔 아부다비 앳 알 마르야 아일랜드 (Four Seasons Hotel Abu Dhabi at Al Maryah Island)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-abu-dhabi-at-al-maryah-island/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/126/1267025/1267025_16120819440049549504.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1268,
+   "priceKRW": 538257,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.503179,
+    "lng": 54.387873
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 13754269,
+   "name": "알 와트바, 어 럭셔리 컬렉션 데저트 리조트 앤 스파, 아부다비 (Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi)",
+   "agodaUrl": "https://www.agoda.com/jumeirah-al-wathba-desert-resort-and-spa/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/13754269/-1/8ff2e32e09942c8c86d2f9fa75fef33c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 900,
+   "priceKRW": 697849,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.138205,
+    "lng": 54.742329
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 2099524,
+   "name": "밥 알 카사르 레지던스 (Bab Al Qasr Residence)",
+   "agodaUrl": "https://www.agoda.com/bab-al-qasr-residence_2/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/209/2099524/2099524_17033115160052072351.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 733,
+   "priceKRW": 360180,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.45784,
+    "lng": 54.320232
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 2011899,
+   "name": "비치 로타나 - 올 스위트 (Beach Rotana - All Suites)",
+   "agodaUrl": "https://www.agoda.com/beach-rotana-all-suites/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2011899/0/ed0fece3720c3efe93a9bce1c342ca01.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 719,
+   "priceKRW": 402994,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.495955,
+    "lng": 54.382492
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 4984631,
+   "name": "비치 아르잔 바이 로타나 (Beach Rotana Residences)",
+   "agodaUrl": "https://www.agoda.com/beach-rotana-residences/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/776453475.jpg?k=76dcb76de607f683372284e62da26f9949988f6646bb71af6a3bcdc4a042a30b&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 659,
+   "priceKRW": 395748,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.494076,
+    "lng": 54.384597
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 334589,
+   "name": "소피텔 아부다비 코르니쉬 (Sofitel Abu Dhabi Corniche)",
+   "agodaUrl": "https://www.agoda.com/sofitel-abu-dhabi-corniche/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/224298971.jpg?k=43d84029b691387cbb2b6ae64c27b3b1d0023b69a7c59cc31828e71bc8c2b476&o=",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 583,
+   "priceKRW": 241321,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.499416,
+    "lng": 54.367845
+   },
+   "refLandmark": "아부다비 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 169586,
+   "name": "크라운 플라자 야스 아일랜드 바이 IHG (Crowne Plaza Yas Island By IHG)",
+   "agodaUrl": "https://www.agoda.com/crowne-plaza-yas-island/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/832718748.jpg?k=516b7665a7098062db7179d340ac85bfd2481475b1206059eb35d26275bfcfc4&o=",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 521,
+   "priceKRW": 395298,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 24.465588,
+    "lng": 54.597721
+   },
+   "refLandmark": "Murur Abu Dhabi Bus Station"
+  },
+  {
+   "propertyId": 37302931,
+   "name": "인터컨티넨탈 레지던스 아부다비 바이 IHG (InterContinental Residences Abu Dhabi By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-residences-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37302931/-1/c1cac53eabfdf85e07b756776344b82a.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 283,
+   "priceKRW": 560463,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.455299,
+    "lng": 54.329601
+   },
+   "refLandmark": "Abu Dhabi EK Bus Station"
+  },
+  {
+   "propertyId": 486965,
+   "name": "샹그릴-라 호텔 아파트먼트 카리아트 알 베리 (Shangri-La Hotel Apartments Qaryat Al Beri)",
+   "agodaUrl": "https://www.agoda.com/shangri-la-residence-qaryat-al-beri/hotel/abu-dhabi-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/486965/0/392b699cecda4f6866554d3a15762f95.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 115,
+   "priceKRW": 434017,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 24.409317,
+    "lng": 54.490955
+   },
+   "refLandmark": "셰이크 자이드 그랜드 모스크 센터"
+  }
+ ]
+}

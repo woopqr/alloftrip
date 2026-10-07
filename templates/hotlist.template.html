@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}} | {{site.name}}</title>
+<meta name="description" content="{{metaDescription}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{metaDescription}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:image" content="{{ogImage}}">
+<meta property="og:site_name" content="{{site.name}}">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2">
+<script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
+<script defer src="/assets/consent.js?v=20261002"></script>
+<link rel="stylesheet" href="/assets/css/article.css?v=20261002"><link rel="stylesheet" href="/assets/css/alloftrip.css?v=20261008">
+<script type="application/ld+json">{{{jsonld}}}</script>
+</head>
+<body>
+<button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 모드 전환" onclick="__mzToggle()">
+  <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+</button>
+
+<article class="post hotlist">
+  <a class="backbar" href="/">← {{site.name}} 홈</a>
+  <nav class="crumb" aria-label="Breadcrumb">{{{crumbHtml}}}</nav>
+
+  <header class="hl-head">
+    <div class="hl-issue">{{issueLabel}} · 럭셔리 핫리스트</div>
+    <h1>{{title}}</h1>
+    <p class="hl-lede">{{lede}}</p>
+    <p class="byline">올오브트립 에디터 · {{updatedLabel}} 업데이트 · <a href="/pages/methodology.html">선정 기준</a></p>
+  </header>
+
+  <section class="callout verdict glance" aria-label="한눈에 보기">
+    <span class="vlabel">한눈에 보기</span>
+    <ul class="glance-list">{{#glance}}<li><b>{{k}}</b> {{v}}</li>{{/glance}}</ul>
+  </section>
+
+  {{#hasNav}}<nav class="hl-nav" aria-label="핫리스트 둘러보기">{{#nav}}<a class="{{cls}}" href="{{url}}">{{label}}</a>{{/nav}}</nav>{{/hasNav}}
+
+  <ol class="hl-list">
+    {{#items}}
+    <li class="hl-item">
+      <div class="hl-rank"><span class="hl-no">{{rank}}</span>{{#move}}<span class="hl-move {{moveCls}}">{{move}}</span>{{/move}}</div>
+      <a class="hl-img" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{#img}}<img src="{{img}}" alt="{{name}}" loading="lazy">{{/img}}</a>
+      <div class="hl-body">
+        <h2 class="hl-name"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{name}}</a></h2>
+        <p class="hl-meta">{{city}}{{#brandLabel}} · <a href="{{brandUrl}}">{{brandLabel}}</a>{{/brandLabel}}{{#bestSeller}} · <span class="hl-badge">아고다 베스트셀러</span>{{/bestSeller}}</p>
+        <p class="hl-stats"><span>누적 리뷰 <b>{{reviewsFmt}}건</b></span><span>평점 <b>{{score}}</b></span><span>1박 <b>{{priceFmt}}</b>부터</span></p>
+        <p class="hl-links"><a class="hl-cta" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">아고다에서 요금 확인 →</a>{{#cityArticle}}<a href="{{cityArticle}}">{{city}} 맛집·필수 코스 보기</a>{{/cityArticle}}</p>
+      </div>
+    </li>
+    {{/items}}
+  </ol>
+
+  <section class="faq">
+    <h2>❓ 자주 묻는 질문</h2>
+    {{#faq}}<details><summary>{{q}}</summary><p>{{a}}</p></details>{{/faq}}
+  </section>
+
+  <section class="databox evidence-box">
+    <p class="trustline">아고다 실시간 요금 · 5성급만 · {{updatedLabel}} 확인 · <a href="/pages/methodology.html">선정 기준</a></p>
+    <details class="aboutdata"><summary>데이터 안내</summary>
+      <ul>
+        <li>세계·지역 순위: 각 여행지 5성급 가운데 요금 상위 30%에 드는 1박 100만 원 이상 최상위급(평점 8.8 이상)만 후보로 삼고, 그 안에서 누적 리뷰 수(실제 투숙 후 작성된 리뷰)가 많은 순으로 정했습니다.</li>
+        <li>브랜드 모음: 해당 브랜드의 1박 40만 원 이상·평점 8.5 이상 5성급을 누적 리뷰 순으로 모았습니다.</li>
+        <li>요금은 성인 2명·객실 1개·1박, 세금·봉사료 포함, 체크인 {{checkInLabel}} 기준입니다. 5성급 정식 호텔·리조트만 비교했습니다.</li>
+        <li>'아고다 베스트셀러'는 아고다가 숙소에 표시하는 배지를 그대로 옮겼습니다.</li>
+        <li>요금과 객실은 수시로 바뀝니다. 예약 전 아고다에서 실시간 요금을 확인하세요.</li>
+      </ul>
+    </details>
+  </section>
+
+  <p class="disc">이 글에는 아고다 제휴 링크가 포함되어 있으며, 링크를 통해 예약하시면 추가 비용 없이 소정의 수수료를 받을 수 있습니다. 순위는 공개된 리뷰·요금 데이터로 계산하며 제휴 여부와 관계없습니다.</p>
+  <nav class="pagenav"><a href="/">← 올오브트립 홈</a><span><a href="/pages/methodology.html">선정 기준</a> · <a href="/pages/editorial-policy.html">편집 원칙</a> · <a href="/pages/privacy.html">개인정보처리방침</a></span></nav>
+</article>
+<script>function __mzToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('mz-theme',next);}catch(e){}}</script>
+</body>
+</html>

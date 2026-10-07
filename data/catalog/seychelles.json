@@ -1,0 +1,354 @@
+{
+ "slug": "seychelles",
+ "city": "세이셸",
+ "region": "indian-ocean",
+ "cityId": 669661,
+ "agodaCityName": "세이셸",
+ "fetchedAt": "2026-10-07T23:40:17.673Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 535914,
+   "name": "Savoy Seychelles Resort & Spa",
+   "agodaUrl": "https://www.agoda.com/savoy-resort-and-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/309797241.jpg?k=07fe8ca579f4ff7a3b97c08d9e7efa75ae417a430eca8a9891b02308a05acc83&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3857,
+   "priceKRW": 916100,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -4.612079,
+    "lng": 55.430748
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 199848,
+   "name": "르 뒤크 드 프라슬랭 호텔 앤 빌라 (Le Duc de Praslin Hotel & Villas)",
+   "agodaUrl": "https://www.agoda.com/le-duc-de-praslin-hotel-villas/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/199848/0/e1e3cfc1966fa672b572b3a084101d0f.jpeg",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1488,
+   "priceKRW": 833127,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -4.315093,
+    "lng": 55.743071
+   },
+   "refLandmark": "큐리어스 섬"
+  },
+  {
+   "propertyId": 1076696,
+   "name": "스토리 세이셸 (STORY Seychelles)",
+   "agodaUrl": "https://www.agoda.com/the-h-resort-beau-vallon-beach-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1076696/0/a0a9a978af7f5643b300caaf6e9b2d51.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1069,
+   "priceKRW": 1230401,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.616047,
+    "lng": 55.424572
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 181601,
+   "name": "힐튼 세이첼리스 노스홀름 리조트 앤 스파 (Hilton Seychelles Northolme Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/hilton-seychelles-northolme-resort-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2288231/0/90cac9c369bc7833b14ef50287e2d0ad.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 792,
+   "priceKRW": 770548,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -4.592959,
+    "lng": 55.432117
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 31470567,
+   "name": "레스케일 리조트 마리나 앤 스파 - 스몰 럭셔리 호텔 오브 더 월드 (L'Escale Resort Marina & Spa - Small Luxury Hotels of the World)",
+   "agodaUrl": "https://www.agoda.com/l-escale-resort-marina-spa/hotel/mahe-sc.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/276395346.jpg?k=35e73d73fed561b54a0ad1311ac46b4df7987daff436d8a1785543687ba67cb9&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 510,
+   "priceKRW": 904944,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.64632,
+    "lng": 55.476398
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 75860915,
+   "name": "Niva Labriz Seychelles",
+   "agodaUrl": "https://www.agoda.com/hilton-seychelles-labriz-resort-amp-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/75860915/0/22edd2d5571a75c74201b85b62d05670.jpg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 495,
+   "priceKRW": 447149,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.481185,
+    "lng": 55.24844
+   },
+   "refLandmark": "La Passe Beach"
+  },
+  {
+   "propertyId": 87170197,
+   "name": "Enchanted Island Resort",
+   "agodaUrl": "https://www.agoda.com/ja-enchanted-island-resort-seychelles_2/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/864945173.jpg?k=1eb32b93dd6f5327febb0cc71a4d69cb86a2c16b78751dafacff9cf7346bbce0&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 403,
+   "priceKRW": 1505489,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.622043,
+    "lng": 55.503445
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 22993239,
+   "name": "Mango House, Seychelles, LXR Hotels and Resorts",
+   "agodaUrl": "https://www.agoda.com/mango-house-seychelles-lxr-hotels-resorts/hotel/mahe-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/22993239/0/8da6dabc7d8a5d8fc47c365a7fcd2d44.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 400,
+   "priceKRW": 1498278,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -4.743371,
+    "lng": 55.475666
+   },
+   "refLandmark": "앙스 앙탕당스"
+  },
+  {
+   "propertyId": 3531122,
+   "name": "Avani Plus Barbarons Seychelles Resort",
+   "agodaUrl": "https://www.agoda.com/avani-seychelles-barbarons-resort-and-spa_3/hotel/all/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/687488541.jpg?k=385152ff23e0a2fad86269113342f743f894bd5ca3348b4c940e2ead512b52a7&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 363,
+   "priceKRW": 584427,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.683192,
+    "lng": 55.454544
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 71120125,
+   "name": "Garden Hill Resort & Spa",
+   "agodaUrl": "https://www.agoda.com/garden-hill-resort-spa-h71120125/hotel/mahe-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/71120125/0/e081b92aaf211765f711aa904d27e747.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 342,
+   "priceKRW": 825201,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.612324,
+    "lng": 55.433018
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 726701,
+   "name": "Avani+ Barbarons Seychelles",
+   "agodaUrl": "https://www.agoda.com/avani-seychelles-barbarons-resort-spa_10/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23098273/1151444936/0ee98e6c6f2b6fe50740741494134740.jpeg?ce=3",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 303,
+   "priceKRW": 560435,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.683397,
+    "lng": 55.454435
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 289462,
+   "name": "켐핀스키 세이첼리스 리조트 (Kempinski Seychelles Resort)",
+   "agodaUrl": "https://www.agoda.com/kempinski-seychelles-resort/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11412601/0/03b8f7c4186ec6e90fd1cc097c87c963.jpeg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 294,
+   "priceKRW": 679180,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -4.756398,
+    "lng": 55.477556
+   },
+   "refLandmark": "앙스 앙탕당스"
+  },
+  {
+   "propertyId": 182766,
+   "name": "포시즌 리조트 세이셸  (Four Seasons Resort Seychelles)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765555032.jpg?k=ff8d48e8b96381d8b101349d219837af378f13737270a68c90d1327cae632437&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 250,
+   "priceKRW": 32085385,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.754653,
+    "lng": 55.465775
+   },
+   "refLandmark": "앙스 앙탕당스"
+  },
+  {
+   "propertyId": 285373,
+   "name": "Raffles Seychelles",
+   "agodaUrl": "https://www.agoda.com/raffles-praslin-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/285373/0/30d0fa5a0632553930e133da96f5e93c.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 198,
+   "priceKRW": 2849061,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": true,
+   "geo": {
+    "lat": -4.30602,
+    "lng": 55.717022
+   },
+   "refLandmark": "앙스 라지오 비치"
+  },
+  {
+   "propertyId": 199059,
+   "name": "아난타라 마이아 세이셸즈 빌라스 (Anantara Maia Seychelles Villas)",
+   "agodaUrl": "https://www.agoda.com/maia-luxury-resort-and-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/199059/0/d5362ea15fa6ececf74acb67b5cef7bd.jpg?ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 169,
+   "priceKRW": 3223908,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.716896,
+    "lng": 55.479498
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 5547511,
+   "name": "포 시즌스 리조트 세이셸 앳 데로시 아일랜드 (Four Seasons Resort Seychelles at Desroches Island)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles-at-desroches-island/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5547511/-1/9af7f8956d24caa9248ba051a295e787.jpg?ca=7&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 95,
+   "priceKRW": 2455493,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -5.697267,
+    "lng": 53.651195
+   },
+   "refLandmark": "Desroches Island Beach"
+  },
+  {
+   "propertyId": 7415495,
+   "name": "Denis Private Island Seychelles",
+   "agodaUrl": "https://www.agoda.com/denis-private-island-seychelles_2/hotel/all/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/90042263.jpg?k=9fee6d7a6d86b401e8b5c2f32990d53e2d6e805e744f14142850962f6d5765b3&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 79,
+   "priceKRW": 2721579,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -3.8009,
+    "lng": 55.66386
+   },
+   "refLandmark": "Denis Private Island Beach"
+  },
+  {
+   "propertyId": 50913248,
+   "name": "Belle Vue Lodge",
+   "agodaUrl": "https://www.agoda.com/belle-vue-lodge/hotel/seychelles-islands-sc.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/50913248/0/e8a46929408a8aab9952e480abb0b4d8.jpg?ce=2",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 60,
+   "priceKRW": 246971,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -4.649692,
+    "lng": 55.465675
+   },
+   "refLandmark": "몬 블랑"
+  },
+  {
+   "propertyId": 55175108,
+   "name": "Waldorf Astoria Seychelles Platte Island",
+   "agodaUrl": "https://www.agoda.com/waldorf-astoria-seychelles-platte-island/hotel/default-city-km.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/39797457/0/91fd085ea5a787f59f4657d8e6b193dd.jpeg?ce=0",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 57,
+   "priceKRW": 2248399,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": false,
+   "geo": {
+    "lat": -5.863472,
+    "lng": 55.38258
+   },
+   "refLandmark": null
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "okinawa",
+ "city": "오키나와",
+ "region": "east-asia",
+ "cityId": 18820,
+ "agodaCityName": "",
+ "fetchedAt": "2026-10-07T23:40:17.795Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 6912395,
+   "name": "호텔 컬렉티브 (HOTEL COLLECTIVE)",
+   "agodaUrl": "https://www.agoda.com/hotel-collective/hotel/okinawa-main-island-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6912395/0/ef2291456d4f27b95498fded8683d145.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 11296,
+   "priceKRW": 336295,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 26.215097,
+    "lng": 127.685539
+   },
+   "refLandmark": "미에바시역"
+  },
+  {
+   "propertyId": 390266,
+   "name": "리가 로얄 그랑 오키나와 호텔 (RIHGA Royal Gran Okinawa Hotel)",
+   "agodaUrl": "https://www.agoda.com/rihga-royal-gran-okinawa-hotel/hotel/okinawa-main-island-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/390266/0/e99500ee72ac4c2f33d0bd4595e0011c.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 5692,
+   "priceKRW": 252596,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 26.210541,
+    "lng": 127.675781
+   },
+   "refLandmark": "아사히바시역"
+  },
+  {
+   "propertyId": 41919846,
+   "name": "사우스웨스트 그랜드 호텔 (Southwest Grand Hotel)",
+   "agodaUrl": "https://www.agoda.com/southwest-grand-hotel/hotel/okinawa-main-island-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41919846/0/d46810844a1f271fe537ec45889e3bb2.jpeg?va=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1680,
+   "priceKRW": 403186,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 26.215645,
+    "lng": 127.684128
+   },
+   "refLandmark": "미에바시역"
+  },
+  {
+   "propertyId": 38107960,
+   "name": "프로스타일 테라스 나하 (PROSTYLE TERRACE NAHA)",
+   "agodaUrl": "https://www.agoda.com/prostyle-terrace-naha/hotel/okinawa-main-island-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38107960/0/0e7e67cfec65c2087753dd5905a582d7.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 1205,
+   "priceKRW": 255480,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 26.215267,
+    "lng": 127.677115
+   },
+   "refLandmark": "겐초마에역"
+  }
+ ]
+}

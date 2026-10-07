@@ -1,0 +1,444 @@
+{
+ "slug": "macau",
+ "city": "마카오",
+ "region": "east-asia",
+ "cityId": 21397,
+ "agodaCityName": "마카오",
+ "fetchedAt": "2026-10-07T23:40:17.801Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 85650,
+   "name": "더 베네시안 마카오 (The Venetian Macao)",
+   "agodaUrl": "https://www.agoda.com/the-venetian-macao-resort-hotel/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/85650/3163416/784b28d9ac4ce0c944212a4ba147b3b5.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 66132,
+   "priceKRW": 288797,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.14794,
+    "lng": 113.56194
+   },
+   "refLandmark": "Macau LRT Cotai West Station"
+  },
+  {
+   "propertyId": 984193,
+   "name": "스튜디오 시티 호텔 (Studio City Hotel)",
+   "agodaUrl": "https://www.agoda.com/studio-city-hotel/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/984193/0/b8a709672153a937bc4cc43914277775.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 45792,
+   "priceKRW": 222791,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.141699,
+    "lng": 113.562326
+   },
+   "refLandmark": "Macau LRT Lotus Station"
+  },
+  {
+   "propertyId": 37538114,
+   "name": "그랜드 리스보아 팰리스 마카오 (Grand Lisboa Palace Macau)",
+   "agodaUrl": "https://www.agoda.com/grand-lisboa-palace-macau/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37538114/0/27304f4a1baa5dbaec4a0e453ff51ea1.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 34430,
+   "priceKRW": 211810,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.145183,
+    "lng": 113.57201
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 8482,
+   "name": "호텔 리스보아 (Hotel Lisboa)",
+   "agodaUrl": "https://www.agoda.com/hotel-lisboa/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8482/0/9e8d2ee25f20977d0657718b87f46d45.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 27102,
+   "priceKRW": 200980,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.189884,
+    "lng": 113.544418
+   },
+   "refLandmark": "Guia Cable Car"
+  },
+  {
+   "propertyId": 263253,
+   "name": "갤럭시 마카오 (Galaxy Macau)",
+   "agodaUrl": "https://www.agoda.com/galaxy-macau/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/263253/0/419164bf3cbd56b2d9f6f710c25accdc.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 17036,
+   "priceKRW": 463784,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.148377,
+    "lng": 113.554473
+   },
+   "refLandmark": "Macau LRT Pai Kok Station"
+  },
+  {
+   "propertyId": 45622432,
+   "name": "W 마카오 - 스튜디오 시티 (W Macau - Studio City)",
+   "agodaUrl": "https://www.agoda.com/w-macau-studio-city/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45622432/0/a2739d7ab6242da669c8c40d58c8d59a.jpeg?va=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 16498,
+   "priceKRW": 300967,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.142157,
+    "lng": 113.55883
+   },
+   "refLandmark": "Macau LRT Lotus Station"
+  },
+  {
+   "propertyId": 47266943,
+   "name": "안다즈 마카오 (Andaz Macau)",
+   "agodaUrl": "https://www.agoda.com/andaz-macau/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47266943/0/d211ed113d252b71b9c79ee2d1c4bf9f.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 14068,
+   "priceKRW": 453032,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.145227,
+    "lng": 113.556786
+   },
+   "refLandmark": "Macau LRT Cotai West Station"
+  },
+  {
+   "propertyId": 297968,
+   "name": "콘래드 마카오 (Conrad Macao)",
+   "agodaUrl": "https://www.agoda.com/conrad-macao-cotai-central/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/297968/0/d22f96b0c673658ec957dde16ee02ae4.jpeg?va=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 13020,
+   "priceKRW": 245034,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.146351,
+    "lng": 113.565117
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 1723226,
+   "name": "레전드 팰리스 호텔 (Legend Palace Hotel)",
+   "agodaUrl": "https://www.agoda.com/legend-palace-hotel/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1723226/0/4b4e287feb2016874d160a660dc5e294.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 12786,
+   "priceKRW": 213623,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.195491,
+    "lng": 113.556337
+   },
+   "refLandmark": "Guia Cable Car"
+  },
+  {
+   "propertyId": 399779,
+   "name": "런더너 그랜드, 어 럭셔리 컬렉션 호텔, 마카오 (Londoner Grand, a Luxury Collection Hotel, Macao)",
+   "agodaUrl": "https://www.agoda.com/sheraton-grand-macao-hotel/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/399779/0/198891e9d13f5b3054e16fbb40fd6e27.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 10198,
+   "priceKRW": 256813,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.145159,
+    "lng": 113.564575
+   },
+   "refLandmark": "Macau LRT East Asian Games Station"
+  },
+  {
+   "propertyId": 174394,
+   "name": "그랜드 하얏트 마카오 (Grand Hyatt Macau)",
+   "agodaUrl": "https://www.agoda.com/grand-hyatt-macau-hotel/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/174394/0/b9703f3561da34bb8618bae058d11f17.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 10181,
+   "priceKRW": 445926,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.149261,
+    "lng": 113.567154
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 983538,
+   "name": "The St. Regis Macao",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-macao-cotai-central/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/983538/0/aed7f617f9af4b9fc4276569bfb562d5.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 7836,
+   "priceKRW": 261918,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.147335,
+    "lng": 113.56646
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 266852,
+   "name": "호텔 오쿠라 마카오 (Hotel Okura Macau)",
+   "agodaUrl": "https://www.agoda.com/hotel-okura-macau/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/266852/0/a8dcd6d016c699cda972587716e763cb.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 7299,
+   "priceKRW": 437267,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.149212,
+    "lng": 113.55207
+   },
+   "refLandmark": "Macau LRT Pai Kok Station"
+  },
+  {
+   "propertyId": 446555,
+   "name": "포시즌스 호텔 마카오 (Four Seasons Hotel Macao)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-macao/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/446555/0/4cfd478ade96d1d682a3662ee3b2ef71.jpeg?va=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 4895,
+   "priceKRW": 516644,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.145674,
+    "lng": 113.561852
+   },
+   "refLandmark": "Macau LRT Cotai West Station"
+  },
+  {
+   "propertyId": 889501,
+   "name": "만다린 오리엔탈, 마카오 (Mandarin Oriental, Macau)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-macau/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/889501/0/a5f213166e9aff8d0358add9a1d11092.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1895,
+   "priceKRW": 488179,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.184541,
+    "lng": 113.547134
+   },
+   "refLandmark": "Guia Cable Car"
+  },
+  {
+   "propertyId": 24120272,
+   "name": "더 런더너 호텔 (The Londoner Hotel)",
+   "agodaUrl": "https://www.agoda.com/holiday-inn-macao-cotai-central-h9175173/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/24120272/0/f270ed154f464b5161404038c9c300aa.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 1818,
+   "priceKRW": 872548,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.146746,
+    "lng": 113.565895
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 37538105,
+   "name": "더 칼 라거펠트 (THE KARL LAGERFELD)",
+   "agodaUrl": "https://www.agoda.com/the-karl-lagerfeld-h36412873/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37538105/0/f2154fe02135ad66a7026214e28f77bd.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 1667,
+   "priceKRW": 297277,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.144106,
+    "lng": 113.57534
+   },
+   "refLandmark": "Macau LRT East Asian Games Station"
+  },
+  {
+   "propertyId": 4985178,
+   "name": "시티 오브 드림스 - 모르페우스 (City of Dreams - Morpheus)",
+   "agodaUrl": "https://www.agoda.com/city-of-dreams-morpheus/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4985178/0/4e81eb14f617e0f152e328ca4205e8fb.jpeg?va=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1615,
+   "priceKRW": 442562,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.149546,
+    "lng": 113.566589
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 266853,
+   "name": "시티 오브 드림스 - 누와 마카우 (City of Dreams - Nuwa Macau)",
+   "agodaUrl": "https://www.agoda.com/city-of-dreams-nuwa-macau/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/266853/0/e843706288b0d9b3d7fd87cfc1d2c888.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 1515,
+   "priceKRW": 339418,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.149252,
+    "lng": 113.56739
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 36993122,
+   "name": "스튜디오 시티 호텔 - 에픽 타워 (Studio City Hotel - Epic Tower)",
+   "agodaUrl": "https://www.agoda.com/studio-city-hotel-epic-tower/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/36993122/0/a6e2dbd18d43512e63175970970b8e5f.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 1223,
+   "priceKRW": 404581,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.141063,
+    "lng": 113.561774
+   },
+   "refLandmark": "Macau LRT Lotus Station"
+  },
+  {
+   "propertyId": 37538117,
+   "name": "팔라조 베르사체 마카오 (Palazzo Versace Macau)",
+   "agodaUrl": "https://www.agoda.com/palazzo-versace-macau/hotel/cushahuan-cn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37538117/0/c6cb9493202048665949dcfb3078ea00.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 818,
+   "priceKRW": 342834,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.145184,
+    "lng": 113.572006
+   },
+   "refLandmark": "Macau LRT Cotai East Station"
+  },
+  {
+   "propertyId": 64282033,
+   "name": "포우사다 드 상 티아고 (Pousada De Sao Tiago)",
+   "agodaUrl": "https://www.agoda.com/pousada-de-sao-tiago_5/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/64282033/0/e0bb891c105bfa5eea1d9a42c0313bdc.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 465,
+   "priceKRW": 300162,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.1824,
+    "lng": 113.530724
+   },
+   "refLandmark": "Macau LRT Barra Station"
+  },
+  {
+   "propertyId": 9411947,
+   "name": "더 13 팰리스 (The 13 Palace )",
+   "agodaUrl": "https://www.agoda.com/the-13/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9411947/0/592f6ddb62e7271e1963064dc5f3a3d1.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 340,
+   "priceKRW": 344196,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.128421,
+    "lng": 113.558444
+   },
+   "refLandmark": "Macau LRT Lotus Station"
+  },
+  {
+   "propertyId": 82420900,
+   "name": "파이자 로프트 앳 파리지앵 (Paiza Lofts at Parisian)",
+   "agodaUrl": "https://www.agoda.com/paiza-lofts-at-parisian-h82420900/hotel/macau-mo.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82420900/0/3da502b7812093f6fd5f1020567dc1a7.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.8,
+   "reviewCount": 200,
+   "priceKRW": 436801,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.145789,
+    "lng": 113.561245
+   },
+   "refLandmark": "Macau LRT Cotai West Station"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "southeast-asia",
+    "label": "동남아시아"
+  },
+  {
+    "id": "east-asia",
+    "label": "일본·중화권"
+  },
+  {
+    "id": "indian-ocean",
+    "label": "인도양"
+  },
+  {
+    "id": "middle-east",
+    "label": "중동"
+  },
+  {
+    "id": "europe",
+    "label": "유럽"
+  },
+  {
+    "id": "americas",
+    "label": "미주·하와이"
+  },
+  {
+    "id": "oceania",
+    "label": "오세아니아·남태평양"
+  }
+]

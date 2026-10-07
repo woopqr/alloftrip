@@ -1,0 +1,1398 @@
+{
+ "slug": "singapore",
+ "city": "싱가포르",
+ "region": "southeast-asia",
+ "cityId": 4064,
+ "agodaCityName": "싱가포르",
+ "fetchedAt": "2026-10-07T23:40:17.665Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 185945,
+   "name": "마리나 베이 샌즈 (Marina Bay Sands )",
+   "agodaUrl": "https://www.agoda.com/marina-bay-sands/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/185945/0/f7143cd678ae77e9bcbec5436d244abd.jpeg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 48975,
+   "priceKRW": 1005570,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.283621,
+    "lng": 103.860725
+   },
+   "refLandmark": "Bayfront"
+  },
+  {
+   "propertyId": 10580,
+   "name": "칼튼 호텔 싱가포르 (Carlton Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/carlton-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6166068/0/a88e859b4ac6ce331cf26721deaba626.jpeg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 46746,
+   "priceKRW": 285627,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.295354,
+    "lng": 103.853104
+   },
+   "refLandmark": "Singapore Mass Rapid Transit"
+  },
+  {
+   "propertyId": 10603,
+   "name": "파크로얄 컬렉션 마리나 베이, 싱가포르 (PARKROYAL COLLECTION Marina Bay, Singapore)",
+   "agodaUrl": "https://www.agoda.com/marina-mandarin-singapore-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10603/0/9b08ae7ef919f0f09834adb33fd70a81.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 24491,
+   "priceKRW": 508234,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.291101,
+    "lng": 103.857704
+   },
+   "refLandmark": "MRT 에스플러네이드역"
+  },
+  {
+   "propertyId": 108593,
+   "name": "크라운 플라자 창이 에어포트 바이 IHG (Crowne Plaza Changi Airport By IHG)",
+   "agodaUrl": "https://www.agoda.com/crowne-plaza-changi-airport/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/108593/0/dd466516c6a1cfc29880f8dda041a11c.jpeg",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 24041,
+   "priceKRW": 394038,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.35647,
+    "lng": 103.98555
+   },
+   "refLandmark": "MRT 창이공항역"
+  },
+  {
+   "propertyId": 10621,
+   "name": "스위소텔 더 스탬포드 싱가포르 (Swissotel The Stamford Singapore)",
+   "agodaUrl": "https://www.agoda.com/swissotel-the-stamford-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10621/0/bc6367a382a864eacca3c41c3713a1fe.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 22207,
+   "priceKRW": 513252,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.293331,
+    "lng": 103.853477
+   },
+   "refLandmark": "MRT 시티홀역"
+  },
+  {
+   "propertyId": 10625,
+   "name": "팬 퍼시픽 싱가포르 (Pan Pacific Singapore)",
+   "agodaUrl": "https://www.agoda.com/pan-pacific-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10625/0/e3d5893d05a89189d2e781bdd0c2b73c.jpeg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 17644,
+   "priceKRW": 545886,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.292418,
+    "lng": 103.858582
+   },
+   "refLandmark": "MRT 프로메나드역"
+  },
+  {
+   "propertyId": 31566977,
+   "name": "파라독스 싱가포르 (Paradox Singapore)",
+   "agodaUrl": "https://www.agoda.com/paradox-singapore-merchant-court-at-clarke-quay/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31566977/0/91860d3de310c1da62ed4da35f52cc2a.jpg?ca=29&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 16769,
+   "priceKRW": 276242,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.288714,
+    "lng": 103.845627
+   },
+   "refLandmark": "MRT 클락키역"
+  },
+  {
+   "propertyId": 460426,
+   "name": "칼튼 시티 호텔 싱가포르 (Carlton City Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/carlton-city-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/34178188.jpg?k=d0c00463d9704c608433217bff9983353d46b5f9f0049c6d2a5828bd3c1aafb3&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 15824,
+   "priceKRW": 240232,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.275525,
+    "lng": 103.844536
+   },
+   "refLandmark": "MRT 탄종파가역"
+  },
+  {
+   "propertyId": 8024,
+   "name": "아마라 싱가포르 (Amara Singapore)",
+   "agodaUrl": "https://www.agoda.com/amara-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8024/3047222/5ad32e7c3a50429832c1820fd6e371ab.jpg?ce=0",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 15524,
+   "priceKRW": 377813,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.274902,
+    "lng": 103.843529
+   },
+   "refLandmark": "MRT 탄종파가역"
+  },
+  {
+   "propertyId": 522329,
+   "name": "원 패러 호텔 (One Farrer Hotel)",
+   "agodaUrl": "https://www.agoda.com/one-farrer-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/522/522329/522329_15030413430025784415.jpg?ca=3&ce=1",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 15488,
+   "priceKRW": 271025,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.312794,
+    "lng": 103.854301
+   },
+   "refLandmark": "MRT 패러파크역"
+  },
+  {
+   "propertyId": 1635,
+   "name": "M 호텔 싱가포르 시티 센터 (M Hotel Singapore City Centre)",
+   "agodaUrl": "https://www.agoda.com/m-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1635/0/b6461ea8097c3a854c97087f95d3bb83.jpg?ce=2",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 15287,
+   "priceKRW": 233352,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.2738,
+    "lng": 103.845001
+   },
+   "refLandmark": "Prince Edward Road MRT Station"
+  },
+  {
+   "propertyId": 10593,
+   "name": "그랜드 코프톤 워터프론트 호텔 싱가포르 (Grand Copthorne Waterfront Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/grand-copthorne-waterfront-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10593/-1/3228fea64c81131f1839192784735446.jpg?ca=14&ce=1",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 14296,
+   "priceKRW": 260352,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.29059,
+    "lng": 103.834999
+   },
+   "refLandmark": "Havelock MRT Station"
+  },
+  {
+   "propertyId": 10589,
+   "name": "더 풀러턴 호텔 (The Fullerton Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-fullerton-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10589/0/0b06dbf56fa720153b7bf133b68d1b19.jpeg",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 13965,
+   "priceKRW": 451763,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.286258,
+    "lng": 103.853027
+   },
+   "refLandmark": "MRT 래플스플레이스역"
+  },
+  {
+   "propertyId": 407120,
+   "name": "파크로얄 콜렉션 피커링, 싱가포르 (PARKROYAL COLLECTION Pickering, Singapore)",
+   "agodaUrl": "https://www.agoda.com/parkroyal-on-pickering/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/407120/0/f1c6d82e3ce2085720afde5c2a6e8946.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 13944,
+   "priceKRW": 526932,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.285706,
+    "lng": 103.846207
+   },
+   "refLandmark": "MRT 차이나타운역"
+  },
+  {
+   "propertyId": 89722,
+   "name": "아마라 생추어리 센토사 (Amara Sanctuary Sentosa)",
+   "agodaUrl": "https://www.agoda.com/amara-sanctuary-resort-sentosa/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/568347179.jpg?k=692f5303f401987f29928231d30d38c4435920e2cdec72d4b7cfdd4a9c64638a&o=",
+   "star": 5,
+   "score": 7.8,
+   "reviewCount": 13378,
+   "priceKRW": 274306,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.251463,
+    "lng": 103.822792
+   },
+   "refLandmark": "Imbiah"
+  },
+  {
+   "propertyId": 10602,
+   "name": "힐튼 싱가포르 오차드 (Hilton Singapore Orchard)",
+   "agodaUrl": "https://www.agoda.com/hilton-singapore-orchard-sg-clean/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10602/-1/1ecee38296639328cc1274e583ada05d.jpg?ce=0",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 13332,
+   "priceKRW": 375459,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.302214,
+    "lng": 103.836121
+   },
+   "refLandmark": "MRT 서머셋역"
+  },
+  {
+   "propertyId": 10592,
+   "name": "굿우드 파크 호텔 (Goodwood Park Hotel)",
+   "agodaUrl": "https://www.agoda.com/goodwood-park-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/105/10592/10592_16072908150045046935.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 11905,
+   "priceKRW": 347049,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.308322,
+    "lng": 103.833984
+   },
+   "refLandmark": "MRT 오차드역"
+  },
+  {
+   "propertyId": 446168,
+   "name": "팬 퍼시픽 서비스 스위트 비치 로드, 싱가포르 (Pan Pacific Serviced Suites Beach Road, Singapore)",
+   "agodaUrl": "https://www.agoda.com/pan-pacific-serviced-suites-beach-road-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/446168/0/223cb9856adeff1416039acca897ea46.jpg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 10139,
+   "priceKRW": 330374,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.299453,
+    "lng": 103.859947
+   },
+   "refLandmark": "MRT 니콜하이웨이역"
+  },
+  {
+   "propertyId": 186994,
+   "name": "리조트 월드 센토사 - 호텔 마이클 (Resorts World Sentosa - Hotel Michael)",
+   "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-hotel-michael/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/186994/0/c55b813e713ed320faf58c7d2bc10b2e.jpeg?ce=0",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 10033,
+   "priceKRW": 370175,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.255544,
+    "lng": 103.819572
+   },
+   "refLandmark": "Waterfront"
+  },
+  {
+   "propertyId": 297130,
+   "name": "리조트 월드 센토사 - 에쿠아리우스 호텔 (Resorts World Sentosa - Equarius Hotel)",
+   "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-equarius-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/297130/0/76ad74e497b1310b54fa74281134a58a.jpeg?ce=2",
+   "star": 5,
+   "score": 8.4,
+   "reviewCount": 9922,
+   "priceKRW": 480812,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.258067,
+    "lng": 103.81694
+   },
+   "refLandmark": "Waterfront"
+  },
+  {
+   "propertyId": 12003931,
+   "name": "더 클랜 호텔 싱가포르 바이 파 이스트 호스피탈리티 (The Clan Hotel Singapore by Far East Hospitality)",
+   "agodaUrl": "https://www.agoda.com/the-clan-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/12003931/0/7ce097d6696b7c238e5311f3ae5fda35.jpg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 9804,
+   "priceKRW": 300187,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.282936,
+    "lng": 103.847694
+   },
+   "refLandmark": "MRT 텔록에이어역"
+  },
+  {
+   "propertyId": 2115729,
+   "name": "다오 바이 도세트 AMTD 싱가포르 (Dao by Dorsett AMTD Singapore)",
+   "agodaUrl": "https://www.agoda.com/oakwood-premier-oue-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2115729/-1/2d6c03c4f3d4ee03a2b730e372b5d974.jpg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 9166,
+   "priceKRW": 306247,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.276846,
+    "lng": 103.84838
+   },
+   "refLandmark": "Shenton Way MRT Station"
+  },
+  {
+   "propertyId": 10615,
+   "name": "페어몬트 싱가포르 (Fairmont Singapore)",
+   "agodaUrl": "https://www.agoda.com/fairmont-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10615/0/d0358e915c4e8ed0eb19fbef70040a02.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 7819,
+   "priceKRW": 538350,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.294164,
+    "lng": 103.853912
+   },
+   "refLandmark": "MRT 에스플러네이드역"
+  },
+  {
+   "propertyId": 10626,
+   "name": "리츠칼튼, 밀레니아 싱가포르 (The Ritz-Carlton, Millenia Singapore)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-millenia-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10626/0/62116375df77ea476627327acdfa131f.jpeg?ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 7761,
+   "priceKRW": 740390,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.290774,
+    "lng": 103.859627
+   },
+   "refLandmark": "MRT 프로메나드역"
+  },
+  {
+   "propertyId": 37957971,
+   "name": "몬드리안 싱가포르 덕스턴 (Mondrian Singapore Duxton)",
+   "agodaUrl": "https://www.agoda.com/mondrian-singapore-duxton_2/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/37957971/624256427/315a17b73a207a9dea8bb6b6dd3f5bf4.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 7687,
+   "priceKRW": 386507,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.27881,
+    "lng": 103.841919
+   },
+   "refLandmark": "MRT 아우트램 파크역"
+  },
+  {
+   "propertyId": 10595,
+   "name": "그랜드 파크 시티 홀 호텔 (Grand Park City Hall Hotel)",
+   "agodaUrl": "https://www.agoda.com/grand-park-city-hall-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10595/0/43270c50e6e159686136ee258f54ed82.jpg?ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 7644,
+   "priceKRW": 306019,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.292489,
+    "lng": 103.849968
+   },
+   "refLandmark": "MRT 시티홀역"
+  },
+  {
+   "propertyId": 10596,
+   "name": "보코 오차드 싱가포르 바이 IHG (voco Orchard Singapore by IHG)",
+   "agodaUrl": "https://www.agoda.com/voco-orchard-singapore-by-ihg/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/27999141/0/8a67aea97c26a4fe18481c3f5854810e.jpg?ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 6717,
+   "priceKRW": 352626,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.30588,
+    "lng": 103.829308
+   },
+   "refLandmark": "MRT 오차드역"
+  },
+  {
+   "propertyId": 59913000,
+   "name": "팬 퍼시픽 오차드 (Pan Pacific Orchard)",
+   "agodaUrl": "https://www.agoda.com/pan-pacific-orchard_3/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59913000/0/46e670a6727cecfef5eeea30f2b5eb80.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 6626,
+   "priceKRW": 476861,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.30752,
+    "lng": 103.82997
+   },
+   "refLandmark": "MRT 오차드역"
+  },
+  {
+   "propertyId": 10587,
+   "name": "윈덤 싱가포르 호텔 (Wyndham Singapore Hotel)",
+   "agodaUrl": "https://www.agoda.com/peninsula-excelsior-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10587/0/b3398f4778c185395b0f0a921aa50c25.jpg?ce=2",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 6573,
+   "priceKRW": 250463,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.29201,
+    "lng": 103.849831
+   },
+   "refLandmark": "MRT 시티홀역"
+  },
+  {
+   "propertyId": 10584,
+   "name": "콘래드 싱가포르 마리나 베이 (Conrad Singapore Marina Bay)",
+   "agodaUrl": "https://www.agoda.com/conrad-singapore-marina-bay/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10584/0/0d4ad2f138464c42c602adda2c32240d.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 6547,
+   "priceKRW": 479028,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.29343,
+    "lng": 103.85881
+   },
+   "refLandmark": "MRT 프로메나드역"
+  },
+  {
+   "propertyId": 461545,
+   "name": "ONE15 마리나 호텔 센토사 코브 (ONE15 Marina Hotel Sentosa Cove)",
+   "agodaUrl": "https://www.agoda.com/one15-marina-sentosa-cove-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/277706309.jpg?k=3f66a218ec2331aecf68484ad0515b095471faf3ce69c009242e3da8a9537991&o=",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 6506,
+   "priceKRW": 247876,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.245981,
+    "lng": 103.8395
+   },
+   "refLandmark": "Waterfront"
+  },
+  {
+   "propertyId": 20124944,
+   "name": "오아시아 리조트 센토사 바이 파 이스트 호스피탈리티 (Oasia Resort Sentosa by Far East Hospitality)",
+   "agodaUrl": "https://www.agoda.com/oasia-resort-sentosa-by-far-east-hospitality/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/20124944/0/1afc8e041412fa6c621650d4afe03888.jpg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 6022,
+   "priceKRW": 208672,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.253182,
+    "lng": 103.81958
+   },
+   "refLandmark": "Imbiah"
+  },
+  {
+   "propertyId": 6840830,
+   "name": "디 아웃포스트 호텔 센토사 바이 파 이스트 호스피탤리티 (The Outpost Hotel Sentosa by Far East Hospitality)",
+   "agodaUrl": "https://www.agoda.com/the-outpost-hotel-by-far-east-hospitality/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6840830/-1/6f4ecc92fec6980d8a5b621bb6c8360a.jpg?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 5748,
+   "priceKRW": 240230,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.251849,
+    "lng": 103.819868
+   },
+   "refLandmark": "Imbiah"
+  },
+  {
+   "propertyId": 276827,
+   "name": "소피텔 싱가포르 센토사 (SOFITEL SINGAPORE SENTOSA)",
+   "agodaUrl": "https://www.agoda.com/sofitel-singapore-sentosa-resort-and-spa/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/816883811.jpg?k=9d18f87f175561579c6fea214159621a22231ad53d63dc8ee3b07351e3261431&o=",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 5483,
+   "priceKRW": 441724,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.245198,
+    "lng": 103.827682
+   },
+   "refLandmark": "Beach"
+  },
+  {
+   "propertyId": 10598,
+   "name": "프레이저스 하우스, 어 럭셔리 컬렉션 호텔, 싱가포르 (Frasers House, a Luxury Collection Hotel, Singapore)",
+   "agodaUrl": "https://www.agoda.com/frasers-house-a-luxury-collection-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10598/0/ed6f2826a23f05d6f5c096617c9dbc79.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5474,
+   "priceKRW": 563449,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.298141,
+    "lng": 103.854675
+   },
+   "refLandmark": "Bugis Junction"
+  },
+  {
+   "propertyId": 399865,
+   "name": "W 싱가포르 - 센토사 코브 (W Singapore - Sentosa Cove)",
+   "agodaUrl": "https://www.agoda.com/w-singapore-sentosa-cove/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/519100770.jpg?k=b51d6bc1642b1b7f1dc9d18738dc422a5beebed5883d8491ccf0a2ae647a8bf4&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 5356,
+   "priceKRW": 514508,
+   "brand": "w-hotels",
+   "brandLabel": "W 호텔",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.246384,
+    "lng": 103.842499
+   },
+   "refLandmark": "Waterfront"
+  },
+  {
+   "propertyId": 91266,
+   "name": "나우미 호텔 싱가포르 (Naumi Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/naumi-hotel-singapore_4/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/91266/0/5f2b5a6b575ed5c283d69996a3342939.jpg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 4944,
+   "priceKRW": 302162,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.296035,
+    "lng": 103.855237
+   },
+   "refLandmark": "MRT 에스플러네이드역"
+  },
+  {
+   "propertyId": 61687130,
+   "name": "만다이 레인포레스트 리조트 바이 바나안트리 (Mandai Rainforest Resort by Banyan Tree)",
+   "agodaUrl": "https://www.agoda.com/mandai-rainforest-resort-by-banyan-tree/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61687130/0/834706f13b9bf4874576ea02f0ef558a.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 4886,
+   "priceKRW": 520778,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.404969,
+    "lng": 103.78952
+   },
+   "refLandmark": "Woodlands South MRT Station"
+  },
+  {
+   "propertyId": 1515704,
+   "name": "애스콧 오차드 싱가포르 (Ascott Orchard Singapore)",
+   "agodaUrl": "https://www.agoda.com/ascott-orchard-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/624667946.jpg?k=962236967cf4aebe9f54f646741b44ae9af5cc4fca0c8f3d6c5150ecd59b3667&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 4720,
+   "priceKRW": 394868,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.304256,
+    "lng": 103.8368
+   },
+   "refLandmark": "MRT 서머셋역"
+  },
+  {
+   "propertyId": 10594,
+   "name": "그랜드 하얏트 싱가포르 (Grand Hyatt Singapore)",
+   "agodaUrl": "https://www.agoda.com/grand-hyatt-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/611576720.jpg?k=915d1a30cb0627ef640e166d65f584f13a071e14785c8896afba0002210b0d47&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 4623,
+   "priceKRW": 476861,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.306542,
+    "lng": 103.833023
+   },
+   "refLandmark": "MRT 오차드역"
+  },
+  {
+   "propertyId": 2284309,
+   "name": "Shangri-La Singapore",
+   "agodaUrl": "https://www.agoda.com/shangri-la-singapore_32/hotel/all/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/176487374.jpg?k=e4e790bee1355017ec92c0d31cb8ed4eb8e5f80241d1ffbc611dafae24ce74e5&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 4516,
+   "priceKRW": 377931,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.311244,
+    "lng": 103.826515
+   },
+   "refLandmark": "Napier MRT Station"
+  },
+  {
+   "propertyId": 3849636,
+   "name": "만다린 오리엔탈, 싱가포르 (Mandarin Oriental, Singapore)",
+   "agodaUrl": "https://www.agoda.com/mandarin-oriental-singapore_9/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/3849636/0/4581d19c670fa242f6ce8ef49b613d37.jpeg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4001,
+   "priceKRW": 752005,
+   "brand": "mandarin-oriental",
+   "brandLabel": "만다린 오리엔탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.292011,
+    "lng": 103.857597
+   },
+   "refLandmark": "MRT 에스플러네이드역"
+  },
+  {
+   "propertyId": 2651609,
+   "name": "안다즈 싱가포르, 바이 하얏트 (Andaz Singapore, By Hyatt)",
+   "agodaUrl": "https://www.agoda.com/andaz-singapore-a-concept-by-hyatt_2/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2651609/0/9d84cb43225ff010c34bd672ef6f4f16.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3805,
+   "priceKRW": 411605,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.299209,
+    "lng": 103.857964
+   },
+   "refLandmark": "MRT 부기스역"
+  },
+  {
+   "propertyId": 30144561,
+   "name": "오크우드 프리미어 래플스 플레이스 싱가포르 (Oakwood Premier Raffles Place Singapore)",
+   "agodaUrl": "https://www.agoda.com/citadines-raffles-place-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/452641413.jpg?k=bad03c4a4668be4d7e8e1a023e67c29951a0ca428b446ce70c0a5b20f68ffa09&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3775,
+   "priceKRW": 376469,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.28401,
+    "lng": 103.85036
+   },
+   "refLandmark": "MRT 래플스플레이스역"
+  },
+  {
+   "propertyId": 186995,
+   "name": "리조트 월드 센토사 - 호텔 오라 (Resorts World Sentosa - Hotel Ora)",
+   "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-festive-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/186995/0/08d3e95fd18acaac24b38010e0f61f07.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3641,
+   "priceKRW": 428322,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.256753,
+    "lng": 103.820297
+   },
+   "refLandmark": "Waterfront"
+  },
+  {
+   "propertyId": 5835136,
+   "name": "더 캐피톨 켐핀스키 호텔 싱가포르 (The Capitol Kempinski Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/the-capitol-kempinski-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5835136/491678874/420407acde121a779bb8d45802f96df8.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 3302,
+   "priceKRW": 453018,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.293962,
+    "lng": 103.851015
+   },
+   "refLandmark": "Singapore Mass Rapid Transit"
+  },
+  {
+   "propertyId": 10588,
+   "name": "포시즌 호텔 싱가포르 (Four Seasons Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10588/10130236/9c21b90873bb80d2cd0c6e977a3917cc.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 3109,
+   "priceKRW": 688380,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.305356,
+    "lng": 103.828491
+   },
+   "refLandmark": "MRT 오차드역"
+  },
+  {
+   "propertyId": 128838,
+   "name": "카펠라 싱가포르 호텔 (Capella Singapore Hotel)",
+   "agodaUrl": "https://www.agoda.com/capella-singapore-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/128838/0/0e95eba38f8658dda32748f80554d8af.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2990,
+   "priceKRW": 1787337,
+   "brand": "capella",
+   "brandLabel": "카펠라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.249692,
+    "lng": 103.824501
+   },
+   "refLandmark": "Imbiah"
+  },
+  {
+   "propertyId": 10620,
+   "name": "쉐라톤 타워스 싱가포르 (Sheraton Towers Singapore)",
+   "agodaUrl": "https://www.agoda.com/sheraton-towers-singapore_10/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/106/10620/10620_17072117400054605881.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.3,
+   "reviewCount": 2985,
+   "priceKRW": 362666,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.311872,
+    "lng": 103.836395
+   },
+   "refLandmark": "MRT 뉴튼역"
+  },
+  {
+   "propertyId": 108938,
+   "name": "애스콧 래플스 플레이스 싱가포르 (Ascott Raffles Place Singapore)",
+   "agodaUrl": "https://www.agoda.com/ascott-raffles-place-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/108/108938/108938_16110917090048578106.jpg?ca=6&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 2982,
+   "priceKRW": 352788,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.282357,
+    "lng": 103.851686
+   },
+   "refLandmark": "MRT 래플스플레이스역"
+  },
+  {
+   "propertyId": 2284308,
+   "name": "Shangri-La Rasa Sentosa, Singapore",
+   "agodaUrl": "https://www.agoda.com/shangri-la-rasa-sentosa-singapore_12/hotel/all/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/property/91150987/1440505318/e1d37b141ab8486c04770e4c014ed50b.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2808,
+   "priceKRW": 476861,
+   "brand": "shangri-la",
+   "brandLabel": "샹그릴라",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.257761,
+    "lng": 103.809723
+   },
+   "refLandmark": "Beach"
+  },
+  {
+   "propertyId": 2065138,
+   "name": "인터컨티넨탈 싱가포르 로버트슨키 바이 IHG (InterContinental Singapore Robertson Quay By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-singapore-robertson-quay/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2065138/0/7274d31d85705da488e129214840c8f8.jpeg?ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2753,
+   "priceKRW": 466881,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.290258,
+    "lng": 103.838768
+   },
+   "refLandmark": "Havelock MRT Station"
+  },
+  {
+   "propertyId": 34735841,
+   "name": "QT 싱가포르 (QT Singapore)",
+   "agodaUrl": "https://www.agoda.com/so-sofitel-singapore_22/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52208098/0/b0cfeb215ac30af036e34d56f2b57283.jpeg?ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2573,
+   "priceKRW": 364442,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.279973,
+    "lng": 103.849724
+   },
+   "refLandmark": "Shenton Way MRT Station"
+  },
+  {
+   "propertyId": 10604,
+   "name": "싱가포르 메리어트 탕 플라자 호텔 (Singapore Marriott Tang Plaza Hotel)",
+   "agodaUrl": "https://www.agoda.com/singapore-marriott-tang-plaza-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10604/0/636b58058e7ba6f3605c85ce8d64464b.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 2393,
+   "priceKRW": 489410,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.304932,
+    "lng": 103.832672
+   },
+   "refLandmark": "MRT 오차드역"
+  },
+  {
+   "propertyId": 193528,
+   "name": "풀만 싱가포르 오차드 (Pullman Singapore Orchard)",
+   "agodaUrl": "https://www.agoda.com/pullman-singapore-orchard_7/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/193528/0/ed37a9e992f938cfb39bee8ac44a22ea.jpg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2377,
+   "priceKRW": 369442,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.30344,
+    "lng": 103.83624
+   },
+   "refLandmark": "MRT 서머셋역"
+  },
+  {
+   "propertyId": 187129,
+   "name": "더 풀러턴 베이 호텔 (The Fullerton Bay Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-fullerton-bay-hotel/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/187129/0/07fccabb1742acd8a06dd8352da988e2.jpeg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2252,
+   "priceKRW": 778037,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.28379,
+    "lng": 103.852982
+   },
+   "refLandmark": "MRT 래플스플레이스역"
+  },
+  {
+   "propertyId": 1620069,
+   "name": "JW 메리어트 호텔 싱가포르 사우스 비치 (JW Marriott Hotel Singapore South Beach)",
+   "agodaUrl": "https://www.agoda.com/jw-marriott-hotel-singapore-south-beach/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1620069/0/691d7c534c336deb48e9dac0d2273c0c.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2223,
+   "priceKRW": 613645,
+   "brand": "jw-marriott",
+   "brandLabel": "JW 메리어트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.294469,
+    "lng": 103.855789
+   },
+   "refLandmark": "MRT 에스플러네이드역"
+  },
+  {
+   "propertyId": 91713,
+   "name": "더 세인트 레지스 싱가포르 (The St. Regis Singapore)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4866257/1153902891/a65cae1fec5c0650200f2b7da146439c.jpeg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 2129,
+   "priceKRW": 627449,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.30587,
+    "lng": 103.825935
+   },
+   "refLandmark": "Orchard Boulevard MRT Station"
+  },
+  {
+   "propertyId": 48382893,
+   "name": "코모 메트로폴리탄 싱가포르 (COMO Metropolitan Singapore)",
+   "agodaUrl": "https://www.agoda.com/como-metropolitan-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/539025843.jpg?k=1d38fb101a8ffb1e0d2936808c4432ba82886e4b68989533e94b02f7694bf4b3&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 2013,
+   "priceKRW": 267660,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.3,
+    "lng": 103.839996
+   },
+   "refLandmark": "MRT 서머셋역"
+  },
+  {
+   "propertyId": 159265,
+   "name": "콘래드 싱가포르 오차드 (Conrad Singapore Orchard)",
+   "agodaUrl": "https://www.agoda.com/regent-singapore-a-four-seasons-hotel_6/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/159265/0/66f325478b32607b3357f7f324f984ec.jpeg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1907,
+   "priceKRW": 429243,
+   "brand": "conrad",
+   "brandLabel": "콘래드",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.304868,
+    "lng": 103.825287
+   },
+   "refLandmark": "Orchard Boulevard MRT Station"
+  },
+  {
+   "propertyId": 1623679,
+   "name": "소피텔 싱가포르 시티 센터 (Sofitel Singapore City Centre)",
+   "agodaUrl": "https://www.agoda.com/sofitel-singapore-city-centre/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1623679/0/2e5b3629bac8e7cbfab0c7683a4728bb.jpeg",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1738,
+   "priceKRW": 483136,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.276867,
+    "lng": 103.844757
+   },
+   "refLandmark": "MRT 탄종파가역"
+  },
+  {
+   "propertyId": 72083005,
+   "name": "아티즌 싱가포르 (Artyzen Singapore)",
+   "agodaUrl": "https://www.agoda.com/artyzen-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/72083005/0/3dd28847cb715fac60304fca4a44debd.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1696,
+   "priceKRW": 432847,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.30576,
+    "lng": 103.827011
+   },
+   "refLandmark": "Orchard Boulevard MRT Station"
+  },
+  {
+   "propertyId": 47110268,
+   "name": "더 버스 컬렉티브 (The Bus Collective)",
+   "agodaUrl": "https://www.agoda.com/the-bus-collective/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/47110268/0/b8b981afb4d5a6ecb30c87123594ee61.png?ce=0",
+   "star": 5,
+   "score": 8.2,
+   "reviewCount": 1645,
+   "priceKRW": 315703,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.389339,
+    "lng": 103.989026
+   },
+   "refLandmark": "Aviation Park MRT Station CR2 Station"
+  },
+  {
+   "propertyId": 489841,
+   "name": "더 웨스틴 싱가포르 (The Westin Singapore)",
+   "agodaUrl": "https://www.agoda.com/the-westin-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/489841/0/05e243c59f89edc6e890441fbc292ddf.jpeg",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1575,
+   "priceKRW": 764233,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.278295,
+    "lng": 103.850662
+   },
+   "refLandmark": "Shenton Way MRT Station"
+  },
+  {
+   "propertyId": 7400456,
+   "name": "더 배럭스 호텔 센토사 바이 파 이스트 호스피탈리티 (The Barracks Hotel Sentosa by Far East Hospitality)",
+   "agodaUrl": "https://www.agoda.com/the-barracks-hotel-sentosa-by-far-east-hospitality/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/7400456/-1/e5fa993086db96a6e14238c66d45db78.jpg?ca=9&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1420,
+   "priceKRW": 357922,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.252798,
+    "lng": 103.82077
+   },
+   "refLandmark": "Imbiah"
+  },
+  {
+   "propertyId": 297131,
+   "name": "리조트 월드 센토사 - 에쿠아리우스 빌라 (Resorts World Sentosa - Equarius Villas)",
+   "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-beach-villas/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/297131/0/519f0b7c1db7f486d47673e337881b3c.jpeg?ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1398,
+   "priceKRW": 1005143,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.259453,
+    "lng": 103.816666
+   },
+   "refLandmark": "Waterfront"
+  },
+  {
+   "propertyId": 10614,
+   "name": "래플즈 호텔 싱가포르 (Raffles Hotel Singapore)",
+   "agodaUrl": "https://www.agoda.com/raffles-hotel-singapore_9/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10614/0/5cd2b41b1249f153ca5bff825a86bfa5.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1154,
+   "priceKRW": 2174742,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.294747,
+    "lng": 103.854515
+   },
+   "refLandmark": "MRT 에스플러네이드역"
+  },
+  {
+   "propertyId": 148973,
+   "name": "노보텔 싱가포르 로버트슨 키 (Novotel Singapore Robertson Quay)",
+   "agodaUrl": "https://www.agoda.com/novotel-singapore-robertson-quay-h148973/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/148973/0/529a875855eb8548cb671533f9e6cd1c.jpg?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 948,
+   "priceKRW": 223248,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.291364,
+    "lng": 103.842369
+   },
+   "refLandmark": "Fort Canning MRT Station"
+  },
+  {
+   "propertyId": 46254934,
+   "name": "더 싱가포르 에디션 (The Singapore EDITION)",
+   "agodaUrl": "https://www.agoda.com/the-singapore-edition/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/52336599/1153959070/421ba33d070204f777cfda2c4cfba9f3.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 813,
+   "priceKRW": 627449,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.305464,
+    "lng": 103.827339
+   },
+   "refLandmark": "Orchard Boulevard MRT Station"
+  },
+  {
+   "propertyId": 6365707,
+   "name": "맥스웰 리저브 싱가포르, 오토그래프 컬렉션 (Maxwell Reserve Singapore, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/the-maxwell-reserve-singapore-autograph-collection/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/828994011.jpg?k=beff8db926910a8e0f4f3877518700326b3888ce716066122a13ec88a3a43855&o=",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 578,
+   "priceKRW": 442314,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.279451,
+    "lng": 103.846283
+   },
+   "refLandmark": "Maxwell MRT Station"
+  },
+  {
+   "propertyId": 83534989,
+   "name": "METT 싱가포르 (METT Singapore)",
+   "agodaUrl": "https://www.agoda.com/hotel-fort-canning_5/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/83534989/0/4e64492966db6ead17f84cce8b30086c.png?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 557,
+   "priceKRW": 362730,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.295913,
+    "lng": 103.845489
+   },
+   "refLandmark": "MRT 도비갓역"
+  },
+  {
+   "propertyId": 91815033,
+   "name": "더 스탠다드, 싱가포르 (The Standard, Singapore)",
+   "agodaUrl": "https://www.agoda.com/the-standard-singapore-h91815033/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/91815033/0/cd3bfe5c35fd517982b90ea76f6da369.jpg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 489,
+   "priceKRW": 274162,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.288725,
+    "lng": 103.85393
+   },
+   "refLandmark": "MRT 시티홀역"
+  },
+  {
+   "propertyId": 62106495,
+   "name": "21 카펜터 (21 Carpenter)",
+   "agodaUrl": "https://www.agoda.com/21-carpenter/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/62106495/0/b9d309bd4be9973cf7595f917b7ae7d2.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 411,
+   "priceKRW": 380799,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.28854,
+    "lng": 103.847397
+   },
+   "refLandmark": "MRT 클락키역"
+  },
+  {
+   "propertyId": 34550718,
+   "name": "가든 포드 @ 가든스 바이 더 베이 (Garden Pod @ Gardens by the Bay)",
+   "agodaUrl": "https://www.agoda.com/garden-pod-gardens-by-the-bay/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34550718/0/2ae69f1f829ab27717e61feeff2074c1.jpeg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 306,
+   "priceKRW": 602806,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.278303,
+    "lng": 103.861893
+   },
+   "refLandmark": "Bayfront"
+  },
+  {
+   "propertyId": 4662955,
+   "name": "덕스턴 리저브 싱가포르, 오토그래프 컬렉션 (Duxton Reserve Singapore, Autograph Collection)",
+   "agodaUrl": "https://www.agoda.com/six-senses-duxton-formerly-duxton-sg/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/4662955/-1/3a3b7c73f1360bd62bb3a3f814b90c28.jpg?ca=16&ce=1",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 239,
+   "priceKRW": 586665,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.278891,
+    "lng": 103.843147
+   },
+   "refLandmark": "Maxwell MRT Station"
+  },
+  {
+   "propertyId": 66741398,
+   "name": "래플스 센토사 싱가포르 (Raffles Sentosa Singapore)",
+   "agodaUrl": "https://www.agoda.com/raffles-sentosa-singapore/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/66741398/1027115618/7ed8270fa0a5b6d569eabc8dbd63c9c3.jpeg?ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 235,
+   "priceKRW": 1750583,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.245749,
+    "lng": 103.828739
+   },
+   "refLandmark": "Beach"
+  },
+  {
+   "propertyId": 78572743,
+   "name": "더 로러스, 어 럭셔리 컬렉션 리조트, 싱가포르 (The Laurus, a Luxury Collection Resort, Singapore)",
+   "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-hard-rock-hotel_4/hotel/singapore-sg.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/78572743/0/914cc5d1508b6b944437d3cb905a9c73.jpeg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 149,
+   "priceKRW": 813172,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 1.257838,
+    "lng": 103.818901
+   },
+   "refLandmark": "Waterfront"
+  }
+ ]
+}

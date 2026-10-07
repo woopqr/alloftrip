@@ -1,0 +1,102 @@
+{
+ "slug": "los-cabos",
+ "city": "로스카보스",
+ "region": "americas",
+ "cityId": 17820,
+ "agodaCityName": "로스 까보스",
+ "fetchedAt": "2026-10-07T23:40:17.836Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 173417,
+   "name": "ME Cabo by Meliá – Adults Only",
+   "agodaUrl": "https://www.agoda.com/me-cabo-hotel/hotel/cabo-san-lucas-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/173417/-1/34a58d3b30821d8b23c11e429e975e29.jpg?va=1&ca=26&ce=0",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 260,
+   "priceKRW": 635318,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.889257,
+    "lng": -109.904198
+   },
+   "refLandmark": "플라야 메다노"
+  },
+  {
+   "propertyId": 21614917,
+   "name": "The Cape, A Thompson Hotel By Hyatt",
+   "agodaUrl": "https://www.agoda.com/the-cape-a-thompson-hotel/hotel/cabo-san-lucas-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/62272965.jpg?k=94c94830f635749b277699c82152abcc5bb3409fba86941620378d0fe6ef9ec7&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 172,
+   "priceKRW": 1723687,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.89909,
+    "lng": -109.869568
+   },
+   "refLandmark": "플라야 메다노"
+  },
+  {
+   "propertyId": 9389743,
+   "name": "Waldorf Astoria Los Cabos Pedregal",
+   "agodaUrl": "https://www.agoda.com/the-resort-at-pedregal/hotel/cabo-san-lucas-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/9389743/-1/9410219aa8715856693522645090de48.jpg?va=1&ca=9&ce=1",
+   "star": 5,
+   "score": 9.7,
+   "reviewCount": 78,
+   "priceKRW": 3225272,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": true,
+   "geo": {
+    "lat": 22.874365,
+    "lng": -109.912086
+   },
+   "refLandmark": "플라야 메다노"
+  },
+  {
+   "propertyId": 189448,
+   "name": "Esperanza, Auberge Collection",
+   "agodaUrl": "https://www.agoda.com/esperanza-auberge-resorts-collection_7/hotel/all/cabo-san-lucas-mx.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg?va=1",
+   "star": 5,
+   "score": 10,
+   "reviewCount": 66,
+   "priceKRW": 4073380,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.901587,
+    "lng": -109.8526
+   },
+   "refLandmark": "플라야 메다노"
+  },
+  {
+   "propertyId": 22769587,
+   "name": "1 Homes Preview Cabo",
+   "agodaUrl": "https://www.agoda.com/1-homes-preview-cabo/hotel/all/cabo-san-lucas-mx.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288109826.jpg?k=804da76b1a1a10ae0d7630fda06554025ed25a9a78d3afa0c0fc8b12f0840b29&o=",
+   "star": 5,
+   "score": 9.8,
+   "reviewCount": 64,
+   "priceKRW": 1898528,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 22.88443,
+    "lng": -109.906342
+   },
+   "refLandmark": "플라야 메다노"
+  }
+ ]
+}

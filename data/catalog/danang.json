@@ -1,0 +1,444 @@
+{
+ "slug": "danang",
+ "city": "다낭",
+ "region": "southeast-asia",
+ "cityId": 16440,
+ "agodaCityName": "다낭",
+ "fetchedAt": "2026-10-07T23:40:17.697Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 10953,
+   "name": "푸라마 리조트 다낭 (Furama Resort Danang)",
+   "agodaUrl": "https://www.agoda.com/furama-resort-danang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10953/0/7049959c1f56ef5fa0f0c8f2b39a2287.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 11168,
+   "priceKRW": 217737,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.040144,
+    "lng": 108.249839
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 288263,
+   "name": "하얏트 리젠시 다낭 리조트 앤 스파 (Hyatt Regency Danang Resort And Spa)",
+   "agodaUrl": "https://www.agoda.com/hyatt-regency-danang-resort-and-spa/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/288263/0/56b8da42bd06cc5820ecc7fb103f6d46.jpeg?va=1&ce=2",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 9175,
+   "priceKRW": 204562,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.013014,
+    "lng": 108.264198
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 56360089,
+   "name": "퓨전 리조트 앤 빌라 다낭 - 웰니스 인클루시브 (Fusion Resort & Villas Da Nang - Wellness Inclusive)",
+   "agodaUrl": "https://www.agoda.com/fusion-resort-and-villas-da-nang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/56360089/0/c9385c626e45ab4462f06bcbad237a1c.jpg?ce=2",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4830,
+   "priceKRW": 296586,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.972477,
+    "lng": 108.282394
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 237529,
+   "name": "티아 웰니스 리조트 - 스파 인클루시브 (TIA Wellness Resort - Spa Inclusive)",
+   "agodaUrl": "https://www.agoda.com/fusion-maia-resort-all-spa-inclusive/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/237529/0/c92c36c7a2be8471d79e1f5c489188f9.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 4120,
+   "priceKRW": 607285,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.03111,
+    "lng": 108.255243
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 287965,
+   "name": "인터컨티넨탈 다낭 선 페닌슐라 리조트 바이 IHG (InterContinental Danang Sun Peninsula Resort By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-danang-sun-peninsula-resort/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/428850473.jpg?k=2d17b2dd618528271d24068071f67168b6aa7179b9a5c812f48b2e13f97ab146&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 3446,
+   "priceKRW": 692426,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.119825,
+    "lng": 108.307175
+   },
+   "refLandmark": "선짜산"
+  },
+  {
+   "propertyId": 1985160,
+   "name": "다낭 메리어트 리조트 앤 스파, 논 누옥 비치 빌라스 (Danang Marriott Resort & Spa, Non Nuoc Beach Villas)",
+   "agodaUrl": "https://www.agoda.com/vinpearl-resort-spa-da-nang-h8674427/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1985160/0/cdc83f239b6b050b2b4587f6db8be04b.jpeg?ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 3092,
+   "priceKRW": 473415,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.994055,
+    "lng": 108.269272
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 338255,
+   "name": "앙사나 랑코 (Angsana Lang Co)",
+   "agodaUrl": "https://www.agoda.com/angsana-lang-co/hotel/hue-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338255/0/c7deceae64350d0dd0a8c1ad8edef9f4.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 2954,
+   "priceKRW": 221342,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.066599,
+    "lng": 108.21224
+   },
+   "refLandmark": "랑코 비치"
+  },
+  {
+   "propertyId": 31330595,
+   "name": "오션 빌라 다낭 (Ocean Villas Da Nang)",
+   "agodaUrl": "https://www.agoda.com/the-ocean-villas-da-nang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31330595/563129465/9ebaaf6a054f7aa238f6a2cd7b1b01c9.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 1688,
+   "priceKRW": 251049,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.976151,
+    "lng": 108.282
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 34879109,
+   "name": "오션 빌라 리조트 (Ocean Villas Resort)",
+   "agodaUrl": "https://www.agoda.com/resort-villa-beach-danang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34879109/0/2558f44c285f183b584b838cbb33ca80.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1603,
+   "priceKRW": 251057,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.977158,
+    "lng": 108.281334
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 338256,
+   "name": "반얀트리 랑코 (Banyan Tree Lang Co)",
+   "agodaUrl": "https://www.agoda.com/banyan-tree-lang-co/hotel/hue-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/338256/0/c8ae2a41ed27a177c7e2a3aab454e3bf.jpeg?ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 1593,
+   "priceKRW": 543048,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.33878,
+    "lng": 107.95379
+   },
+   "refLandmark": "Canh Duong Beach"
+  },
+  {
+   "propertyId": 11295767,
+   "name": "더 파이브 빌라 앤 리조트 꽝남 - 다낭 (The Five Villas & Resort Quangnam-Danang)",
+   "agodaUrl": "https://www.agoda.com/the-five-villas-and-resort/hotel/dien-ban-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/11295767/-1/c15f2205c21e39992e0e1d36b229d1a0.png?ce=0",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 893,
+   "priceKRW": 358742,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.963183,
+    "lng": 108.287849
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 49648459,
+   "name": "푸라마 리조트 빌라 다낭 (Purama Resort Villa Da Nang)",
+   "agodaUrl": "https://www.agoda.com/purama-resort-villa-da-nang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49648459/0/a8a834cdc11f91952bebfe77bcd756da.png?ce=2",
+   "star": 5,
+   "score": 7.9,
+   "reviewCount": 247,
+   "priceKRW": 376184,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.036606,
+    "lng": 108.25274
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 40547831,
+   "name": "럭셔리 다나트립 오션 빌라 (Luxury Danatrip Ocean Villas)",
+   "agodaUrl": "https://www.agoda.com/luxury-beach-view-villa/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/40547831/0/8492b3afad6091295c6d521720a30899.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 220,
+   "priceKRW": 236417,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.975869,
+    "lng": 108.281784
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 34564137,
+   "name": "럭셔리 오션 풀빌라 (Luxury Ocean Pool Villas)",
+   "agodaUrl": "https://www.agoda.com/luxury-ocean-villa-3-min-to-the-beach-h34564137/hotel/da-n-ng-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34564137/0/b32f2fdba3a38d0e0d1f8fb5726988e9.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 201,
+   "priceKRW": 251116,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.97518,
+    "lng": 108.280098
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 55769208,
+   "name": "다낭 어메이징 비치 빌라 리조트 (Danang Amazing Beach Villas Resort)",
+   "agodaUrl": "https://www.agoda.com/anna-danang-amazing-beach/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/55769208/-1/3c17663627667a279fde8c0757de0db7.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 136,
+   "priceKRW": 234444,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.978032,
+    "lng": 108.281525
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 86732273,
+   "name": "프리미어 빌라 다낭 리조트 (Premier Villa Danang Resort )",
+   "agodaUrl": "https://www.agoda.com/premier-village-danang-resort-managed-by-accorhotels_2/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/86732273/0/d41f578f222c4174d9c68cfbb981e0d8.jpg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 128,
+   "priceKRW": 497809,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.04265,
+    "lng": 108.24943
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 55306898,
+   "name": "블루 오션 빌라 다낭 (Blue Ocean Villas Danang)",
+   "agodaUrl": "https://www.agoda.com/blue-ocean-villas-danang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/55306898/0/57239e29581ca020468a96b05b92d7dd.jpeg?ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 96,
+   "priceKRW": 435749,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.975971,
+    "lng": 108.282074
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 87234156,
+   "name": "Premier Villas Beach Resort",
+   "agodaUrl": "https://www.agoda.com/resort-pool-villa-beach-access-at-premier-village/hotel/all/da-nang-vn.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/861584744.jpg?k=c3c1fae4e666b543f0de5b2350b468fb5ad67e3509e01d692065be489de4f44c&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 96,
+   "priceKRW": 402889,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.043394,
+    "lng": 108.251015
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 86653433,
+   "name": "아니아 럭셔리 풀 리조트 빌라 (ANIA Luxury Pool Resort Villas )",
+   "agodaUrl": "https://www.agoda.com/ania-private-pool-villas-collection/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/86653433/0/4a45503a651e7570dc56d1e7c35bfea8.jpg?ce=3",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 88,
+   "priceKRW": 373176,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.04265,
+    "lng": 108.24943
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 51081487,
+   "name": "럭셔리 다나 비치 리조트 앤 스파 (Luxury Dana Beach Resort & Spa)",
+   "agodaUrl": "https://www.agoda.com/luxury-dana-beach-resort-spa/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/51081487/-1/9eee9465d685659388dd6ff84c83439f.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 82,
+   "priceKRW": 236438,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.976818,
+    "lng": 108.281311
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 54975559,
+   "name": "블루 스카이 앤 빌라스 비치 리조트 (Blue Sky & Villas Beach Resort)",
+   "agodaUrl": "https://www.agoda.com/blue-sky-villas-beach-resort/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/54975559/-1/399d435b432a571a0e7b2b7cda05da21.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 62,
+   "priceKRW": 200045,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 15.975213,
+    "lng": 108.282822
+   },
+   "refLandmark": "논 누옥 비치"
+  },
+  {
+   "propertyId": 61692986,
+   "name": "푸라마 빌라 다낭 (Purama Villas Danang)",
+   "agodaUrl": "https://www.agoda.com/purama-villas-danang/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/61692986/0/9cc280c28fc688600916691c04c5d946.png?ce=3",
+   "star": 5,
+   "score": 8.5,
+   "reviewCount": 61,
+   "priceKRW": 371688,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.038088,
+    "lng": 108.25157
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 73318393,
+   "name": "푸라마 빌라 다낭 (Purama Villas Danang)",
+   "agodaUrl": "https://www.agoda.com/purama-luxury-villas-danang-beach-resort/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/73318393/0/3b6ae4755ea26333a498f7ce7ffcbf11.png?ce=3",
+   "star": 5,
+   "score": 8.1,
+   "reviewCount": 43,
+   "priceKRW": 385584,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.03656,
+    "lng": 108.251595
+   },
+   "refLandmark": "다낭역"
+  },
+  {
+   "propertyId": 88059036,
+   "name": "프리미어 빌리지 비치 빌라 (Premier Village Beach Villas)",
+   "agodaUrl": "https://www.agoda.com/premier-village-resort-by-yastay/hotel/da-nang-vn.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/88059036/0/4e7ecc8cd60bb0f2bb6ee980da9907e6.jpg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 39,
+   "priceKRW": 402889,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 16.042057,
+    "lng": 108.25083
+   },
+   "refLandmark": "다낭역"
+  }
+ ]
+}

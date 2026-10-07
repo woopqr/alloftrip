@@ -1,0 +1,462 @@
+{
+ "slug": "galle",
+ "city": "스리랑카 갈레",
+ "region": "indian-ocean",
+ "cityId": 19768,
+ "agodaCityName": "갈레",
+ "fetchedAt": "2026-10-07T23:40:17.822Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 5513589,
+   "name": "르 그랜드 갈레 (Le Grand Galle)",
+   "agodaUrl": "https://www.agoda.com/le-grand-galle-by-asia-leisure_2/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5513589/0/f5058a3abd4d57a8f0517f3da28d80a2.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 1311,
+   "priceKRW": 282992,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.03173,
+    "lng": 80.212463
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 74903,
+   "name": "제트윙 라이트하우스, 어 럭셔리 리저브 (Jetwing Lighthouse, A Luxury Reserve)",
+   "agodaUrl": "https://www.agoda.com/jetwing-lighthouse/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/74903/0/4e59a3179b121384863abef34f06d491.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1045,
+   "priceKRW": 306415,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.04213,
+    "lng": 80.194664
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 1415014,
+   "name": "래디슨 블루 리조트 갈레 (Radisson Blu Resort Galle)",
+   "agodaUrl": "https://www.agoda.com/amari-galle-sri-lanka/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/1415014/0/04b1be5a38ff2793acda5cd10292414b.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 864,
+   "priceKRW": 413526,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.05256,
+    "lng": 80.181397
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 59457555,
+   "name": "The Heritage Hotel Galle Fort",
+   "agodaUrl": "https://www.agoda.com/the-heritage-galle-fort-h8869205/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59457555/0/448c54be621cf4f1b4aeeac1a6bd07fd.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 821,
+   "priceKRW": 295474,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.02678,
+    "lng": 80.217857
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 84895752,
+   "name": "Crystal Sands Hikkaduwa",
+   "agodaUrl": "https://www.agoda.com/crystal-sands/hotel/hikkaduwa-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/84895752/0/764c608e31276d1254a6b9af0b42894a.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 634,
+   "priceKRW": 286261,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.08659,
+    "lng": 80.14513
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 31041806,
+   "name": "아랄리야 비치 리조트 앤 스파 우나와투나- 웨어 유 밋 더 씨 올 이어 (Araliya Beach Resort & Spa Unawatuna- Where you meet the sea all year)",
+   "agodaUrl": "https://www.agoda.com/araliya-beach-resort-spa-unawatuna/hotel/unawatuna-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31041806/0/7ce17ade946050633a9ac005de1b2524.jpeg?va=1",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 588,
+   "priceKRW": 269900,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.00856,
+    "lng": 80.242233
+   },
+   "refLandmark": "Katugoda Railway Station"
+  },
+  {
+   "propertyId": 862142,
+   "name": "더 갈레 포트 호텔 (The Galle Fort Hotel)",
+   "agodaUrl": "https://www.agoda.com/the-galle-fort-hotel/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/862142/0/a0e9ea11b75244692a8ea4eccccf81c2.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 500,
+   "priceKRW": 440824,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.026648,
+    "lng": 80.217564
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 3645755,
+   "name": "KAJU GREEN eco lodges",
+   "agodaUrl": "https://www.agoda.com/kaju-green-eco-lodges_2/hotel/all/unawatuna-lk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/233703148.jpg?k=82de1d56423d2e41974d5e39f4672d65bc1ac74810b19add6309f4ea7c2dfff3&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 497,
+   "priceKRW": 241028,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.014929,
+    "lng": 80.267303
+   },
+   "refLandmark": "우나와투나역"
+  },
+  {
+   "propertyId": 846112,
+   "name": "Villa Amma Erna - Galle",
+   "agodaUrl": "https://www.agoda.com/villa-amma-erna-galle/hotel/all/galle-lk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/30144783.jpg?k=e5d0567db0d7064f8d0be453760b9c0d0bf121f88235e072e7b6ddfc7c94575a&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 348,
+   "priceKRW": 237814,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.030398,
+    "lng": 80.255859
+   },
+   "refLandmark": "Katugoda Railway Station"
+  },
+  {
+   "propertyId": 5793663,
+   "name": "시엘렌 디바 (Sielen Diva)",
+   "agodaUrl": "https://www.agoda.com/sielen-diva_2/hotel/unawatuna-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/5793663/-1/bbb910546deb544c0bea194dff5bff40.jpg?va=1&ca=19&ce=1",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 295,
+   "priceKRW": 369511,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.998639,
+    "lng": 80.270531
+   },
+   "refLandmark": "탈페역"
+  },
+  {
+   "propertyId": 45138588,
+   "name": "Taavetti",
+   "agodaUrl": "https://www.agoda.com/villa-taavetti/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/45138588/-1/09dcbc0ebb8a64dc155775fee9951adb.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 291,
+   "priceKRW": 324049,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.041553,
+    "lng": 80.19787
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 248173,
+   "name": "아딧야 리조트 (Aditya Resort)",
+   "agodaUrl": "https://www.agoda.com/aditya-resort/hotel/hikkaduwa-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/248173/0/8610d92a92ed3d32741bfd23fe3ba6fb.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 248,
+   "priceKRW": 278803,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.09063,
+    "lng": 80.139599
+   },
+   "refLandmark": "히카두와 버스정류장"
+  },
+  {
+   "propertyId": 3197631,
+   "name": "The Bungalow Galle Fort - Hotel - Restaurant - Cocktail bar",
+   "agodaUrl": "https://www.agoda.com/the-bungalow-galle-fort/hotel/all/galle-lk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/583059160.jpg?k=8b1f63c896f300dd9b39d1a620faed805c6d82dbaf0df756ba6cee7bed5c9f33&o=",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 225,
+   "priceKRW": 231990,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.02752,
+    "lng": 80.217087
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 1558823,
+   "name": "Fort Bazaar By Teardrop Hotels",
+   "agodaUrl": "https://www.agoda.com/fort-bazaar/hotel/all/galle-lk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/65864613.jpg?k=4829835827d59f123a35f4b96c6439d5c92b28d4f0bc4a3bc227957861fdc3a9&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 209,
+   "priceKRW": 992689,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.02685,
+    "lng": 80.21772
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 263476,
+   "name": "아파 빌라 탈페 (Apa Villa Thalpe)",
+   "agodaUrl": "https://www.agoda.com/apa-villa/hotel/unawatuna-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/263476/0/d38921e8cd9ab892dabafd2bd98fdfc4.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 193,
+   "priceKRW": 338141,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.996655,
+    "lng": 80.284309
+   },
+   "refLandmark": "탈페역"
+  },
+  {
+   "propertyId": 411069,
+   "name": "니야가마 하우스 (Niyagama House)",
+   "agodaUrl": "https://www.agoda.com/niyagama-house/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/411069/-1/52672efec9312d5cda2840960534e6d3.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 191,
+   "priceKRW": 227883,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.089134,
+    "lng": 80.257378
+   },
+   "refLandmark": "Katugoda Railway Station"
+  },
+  {
+   "propertyId": 802942,
+   "name": "포르탈레자 란데시 (Fortaleza Landesi)",
+   "agodaUrl": "https://www.agoda.com/fortaleza-landesi/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/802/802942/802942_16062420350044082475.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 183,
+   "priceKRW": 278625,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.028149,
+    "lng": 80.216309
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 63452944,
+   "name": "Radisson Collection Resort & Spa, Galle",
+   "agodaUrl": "https://www.agoda.com/radisson-collection-resort-galle/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/63452944/0/1ff3804609d21300217728292f9d9bec.jpeg?va=1&ce=3",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 172,
+   "priceKRW": 350818,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.002421,
+    "lng": 80.26368
+   },
+   "refLandmark": "Katugoda Railway Station"
+  },
+  {
+   "propertyId": 32473119,
+   "name": "Selenya Talpe - Boutique Villa",
+   "agodaUrl": "https://www.agoda.com/villa-selenya/hotel/all/unawatuna-lk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/430298629.jpg?k=4f11947c11f51d8d2bb8d5adb846e3f679e5958f0819519382bc804c447e7eb1&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 145,
+   "priceKRW": 272496,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.997981,
+    "lng": 80.27536
+   },
+   "refLandmark": "탈페역"
+  },
+  {
+   "propertyId": 263642,
+   "name": "더 프랜지파니 트리 바이 에드워즈 컬렉션 (The Frangipani Tree by Edwards Collection)",
+   "agodaUrl": "https://www.agoda.com/the-frangipani-tree-by-edwards-collection_2/hotel/unawatuna-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/263/263642/263642_17081115500055335850.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 139,
+   "priceKRW": 461118,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 5.998576,
+    "lng": 80.273407
+   },
+   "refLandmark": "탈페역"
+  },
+  {
+   "propertyId": 59455190,
+   "name": "Miss Ceylon",
+   "agodaUrl": "https://www.agoda.com/miss-ceylon-luxury-boutique-villa/hotel/unawatuna-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59455190/0/37a5e71c86aef42cadfe7a9465656377.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 100,
+   "priceKRW": 334802,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.022103,
+    "lng": 80.27635
+   },
+   "refLandmark": "탈페역"
+  },
+  {
+   "propertyId": 962026,
+   "name": "빌라 리퍼블릭 갈레 (Villa Republic Galle)",
+   "agodaUrl": "https://www.agoda.com/villa-republic-galle/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/962026/0/98835abde2b2264ce33304ff8cba65e1.jpeg?va=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 96,
+   "priceKRW": 724050,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.05952,
+    "lng": 80.179011
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 59457552,
+   "name": "The Merchant",
+   "agodaUrl": "https://www.agoda.com/the-mer-chant/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59457552/0/ac599b6eb72f74476ab2fca5ee121df1.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 39,
+   "priceKRW": 1070166,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.02614,
+    "lng": 80.217491
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 84352052,
+   "name": "The Colonial Escape",
+   "agodaUrl": "https://www.agoda.com/the-colonial-escape-h82580504/hotel/galle-lk.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/874014821.jpg?k=fd0e465a4c9bd0e874d16def87fda0626ac0bc1faee89d7660820d569104d60c&o=",
+   "star": 5,
+   "score": 9.6,
+   "reviewCount": 38,
+   "priceKRW": 212560,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.058779,
+    "lng": 80.2159
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  },
+  {
+   "propertyId": 983492,
+   "name": "탐블리 하우스 바이 에드워즈 컬렉션 (Thambili House by Edwards Collection)",
+   "agodaUrl": "https://www.agoda.com/thambili-house-by-edwards-collection_2/hotel/galle-lk.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/983/983492/983492_17062217180053984915.jpg?va=1&ca=6&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 35,
+   "priceKRW": 643907,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 6.025429,
+    "lng": 80.21626
+   },
+   "refLandmark": "갈레 센트럴 버스정류장"
+  }
+ ]
+}

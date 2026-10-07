@@ -1,0 +1,120 @@
+{
+ "slug": "niseko",
+ "city": "니세코",
+ "region": "east-asia",
+ "cityId": 30340,
+ "agodaCityName": "니세코",
+ "fetchedAt": "2026-10-07T23:40:17.700Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 28084232,
+   "name": "The Vale Rusutsu",
+   "agodaUrl": "https://www.agoda.com/the-vale-rusutsu/hotel/niseko-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/280/28084232/28084232_210929073600105848592.jpg",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 693,
+   "priceKRW": 303184,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 42.754364,
+    "lng": 140.902573
+   },
+   "refLandmark": "Road Station Makkari Flower Center"
+  },
+  {
+   "propertyId": 8634929,
+   "name": "파크 하얏트 니세코 하나조노 (Park Hyatt Niseko Hanazono)",
+   "agodaUrl": "https://www.agoda.com/park-hyatt-niseko-hanazono/hotel/niseko-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/8634929/-1/11f5ed9d31a88e497d86cca5b626621e.jpg?ca=13&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 520,
+   "priceKRW": 426817,
+   "brand": "park-hyatt",
+   "brandLabel": "파크 하얏트",
+   "bestSeller": false,
+   "geo": {
+    "lat": 42.89418,
+    "lng": 140.698151
+   },
+   "refLandmark": "Kutchan Station"
+  },
+  {
+   "propertyId": 10888474,
+   "name": "Sansui Niseko",
+   "agodaUrl": "https://www.agoda.com/sansui-niseko/hotel/niseko-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/10888474/-1/35d942447df8996451b784762f260eae.jpg?ca=19&ce=1",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 361,
+   "priceKRW": 273216,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 42.860889,
+    "lng": 140.699951
+   },
+   "refLandmark": "히라푸역"
+  },
+  {
+   "propertyId": 49242754,
+   "name": "무와 니세코 (MUWA NISEKO)",
+   "agodaUrl": "https://www.agoda.com/muwa-niseko/hotel/niseko-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/49242754/0/99ae73442e63127b094665d98915731f.png?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 337,
+   "priceKRW": 333451,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 42.863365,
+    "lng": 140.6996
+   },
+   "refLandmark": "히라푸역"
+  },
+  {
+   "propertyId": 41328393,
+   "name": "NISEKO Inn of Youtei Raku Suisan",
+   "agodaUrl": "https://www.agoda.com/raku-suisan/hotel/niseko-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/41328393/0/e020fe287ecf1fb7e95b5b7d9e2f84c5.jpg?ce=3",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 92,
+   "priceKRW": 814091,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 42.841469,
+    "lng": 140.706604
+   },
+   "refLandmark": "히라푸역"
+  },
+  {
+   "propertyId": 17526186,
+   "name": "히가시야마 니세코 빌리지, 리츠칼튼 리저브 (Higashiyama Niseko Village, a Ritz-Carlton Reserve)",
+   "agodaUrl": "https://www.agoda.com/higashiyama-niseko-village-a-ritz-carlton-reserve/hotel/niseko-jp.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/17526186/-1/aacc241fb3cb74496049374751a456c4.jpg?ca=17&ce=1",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 80,
+   "priceKRW": 462606,
+   "brand": "ritz-carlton-reserve",
+   "brandLabel": "리츠칼튼 리저브",
+   "bestSeller": false,
+   "geo": {
+    "lat": 42.845737,
+    "lng": 140.684982
+   },
+   "refLandmark": "히라푸역"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "slug": "ras-al-khaimah",
+ "city": "라스알카이마",
+ "region": "middle-east",
+ "cityId": 12050,
+ "agodaCityName": "라스알카이마",
+ "fetchedAt": "2026-10-07T23:40:17.813Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 153155,
+   "name": "더 코브 로타나 리조트 라스 알 카이마 (The Cove Rotana Resort Ras Al Khaimah)",
+   "agodaUrl": "https://www.agoda.com/the-cove-rotana-resort-ras-al-khaimah/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/153155/0/caeb24026cc9a40fa7bf32ff16c3ce41.jpg?ce=3",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 6960,
+   "priceKRW": 202575,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.736673,
+    "lng": 55.887333
+   },
+   "refLandmark": "Rak Bus Station"
+  },
+  {
+   "propertyId": 31590195,
+   "name": "무벤픽 리조트 알 마르잔 아일랜드 (Mövenpick Resort Al Marjan Island)",
+   "agodaUrl": "https://www.agoda.com/movenpick-resort-al-marjan-island/hotel/umm-al-quwain-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/31037405/0/2c8ef9348409def00afac4d698f7934f.jpeg?ce=2",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 5165,
+   "priceKRW": 273006,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.672798,
+    "lng": 55.741772
+   },
+   "refLandmark": "알 자지라 알 함라 요새"
+  },
+  {
+   "propertyId": 27884223,
+   "name": "인터컨티넨탈 라스알카이마 리조트 앤 스파 바이 IHG (InterContinental Ras Al Khaimah Resort And Spa By IHG)",
+   "agodaUrl": "https://www.agoda.com/intercontinental-ras-al-khaimah-resort-and-spa/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/23172429/0/00ba872ed25c0c3e21bd6b5399332e68.jpeg?ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 2644,
+   "priceKRW": 258848,
+   "brand": "intercontinental",
+   "brandLabel": "인터컨티넨탈",
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.725895,
+    "lng": 55.847134
+   },
+   "refLandmark": "Rak Bus Station"
+  },
+  {
+   "propertyId": 44853232,
+   "name": "아난타라 미나 라스 알 카이마 리조트 (Anantara Mina Ras Al Khaimah Resort)",
+   "agodaUrl": "https://www.agoda.com/anantara-mina-al-arab-ras-al-khaimah-resort/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/525370390.jpg?k=fddba8c1e6ea25a6f828e273a036c2e4aafc37d4a6e098eadd0d3c4c017ba234&o=",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 2236,
+   "priceKRW": 478879,
+   "brand": "anantara",
+   "brandLabel": "아난타라",
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.721333,
+    "lng": 55.850952
+   },
+   "refLandmark": "Rak Bus Station"
+  },
+  {
+   "propertyId": 1781723,
+   "name": "리츠칼튼 라스 알 카이마, 알 와디 데저트 (The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-ras-al-khaimah-al-wadi-desert/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 2001,
+   "priceKRW": 1061219,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.583921,
+    "lng": 55.834423
+   },
+   "refLandmark": null
+  },
+  {
+   "propertyId": 50046430,
+   "name": "Sofitel Ras Al Khaimah Al Hamra Beach Resort",
+   "agodaUrl": "https://www.agoda.com/hilton-al-hamra-beach-golf-resort_6/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/899689094.jpg?k=7bd4a4469c8f5ae44ccfe690c966ed32b06807d35c30e17103d28af30d8452cc&o=",
+   "star": 5,
+   "score": 8.8,
+   "reviewCount": 1840,
+   "priceKRW": 271923,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.68961,
+    "lng": 55.77489
+   },
+   "refLandmark": "알 자지라 알 함라 요새"
+  },
+  {
+   "propertyId": 272261,
+   "name": "왈도프 아스토리아 라스 알 카이마 (Waldorf Astoria Ras Al Khaimah)",
+   "agodaUrl": "https://www.agoda.com/waldorf-astoria-ras-al-khaimah/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/2291118/0/529c16ee5d61949453a8573baf61cd26.jpg?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1546,
+   "priceKRW": 411859,
+   "brand": "waldorf-astoria",
+   "brandLabel": "월도프 아스토리아",
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.686193,
+    "lng": 55.774357
+   },
+   "refLandmark": "알 자지라 알 함라 요새"
+  },
+  {
+   "propertyId": 59337288,
+   "name": "Rixos Al Mairid Ras Al Khaimah",
+   "agodaUrl": "https://www.agoda.com/hilton-ras-al-khaimah-resort-amp-spa/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/59337288/-1/59a02920a3e91ade327091cfd2328833.png?ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 1268,
+   "priceKRW": 658403,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.81386,
+    "lng": 55.958141
+   },
+   "refLandmark": "Rak Bus Station"
+  },
+  {
+   "propertyId": 2987322,
+   "name": "리츠칼튼 라스 알 카이마, 알 함라 비치 (The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach)",
+   "agodaUrl": "https://www.agoda.com/the-ritz-carlton-ras-al-khaimah-al-hamra-beach_2/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/479647854.jpg?k=da5ce430c622746b62083b047c19e4a71020ef72f19b65ee2658dac264773b81&o=",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 776,
+   "priceKRW": 1052288,
+   "brand": "ritz-carlton",
+   "brandLabel": "리츠칼튼",
+   "bestSeller": true,
+   "geo": {
+    "lat": 25.694324,
+    "lng": 55.775818
+   },
+   "refLandmark": "알 자지라 알 함라 요새"
+  },
+  {
+   "propertyId": 487326,
+   "name": "Rixos Bab Al Bahr",
+   "agodaUrl": "https://www.agoda.com/rixos-bab-al-bahr-hotel/hotel/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/487326/0/cfd20879b54ee48c11c614a66b850b04.jpg?ce=3",
+   "star": 5,
+   "score": 8.6,
+   "reviewCount": 391,
+   "priceKRW": 443912,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.662032,
+    "lng": 55.749605
+   },
+   "refLandmark": "알 함라 몰"
+  },
+  {
+   "propertyId": 28725842,
+   "name": "Bear Grylls Explorers Camp",
+   "agodaUrl": "https://www.agoda.com/bear-grylls-explorers-camp/hotel/all/ras-al-khaimah-ae.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/337034506.jpg?k=427ceee5590d91839f25d5ac4b4e6c1f39ee3ed4cd5d2d87079fca169e81ca67&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 239,
+   "priceKRW": 210530,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": 25.947121,
+    "lng": 56.140053
+   },
+   "refLandmark": null
+  }
+ ]
+}

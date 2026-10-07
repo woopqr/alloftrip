@@ -1,0 +1,354 @@
+{
+ "slug": "bali",
+ "city": "발리",
+ "region": "southeast-asia",
+ "cityId": 17193,
+ "agodaCityName": "발리",
+ "fetchedAt": "2026-10-07T23:40:17.549Z",
+ "checkIn": "2026-11-22",
+ "basis": "성인 2명 · 객실 1개 · 1박 · 세금·봉사료 포함(원화)",
+ "hotels": [
+  {
+   "propertyId": 46875150,
+   "name": "우붓의 빌라 (100m², 침실 1개, 프라이빗 욕실 1개) (Sanna Ubud A Pramana Experience)",
+   "agodaUrl": "https://www.agoda.com/sanna-ubud-a-pramana-experience/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/46875150/-1/4f65021f0308487521d3f494cdd0337b.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1302,
+   "priceKRW": 671063,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.456641,
+    "lng": 115.280289
+   },
+   "refLandmark": "로카 스라나 버스터미널"
+  },
+  {
+   "propertyId": 6546934,
+   "name": "물리아 빌라 (Mulia Villas)",
+   "agodaUrl": "https://www.agoda.com/mulia-villas_11/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6546934/-1/761513ef809947d465d930a1993e055b.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 1122,
+   "priceKRW": 1131798,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.816778,
+    "lng": 115.218964
+   },
+   "refLandmark": "누사 두아 비치"
+  },
+  {
+   "propertyId": 478524,
+   "name": "아야나 빌라 발리 (AYANA Villas Bali)",
+   "agodaUrl": "https://www.agoda.com/the-villas-at-ayana-resort-bali_3/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/478524/0/17718b8f18fbf43b1e10e19881878906.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 968,
+   "priceKRW": 1069027,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.785332,
+    "lng": 115.13858
+   },
+   "refLandmark": "쿠타 비치"
+  },
+  {
+   "propertyId": 68310,
+   "name": "바이스로이 발리 (Viceroy Bali)",
+   "agodaUrl": "https://www.agoda.com/viceroy-bali_15/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/68310/-1/94c9c3d93c841a3d5357731c5c0b6735.jpg?ce=0",
+   "star": 5,
+   "score": 9.2,
+   "reviewCount": 874,
+   "priceKRW": 884789,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.494089,
+    "lng": 115.277706
+   },
+   "refLandmark": "로카 스라나 버스터미널"
+  },
+  {
+   "propertyId": 34474011,
+   "name": "울라만 에코 럭셔리 리조트 (Ulaman Eco Luxury Resort)",
+   "agodaUrl": "https://www.agoda.com/ulaman-eco-retreat/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/34474011/-1/05e5a71bc689504785139f5263c5154c.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 8.9,
+   "reviewCount": 872,
+   "priceKRW": 1893298,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": true,
+   "geo": {
+    "lat": -8.592965,
+    "lng": 115.130562
+   },
+   "refLandmark": "Ubung Bus Terminal"
+  },
+  {
+   "propertyId": 48672,
+   "name": "포 시즌스 리조트 발리 앳 짐바란 베이  (Four Seasons Resort Bali at Jimbaran Bay)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-jimbaran-bay/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/48672/-1/60eeceea05cc55b075a410af45ac1ae8.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 856,
+   "priceKRW": 956706,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.784462,
+    "lng": 115.159288
+   },
+   "refLandmark": "워터봄 공원"
+  },
+  {
+   "propertyId": 108442,
+   "name": "더 세인트 레기스 발리 리조트 (The St. Regis Bali Resort)",
+   "agodaUrl": "https://www.agoda.com/the-st-regis-bali-resort/hotel/bali-id.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/426599818.jpg?k=63029474f6d411a44784323c0e0b36698a15948b63d32c0356db4a1f9aa05d42&o=",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 791,
+   "priceKRW": 2319052,
+   "brand": "st-regis",
+   "brandLabel": "세인트 레지스",
+   "bestSeller": true,
+   "geo": {
+    "lat": -8.81286,
+    "lng": 115.225815
+   },
+   "refLandmark": "누사 두아 비치"
+  },
+  {
+   "propertyId": 77182,
+   "name": "불가리 리조트 발리 (Bvlgari Resort Bali)",
+   "agodaUrl": "https://www.agoda.com/bulgari-resort-bali/hotel/bali-id.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 698,
+   "priceKRW": 2536463,
+   "brand": "bulgari",
+   "brandLabel": "불가리",
+   "bestSeller": true,
+   "geo": {
+    "lat": -8.843925,
+    "lng": 115.120697
+   },
+   "refLandmark": "울루와투 사원"
+  },
+  {
+   "propertyId": 6546761,
+   "name": "더 물리아 (The Mulia)",
+   "agodaUrl": "https://www.agoda.com/the-mulia_6/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/6546761/-1/bc754fbebf67e7181afaea507c10d843.jpg?ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 614,
+   "priceKRW": 754410,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.815513,
+    "lng": 115.225204
+   },
+   "refLandmark": "누사 두아 비치"
+  },
+  {
+   "propertyId": 31491241,
+   "name": "부아한, 어 바니안트리 이스케이프 (Buahan, a Banyan Tree Escape)",
+   "agodaUrl": "https://www.agoda.com/buahan-a-banyan-tree-escape/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/32018578/0/7290b80d81d36bc4c8212a0b75e36a72.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 363,
+   "priceKRW": 1601595,
+   "brand": "banyan-tree",
+   "brandLabel": "반얀트리",
+   "bestSeller": true,
+   "geo": {
+    "lat": -8.365112,
+    "lng": 115.238274
+   },
+   "refLandmark": "뜨갈라랑 라이스 테라스"
+  },
+  {
+   "propertyId": 48716,
+   "name": "포 시즌스 리조트 발리 앳 사얀 (Four Seasons Resort Bali At Sayan)",
+   "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-sayan/hotel/bali-id.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/83160592.jpg?k=6d0c8a818604f0a31545186425f6adcb74e5146b6fb5ab88877adbad4457a905&o=",
+   "star": 5,
+   "score": 9.3,
+   "reviewCount": 342,
+   "priceKRW": 1716642,
+   "brand": "four-seasons",
+   "brandLabel": "포시즌스",
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.501527,
+    "lng": 115.243797
+   },
+   "refLandmark": "짬뿌한 리지 워크"
+  },
+  {
+   "propertyId": 984267,
+   "name": "만다파, 어 리츠칼튼 리저브 (Mandapa, a Ritz-Carlton Reserve)",
+   "agodaUrl": "https://www.agoda.com/mandapa-a-ritz-carlton-reserve/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/984267/0/f49d102e237e8c5140eb3041a31d9ae9.jpg?va=1&ce=2",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 338,
+   "priceKRW": 1992935,
+   "brand": "ritz-carlton-reserve",
+   "brandLabel": "리츠칼튼 리저브",
+   "bestSeller": true,
+   "geo": {
+    "lat": -8.485557,
+    "lng": 115.245491
+   },
+   "refLandmark": "짬뿌한 리지 워크"
+  },
+  {
+   "propertyId": 85395886,
+   "name": "호시노야 발리 (Hoshinoya Bali)",
+   "agodaUrl": "https://www.agoda.com/hoshinoya-bali-h1784323/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/85395886/0/6321e9224ad7672d6b6eb739a3f543ed.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 227,
+   "priceKRW": 976538,
+   "brand": "hoshinoya",
+   "brandLabel": "호시노야",
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.47702,
+    "lng": 115.30394
+   },
+   "refLandmark": "로카 스라나 버스터미널"
+  },
+  {
+   "propertyId": 78363497,
+   "name": "에퀴포이즈 리조트 - 럭셔리 에코 뱀부 리조트 인 우붓 바이 이니 비에 호스피탈리티 (Equipoise Resort- Luxury Eco Bamboo Resort in Ubud by iNi Vie Hospitality)",
+   "agodaUrl": "https://www.agoda.com/equipoise-resort-ubud-by-ini-vie-hospitality/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/78363497/0/b76f73178fcd9c1253445fa2d2f1648c.jpg?ce=3",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 206,
+   "priceKRW": 784831,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.444448,
+    "lng": 115.291245
+   },
+   "refLandmark": "로카 스라나 버스터미널"
+  },
+  {
+   "propertyId": 73539,
+   "name": "코모 샴발라 에스테이트 (COMO Shambhala Estate)",
+   "agodaUrl": "https://www.agoda.com/como-shambhala-estate/hotel/bali-id.html?cid=1925461",
+   "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630208945.jpg?k=b95f5112609f6e5326b56b1f343819fab8df5525cace978ba2d33c7fd226c50d&o=",
+   "star": 5,
+   "score": 9,
+   "reviewCount": 193,
+   "priceKRW": 2819273,
+   "brand": "como",
+   "brandLabel": "코모",
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.450781,
+    "lng": 115.235453
+   },
+   "refLandmark": "뜨갈라랑 라이스 테라스"
+  },
+  {
+   "propertyId": 14654956,
+   "name": "래플스 발리 (Raffles Bali)",
+   "agodaUrl": "https://www.agoda.com/raffles-bali-h16361748/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?va=1&ce=0",
+   "star": 5,
+   "score": 9.1,
+   "reviewCount": 166,
+   "priceKRW": 1653656,
+   "brand": "raffles",
+   "brandLabel": "래플스",
+   "bestSeller": true,
+   "geo": {
+    "lat": -8.784233,
+    "lng": 115.15786
+   },
+   "refLandmark": "워터봄 공원"
+  },
+  {
+   "propertyId": 5347453,
+   "name": "카펠라 우붓 (Capella Ubud)",
+   "agodaUrl": "https://www.agoda.com/capella-ubud/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/534/5347453/5347453_18072315540067066889.jpg?va=1&ca=0&ce=1",
+   "star": 5,
+   "score": 9.4,
+   "reviewCount": 127,
+   "priceKRW": 2448739,
+   "brand": "capella",
+   "brandLabel": "카펠라",
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.447693,
+    "lng": 115.268545
+   },
+   "refLandmark": "로카 스라나 버스터미널"
+  },
+  {
+   "propertyId": 82169038,
+   "name": "르 선셋 바이 나쿨라 (Le Sunset by Nakula)",
+   "agodaUrl": "https://www.agoda.com/villa-le-sunset-by-nakula/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/82169038/0/716210a5406a24018239dfde4a7870e5.jpg?va=1&ce=3",
+   "star": 5,
+   "score": 9.5,
+   "reviewCount": 38,
+   "priceKRW": 1402192,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.493073,
+    "lng": 115.256798
+   },
+   "refLandmark": "짬뿌한 리지 워크"
+  },
+  {
+   "propertyId": 38707671,
+   "name": "시리 멘디라 비치 빌라 (Siri Mendira Beach Villas )",
+   "agodaUrl": "https://www.agoda.com/siri-mendira-beach-villas-villa-angsoka-villa-bakung-and-villa-cempaka/hotel/bali-id.html?cid=1925461",
+   "img": "https://pix8.agoda.net/hotelImages/38707671/0/0b7b46669f36db721ca67f6506be4ed6.jpeg?va=1&ce=0",
+   "star": 5,
+   "score": 8.7,
+   "reviewCount": 37,
+   "priceKRW": 990341,
+   "brand": null,
+   "brandLabel": null,
+   "bestSeller": false,
+   "geo": {
+    "lat": -8.505511,
+    "lng": 115.549717
+   },
+   "refLandmark": "Mendira Beach"
+  }
+ ]
+}
