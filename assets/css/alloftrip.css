@@ -1,4 +1,13 @@
 /* ===== All of Trip — 한국어 하이패션 트래블 매거진 테마 (아이보리 페이퍼 · 블랙 · 보르도) =====
+   ── 디자인 규칙(이 파일이 기준) ──────────────────────────────────────────
+   1. 모서리는 각지게: 상자·카드·버튼·이미지 border-radius 0. (원형 점·아바타 같은 '원'만 예외)
+   2. 둥근 상자 + 한쪽 굵은 색선(border-left) 금지 — 모서리에서 선이 꺾여 'AI 템플릿' 느낌이 난다.
+      강조는 ① 짧은 세로선(2px × 글자 높이)을 라벨 앞에, ② 위 1px 검정 가로선 + 아래 연한 선으로만.
+   3. 배경 채운 박스 최소화: 섹션 구분은 여백과 가는 가로선으로. 그림자 없음.
+   4. 색: 잉크(검정)·보르도(accent) 두 가지로만 강조. 그라데이션은 히어로에만.
+   5. 독자에게 데이터 출처·조회 조건·표본 같은 '작성자용 정보'를 표로 보여주지 않는다.
+      독자 문장으로 한 줄만(예: "11월 15일 체크인 · 2인 1박 · 세금 포함 요금"), 근거는 JSON-LD에.
+   ──────────────────────────────────────────────────────────────────────
    article.css(공용 기반) 위에 덮어쓰는 브랜드 레이어. morestayz(세이지·라운드)·gocartglobal(네이비·인덱스)과
    구분되도록 잡지 마스트헤드·텍스트 내비·번호 매긴 기사·각진 이미지·굵은 한글 세리프를 쓴다. */
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,700;1,6..96,500&family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@400;500;700&display=swap');
@@ -145,3 +154,35 @@ footer{border-top:3px solid var(--ink)}
 .hl-links a.hl-cta{background:var(--ink);color:var(--bg);text-decoration:none;padding:7px 12px;font-weight:700}
 @media(max-width:640px){.hl-item{grid-template-columns:44px 1fr}.hl-img{grid-column:2}.hl-body{grid-column:2}.hl-no{font-size:1.8rem}}
 .dirlink{margin:28px 0;padding:14px 0;border-top:2px solid var(--ink);border-bottom:1px solid var(--ink);font-family:var(--serif);font-weight:700}.dirlink a{color:var(--text);text-decoration:none}.dirlink a:hover{color:var(--accent)}
+
+/* ── 규칙 1~3 적용: 남아 있던 둥근 상자·채운 박스 정리 ── */
+.ssnnote,.types,.rv,.meta span,.outro,.rec,.evidence-list div,.field-status,.site-purpose,
+.gd-keys,.gd-toc,.gd-tip,.gd-related a,.staycard,.sp-sec,.faq-item,.rv-tr,.hotel .ph .rk{border-radius:0!important;box-shadow:none!important}
+.gd-keys,.gd-toc{background:transparent;border:0;border-top:1px solid var(--ink);border-bottom:1px solid var(--line);padding:18px 0 16px;margin:28px 0}
+.gd-keys-label{display:flex;align-items:center;gap:8px;color:var(--text);letter-spacing:.14em}
+.gd-keys-label::before{content:"";width:2px;height:.95em;background:var(--accent);flex:none}
+.gd-keys ul,.gd-toc ol{padding-left:1.1em}
+.gd-keys li::marker,.gd-toc li::marker{color:var(--accent)}
+.gd-tip{background:transparent;border:0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:14px 0}
+.gd-tip::before{display:flex;align-items:center;gap:8px;color:var(--text)}
+.gd-tip::before{content:"인사이더 팁"}
+.gd-related{gap:0;border-top:1px solid var(--line)}
+.gd-related a{background:transparent;border:0;border-bottom:1px solid var(--line);padding:14px 0}
+.staycard{background:transparent;border:0;border-top:1px solid var(--ink);padding:16px 0}
+.staycard:hover{transform:none}
+.rec{background:transparent;border-top:1px solid var(--line);padding:14px 0}
+.types{background:transparent;border-top:1px solid var(--line)}
+.rv{background:transparent;border-bottom:1px solid var(--line)}
+.meta span{background:transparent;border:1px solid var(--line)}
+.outro{background:transparent;border-top:2px solid var(--ink)}
+/* 독자용 요금 기준 한 줄 */
+.ratenote{display:flex;align-items:center;gap:8px;font-size:.86rem;color:var(--muted);margin:-6px 0 28px}
+.ratenote::before{content:"";width:2px;height:.95em;background:var(--accent);flex:none}
+.mast .tagline{font-family:var(--serif);font-weight:900;font-size:clamp(1.15rem,2.6vw,1.55rem);letter-spacing:-.02em;line-height:1.45;color:var(--text);margin:10px auto 0;max-width:30ch}
+.mast .issue{margin-top:14px}
+.mast .tagline{max-width:none}.mast .tagline span{display:inline-block;white-space:nowrap}
+/* 알약 라벨·채운 데이터 상자 정리 */
+.vlabel{border-radius:0!important;background:transparent!important;color:var(--accent)!important;padding:0!important;margin-right:10px;display:inline-flex;align-items:center;gap:8px}
+.vlabel::before{content:"";width:2px;height:.95em;background:var(--accent)}
+.callout.verdict b{display:inline!important;background:none!important;color:var(--text)!important;font-family:inherit!important;font-size:inherit!important;letter-spacing:0!important;padding:0!important;border-radius:0!important;font-weight:800!important}
+.databox{background:transparent!important;border:0!important;border-top:1px solid var(--ink)!important;padding:20px 0!important}

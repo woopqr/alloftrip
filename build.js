@@ -193,6 +193,13 @@ function buildContext(data) {
     sampleTotal,
     sampleReliability: sampleTotal >= 50 ? '참고 가능한 표본' : '작은 표본 · 경향 참고용',
     sampleNotice: data.methodology?.sampleNotice || '여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다.',
+    // 독자용 요금 기준 한 줄(출처·조회 조건·표본 같은 작성자용 정보는 아래 JSON-LD에만)
+    rateNote: (() => {
+      const md = d => { const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(d || '')); return m ? `${+m[2]}월 ${+m[3]}일` : ''; };
+      const ci = md(data.methodology?.checkIn), seen = fetchedAt ? md(new Date(new Date(fetchedAt).getTime() + 9 * 3600000).toISOString()) : '';
+      const parts = [ci && `${ci} 체크인`, `${data.methodology?.adults || 2}인 1박`, '세금·봉사료 포함 요금', seen && `${seen} 기준`].filter(Boolean);
+      return ci ? parts.join(' · ') : '';
+    })(),
     robotsContent: isCurrentOrFuture(data) ? 'index,follow,max-image-preview:large' : 'noindex,follow',
     authorName: '올오브트립 데이터 데스크',
     updatedLabel: data.updated || String(fetchedAt || '').slice(0, 10),
@@ -207,6 +214,12 @@ function buildContext(data) {
       about: [{ '@type': 'Thing', name: data.city }, { '@type': 'Thing', name: data.audience }],
       isPartOf: { '@type': 'WebSite', name: SITE.name, url: `https://${SITE.domain}/` },
       mainEntityOfPage: canonical,
+      isBasedOn: {
+        '@type': 'Dataset', name: data.methodology?.source || '아고다 citySearch 검색 응답',
+        description: [data.methodology?.searchCondition, data.methodology?.sampleNotice].filter(Boolean).join(' / '),
+        dateModified: fetchedAt || undefined,
+        variableMeasured: ['세금·봉사료 포함 1박 요금(KRW)', '아고다 누적 평점', '리뷰 수', `여행자 유형 리뷰 표본 ${sampleTotal}건`],
+      },
     }).replace(/</g, '\\u003c'),
   };
 }
@@ -308,6 +321,8 @@ function buildMagazineContext(data) {
     author: { '@type': 'Organization', name: SITE.name, url: `https://${SITE.domain}/pages/about.html` },
     publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: `https://${SITE.domain}/favicon.svg` } },
     mainEntityOfPage: canonical,
+    // 출처는 독자 화면이 아니라 구조화 데이터로만 제공
+    citation: (data.sources || []).filter(x => x && x.url).map(x => ({ '@type': 'CreativeWork', name: x.name, url: x.url })),
   };
   const faqLd = faq.length ? {
     '@context': 'https://schema.org', '@type': 'FAQPage',

@@ -258,7 +258,6 @@ footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px soli
 .guide .sp-sub{color:#e9dfcb}
 .gd-byline{margin:14px 2px 0}
 .gd-keys,.gd-toc{background:var(--chip);border:1px solid var(--line);border-radius:16px;padding:18px 22px;margin:24px 0}
-.gd-keys{border-left:3px solid var(--accent)}
 .gd-keys-label{display:block;font-family:var(--sans);font-size:.72rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--accent-d);margin-bottom:8px}
 .gd-keys ul,.gd-toc ol{padding-left:1.2em;font-size:.97rem;line-height:1.7}
 .gd-keys li+li,.gd-toc li+li{margin-top:4px}
