@@ -1,0 +1,722 @@
+{
+  "slug": "honeymoon-singapore",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "싱가포르",
+  "citySlug": "singapore",
+  "cityId": 4064,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4064",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[싱가포르] 신혼부부가 아낌없이 고르는 최상위 허니문 숙소",
+  "metaDescription": "2026년 11월 싱가포르 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 37%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>더 웨스틴 싱가포르</b>입니다 (평점 8.8 · 리뷰 1,574건 · 1박 약 143만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/489841/0/05e243c59f89edc6e890441fbc292ddf.jpeg?va=1",
+  "heroAlt": "싱가포르 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 웨스틴 싱가포르 (The Westin Singapore)",
+      "agodaUrl": "https://www.agoda.com/the-westin-singapore/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/489841/0/05e243c59f89edc6e890441fbc292ddf.jpeg?va=1",
+      "score": 8.8,
+      "reviewCount": 1574,
+      "reviewCountFmt": "리뷰 1,574건",
+      "priceText": "₩₩₩ · 1박 약 143만원",
+      "walkMin": 1,
+      "refLabel": "Shenton Way MRT Station",
+      "star": 5,
+      "propertyId": 489841,
+      "geo": {
+        "lat": 1.278295,
+        "lng": 103.850662
+      },
+      "priceKRW": 1430689,
+      "priceStatus": "조회됨",
+      "distanceM": 62.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,574건. Shenton Way MRT Station까지 도보 1분, ₩₩₩ · 1박 약 143만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 143만원",
+        "📝 리뷰 1,574건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "For cruisers the port is a five minute drive from the hotel.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "I got this on 50% and the amenities and location are superb.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "A wonderful place and experience for any occasion.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The pillows were not too soft and the bed was comfortable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The rooms are clean and spacious and location is very good.",
+          "score": "7.6",
+          "country": "India",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "파크로얄 컬렉션 마리나 베이, 싱가포르 (PARKROYAL COLLECTION Marina Bay, Singapore)",
+      "agodaUrl": "https://www.agoda.com/marina-mandarin-singapore-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10603/0/9b08ae7ef919f0f09834adb33fd70a81.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 24487,
+      "reviewCountFmt": "리뷰 24,487건",
+      "priceText": "₩₩₩ · 1박 약 112만원",
+      "walkMin": 5,
+      "refLabel": "MRT 에스플러네이드역",
+      "star": 5,
+      "propertyId": 10603,
+      "geo": {
+        "lat": 1.291101,
+        "lng": 103.857704
+      },
+      "priceKRW": 1119178,
+      "priceStatus": "조회됨",
+      "distanceM": 374.75,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "불치사 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 24,487건. MRT 에스플러네이드역까지 도보 5분, ₩₩₩ · 1박 약 112만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 112만원",
+        "📝 리뷰 24,487건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel is beautiful and also the staff are so friendly.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Parking was easy, and the place is very suitable for family.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Not only that, she added another bed in our room for my son.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Everything about the stay was smooth, cozy, and stress-free.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "This hotel is very nice, i love it and i would recommend it",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "W 싱가포르 - 센토사 코브 (W Singapore - Sentosa Cove)",
+      "agodaUrl": "https://www.agoda.com/w-singapore-sentosa-cove/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/519100770.jpg?k=b51d6bc1642b1b7f1dc9d18738dc422a5beebed5883d8491ccf0a2ae647a8bf4&o=",
+      "score": 8.7,
+      "reviewCount": 5356,
+      "reviewCountFmt": "리뷰 5,356건",
+      "priceText": "₩₩₩ · 1박 약 123만원",
+      "walkMin": 33,
+      "refLabel": "Waterfront",
+      "star": 5,
+      "propertyId": 399865,
+      "geo": {
+        "lat": 1.246384,
+        "lng": 103.842499
+      },
+      "priceKRW": 1227202,
+      "priceStatus": "조회됨",
+      "distanceM": 2602.46,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 5,356건. Waterfront까지 도보 33분, ₩₩₩ · 1박 약 123만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 123만원",
+        "📝 리뷰 5,356건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location, views with yachts and restaurants alongside.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious, sexy and comes with good amenities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The pool is 24/7 and the food at The Kitchen is amazing.",
+          "score": "9.6",
+          "country": "Pakistan",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The property exceeded our expectations in every aspect.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The staffs and facilities provided are beyond words",
+          "score": "10",
+          "country": "Nigeria",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "파크로얄 콜렉션 피커링, 싱가포르 (PARKROYAL COLLECTION Pickering, Singapore)",
+      "agodaUrl": "https://www.agoda.com/parkroyal-on-pickering/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/407120/0/f1c6d82e3ce2085720afde5c2a6e8946.jpeg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 13958,
+      "reviewCountFmt": "리뷰 13,958건",
+      "priceText": "₩₩₩ · 1박 약 113만원",
+      "walkMin": 3,
+      "refLabel": "MRT 차이나타운역",
+      "star": 5,
+      "propertyId": 407120,
+      "geo": {
+        "lat": 1.285706,
+        "lng": 103.846207
+      },
+      "priceKRW": 1126460,
+      "priceStatus": "조회됨",
+      "distanceM": 272.92,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 13,958건. MRT 차이나타운역까지 도보 3분, ₩₩₩ · 1박 약 113만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 113만원",
+        "📝 리뷰 13,958건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "A benchmark for hotels now and into the future.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was great and the check in and out was seamless.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The facilities especially gym and swimming pool are great.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The pool area, gym and spa is the best spot in the hotel.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The room was beautifully decorated and spotlessly clean.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "팬 퍼시픽 싱가포르 (Pan Pacific Singapore)",
+      "agodaUrl": "https://www.agoda.com/pan-pacific-singapore/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10625/0/e3d5893d05a89189d2e781bdd0c2b73c.jpeg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 17647,
+      "reviewCountFmt": "리뷰 17,647건",
+      "priceText": "₩₩₩ · 1박 약 104만원",
+      "walkMin": 4,
+      "refLabel": "MRT 프로메나드역",
+      "star": 5,
+      "propertyId": 10625,
+      "geo": {
+        "lat": 1.292418,
+        "lng": 103.858582
+      },
+      "priceKRW": 1043813,
+      "priceStatus": "조회됨",
+      "distanceM": 291.94,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "불치사 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 17,647건. MRT 프로메나드역까지 도보 4분, ₩₩₩ · 1박 약 104만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 104만원",
+        "📝 리뷰 17,647건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "There is also a Japanese garden to chill and vibe.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "I really appreciate the warm hospitality throughout my stay.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The breakfast is great got so many different types of food.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "They are generous as well when it comes to their amenities.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, spotless, and had a beautiful view.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "리조트 월드 센토사 - 에쿠아리우스 빌라 (Resorts World Sentosa - Equarius Villas)",
+      "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-beach-villas/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/297131/0/519f0b7c1db7f486d47673e337881b3c.jpeg?va=1&ce=3",
+      "score": 8.8,
+      "reviewCount": 1398,
+      "reviewCountFmt": "리뷰 1,398건",
+      "priceText": "₩₩₩ · 1박 약 101만원",
+      "walkMin": 8,
+      "refLabel": "Waterfront",
+      "star": 5,
+      "propertyId": 297131,
+      "geo": {
+        "lat": 1.259453,
+        "lng": 103.816666
+      },
+      "priceKRW": 1006202,
+      "priceStatus": "조회됨",
+      "distanceM": 646.22,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,398건. Waterfront까지 도보 8분, ₩₩₩ · 1박 약 101만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 101만원",
+        "📝 리뷰 1,398건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Had a memorable time . Thanks to the hotel for making it so.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Stayed with my twin infants and definately worth the stay.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Now the best part about this room? The aquarium of course!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The kids loved the private pool and it was very spacious.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Room is fantastic, staff is friendly and pool is marvellous.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:56:33.314Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:56:33.314Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

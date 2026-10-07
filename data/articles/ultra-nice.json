@@ -1,0 +1,669 @@
+{
+  "slug": "ultra-nice",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "니스",
+  "citySlug": "nice",
+  "cityId": 5277,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5277",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[니스] 가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+  "metaDescription": "2026년 11월 니스 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 56%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>메종 알바르 - 르 빅토리아</b>입니다 (평점 9.2 · 리뷰 814건 · 1박 약 53만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 27,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 15,
+        "pct": 56
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 19
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 4,
+        "pct": 15
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/92019133/0/b6a598cc66aa405e7c033ee1d7d12f2c.jpg?va=1&ce=3",
+  "heroAlt": "니스 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "메종 알바르 - 르 빅토리아 (Maison Albar - Le Victoria)",
+      "agodaUrl": "https://www.agoda.com/maison-albar-le-victoria/hotel/nice-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/92019133/0/b6a598cc66aa405e7c033ee1d7d12f2c.jpg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 814,
+      "reviewCountFmt": "리뷰 814건",
+      "priceText": "₩₩ · 1박 약 53만원",
+      "walkMin": 12,
+      "refLabel": "니스 빌역",
+      "star": 5,
+      "propertyId": 92019133,
+      "geo": {
+        "lat": 43.696407,
+        "lng": 7.266588
+      },
+      "priceKRW": 526954,
+      "priceStatus": "조회됨",
+      "distanceM": 981.53,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "피닉스 파크 플로랄 드 니스"
+      ],
+      "blurb": "평점 9.2 · 리뷰 814건. 니스 빌역까지 도보 12분, ₩₩ · 1박 약 53만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 53만원",
+        "📝 리뷰 814건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooftop restaurant view and food is truly impressive.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The location is super",
+          "score": "10",
+          "country": "المملكة العربية السعودية",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The breakfast is good",
+          "score": "10",
+          "country": "المملكة العربية السعودية",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great views from rooftop bar and pool.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "호텔 네그레스코 (Hotel Negresco)",
+      "agodaUrl": "https://www.agoda.com/hotel-negresco/hotel/nice-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7227861/0/bcef3a88eee99c4c94e02576b351b8b1.jpeg?va=1",
+      "score": 9.3,
+      "reviewCount": 1661,
+      "reviewCountFmt": "리뷰 1,661건",
+      "priceText": "₩₩ · 1박 약 50만원",
+      "walkMin": 14,
+      "refLabel": "니스 빌역",
+      "star": 5,
+      "propertyId": 7227861,
+      "geo": {
+        "lat": 43.694489,
+        "lng": 7.25838
+      },
+      "priceKRW": 502579,
+      "priceStatus": "조회됨",
+      "distanceM": 1155.07,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "피닉스 파크 플로랄 드 니스"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,661건. 니스 빌역까지 도보 14분, ₩₩ · 1박 약 50만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 50만원",
+        "📝 리뷰 1,661건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel staff is super professional and really care.",
+          "score": "10",
+          "country": "Швейцария",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Service impeccable, lovely clean comfortable rooms",
+          "score": "10",
+          "country": "France",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "This is the one of the best hotels I have stayed.",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Amazing hotel with even better staff and accommodations!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly but polite and helpful.",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "아난타라 플라자 니스 호텔 – 어 리딩 호텔 오브 더 월드 (Anantara Plaza Nice Hotel – A Leading Hotel of the World)",
+      "agodaUrl": "https://www.agoda.com/hotel-plaza/hotel/nice-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49372/0/e5a7c8a38a852add31c74abab39240be.jpeg?va=1&ce=3",
+      "score": 8.7,
+      "reviewCount": 1109,
+      "reviewCountFmt": "리뷰 1,109건",
+      "priceText": "₩₩ · 1박 약 53만원",
+      "walkMin": 13,
+      "refLabel": "니스 빌역",
+      "star": 5,
+      "propertyId": 49372,
+      "geo": {
+        "lat": 43.696602,
+        "lng": 7.2682
+      },
+      "priceKRW": 534738,
+      "priceStatus": "조회됨",
+      "distanceM": 1019.32,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "영국인 산책로",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 1,109건. 니스 빌역까지 도보 13분, ₩₩ · 1박 약 53만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 53만원",
+        "📝 리뷰 1,109건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Honestly, this is one of the best hotels in Nice.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Very clean, well located and very beautiful room.",
+          "score": "10",
+          "country": "France",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Spacious, exceptionally clean room and shower room.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The staff was extremely helpful and nice!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and comfortable",
+          "score": "9.6",
+          "country": "Türkiye",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "호텔 팔레 드 라 메디테라네 - 더 언바운드 컬렉션 바이 하얏트 (Hôtel Palais de la Méditerranée - The Unbound Collection by Hyatt)",
+      "agodaUrl": "https://www.agoda.com/hyatt-regency-nice-palais-de-la-mediterranee/hotel/nice-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/923827251.jpg?k=41b2bf404da4910cd3315dc0e922742315389076fc55d95ffd10a40ac424b570&o=",
+      "score": 8.8,
+      "reviewCount": 1120,
+      "reviewCountFmt": "리뷰 1,120건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 13,
+      "refLabel": "니스 빌역",
+      "star": 5,
+      "propertyId": 487682,
+      "geo": {
+        "lat": 43.69508,
+        "lng": 7.263395
+      },
+      "priceKRW": 402886,
+      "priceStatus": "조회됨",
+      "distanceM": 1060.8,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "피닉스 파크 플로랄 드 니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,120건. 니스 빌역까지 도보 13분, ₩₩ · 1박 약 40만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 1,120건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This hotel has a great location - right on the beach.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "If I return to Nice, I’d stay here for sure.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Kudos to Camille (front desk) and Antonio (Concierge).",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Perfect position to make the most of Nice.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Really happy to be in this hotel .",
+          "score": "10",
+          "country": "Україна",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "오텔 뒤 쿠방 어 럭셔리 컬렉션 호텔 니스 프랑스 (Hôtel du Couvent, a Luxury Collection Hotel, Nice, France)",
+      "agodaUrl": "https://www.agoda.com/hotel-du-couvent-a-luxury-collection-hotel-nice-france/hotel/nice-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/65662412/1153947473/4c057a28edd4d8a792f83672a0446026.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 489,
+      "reviewCountFmt": "리뷰 489건",
+      "priceText": "₩₩ · 1박 약 53만원",
+      "walkMin": 16,
+      "refLabel": "니스 리키에역",
+      "star": 5,
+      "propertyId": 50243143,
+      "geo": {
+        "lat": 43.698238,
+        "lng": 7.27828
+      },
+      "priceKRW": 526442,
+      "priceStatus": "조회됨",
+      "distanceM": 1255.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "영국인 산책로",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 489건. 니스 리키에역까지 도보 16분, ₩₩ · 1박 약 53만원.",
+      "metaTags": [
+        "💰 1박 약 53만원",
+        "📝 리뷰 489건",
+        "⭐ 5성급",
+        "👥 출장·비즈니스 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "출장·비즈니스",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff, location F&B are all exceptional",
+          "score": "9.6",
+          "country": "Italy",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great place in every sense of the word",
+          "score": "9.6",
+          "country": "Italy",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Cant Fault it",
+          "score": "9.6",
+          "country": "Italy",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "보스콜로 니스 호텔 앤 스파 (Boscolo Nice Hotel & Spa)",
+      "agodaUrl": "https://www.agoda.com/boscolo-exedra-nice-autograph-collection/hotel/default-city-km.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/15954463/0/89f174d6ea33d7489209b3339c3ecc97.jpeg?va=1&ce=3",
+      "score": 8.4,
+      "reviewCount": 1646,
+      "reviewCountFmt": "리뷰 1,646건",
+      "priceText": "₩₩ · 1박 약 27만원",
+      "walkMin": 7,
+      "refLabel": "니스 빌역",
+      "star": 5,
+      "propertyId": 15954463,
+      "geo": {
+        "lat": 43.699997,
+        "lng": 7.265567
+      },
+      "priceKRW": 273237,
+      "priceStatus": "조회됨",
+      "distanceM": 586.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "영국인 산책로",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 1,646건. 니스 빌역까지 도보 7분, ₩₩ · 1박 약 27만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 27만원",
+        "📝 리뷰 1,646건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Excellent hotel with wonderful people and lovely food.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent location close to shopping and sightseeing areas.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Beautiful and elegant rooms, friendly and professional staff",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel was very nice, clean and with a good service.",
+          "score": "9.2",
+          "country": "Italy",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "We extended our stay as we loved it so much",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:59:23.414Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:59:23.414Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

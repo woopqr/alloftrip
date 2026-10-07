@@ -1,0 +1,580 @@
+{
+  "slug": "anniversary-cancun",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "칸쿤",
+  "citySlug": "cancun",
+  "cityId": 5954,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5954",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[칸쿤] 특별한 날을 완성하는 5성급 기념일 스테이",
+  "metaDescription": "2026년 11월 칸쿤 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 50%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>JW 메리어트 칸쿤 리조트 앤 스파</b>입니다 (평점 9 · 리뷰 575건 · 1박 약 65만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 30
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 15
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/83461/0/e51eb1150ea3eb74c6fcfba1fc79333c.jpeg?va=1",
+  "heroAlt": "칸쿤 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "JW 메리어트 칸쿤 리조트 앤 스파 (JW Marriott Cancun Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/jw-marriott-cancun-resort-spa/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/83461/0/e51eb1150ea3eb74c6fcfba1fc79333c.jpeg?va=1",
+      "score": 9,
+      "reviewCount": 575,
+      "reviewCountFmt": "리뷰 575건",
+      "priceText": "₩₩ · 1박 약 65만원",
+      "walkMin": 21,
+      "refLabel": "아베니다 쿠쿨칸",
+      "star": 5,
+      "propertyId": 83461,
+      "geo": {
+        "lat": 21.088253,
+        "lng": -86.770866
+      },
+      "priceKRW": 650081,
+      "priceStatus": "조회됨",
+      "distanceM": 1679.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "플라야 델파인"
+      ],
+      "blurb": "평점 9 · 리뷰 575건. 아베니다 쿠쿨칸까지 도보 21분, ₩₩ · 1박 약 65만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 65만원",
+        "📝 리뷰 575건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was very good hotel for our family.",
+          "score": "10",
+          "country": "Mexico",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Very good hotel for our family",
+          "score": "10",
+          "country": "Mexico",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Can’t beat the location.",
+          "score": "10",
+          "country": "Mexico",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Great Thai restaurant in site.",
+          "score": "10",
+          "country": "Mexico",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "We love the hotel.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Secrets Mirabel Cancun Resort & Spa - Adults Only - Breathtaking Lagoon and Ocean Views",
+      "agodaUrl": "https://www.agoda.com/now-emerald-cancun/hotel/all/san-miguel-de-cozumel-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/874489925.jpg?k=682044020b58d8c4ab3471c1353a935f7032a077eeb4f5514cf84ffd1f77b232&o=",
+      "score": 8.8,
+      "reviewCount": 131,
+      "reviewCountFmt": "리뷰 131건",
+      "priceText": "₩₩₩ · 1박 약 75만원",
+      "walkMin": 8,
+      "refLabel": "플라야 델파인",
+      "star": 5,
+      "propertyId": 7485333,
+      "geo": {
+        "lat": 21.05401,
+        "lng": -86.781906
+      },
+      "priceKRW": 749465,
+      "priceStatus": "조회됨",
+      "distanceM": 641.15,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "플라야 델파인"
+      ],
+      "blurb": "평점 8.8 · 리뷰 131건. 플라야 델파인까지 도보 8분, ₩₩₩ · 1박 약 75만원.",
+      "metaTags": [
+        "💰 1박 약 75만원",
+        "📝 리뷰 131건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "니수크 리조트 앤 스파 (Nizuc Resort and Spa)",
+      "agodaUrl": "https://www.agoda.com/nizuc-resort-spa/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7011015/0/988039115e510028ff3a6f1a969bf7f4.jpeg?va=1",
+      "score": 9.1,
+      "reviewCount": 621,
+      "reviewCountFmt": "리뷰 621건",
+      "priceText": "₩₩₩ · 1박 약 82만원",
+      "walkMin": 36,
+      "refLabel": "웻앤와일드 칸쿤",
+      "star": 5,
+      "propertyId": 7011015,
+      "geo": {
+        "lat": 21.034103,
+        "lng": -86.78907
+      },
+      "priceKRW": 819540,
+      "priceStatus": "조회됨",
+      "distanceM": 2886.86,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "플라야 델파인"
+      ],
+      "blurb": "평점 9.1 · 리뷰 621건. 웻앤와일드 칸쿤까지 도보 36분, ₩₩₩ · 1박 약 82만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 82만원",
+        "📝 리뷰 621건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Was our fifth time staying here and it did not disappoint",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend the breakfast buffet.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great location to Cancun airport",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Nizuc was absolutely amazing.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Food was delicious.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "인터컨티넨탈 프레지덴테 칸쿤 리조트 바이 IHG (Intercontinental Presidente Cancun Resort By IHG)",
+      "agodaUrl": "https://www.agoda.com/presidente-intercontinental-cancun-resort/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4290/0/194320ed0c5ca2c434871c773207b77c.jpeg?va=1&ce=3",
+      "score": 8.5,
+      "reviewCount": 61,
+      "reviewCountFmt": "리뷰 61건",
+      "priceText": "₩₩ · 1박 약 48만원",
+      "walkMin": 102,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 4290,
+      "geo": {
+        "lat": 21.135004,
+        "lng": -86.754257
+      },
+      "priceKRW": 480153,
+      "priceStatus": "조회됨",
+      "distanceM": 8155.36,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "플라야 토르투가스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 61건. Cancun Bus Station까지 도보 102분, ₩₩ · 1박 약 48만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 48만원",
+        "📝 리뷰 61건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This place has three restaurants and a bar for food options.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous beach, relatively short drive to Centro.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The staff are excellent and the food is delicious.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Overall, I had a very pleasant stay at the hotel.",
+          "score": "9.2",
+          "country": "Kuwait",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel staff was always pleasant and super attentive.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Temptation at The Tower Cancún Resort - All Inclusive - Adults Only (Temptation at The Tower Cancun Resort - All Inclusive - Adults Only)",
+      "agodaUrl": "https://www.agoda.com/the-tower-by-temptation-cancun-resort-all-inclusive-adults-only/hotel/all/cancun-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/336408350.jpg?k=e8b8143d41808246967cf20fbbaa6cb51078520bb2822151e2e8e33deaa67ed7&o=",
+      "score": 8.9,
+      "reviewCount": 156,
+      "reviewCountFmt": "리뷰 156건",
+      "priceText": "₩₩₩ · 1박 약 76만원",
+      "walkMin": 49,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 4853723,
+      "geo": {
+        "lat": 21.148359,
+        "lng": -86.792297
+      },
+      "priceKRW": 764681,
+      "priceStatus": "조회됨",
+      "distanceM": 3949.29,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "플라야 토르투가스"
+      ],
+      "blurb": "평점 8.9 · 리뷰 156건. Cancun Bus Station까지 도보 49분, ₩₩₩ · 1박 약 76만원.",
+      "metaTags": [
+        "💰 1박 약 76만원",
+        "📝 리뷰 156건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Mondrian Cancun",
+      "agodaUrl": "https://www.agoda.com/mondrian-cancun-h50565376/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50565376/0/7a85d0f2aac5ef3c12a58ddf3c9d9bc2.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 703,
+      "reviewCountFmt": "리뷰 703건",
+      "priceText": "₩₩ · 1박 약 54만원",
+      "walkMin": 7,
+      "refLabel": "플라야 델파인",
+      "star": 5,
+      "propertyId": 50565376,
+      "geo": {
+        "lat": 21.066761,
+        "lng": -86.783226
+      },
+      "priceKRW": 535667,
+      "priceStatus": "조회됨",
+      "distanceM": 597.96,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "플라야 델파인"
+      ],
+      "blurb": "평점 8.9 · 리뷰 703건. 플라야 델파인까지 도보 7분, ₩₩ · 1박 약 54만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 54만원",
+        "📝 리뷰 703건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "And fabulous restaurants-French, Italian, Mexican, Japanese!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms are beautiful modern, spacious so clean.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Amazing experience all round, this is a fantastic hotel",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The food was soo amazing i tried all the restaurants",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "I dont have one bad thing to say about this resort",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:55:53.825Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:55:53.825Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Secrets Mirabel Cancun Resort & Spa - Adults Only - Breathtaking Lagoon and Ocean Views: reviewSample",
+        "Temptation at The Tower Cancún Resort - All Inclusive - Adults Only (Temptation at The Tower Cancun Resort - All Inclusive - Adults Only): reviewSample"
+      ]
+    }
+  }
+}

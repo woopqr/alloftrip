@@ -1,0 +1,628 @@
+{
+  "slug": "honeymoon-rome",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "로마",
+  "citySlug": "rome",
+  "cityId": 16594,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16594",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[로마] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 로마 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 78%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>Umiltà 36 - Preferred Hotels & Resorts</b>입니다 (평점 9.5 · 리뷰 2,188건 · 1박 약 103만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 23,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 18,
+        "pct": 78
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 13
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/593207611.jpg?k=44578679a6f37a413cbd9d1475d152c33cd096b165fdf356d2d94534f96dd626&o=",
+  "heroAlt": "로마 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Umiltà 36 - Preferred Hotels & Resorts (Umilta 36 - Preferred Hotels & Resorts)",
+      "agodaUrl": "https://www.agoda.com/umilta-36_2/hotel/all/rome-it.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/593207611.jpg?k=44578679a6f37a413cbd9d1475d152c33cd096b165fdf356d2d94534f96dd626&o=",
+      "score": 9.5,
+      "reviewCount": 2188,
+      "reviewCountFmt": "리뷰 2,188건",
+      "priceText": "₩₩₩ · 1박 약 103만원",
+      "walkMin": 9,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 31589020,
+      "geo": {
+        "lat": 41.899399,
+        "lng": 12.482399
+      },
+      "priceKRW": 1030719,
+      "priceStatus": "조회됨",
+      "distanceM": 719.11,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "Rome top guest-rated area",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 2,188건. 바르베리니 - 폰타나 디 트레비까지 도보 9분, ₩₩₩ · 1박 약 103만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 103만원",
+        "📝 리뷰 2,188건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Good location , modern decorations and excellent service.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms are spacious and have a great decor.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Truly one of the best hotels in my life.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The food especially the breakfast is amazing and delicious.",
+          "score": "9.6",
+          "country": "Saudi Arabia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Brilliant, Exceptional, Convenient, Absolutely Enjoyable",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "빌라 스팔레티 트리벨리 - 스몰 럭셔리 호텔 오브 더 월드 (Villa Spalletti Trivelli - Small Luxury Hotels of The World)",
+      "agodaUrl": "https://www.agoda.com/villa-spalletti-trivelli-small-luxury-hotels-of-the-world/hotel/rome-it.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/22378875.jpg?k=01886eceeb04299d0174a946d59fd44875e4c5f849306f9cb603c3fd8ba6958e&o=",
+      "score": 9.5,
+      "reviewCount": 300,
+      "reviewCountFmt": "리뷰 300건",
+      "priceText": "₩₩₩ · 1박 약 124만원",
+      "walkMin": 6,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 191697,
+      "geo": {
+        "lat": 41.899181,
+        "lng": 12.48834
+      },
+      "priceKRW": 1241594,
+      "priceStatus": "조회됨",
+      "distanceM": 497.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "Rome top guest-rated area",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 300건. 바르베리니 - 폰타나 디 트레비까지 도보 6분, ₩₩₩ · 1박 약 124만원.",
+      "metaTags": [
+        "💰 1박 약 124만원",
+        "📝 리뷰 300건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 출장·비즈니스 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "출장·비즈니스",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best in Rome",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Six Senses Rome",
+      "agodaUrl": "https://www.agoda.com/six-senses-rome/hotel/all/rome-it.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/602232451.jpg?k=bf2ca1b313d78c08aabe2105081344f374c8b38a76d20044ba37ae2f9258fe86&o=",
+      "score": 9.4,
+      "reviewCount": 35,
+      "reviewCountFmt": "리뷰 35건",
+      "priceText": "₩₩₩ · 1박 약 146만원",
+      "walkMin": 10,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 35239902,
+      "geo": {
+        "lat": 41.898651,
+        "lng": 12.48139
+      },
+      "priceKRW": 1464202,
+      "priceStatus": "조회됨",
+      "distanceM": 836.73,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 35건. 바르베리니 - 폰타나 디 트레비까지 도보 10분, ₩₩₩ · 1박 약 146만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 146만원",
+        "📝 리뷰 35건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Fantastic location and superb service.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "We spent a wonderful time in a great hotel in Rome.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The best hotel in Rome",
+          "score": "10",
+          "country": "Bulgaria",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "싱어 팰리스 호텔 (Singer Palace Hotel)",
+      "agodaUrl": "https://www.agoda.com/singer-palace-hotel_2/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/583/5837338/5837338_18101622270068521980.jpg?ca=7&ce=1",
+      "score": 9.5,
+      "reviewCount": 45,
+      "reviewCountFmt": "리뷰 45건",
+      "priceText": "₩₩₩ · 1박 약 136만원",
+      "walkMin": 10,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 5837338,
+      "geo": {
+        "lat": 41.898941,
+        "lng": 12.48115
+      },
+      "priceKRW": 1361504,
+      "priceStatus": "조회됨",
+      "distanceM": 831.15,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 45건. 바르베리니 - 폰타나 디 트레비까지 도보 10분, ₩₩₩ · 1박 약 136만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 136만원",
+        "📝 리뷰 45건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The exquisite boutique hotel has everything you could want.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great location within a couple of blocks of everything.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "NOTHING WAS EVER TOO HARD AND ALWAYS HAPPY TO HELP.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The staff were exceptional, helpful and accommodating.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Bar and restaurant on the roof.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "호텔 딘길테라 로마 - 스타호텔 콜레지오네 (Hotel d'Inghilterra Roma - Starhotels Collezione)",
+      "agodaUrl": "https://www.agoda.com/hotel-d-inghilterra-roma-starhotels-collezione/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1255297/-1/72b467b89235b7a19f4c3edd8e7f4556.jpg?ce=0",
+      "score": 8.4,
+      "reviewCount": 1063,
+      "reviewCountFmt": "리뷰 1,063건",
+      "priceText": "₩₩₩ · 1박 약 105만원",
+      "walkMin": 3,
+      "refLabel": "스파냐역",
+      "star": 5,
+      "propertyId": 1255297,
+      "geo": {
+        "lat": 41.904781,
+        "lng": 12.480597
+      },
+      "priceKRW": 1054752,
+      "priceStatus": "조회됨",
+      "distanceM": 279.21,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "Rome top guest-rated area",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 1,063건. 스파냐역까지 도보 3분, ₩₩₩ · 1박 약 105만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 105만원",
+        "📝 리뷰 1,063건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff are extremely helpful and friendly.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Everything was exceptional",
+          "score": "9.6",
+          "country": "Romania",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Middle of the city.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Prime location.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Maalot Roma - Small Luxury Hotels of the World",
+      "agodaUrl": "https://www.agoda.com/maalot-roma-small-luxury-hotels-of-the-world/hotel/all/rome-it.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/478895409.jpg?k=6247192d78e4f908b105ef877b6cac0e5c133f2d7fdeef24c6f80ae7269bdbab&o=",
+      "score": 9.6,
+      "reviewCount": 1132,
+      "reviewCountFmt": "리뷰 1,132건",
+      "priceText": "₩₩₩ · 1박 약 105만원",
+      "walkMin": 8,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 27996110,
+      "geo": {
+        "lat": 41.900459,
+        "lng": 12.48205
+      },
+      "priceKRW": 1047218,
+      "priceStatus": "조회됨",
+      "distanceM": 672.52,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "Rome top guest-rated area",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 1,132건. 바르베리니 - 폰타나 디 트레비까지 도보 8분, ₩₩₩ · 1박 약 105만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 105만원",
+        "📝 리뷰 1,132건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Hotel Maalot need to keep hold of all their staff!!",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel and so close to everything but still quiet.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "In particular, Ivan Galeano was exceptional.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Lovely staff and breakfast was a highlight.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel itself was very clean and nicely design.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:58:47.432Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:58:47.432Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

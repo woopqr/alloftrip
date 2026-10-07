@@ -1,0 +1,725 @@
+{
+  "slug": "anniversary-abu-dhabi",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "아부다비",
+  "citySlug": "abu-dhabi",
+  "cityId": 10182,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=10182",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[아부다비] 특별한 날을 완성하는 5성급 기념일 스테이",
+  "metaDescription": "2026년 11월 아부다비 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 33%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>더 세인트 레지스 아부다비</b>입니다 (평점 9.4 · 리뷰 2,245건 · 1박 약 72만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600114174.jpg?k=a844a691ad6f35067644a981ec0b510f06b93d124739f68d949be00546fd4e38&o=",
+  "heroAlt": "아부다비 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 세인트 레지스 아부다비 (The St. Regis Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600114174.jpg?k=a844a691ad6f35067644a981ec0b510f06b93d124739f68d949be00546fd4e38&o=",
+      "score": 9.4,
+      "reviewCount": 2245,
+      "reviewCountFmt": "리뷰 2,245건",
+      "priceText": "₩₩₩ · 1박 약 72만원",
+      "walkMin": 26,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 520310,
+      "geo": {
+        "lat": 24.4659,
+        "lng": 54.329109
+      },
+      "priceKRW": 720714,
+      "priceStatus": "조회됨",
+      "distanceM": 2067.59,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "에미레이트 궁전"
+      ],
+      "blurb": "평점 9.4 · 리뷰 2,245건. Abu Dhabi EK Bus Station까지 도보 26분, ₩₩₩ · 1박 약 72만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 72만원",
+        "📝 리뷰 2,245건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our stay at the st regis was everything we could dream of.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "These thoughtful touches made the experience exceptional.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Staff were excellent and restaurant was superb!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We were treated like royalty throughout our time there.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "It was really a pleasant and refreshing stay",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "비치 로타나 - 올 스위트 (Beach Rotana - All Suites)",
+      "agodaUrl": "https://www.agoda.com/beach-rotana-all-suites/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2011899/0/6f80b78d8a69b48c390b814ab9ac6b48.jpeg?ce=3",
+      "score": 8.7,
+      "reviewCount": 719,
+      "reviewCountFmt": "리뷰 719건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 36,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 2011899,
+      "geo": {
+        "lat": 24.495955,
+        "lng": 54.382492
+      },
+      "priceKRW": 403594,
+      "priceStatus": "조회됨",
+      "distanceM": 2879.63,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "루브르 아부다비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 719건. 아부다비 센트럴 버스정류장까지 도보 36분, ₩₩ · 1박 약 40만원.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 719건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Always great to be back, amazing staff, wonderful rooms.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Mr. Saleh and Mr. Naveen was very helpful and accommodating.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly and always greets you.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The staffs were so accommodating.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Room and overall stay was great!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "보고 아부다비 골프 리조트 앤 스파 - 구 더 웨스틴 아부다비 골프 리조트 앤 스파 (VOGO Abu Dhabi Golf Resort & Spa - Formerly The Westin Abu Dhabi Golf Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/the-westin-abu-dhabi-golf-resort-spa_4/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4949740/0/aacf04ac90195bbf70d3528a7b0b54d3.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 3796,
+      "reviewCountFmt": "리뷰 3,796건",
+      "priceText": "₩₩ · 1박 약 23만원",
+      "walkMin": 114,
+      "refLabel": "PRT Line",
+      "star": 5,
+      "propertyId": 4949740,
+      "geo": {
+        "lat": 24.419388,
+        "lng": 54.528595
+      },
+      "priceKRW": 227502,
+      "priceStatus": "조회됨",
+      "distanceM": 9128.94,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 3,796건. PRT Line까지 도보 114분, ₩₩ · 1박 약 23만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 23만원",
+        "📝 리뷰 3,796건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The facility is so beautiful and very well taken care of.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Had dinner at the Italian restaurant which was top class.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The pool, breakfast, and overall atmosphere are also great.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The staff and service were amazingly nice and professional.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend this hotel to anyone visiting the area.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "래디슨 블루 호텔 앤 리조트, 아부다비 코니시 (Radisson Blu Hotel & Resort, Abu Dhabi Corniche)",
+      "agodaUrl": "https://www.agoda.com/radisson-blu-hotel-resort-abu-dhabi-corniche/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6380691/0/cab0e5bdffa9cd33583b2830cb9e2167.jpeg?ce=2",
+      "score": 8.9,
+      "reviewCount": 9954,
+      "reviewCountFmt": "리뷰 9,954건",
+      "priceText": "₩₩ · 1박 약 29만원",
+      "walkMin": 32,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 6380691,
+      "geo": {
+        "lat": 24.462957,
+        "lng": 54.325855
+      },
+      "priceKRW": 294496,
+      "priceStatus": "조회됨",
+      "distanceM": 2525.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "에미레이트 궁전",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 9,954건. Abu Dhabi EK Bus Station까지 도보 32분, ₩₩ · 1박 약 29만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 29만원",
+        "📝 리뷰 9,954건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Next time I will order all inclusive or full board",
+          "score": "10",
+          "country": "Armenia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "As for the accommodation and the view, it is very wonderful.",
+          "score": "8.8",
+          "country": "United Arab Emirates",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Thanks to Mr. Ahmed in the reception who is always smiling.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Overall, we enjoyed our staycation for 3 days and 2 nights.",
+          "score": "8.4",
+          "country": "United Arab Emirates",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "We had good time with our young kid in the pools and beach.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "알 라하 비치 리조트 앤 스파 (Al Raha Beach Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/al-raha-beach-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/64026/0/c0334d24e8ed2583039f8dc6097d01fd.jpeg?ce=3",
+      "score": 8.7,
+      "reviewCount": 1642,
+      "reviewCountFmt": "리뷰 1,642건",
+      "priceText": "₩₩ · 1박 약 37만원",
+      "walkMin": 57,
+      "refLabel": "PRT Line",
+      "star": 5,
+      "propertyId": 64026,
+      "geo": {
+        "lat": 24.438311,
+        "lng": 54.572529
+      },
+      "priceKRW": 372627,
+      "priceStatus": "조회됨",
+      "distanceM": 4576.9,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "야스 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 1,642건. PRT Line까지 도보 57분, ₩₩ · 1박 약 37만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 37만원",
+        "📝 리뷰 1,642건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our room was spacious, comfortable, and well-maintained.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Everything from service to comfort exceeded my expectations.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Comfortable stay, great facilities surely we'll comeback",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "It is indeed a dreamy staycation for me and my family.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Excellent hotel. Very good facilities and breakfast buffet.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 아부다비 에디션 (The Abu Dhabi EDITION)",
+      "agodaUrl": "https://www.agoda.com/the-abu-dhabi-edition/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/459581133.jpg?k=312db9fec5d70c9cbe07ae1eabc22ad08fb97b495a0e9cb4534f843619bbfad5&o=",
+      "score": 9.3,
+      "reviewCount": 2188,
+      "reviewCountFmt": "리뷰 2,188건",
+      "priceText": "₩₩ · 1박 약 63만원",
+      "walkMin": 35,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 5862683,
+      "geo": {
+        "lat": 24.452242,
+        "lng": 54.337059
+      },
+      "priceKRW": 627745,
+      "priceStatus": "조회됨",
+      "distanceM": 2835.82,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "에미레이트 궁전",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 2,188건. Abu Dhabi EK Bus Station까지 도보 35분, ₩₩ · 1박 약 63만원.",
+      "metaTags": [
+        "💰 1박 약 63만원",
+        "📝 리뷰 2,188건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I am extremely happy that I stayed at the Abu Dhabi Edition.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Modern, very spacious, very clean, complete amenities.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Very friendly staffs, helpful and accommodating.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "All staffs are super helpful and polite and professional.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "He give us late check out and also give us souvenir.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:51:10.834Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:51:10.834Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

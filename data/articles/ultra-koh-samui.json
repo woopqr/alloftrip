@@ -1,0 +1,585 @@
+{
+  "slug": "ultra-koh-samui",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "코사무이",
+  "citySlug": "koh-samui",
+  "cityId": 17198,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17198",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[코사무이] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 코사무이 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 75%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>Four Seasons Resort Koh Samui, Thailand</b>입니다 (평점 9.5 · 리뷰 280건 · 1박 약 225만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 15,
+        "pct": 75
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?ca=7&ce=1",
+  "heroAlt": "코사무이 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Four Seasons Resort Koh Samui, Thailand",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-koh-samui-thailand/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?ca=7&ce=1",
+      "score": 9.5,
+      "reviewCount": 280,
+      "reviewCountFmt": "리뷰 280건",
+      "priceText": "₩₩₩ · 1박 약 225만원",
+      "walkMin": 117,
+      "refLabel": "마에남 비치",
+      "star": 5,
+      "propertyId": 344587,
+      "geo": {
+        "lat": 9.570558,
+        "lng": 99.914703
+      },
+      "priceKRW": 2245761,
+      "priceStatus": "조회됨",
+      "distanceM": 9393.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 280건. 마에남 비치까지 도보 117분, ₩₩₩ · 1박 약 225만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 225만원",
+        "📝 리뷰 280건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Did a surprise birthday song over dinner too!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Very impressed with the attention given by the staff.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The masseurs were very good in techniques!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The service and staff are top notch.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Overall a great stay at the resort!",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Kerem Luxury Beachfront Villas",
+      "agodaUrl": "https://www.agoda.com/kerem-villas-h32990399/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51651446/0/0ab35ec112894690336c9cc7bda0ba1f.jpg?ce=0",
+      "score": 9.4,
+      "reviewCount": 123,
+      "reviewCountFmt": "리뷰 123건",
+      "priceText": "₩₩₩ · 1박 약 104만원",
+      "walkMin": 25,
+      "refLabel": "왓 플라이 램",
+      "star": 5,
+      "propertyId": 51651446,
+      "geo": {
+        "lat": 9.589125,
+        "lng": 100.066368
+      },
+      "priceKRW": 1036180,
+      "priceStatus": "조회됨",
+      "distanceM": 2039.37,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "왓 플라이 램",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 123건. 왓 플라이 램까지 도보 25분, ₩₩₩ · 1박 약 104만원.",
+      "metaTags": [
+        "💰 1박 약 104만원",
+        "📝 리뷰 123건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "반얀 트리 사무이 (Banyan Tree Samui)",
+      "agodaUrl": "https://www.agoda.com/banyan-tree-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/25968484/0/57bf5a90d15fa23720184677cd448707.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 1901,
+      "reviewCountFmt": "리뷰 1,901건",
+      "priceText": "₩₩₩ · 1박 약 92만원",
+      "walkMin": 7,
+      "refLabel": "라마이 비치",
+      "star": 5,
+      "propertyId": 186780,
+      "geo": {
+        "lat": 9.472373,
+        "lng": 100.071289
+      },
+      "priceKRW": 924102,
+      "priceStatus": "조회됨",
+      "distanceM": 562.31,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "라마이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,901건. 라마이 비치까지 도보 7분, ₩₩₩ · 1박 약 92만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 92만원",
+        "📝 리뷰 1,901건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Friendly staff, fantastic massage, and great room condition.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The villas are amazing with big pool and all the facilities.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "I have never experienced such a wonderful service before.",
+          "score": "10",
+          "country": "Oman",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Great accommodation, attentive staff and great food.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The villa was more spacious and cleaner than I had expected.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "ZOG Villas",
+      "agodaUrl": "https://www.agoda.com/zog-villas/hotel/koh-samui-th.html?cid=1925461",
+      "img": "",
+      "score": 8.9,
+      "reviewCount": 348,
+      "reviewCountFmt": "리뷰 348건",
+      "priceText": "₩₩₩ · 1박 약 84만원",
+      "walkMin": 44,
+      "refLabel": "마에남 비치",
+      "star": 5,
+      "propertyId": 63177670,
+      "geo": {
+        "lat": 9.540451,
+        "lng": 99.988144
+      },
+      "priceKRW": 841953,
+      "priceStatus": "조회됨",
+      "distanceM": 3553.46,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "마에남 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 348건. 마에남 비치까지 도보 44분, ₩₩₩ · 1박 약 84만원.",
+      "metaTags": [
+        "💰 1박 약 84만원",
+        "📝 리뷰 348건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "바나 벨, 어 럭셔리 컬렉션 리조트, 코사무이 (Vana Belle, a Luxury Collection Resort, Koh Samui)",
+      "agodaUrl": "https://www.agoda.com/vana-belle-a-luxury-collection-resort-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/688629912.jpg?k=b332a7ba028fb82f7ce165e802a8728385d90bc1e770b9f665780c32c7ad6b78&o=",
+      "score": 9.4,
+      "reviewCount": 651,
+      "reviewCountFmt": "리뷰 651건",
+      "priceText": "₩₩ · 1박 약 62만원",
+      "walkMin": 2,
+      "refLabel": "차웽 노이 비치",
+      "star": 5,
+      "propertyId": 409593,
+      "geo": {
+        "lat": 9.507974,
+        "lng": 100.055138
+      },
+      "priceKRW": 619220,
+      "priceStatus": "조회됨",
+      "distanceM": 155.45,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "라마이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 651건. 차웽 노이 비치까지 도보 2분, ₩₩ · 1박 약 62만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 62만원",
+        "📝 리뷰 651건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Property and facilities were clean and well maintained.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms are very beautiful with a spectacular view.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The location, service, staff..everything is exceptional.",
+          "score": "10",
+          "country": "India",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Staff pampers you with making surprise bathtub for you.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The best hotel we stayed at in Thailand.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "W Koh Samui",
+      "agodaUrl": "https://www.agoda.com/w-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/328077568.jpg?k=be4a4f2671743bf2675ff76c137b26362436e89aabe7abafc697d2c9c50b6e79&o=",
+      "score": 8.8,
+      "reviewCount": 605,
+      "reviewCountFmt": "리뷰 605건",
+      "priceText": "₩₩₩ · 1박 약 80만원",
+      "walkMin": 23,
+      "refLabel": "마에남 비치",
+      "star": 5,
+      "propertyId": 212498,
+      "geo": {
+        "lat": 9.572843,
+        "lng": 100.016701
+      },
+      "priceKRW": 803568,
+      "priceStatus": "조회됨",
+      "distanceM": 1820.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "사무이 코끼리 보호구역",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 605건. 마에남 비치까지 도보 23분, ₩₩₩ · 1박 약 80만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 80만원",
+        "📝 리뷰 605건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Love everything about the resort, will come back again",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "We genuinely felt well looked after throughout our stay.",
+          "score": "9.6",
+          "country": "Norge",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "We had a Beach Front Pool Villa, it was amazing.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "One of the most memorable places I’ve visited",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Everything was excellent and well organised.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:53:52.092Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:53:52.092Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Kerem Luxury Beachfront Villas: reviewSample",
+        "ZOG Villas: reviewSample"
+      ]
+    }
+  }
+}

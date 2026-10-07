@@ -1,0 +1,630 @@
+{
+  "slug": "ultra-santorini",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "산토리니",
+  "citySlug": "santorini",
+  "cityId": 16084,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16084",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[산토리니] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 산토리니 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 63%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>Saint Santorini</b>입니다 (평점 9.4 · 리뷰 255건 · 1박 약 114만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 24,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 15,
+        "pct": 63
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 8
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/883064980.jpg?k=d965950d43bb5f1eaf8c34439dcf289a88b03d54b96965247454bf67cadc829b&o=",
+  "heroAlt": "산토리니 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Saint Santorini",
+      "agodaUrl": "https://www.agoda.com/the-saint-hotel/hotel/all/santorini-gr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/883064980.jpg?k=d965950d43bb5f1eaf8c34439dcf289a88b03d54b96965247454bf67cadc829b&o=",
+      "score": 9.4,
+      "reviewCount": 255,
+      "reviewCountFmt": "리뷰 255건",
+      "priceText": "₩₩₩ · 1박 약 114만원",
+      "walkMin": 82,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 10650449,
+      "geo": {
+        "lat": 36.4617,
+        "lng": 25.38624
+      },
+      "priceKRW": 1135667,
+      "priceStatus": "조회됨",
+      "distanceM": 6562.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.4 · 리뷰 255건. Fira Bus Station까지 도보 82분, ₩₩₩ · 1박 약 114만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 114만원",
+        "📝 리뷰 255건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was a great stay, even though it was very expensive.",
+          "score": "8.8",
+          "country": "Saudi Arabia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "As per title, this is the best hotel in Santorini.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The awesome view!",
+          "score": "8.8",
+          "country": "Saudi Arabia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Most beautiful place in Santorini",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "아스파키 바이 아트 메종 (Aspaki by Art Maisons)",
+      "agodaUrl": "https://www.agoda.com/aspaki-by-art-maisons/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/262428270.jpg?k=b3f5cc3daae7fa81cdff3c379d0ead3d38de9d3d3fbfb58a4de1f4d9088a4105&o=",
+      "score": 9.5,
+      "reviewCount": 303,
+      "reviewCountFmt": "리뷰 303건",
+      "priceText": "₩₩₩ · 1박 약 114만원",
+      "walkMin": 89,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 8947454,
+      "geo": {
+        "lat": 36.461208,
+        "lng": 25.37623
+      },
+      "priceKRW": 1136118,
+      "priceStatus": "조회됨",
+      "distanceM": 7132.61,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나"
+      ],
+      "blurb": "평점 9.5 · 리뷰 303건. Fira Bus Station까지 도보 89분, ₩₩₩ · 1박 약 114만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 114만원",
+        "📝 리뷰 303건",
+        "⭐ 5성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our room was right next to the iconic blue domes.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "AMAZING STAY/STAFF/& VIEWS",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Perfect place to stay in Oia",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Service is impeccable.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "볼케이노 뷰 바이 칼데라 컬렉션  (Volcano View by Caldera Collection)",
+      "agodaUrl": "https://www.agoda.com/volcano-view-by-caldera-collection_2/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/13825329/-1/d3afc8b6b42b9e55e3b3b72a4b3b1203.jpg?va=1&ca=17&ce=1",
+      "score": 9.3,
+      "reviewCount": 891,
+      "reviewCountFmt": "리뷰 891건",
+      "priceText": "₩₩₩ · 1박 약 78만원",
+      "walkMin": 32,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 13825329,
+      "geo": {
+        "lat": 36.39418,
+        "lng": 25.43849
+      },
+      "priceKRW": 781247,
+      "priceStatus": "조회됨",
+      "distanceM": 2525.05,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 891건. Fira Bus Station까지 도보 32분, ₩₩₩ · 1박 약 78만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 78만원",
+        "📝 리뷰 891건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel has a great view facing the sea over the cliff.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The staff is highly professional and super friendly.",
+          "score": "10",
+          "country": "Turchia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "This is one of the few 5 stars that lives up to its rating.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Our room was keep clean and it had a great view,",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "I will definitely comeback on my next visit to the island.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "코쿤 스위트 (Cocoon Suites)",
+      "agodaUrl": "https://www.agoda.com/cocoon-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9117270/0/af4265f5e29f040824dbf1a19e12cff7.jpeg?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 528,
+      "reviewCountFmt": "리뷰 528건",
+      "priceText": "₩₩ · 1박 약 59만원",
+      "walkMin": 22,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 9117270,
+      "geo": {
+        "lat": 36.43058,
+        "lng": 25.42531
+      },
+      "priceKRW": 590963,
+      "priceStatus": "조회됨",
+      "distanceM": 1724.01,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "주방",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 528건. Fira Bus Station까지 도보 22분, ₩₩ · 1박 약 59만원.",
+      "metaTags": [
+        "💰 1박 약 59만원",
+        "📝 리뷰 528건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "소피아 럭셔리 스위트 (Sophia Luxury Suites)",
+      "agodaUrl": "https://www.agoda.com/sophia-luxury-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8947793/-1/c2a1454c6591cc6264cb4dd910e4e4a1.jpg?va=1&ca=13&ce=1",
+      "score": 8.6,
+      "reviewCount": 460,
+      "reviewCountFmt": "리뷰 460건",
+      "priceText": "₩₩ · 1박 약 39만원",
+      "walkMin": 28,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 8947793,
+      "geo": {
+        "lat": 36.43372,
+        "lng": 25.42127
+      },
+      "priceKRW": 393575,
+      "priceStatus": "조회됨",
+      "distanceM": 2200.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 460건. Fira Bus Station까지 도보 28분, ₩₩ · 1박 약 39만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 39만원",
+        "📝 리뷰 460건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Breakfast was delicious and so meticulously prepared.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The restaurant offers another fantastic view.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "But the hotel and the staff was exceptional!",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The service is professional and proficient.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The pool on the terrace is also magical.",
+          "score": "9.2",
+          "country": "Ελλάδα",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "클라딕 스위트 앤 스파 (Cycladic Suites & Spa )",
+      "agodaUrl": "https://www.agoda.com/cycladic-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34284755/0/2ea58c458e200a37591315a8f2b50c3b.jpg?va=1&ce=2",
+      "score": 9.7,
+      "reviewCount": 1479,
+      "reviewCountFmt": "리뷰 1,479건",
+      "priceText": "₩₩ · 1박 약 28만원",
+      "walkMin": 9,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 34284755,
+      "geo": {
+        "lat": 36.42317,
+        "lng": 25.433006
+      },
+      "priceKRW": 278396,
+      "priceStatus": "조회됨",
+      "distanceM": 741.87,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.7 · 리뷰 1,479건. Fira Bus Station까지 도보 9분, ₩₩ · 1박 약 28만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 28만원",
+        "📝 리뷰 1,479건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I cannot find any rooms of improve of cycladic suites!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and the hot tub/ steam room are excellent.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We felt her sincere assistance and concern to their guests.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "My room was the one with private heated pool with sea view.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Dior and her staff gave us an excellent customer service.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:54:58.187Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:54:58.187Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "코쿤 스위트 (Cocoon Suites): reviewSample"
+      ]
+    }
+  }
+}

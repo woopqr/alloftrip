@@ -1,0 +1,634 @@
+{
+  "slug": "anniversary-bali",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "발리",
+  "citySlug": "bali",
+  "cityId": 17193,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17193",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[발리] 결혼기념일을 위한 최고급 호텔 & 스위트",
+  "metaDescription": "2026년 11월 발리 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 76%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>불가리 리조트 발리</b>입니다 (평점 9.3 · 리뷰 698건 · 1박 약 253만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 19,
+        "pct": 76
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 12
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 8
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+  "heroAlt": "발리 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "불가리 리조트 발리 (Bvlgari Resort Bali)",
+      "agodaUrl": "https://www.agoda.com/bulgari-resort-bali/hotel/bali-id.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+      "score": 9.3,
+      "reviewCount": 698,
+      "reviewCountFmt": "리뷰 698건",
+      "priceText": "₩₩₩ · 1박 약 253만원",
+      "walkMin": 53,
+      "refLabel": "울루와투 사원",
+      "star": 5,
+      "propertyId": 77182,
+      "geo": {
+        "lat": -8.843925,
+        "lng": 115.120697
+      },
+      "priceKRW": 2533292,
+      "priceStatus": "조회됨",
+      "distanceM": 4263.21,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "울루와투 사원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 698건. 울루와투 사원까지 도보 53분, ₩₩₩ · 1박 약 253만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 253만원",
+        "📝 리뷰 698건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our butler, Lanam was especially accommodating to our needs,",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Loving the room, the view from the room is indescribable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Poolside pizza and truffle fries were so delicious!! <3",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Overall, I still rate Bvlgari Resort Bali very highly.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The hotel is truly beautiful, elegant, and luxurious.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "만다파, 어 리츠칼튼 리저브 (Mandapa, a Ritz-Carlton Reserve)",
+      "agodaUrl": "https://www.agoda.com/mandapa-a-ritz-carlton-reserve/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/984267/0/1075d7bc63de67f77f9d42f5ea8f5c52.jpeg?va=1&ce=3",
+      "score": 9.5,
+      "reviewCount": 340,
+      "reviewCountFmt": "리뷰 340건",
+      "priceText": "₩₩₩ · 1박 약 226만원",
+      "walkMin": 28,
+      "refLabel": "짬뿌한 리지 워크",
+      "star": 5,
+      "propertyId": 984267,
+      "geo": {
+        "lat": -8.485557,
+        "lng": 115.245491
+      },
+      "priceKRW": 2261868,
+      "priceStatus": "조회됨",
+      "distanceM": 2242.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "우붓 원숭이숲 (몽키 포레스트)",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 340건. 짬뿌한 리지 워크까지 도보 28분, ₩₩₩ · 1박 약 226만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 226만원",
+        "📝 리뷰 340건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Kubu restaurant is the best view for couple for dinner.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Impressive hotel will definitely stay there again next time.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Butler brings us to another stage of stay-experience.",
+          "score": "10",
+          "country": "日本",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Perfect hotel to just relax and recharge.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Feels home and welcoming immediately when we arrived there.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "호시노야 발리 (Hoshinoya Bali)",
+      "agodaUrl": "https://www.agoda.com/hoshinoya-bali-h1784323/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/85395886/0/6321e9224ad7672d6b6eb739a3f543ed.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 227,
+      "reviewCountFmt": "리뷰 227건",
+      "priceText": "₩₩₩ · 1박 약 85만원",
+      "walkMin": 77,
+      "refLabel": "로카 스라나 버스터미널",
+      "star": 5,
+      "propertyId": 85395886,
+      "geo": {
+        "lat": -8.47702,
+        "lng": 115.30394
+      },
+      "priceKRW": 845142,
+      "priceStatus": "조회됨",
+      "distanceM": 6128.58,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 227건. 로카 스라나 버스터미널까지 도보 77분, ₩₩₩ · 1박 약 85만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 85만원",
+        "📝 리뷰 227건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Also loved the view of our suite with valley.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "A truly peaceful and beautiful stay.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Delicious food, perfect room condition",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "The room + facilities are very very clean.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Perfect landscape design, perfect swimming pools.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 물리아 (The Mulia)",
+      "agodaUrl": "https://www.agoda.com/the-mulia_6/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6546761/0/c166de86f9f783e921bf1c5a6bbe48e9.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 614,
+      "reviewCountFmt": "리뷰 614건",
+      "priceText": "₩₩₩ · 1박 약 96만원",
+      "walkMin": 33,
+      "refLabel": "누사 두아 비치",
+      "star": 5,
+      "propertyId": 6546761,
+      "geo": {
+        "lat": -8.815513,
+        "lng": 115.225204
+      },
+      "priceKRW": 964988,
+      "priceStatus": "조회됨",
+      "distanceM": 2616.75,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "누사 두아 비치"
+      ],
+      "blurb": "평점 9.3 · 리뷰 614건. 누사 두아 비치까지 도보 33분, ₩₩₩ · 1박 약 96만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 96만원",
+        "📝 리뷰 614건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Words cannot describe our experience at this resort.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The most beautiful hotel I have ever stayed at in my life.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "We rate this in the top three of our luxury hotel stays.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Everything from the staff to the food and facilities.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The facilities we extremely clean and fully staffed.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "시리 멘디라 비치 빌라 (Siri Mendira Beach Villas )",
+      "agodaUrl": "https://www.agoda.com/siri-mendira-beach-villas-villa-angsoka-villa-bakung-and-villa-cempaka/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38707671/0/0b7b46669f36db721ca67f6506be4ed6.jpeg?ce=0",
+      "score": 8.7,
+      "reviewCount": 37,
+      "reviewCountFmt": "리뷰 37건",
+      "priceText": "₩₩₩ · 1박 약 98만원",
+      "walkMin": 1,
+      "refLabel": "Mendira Beach",
+      "star": 5,
+      "propertyId": 38707671,
+      "geo": {
+        "lat": -8.505511,
+        "lng": 115.549717
+      },
+      "priceKRW": 984942,
+      "priceStatus": "조회됨",
+      "distanceM": 40.64,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 37건. Mendira Beach까지 도보 1분, ₩₩₩ · 1박 약 98만원.",
+      "metaTags": [
+        "💰 1박 약 98만원",
+        "📝 리뷰 37건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "바이스로이 발리 (Viceroy Bali)",
+      "agodaUrl": "https://www.agoda.com/viceroy-bali_15/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68310/-1/94c9c3d93c841a3d5357731c5c0b6735.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 874,
+      "reviewCountFmt": "리뷰 874건",
+      "priceText": "₩₩₩ · 1박 약 83만원",
+      "walkMin": 119,
+      "refLabel": "로카 스라나 버스터미널",
+      "star": 5,
+      "propertyId": 68310,
+      "geo": {
+        "lat": -8.494089,
+        "lng": 115.277706
+      },
+      "priceKRW": 829188,
+      "priceStatus": "조회됨",
+      "distanceM": 9558.31,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "고아가자 사원 (엘리펀트 케이브)",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 874건. 로카 스라나 버스터미널까지 도보 119분, ₩₩₩ · 1박 약 83만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 83만원",
+        "📝 리뷰 874건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "And the staff are so helpful that it was difficult to leave.",
+          "score": "10",
+          "country": "Irlande",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "They make you feel like you’re the only guest in the hotel.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "We had by far the best experience in our life with a hotel",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Amazing hotel, can't wait to stay again in the future.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Overall, the hotel is stunning, offering breathtaking views!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:52:37.213Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:52:37.213Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "시리 멘디라 비치 빌라 (Siri Mendira Beach Villas ): reviewSample"
+      ]
+    }
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "slug": "honeymoon-santorini",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "산토리니",
+  "citySlug": "santorini",
+  "cityId": 16084,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16084",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[산토리니] 신혼부부가 아낌없이 고르는 최상위 허니문 숙소",
+  "metaDescription": "2026년 11월 산토리니 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 65%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>어보브 블루 스위트</b>입니다 (평점 9 · 리뷰 572건 · 1박 약 21만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 26,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 17,
+        "pct": 65
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 7,
+        "pct": 27
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/9085778/0/83ad4a917d9e090a67672f3e24d96cdc.jpeg?va=1",
+  "heroAlt": "산토리니 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "어보브 블루 스위트 (Above Blue Suites)",
+      "agodaUrl": "https://www.agoda.com/above-blue-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9085778/0/83ad4a917d9e090a67672f3e24d96cdc.jpeg?va=1",
+      "score": 9,
+      "reviewCount": 572,
+      "reviewCountFmt": "리뷰 572건",
+      "priceText": "₩₩ · 1박 약 21만원",
+      "walkMin": 29,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 9085778,
+      "geo": {
+        "lat": 36.43504,
+        "lng": 25.42164
+      },
+      "priceKRW": 209143,
+      "priceStatus": "조회됨",
+      "distanceM": 2313.74,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 572건. Fira Bus Station까지 도보 29분, ₩₩ · 1박 약 21만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 21만원",
+        "📝 리뷰 572건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Magnificent views with great spaced and clean rooms.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotels have ever stayed at.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Maria and her colleague were the best hosts.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Highly Recommendable!!!",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Exceptional stay on all fronts.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "유 앤 미 스위트 (You and Me Suites)",
+      "agodaUrl": "https://www.agoda.com/you-me-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/23707101/-1/5531bdf1d8a6602545b1f8ca6dd27ca3.jpg?va=1&ce=0",
+      "score": 9.4,
+      "reviewCount": 525,
+      "reviewCountFmt": "리뷰 525건",
+      "priceText": "₩₩ · 1박 약 26만원",
+      "walkMin": 11,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 23707101,
+      "geo": {
+        "lat": 36.422939,
+        "lng": 25.428289
+      },
+      "priceKRW": 257521,
+      "priceStatus": "조회됨",
+      "distanceM": 848.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 525건. Fira Bus Station까지 도보 11분, ₩₩ · 1박 약 26만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 26만원",
+        "📝 리뷰 525건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Every corner of the hotel was spotless and well-maintained.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Her warmth and hospitality truly made the trip memorable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Views was amazing and Sofia was always willing to help.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The room it self is big, immaculate and just wowwww!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room itself was perfect with the indoor hot tub.",
+          "score": "10",
+          "country": "Czech Republic",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "아네미 하우스 & 빌라스 (Anemi House & Villas)",
+      "agodaUrl": "https://www.agoda.com/anemi-house-villas/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/602/602865/602865_17010504080050132516.jpg?va=1&ca=6&ce=1",
+      "score": 9.5,
+      "reviewCount": 323,
+      "reviewCountFmt": "리뷰 323건",
+      "priceText": "₩₩ · 1박 약 21만원",
+      "walkMin": 92,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 602865,
+      "geo": {
+        "lat": 36.461277,
+        "lng": 25.372784
+      },
+      "priceKRW": 211703,
+      "priceStatus": "조회됨",
+      "distanceM": 7362.04,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 323건. Fira Bus Station까지 도보 92분, ₩₩ · 1박 약 21만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 21만원",
+        "📝 리뷰 323건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great sunset location, cute room and outstanding hospitality",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Dimitris & staff could not have treated us better.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The house is really beautiful with perfect sunset views.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Huge a kudos to the staff, they were just amazing !!",
+          "score": "8.8",
+          "country": "Switzerland",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "This might be the best sunset view that you can find in Oia.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "아트 메이슨 오이아 캐슬 호텔 (Art Maisons Oia Castle Hotel)",
+      "agodaUrl": "https://www.agoda.com/art-maisons-oia-castle-hotel/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/400921/0/c7c0ecc23ed910d380b936f070f1169e.jpeg?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 206,
+      "reviewCountFmt": "리뷰 206건",
+      "priceText": "₩₩ · 1박 약 52만원",
+      "walkMin": 91,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 400921,
+      "geo": {
+        "lat": 36.460537,
+        "lng": 25.373133
+      },
+      "priceKRW": 518399,
+      "priceStatus": "조회됨",
+      "distanceM": 7283.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 206건. Fira Bus Station까지 도보 91분, ₩₩ · 1박 약 52만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 52만원",
+        "📝 리뷰 206건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Exceptional view of the sunset & beautiful Oia cave houses!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "We highly recommend Art Mason Castile Hotel.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "The hotel is a must for a perfect holiday.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "One of the best suites and villas in Oia.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Amazing & extensive breakfast choices!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "데이 드림 럭셔리 스위트 (Day Dream Luxury Suites)",
+      "agodaUrl": "https://www.agoda.com/day-dream-luxury-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/108/1084553/1084553_17012520480050564810.jpg?va=1&ca=6&ce=1",
+      "score": 9.2,
+      "reviewCount": 338,
+      "reviewCountFmt": "리뷰 338건",
+      "priceText": "₩₩ · 1박 약 24만원",
+      "walkMin": 5,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 1084553,
+      "geo": {
+        "lat": 36.419308,
+        "lng": 25.43108
+      },
+      "priceKRW": 235631,
+      "priceStatus": "조회됨",
+      "distanceM": 373.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 338건. Fira Bus Station까지 도보 5분, ₩₩ · 1박 약 24만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 24만원",
+        "📝 리뷰 338건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The most important thing is the staffs are kind and helpful.",
+          "score": "9.2",
+          "country": "Taiwan",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Staff is extremely helpful and always attentive to details.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The suite we stayed was a cave with a huge hot tub.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "I picked this place for the location and of course the view.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Thank you George your service makes this place exceptional!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Santo Mangata Boutique Hotel and Spa",
+      "agodaUrl": "https://www.agoda.com/santo-mangata-boutique-hotel/hotel/all/santorini-gr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/639988931.jpg?k=2ac62aa93e4f0622787b352e4a62ca2a585df7e36c4240003d9aeb5526208aba&o=",
+      "score": 9.8,
+      "reviewCount": 232,
+      "reviewCountFmt": "리뷰 232건",
+      "priceText": "₩₩ · 1박 약 25만원",
+      "walkMin": 96,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 47500216,
+      "geo": {
+        "lat": 36.35358,
+        "lng": 25.468294
+      },
+      "priceKRW": 246809,
+      "priceStatus": "조회됨",
+      "distanceM": 7665.46,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.8 · 리뷰 232건. Fira Bus Station까지 도보 96분, ₩₩ · 1박 약 25만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 25만원",
+        "📝 리뷰 232건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "So good we came back the 2nd time during the same holiday",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:55:13.955Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:55:13.955Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

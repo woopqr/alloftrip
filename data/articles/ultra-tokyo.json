@@ -1,0 +1,670 @@
+{
+  "slug": "ultra-tokyo",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[도쿄] 가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+  "metaDescription": "2026년 11월 도쿄 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 71%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>파크 하얏트 도쿄</b>입니다 (평점 9.1 · 리뷰 402건 · 1박 약 287만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 20,
+        "pct": 71
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 14
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/910/0/693161bcb450b069489ccff6e40d2310.jpeg?va=1&ce=3",
+  "heroAlt": "도쿄 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "파크 하얏트 도쿄 (Park Hyatt Tokyo)",
+      "agodaUrl": "https://www.agoda.com/park-hyatt-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/910/0/693161bcb450b069489ccff6e40d2310.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 402,
+      "reviewCountFmt": "리뷰 402건",
+      "priceText": "₩₩₩ · 1박 약 287만원",
+      "walkMin": 4,
+      "refLabel": "Toei Subway",
+      "star": 5,
+      "propertyId": 910,
+      "geo": {
+        "lat": 35.68573,
+        "lng": 139.690918
+      },
+      "priceKRW": 2872097,
+      "priceStatus": "조회됨",
+      "distanceM": 285.01,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "하치코"
+      ],
+      "blurb": "평점 9.1 · 리뷰 402건. Toei Subway까지 도보 4분, ₩₩₩ · 1박 약 287만원.",
+      "metaTags": [
+        "💰 1박 약 287만원",
+        "📝 리뷰 402건",
+        "⭐ 5성급",
+        "👥 출장·비즈니스 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "출장·비즈니스",
+        "topPct": 67,
+        "distribution": [
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 33,
+            "rating": 8.4
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 2,
+            "pct": 67,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Thoroughly enjoyed my stay in Tokyo with Park Hyatt.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Good service and have shuttle between the station",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Comfortable stay",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "TRUNK(HOTEL) YOYOGI PARK",
+      "agodaUrl": "https://www.agoda.com/trunk-hotel-yoyogi-park/hotel/all/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/489665341.jpg?k=114763c12db86b6bb81a76c3e904b0484002d2bf9cfb7b72b464dde8d2d04453&o=",
+      "score": 9.3,
+      "reviewCount": 649,
+      "reviewCountFmt": "리뷰 649건",
+      "priceText": "₩₩₩ · 1박 약 253만원",
+      "walkMin": 3,
+      "refLabel": "요요기코엔역",
+      "star": 5,
+      "propertyId": 41409000,
+      "geo": {
+        "lat": 35.666828,
+        "lng": 139.692413
+      },
+      "priceKRW": 2530782,
+      "priceStatus": "조회됨",
+      "distanceM": 254.95,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워"
+      ],
+      "blurb": "평점 9.3 · 리뷰 649건. 요요기코엔역까지 도보 3분, ₩₩₩ · 1박 약 253만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 253만원",
+        "📝 리뷰 649건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was the best service suitable for the hotel.",
+          "score": "8.8",
+          "country": "대한민국",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Warm pool and Jacuzzi on the rooftop in Tokyo is insane.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "The place, the pool, the people, everything is BEAUTIFUL.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "And the staff service is excellent and very warm too.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotels I’ve ever stayed at!",
+          "score": "10",
+          "country": "Norge",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "만다린 오리엔탈 도쿄 (Mandarin Oriental, Tokyo)",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-tokyo_11/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3849629/0/a3aac76f7d2defc920d87cdefa98bdf5.jpeg?va=1",
+      "score": 9.3,
+      "reviewCount": 849,
+      "reviewCountFmt": "리뷰 849건",
+      "priceText": "₩₩₩ · 1박 약 241만원",
+      "walkMin": 1,
+      "refLabel": "미쓰코시마에역",
+      "star": 5,
+      "propertyId": 3849629,
+      "geo": {
+        "lat": 35.687117,
+        "lng": 139.773054
+      },
+      "priceKRW": 2413347,
+      "priceStatus": "조회됨",
+      "distanceM": 47.62,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 849건. 미쓰코시마에역까지 도보 1분, ₩₩₩ · 1박 약 241만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 241만원",
+        "📝 리뷰 849건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "If you want a premium experience, this is the place to be!",
+          "score": "10",
+          "country": "Sverige",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great location, on top of subway Ginza line.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "I would choose to stay there next time I visit Tokyo.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Very attentive, professional and friendly approach by staff!",
+          "score": "10",
+          "country": "Sverige",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent hotel of a very high standard",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 페닌슐라 도쿄 (The Peninsula Tokyo)",
+      "agodaUrl": "https://www.agoda.com/the-peninsula-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/497719/0/8e5c51cc4e2eaa7350bc3594cd9d7639.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 1522,
+      "reviewCountFmt": "리뷰 1,522건",
+      "priceText": "₩₩₩ · 1박 약 232만원",
+      "walkMin": 1,
+      "refLabel": "히비야역",
+      "star": 5,
+      "propertyId": 497719,
+      "geo": {
+        "lat": 35.674606,
+        "lng": 139.760712
+      },
+      "priceKRW": 2324796,
+      "priceStatus": "조회됨",
+      "distanceM": 79.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,522건. 히비야역까지 도보 1분, ₩₩₩ · 1박 약 232만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 232만원",
+        "📝 리뷰 1,522건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They remember your name and greet you every time you return.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Best hotel in Tokyo which is located much more convenient.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The quality of the room and the breakfast was excellent.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The Peninsula Tokyo Hotel is outstanding in every respect.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We loved our room on 23rd floor with Ginza skyline view.",
+          "score": "9.6",
+          "country": "Türkiye",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "포시즌스 호텔 도쿄 앳 마루노우치 (Four Seasons Hotel Tokyo at Marunouchi)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-tokyo-at-marunouchi/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51491/0/c51ce587d140d05213eb3665ad602887.jpg?va=1&ca=8&ce=1",
+      "score": 9,
+      "reviewCount": 396,
+      "reviewCountFmt": "리뷰 396건",
+      "priceText": "₩₩₩ · 1박 약 221만원",
+      "walkMin": 4,
+      "refLabel": "교바시역",
+      "star": 5,
+      "propertyId": 51491,
+      "geo": {
+        "lat": 35.67799,
+        "lng": 139.766922
+      },
+      "priceKRW": 2210872,
+      "priceStatus": "조회됨",
+      "distanceM": 316.13,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 396건. 교바시역까지 도보 4분, ₩₩₩ · 1박 약 221만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 221만원",
+        "📝 리뷰 396건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "FS at Marunouchi was very good in location to travel.",
+          "score": "8.8",
+          "country": "대한민국",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Best 5 star in Tokyo by far",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The large bed was quite soft and comfy.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "There is actually a menu for pillows :)",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great hotel to stay with young children",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 도쿄 에디션, 긴자 (The Tokyo EDITION, Ginza)",
+      "agodaUrl": "https://www.agoda.com/the-tokyo-edition-ginza/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/47210524/0/40f5e0b4a689e4c469f4d29835ca0788.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 431,
+      "reviewCountFmt": "리뷰 431건",
+      "priceText": "₩₩₩ · 1박 약 215만원",
+      "walkMin": 2,
+      "refLabel": "긴자잇초메역",
+      "star": 5,
+      "propertyId": 47210524,
+      "geo": {
+        "lat": 35.672802,
+        "lng": 139.767929
+      },
+      "priceKRW": 2145014,
+      "priceStatus": "조회됨",
+      "distanceM": 196.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 431건. 긴자잇초메역까지 도보 2분, ₩₩₩ · 1박 약 215만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 215만원",
+        "📝 리뷰 431건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We will definitely like to stay here on our next trip.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The room ammenities are topnotch luxurious.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We had a fantastic stay at Tokyo Edition Ginza.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The Tokyo edition have impressed me immensely.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Everybody smile and greet you by your name.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:46:31.999Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:46:31.999Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "slug": "anniversary-new-york",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "뉴욕",
+  "citySlug": "new-york",
+  "cityId": 318,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=318",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[뉴욕] 특별한 날을 완성하는 5성급 기념일 스테이",
+  "metaDescription": "2026년 11월 뉴욕 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 67%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>크로스비 스트리트 호텔</b>입니다 (평점 9.2 · 리뷰 225건 · 1박 약 256만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 15,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 67
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 20
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/502103012.jpg?k=d3b33b5175c7366d0198051b93523a767fbbcd48db5002d3b4a4bf58059c6157&o=",
+  "heroAlt": "뉴욕 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "크로스비 스트리트 호텔 (Crosby Street Hotel)",
+      "agodaUrl": "https://www.agoda.com/crosby-street-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/502103012.jpg?k=d3b33b5175c7366d0198051b93523a767fbbcd48db5002d3b4a4bf58059c6157&o=",
+      "score": 9.2,
+      "reviewCount": 225,
+      "reviewCountFmt": "리뷰 225건",
+      "priceText": "₩₩₩ · 1박 약 256만원",
+      "walkMin": 1,
+      "refLabel": "스프링 스트리트-렉싱턴 애비뉴역",
+      "star": 5,
+      "propertyId": 6950467,
+      "geo": {
+        "lat": 40.723049,
+        "lng": -73.997421
+      },
+      "priceKRW": 2561683,
+      "priceStatus": "조회됨",
+      "distanceM": 93.52,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "브룩클린브릿지"
+      ],
+      "blurb": "평점 9.2 · 리뷰 225건. 스프링 스트리트-렉싱턴 애비뉴역까지 도보 1분, ₩₩₩ · 1박 약 256만원.",
+      "metaTags": [
+        "💰 1박 약 256만원",
+        "📝 리뷰 225건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 그리니치 호텔 (The Greenwich Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-greenwich-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/153450482.jpg?k=f0b3ec31884d3c8982495b77c8e347869d4e33841da7b93571075129dba1a614&o=",
+      "score": 9.5,
+      "reviewCount": 99,
+      "reviewCountFmt": "리뷰 99건",
+      "priceText": "₩₩₩ · 1박 약 258만원",
+      "walkMin": 3,
+      "refLabel": "프랭클린 스트리트역",
+      "star": 5,
+      "propertyId": 6950574,
+      "geo": {
+        "lat": 40.719952,
+        "lng": -74.009956
+      },
+      "priceKRW": 2577034,
+      "priceStatus": "조회됨",
+      "distanceM": 270.77,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "대중교통 이용 편리",
+        "자유의여신상"
+      ],
+      "blurb": "평점 9.5 · 리뷰 99건. 프랭클린 스트리트역까지 도보 3분, ₩₩₩ · 1박 약 258만원.",
+      "metaTags": [
+        "💰 1박 약 258만원",
+        "📝 리뷰 99건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "이퀴녹스 호텔 허드슨 야드 뉴욕 시티 (Equinox Hotel Hudson Yards New York City)",
+      "agodaUrl": "https://www.agoda.com/equinox-hotel-hudson-yards-new-york-city/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/11146120/0/768cabb2d6c927950c5cec8babf77ecc.jpg?va=1&ca=9&ce=1",
+      "score": 9,
+      "reviewCount": 418,
+      "reviewCountFmt": "리뷰 418건",
+      "priceText": "₩₩₩ · 1박 약 168만원",
+      "walkMin": 2,
+      "refLabel": "34 St Hudson Yards Station",
+      "star": 5,
+      "propertyId": 10913715,
+      "geo": {
+        "lat": 40.754559,
+        "lng": -74.002411
+      },
+      "priceKRW": 1684279,
+      "priceStatus": "조회됨",
+      "distanceM": 126.77,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "국립 9/11 기념관 및 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 418건. 34 St Hudson Yards Station까지 도보 2분, ₩₩₩ · 1박 약 168만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 168만원",
+        "📝 리뷰 418건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, this is my new favourite hotel in NY!",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Well designed rooms with excellent views and a vibe.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "But other than that we had a great time and loved our visit",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Loved being able to hit the gym and sauna while I was here.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The facilities and restaurant all five stars.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 랭함 - 뉴욕 - 피프스 애비뉴 (The Langham- New York- Fifth Avenue)",
+      "agodaUrl": "https://www.agoda.com/the-langham-new-york-fifth-avenue/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/31505678/1191616801/4534b8be5d2fa42eb5456be2598b8430.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 1529,
+      "reviewCountFmt": "리뷰 1,529건",
+      "priceText": "₩₩₩ · 1박 약 180만원",
+      "walkMin": 5,
+      "refLabel": "34번 스트리트-헤럴드 스퀘어역",
+      "star": 5,
+      "propertyId": 211906,
+      "geo": {
+        "lat": 40.750183,
+        "lng": -73.983665
+      },
+      "priceKRW": 1799960,
+      "priceStatus": "조회됨",
+      "distanceM": 375.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "국립 9/11 기념관 및 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,529건. 34번 스트리트-헤럴드 스퀘어역까지 도보 5분, ₩₩₩ · 1박 약 180만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 180만원",
+        "📝 리뷰 1,529건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Amazing hotel and very centrally located on 5th Avenue.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "I did not want to leave and will stay here again.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The location is perfect for exploring the city.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Staff are super friendly and professional.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "The food in executive lounge is just amazing!",
+          "score": "7.2",
+          "country": "美國",
+          "date": "2023.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "The Plaza, A Fairmont Hotel",
+      "agodaUrl": "https://www.agoda.com/the-plaza_2/hotel/all/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914954799.jpg?k=162744612c9ec2e1e50f076b6cc96ef38758f66cd30a4b8be8d5776dd19d321f&o=",
+      "score": 8.7,
+      "reviewCount": 633,
+      "reviewCountFmt": "리뷰 633건",
+      "priceText": "₩₩₩ · 1박 약 195만원",
+      "walkMin": 2,
+      "refLabel": "5번 애비뉴-59번 스트리트역",
+      "star": 5,
+      "propertyId": 3018399,
+      "geo": {
+        "lat": 40.764435,
+        "lng": -73.974243
+      },
+      "priceKRW": 1950607,
+      "priceStatus": "조회됨",
+      "distanceM": 141.92,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "하이 라인"
+      ],
+      "blurb": "평점 8.7 · 리뷰 633건. 5번 애비뉴-59번 스트리트역까지 도보 2분, ₩₩₩ · 1박 약 195만원.",
+      "metaTags": [
+        "💰 1박 약 195만원",
+        "📝 리뷰 633건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 네드 노매드 (The Ned NoMad)",
+      "agodaUrl": "https://www.agoda.com/the-nomad-hotel_4/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/378111651.jpg?k=54657f2251ef7bbda8a245daf2c322ef8936c4dac6dab9a0c3eae5d04647ee2c&o=",
+      "score": 9,
+      "reviewCount": 214,
+      "reviewCountFmt": "리뷰 214건",
+      "priceText": "₩₩₩ · 1박 약 142만원",
+      "walkMin": 5,
+      "refLabel": "23번 스트리트-5번 애비뉴역",
+      "star": 5,
+      "propertyId": 2551427,
+      "geo": {
+        "lat": 40.745029,
+        "lng": -73.988609
+      },
+      "priceKRW": 1418483,
+      "priceStatus": "조회됨",
+      "distanceM": 414.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "브룩클린브릿지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 214건. 23번 스트리트-5번 애비뉴역까지 도보 5분, ₩₩₩ · 1박 약 142만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 142만원",
+        "📝 리뷰 214건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Really excellent staff, rooms, service.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The common areas are beautifully designed.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Huge rooms, lovely staff, perfect location!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Spectacular rooftop garden and excellent cabaret.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Excellent location and a lovely hotel!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:51:42.394Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:51:42.395Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "크로스비 스트리트 호텔 (Crosby Street Hotel): reviewSample",
+        "더 그리니치 호텔 (The Greenwich Hotel): reviewSample",
+        "The Plaza, A Fairmont Hotel: reviewSample"
+      ]
+    }
+  }
+}

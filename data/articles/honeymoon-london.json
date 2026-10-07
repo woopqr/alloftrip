@@ -1,0 +1,526 @@
+{
+  "slug": "honeymoon-london",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "런던",
+  "citySlug": "london",
+  "cityId": 233,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=233",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[런던] 신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+  "metaDescription": "2026년 11월 런던 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 80%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>더 도체스더</b>입니다 (평점 9.5 · 리뷰 684건 · 1박 약 213만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 15,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 12,
+        "pct": 80
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 20
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/34354053/1326450842/4d81d177a1964b2d6c21930eb58f877f.jpeg?ce=3",
+  "heroAlt": "런던 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 도체스더 (The Dorchester)",
+      "agodaUrl": "https://www.agoda.com/the-dorchester/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/34354053/1326450842/4d81d177a1964b2d6c21930eb58f877f.jpeg?ce=3",
+      "score": 9.5,
+      "reviewCount": 684,
+      "reviewCountFmt": "리뷰 684건",
+      "priceText": "₩₩₩ · 1박 약 213만원",
+      "walkMin": 6,
+      "refLabel": "하이드 파크 코너역",
+      "star": 5,
+      "propertyId": 304,
+      "geo": {
+        "lat": 51.506985,
+        "lng": -0.152243
+      },
+      "priceKRW": 2132230,
+      "priceStatus": "조회됨",
+      "distanceM": 440.04,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 684건. 하이드 파크 코너역까지 도보 6분, ₩₩₩ · 1박 약 213만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 213만원",
+        "📝 리뷰 684건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was the best hotel in my trip",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Best hotel",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 코노트 (The Connaught)",
+      "agodaUrl": "https://www.agoda.com/the-connaught/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6755401/0/1563c74b0ed03e98afa160998601d254.jpeg",
+      "score": 9.7,
+      "reviewCount": 234,
+      "reviewCountFmt": "리뷰 234건",
+      "priceText": "₩₩₩ · 1박 약 208만원",
+      "walkMin": 6,
+      "refLabel": "본드 스트리트역",
+      "star": 5,
+      "propertyId": 6755401,
+      "geo": {
+        "lat": 51.510052,
+        "lng": -0.14961
+      },
+      "priceKRW": 2078924,
+      "priceStatus": "조회됨",
+      "distanceM": 461.46,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.7 · 리뷰 234건. 본드 스트리트역까지 도보 6분, ₩₩₩ · 1박 약 208만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 208만원",
+        "📝 리뷰 234건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff are the heart beat of the hotel",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Anticipating our every need",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Perfection",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "45 파크 레인 - 도체스터 콜렉션 (45 Park Lane - Dorchester Collection)",
+      "agodaUrl": "https://www.agoda.com/45-park-lane-dorchester-collection/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/823/823699/823699_15071419160032298513.jpg?ca=4&ce=1",
+      "score": 9.3,
+      "reviewCount": 173,
+      "reviewCountFmt": "리뷰 173건",
+      "priceText": "₩₩₩ · 1박 약 213만원",
+      "walkMin": 6,
+      "refLabel": "하이드 파크 코너역",
+      "star": 5,
+      "propertyId": 823699,
+      "geo": {
+        "lat": 51.50721,
+        "lng": -0.152898
+      },
+      "priceKRW": 2132230,
+      "priceStatus": "조회됨",
+      "distanceM": 466.08,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 173건. 하이드 파크 코너역까지 도보 6분, ₩₩₩ · 1박 약 213만원.",
+      "metaTags": [
+        "💰 1박 약 213만원",
+        "📝 리뷰 173건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Bathrooms to die for",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Stunning views of Hyde Park",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Lovely staff",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "로오스카 런던 (L'oscar London)",
+      "agodaUrl": "https://www.agoda.com/l-oscar-london/hotel/london-gb.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/910728130.jpg?k=be1f7aa9817a322a3a1982dd88d611c75a7c508086b6b5f3871fb04ae163b4ef&o=",
+      "score": 9.2,
+      "reviewCount": 264,
+      "reviewCountFmt": "리뷰 264건",
+      "priceText": "₩₩₩ · 1박 약 188만원",
+      "walkMin": 1,
+      "refLabel": "홀본역",
+      "star": 5,
+      "propertyId": 9800964,
+      "geo": {
+        "lat": 51.51799,
+        "lng": -0.1202
+      },
+      "priceKRW": 1880627,
+      "priceStatus": "조회됨",
+      "distanceM": 55.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 264건. 홀본역까지 도보 1분, ₩₩₩ · 1박 약 188만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 188만원",
+        "📝 리뷰 264건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Rooms are beautiful and staff are so friendly and helpful.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "And the staff were very friendly and attentive.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Really pleased with our stay- very big thank you to Mustafa.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "What a swanky and comfortable hotel!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect for exploring.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "불가리 호텔 런던 (Bvlgari Hotel London)",
+      "agodaUrl": "https://www.agoda.com/bulgari-hotel-london_3/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4880829/985713095/9a5529335304cff6f608dfad46dcdb1b.jpeg?ce=0",
+      "score": 9.1,
+      "reviewCount": 411,
+      "reviewCountFmt": "리뷰 411건",
+      "priceText": "₩₩₩ · 1박 약 195만원",
+      "walkMin": 2,
+      "refLabel": "나이츠브리지역",
+      "star": 5,
+      "propertyId": 2572032,
+      "geo": {
+        "lat": 51.501564,
+        "lng": -0.162847
+      },
+      "priceKRW": 1947792,
+      "priceStatus": "조회됨",
+      "distanceM": 160.6,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 411건. 나이츠브리지역까지 도보 2분, ₩₩₩ · 1박 약 195만원.",
+      "metaTags": [
+        "💰 1박 약 195만원",
+        "📝 리뷰 411건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 카도간 어 벨몬드 호텔 런던 (The Cadogan A Belmond Hotel London)",
+      "agodaUrl": "https://www.agoda.com/cadogan-london-hotel/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8452/-1/281d7450af21bd968ba618d041eb643c.jpg?ca=16&ce=1",
+      "score": 9.3,
+      "reviewCount": 225,
+      "reviewCountFmt": "리뷰 225건",
+      "priceText": "₩₩₩ · 1박 약 176만원",
+      "walkMin": 7,
+      "refLabel": "나이츠브리지역",
+      "star": 5,
+      "propertyId": 8452,
+      "geo": {
+        "lat": 51.496941,
+        "lng": -0.159488
+      },
+      "priceKRW": 1759090,
+      "priceStatus": "조회됨",
+      "distanceM": 523.23,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 225건. 나이츠브리지역까지 도보 7분, ₩₩₩ · 1박 약 176만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 176만원",
+        "📝 리뷰 225건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great one night stay",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:57:58.513Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:57:58.513Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "불가리 호텔 런던 (Bvlgari Hotel London): reviewSample"
+      ]
+    }
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "slug": "ultra-niseko",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "니세코",
+  "citySlug": "niseko",
+  "cityId": 30340,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=30340",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[니세코] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 니세코 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 5곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 50%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>NISEKO Inn of Youtei Raku Suisan</b>입니다 (평점 9.2 · 리뷰 92건 · 1박 약 90만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 30
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 15
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/41328393/0/e020fe287ecf1fb7e95b5b7d9e2f84c5.jpg?va=1&ce=3",
+  "heroAlt": "니세코 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "NISEKO Inn of Youtei Raku Suisan",
+      "agodaUrl": "https://www.agoda.com/raku-suisan/hotel/niseko-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41328393/0/e020fe287ecf1fb7e95b5b7d9e2f84c5.jpg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 92,
+      "reviewCountFmt": "리뷰 92건",
+      "priceText": "₩₩₩ · 1박 약 90만원",
+      "walkMin": 19,
+      "refLabel": "히라푸역",
+      "star": 5,
+      "propertyId": 41328393,
+      "geo": {
+        "lat": 42.841469,
+        "lng": 140.706604
+      },
+      "priceKRW": 903566,
+      "priceStatus": "조회됨",
+      "distanceM": 1525.16,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 92건. 히라푸역까지 도보 19분, ₩₩₩ · 1박 약 90만원.",
+      "metaTags": [
+        "💰 1박 약 90만원",
+        "📝 리뷰 92건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "히가시야마 니세코 빌리지, 리츠칼튼 리저브 (Higashiyama Niseko Village, a Ritz-Carlton Reserve)",
+      "agodaUrl": "https://www.agoda.com/higashiyama-niseko-village-a-ritz-carlton-reserve/hotel/niseko-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/17526186/-1/aacc241fb3cb74496049374751a456c4.jpg?va=1&ca=17&ce=1",
+      "score": 9.1,
+      "reviewCount": 80,
+      "reviewCountFmt": "리뷰 80건",
+      "priceText": "₩₩ · 1박 약 46만원",
+      "walkMin": 39,
+      "refLabel": "히라푸역",
+      "star": 5,
+      "propertyId": 17526186,
+      "geo": {
+        "lat": 42.845737,
+        "lng": 140.684982
+      },
+      "priceKRW": 461919,
+      "priceStatus": "조회됨",
+      "distanceM": 3084.9,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.1 · 리뷰 80건. 히라푸역까지 도보 39분, ₩₩ · 1박 약 46만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 46만원",
+        "📝 리뷰 80건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Beautiful scenery near Mount Yotei and Niseko villiage.",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Nice room with excellent view",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Room : it is full of privacy, and spacial space to guests.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Location: It offers perfect view to enjoy Mount Totei",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "My host, miss Athy really helpful and friendly.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "파크 하얏트 니세코 하나조노 (Park Hyatt Niseko Hanazono)",
+      "agodaUrl": "https://www.agoda.com/park-hyatt-niseko-hanazono/hotel/niseko-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8634929/-1/11f5ed9d31a88e497d86cca5b626621e.jpg?va=1&ca=13&ce=1",
+      "score": 9.1,
+      "reviewCount": 520,
+      "reviewCountFmt": "리뷰 520건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 50,
+      "refLabel": "Kutchan Station",
+      "star": 5,
+      "propertyId": 8634929,
+      "geo": {
+        "lat": 42.89418,
+        "lng": 140.698151
+      },
+      "priceKRW": 426184,
+      "priceStatus": "조회됨",
+      "distanceM": 3970.5,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 520건. Kutchan Station까지 도보 50분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 520건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very pleasant stay with top notch location and facilities.",
+          "score": "8.4",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Great service with good food and accommodations!",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Overall, awesome stay experience with family.",
+          "score": "8.4",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Super nice hospitality, comfy bed, nice amenities.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "No words can explain how much I loved this place.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "무와 니세코 (MUWA NISEKO)",
+      "agodaUrl": "https://www.agoda.com/muwa-niseko/hotel/niseko-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49242754/0/99ae73442e63127b094665d98915731f.png?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 337,
+      "reviewCountFmt": "리뷰 337건",
+      "priceText": "₩₩ · 1박 약 33만원",
+      "walkMin": 31,
+      "refLabel": "히라푸역",
+      "star": 5,
+      "propertyId": 49242754,
+      "geo": {
+        "lat": 42.863365,
+        "lng": 140.6996
+      },
+      "priceKRW": 326912,
+      "priceStatus": "조회됨",
+      "distanceM": 2497.12,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 337건. 히라푸역까지 도보 31분, ₩₩ · 1박 약 33만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 33만원",
+        "📝 리뷰 337건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "If the opportunity arises, I will definitely visit again.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Rooms are new, clean, modern and very comfortable.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The location is perfect, it has ski in and ski out access.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Muwa Niseko deserves the Michelin One Key Hotel rating.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "But the staff was super accomodating when we told them this",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "The Vale Rusutsu",
+      "agodaUrl": "https://www.agoda.com/the-vale-rusutsu/hotel/niseko-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/280/28084232/28084232_210929073600105848592.jpg?va=1",
+      "score": 9.1,
+      "reviewCount": 693,
+      "reviewCountFmt": "리뷰 693건",
+      "priceText": "₩₩ · 1박 약 30만원",
+      "walkMin": 97,
+      "refLabel": "Road Station Makkari Flower Center",
+      "star": 5,
+      "propertyId": 28084232,
+      "geo": {
+        "lat": 42.754364,
+        "lng": 140.902573
+      },
+      "priceKRW": 304366,
+      "priceStatus": "조회됨",
+      "distanceM": 7797.41,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)"
+      ],
+      "blurb": "평점 9.1 · 리뷰 693건. Road Station Makkari Flower Center까지 도보 97분, ₩₩ · 1박 약 30만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 30만원",
+        "📝 리뷰 693건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel also allowed us to check in 2 hours earlier.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Service is impeccable and the facilities are fantastic.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend—clean, comfortable, and excellent service.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Ski in, ski out, well-equipment, high quality hotel.",
+          "score": "9.2",
+          "country": "Taiwan",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Vale had such a great view and all you need for cooking.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:57:37.674Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:57:37.674Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 5,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "NISEKO Inn of Youtei Raku Suisan: reviewSample"
+      ]
+    }
+  }
+}

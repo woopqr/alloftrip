@@ -1,0 +1,467 @@
+{
+  "slug": "honeymoon-tulum",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "툴룸",
+  "citySlug": "tulum",
+  "cityId": 19741,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=19741",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[툴룸] 신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+  "metaDescription": "2026년 11월 툴룸 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 30%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>Trobbu Boutique Collection Riviera Maya - All Inclusive</b>입니다 (평점 9.7 · 리뷰 76건 · 1박 약 61만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 10,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 60
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 3,
+        "pct": 30
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/86694282/0/e4101a6728a77414ffd49ab6929e4aee.png?ce=3",
+  "heroAlt": "툴룸 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Trobbu Boutique Collection Riviera Maya - All Inclusive",
+      "agodaUrl": "https://www.agoda.com/trobbu-tulum-h60728298/hotel/tulum-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86694282/0/e4101a6728a77414ffd49ab6929e4aee.png?ce=3",
+      "score": 9.7,
+      "reviewCount": 76,
+      "reviewCountFmt": "리뷰 76건",
+      "priceText": "₩₩ · 1박 약 61만원",
+      "walkMin": 19,
+      "refLabel": "Tulum Bus station",
+      "star": 5,
+      "propertyId": 86694282,
+      "geo": {
+        "lat": 20.210716,
+        "lng": -87.479614
+      },
+      "priceKRW": 610650,
+      "priceStatus": "조회됨",
+      "distanceM": 1527.29,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.7 · 리뷰 76건. Tulum Bus station까지 도보 19분, ₩₩ · 1박 약 61만원.",
+      "metaTags": [
+        "💰 1박 약 61만원",
+        "📝 리뷰 76건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Layla Tulum - Adults Only",
+      "agodaUrl": "https://www.agoda.com/layla-tulum-adults-only/hotel/all/tulum-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495178175.jpg?k=f467bb7fa22f63e52c934c5e2ead5a16b591cb354e61b02e3abec162e4cfdd06&o=",
+      "score": 9.3,
+      "reviewCount": 547,
+      "reviewCountFmt": "리뷰 547건",
+      "priceText": "₩₩ · 1박 약 42만원",
+      "walkMin": 8,
+      "refLabel": "Tulum Bus station",
+      "star": 5,
+      "propertyId": 22403847,
+      "geo": {
+        "lat": 20.210188,
+        "lng": -87.458664
+      },
+      "priceKRW": 420075,
+      "priceStatus": "조회됨",
+      "distanceM": 661.79,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리"
+      ],
+      "blurb": "평점 9.3 · 리뷰 547건. Tulum Bus station까지 도보 8분, ₩₩ · 1박 약 42만원.",
+      "metaTags": [
+        "💰 1박 약 42만원",
+        "📝 리뷰 547건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I’ve heard he personally cares about each & every guest!",
+          "score": "10",
+          "country": "Spain",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "You MUST stay in this hotel! It’s really worth it!",
+          "score": "10",
+          "country": "Spain",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "But but but… the BEST OF ALL… was RICARDO ♥️!",
+          "score": "10",
+          "country": "Spain",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Location wise it is walkable to everything in Centro.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Amazing 4 nights at the best hotel in Tulum Centro.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Ikal Tulum Hotel",
+      "agodaUrl": "https://www.agoda.com/ikal-tulum-hotel/hotel/all/tulum-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/413624396.jpg?k=bf7491b65cfd6686f4c728e3ffb70795f6d61904361178a86acc2ac7e7e96625&o=",
+      "score": 8.5,
+      "reviewCount": 1175,
+      "reviewCountFmt": "리뷰 1,175건",
+      "priceText": "₩₩ · 1박 약 22만원",
+      "walkMin": 44,
+      "refLabel": "Tulum Bus station",
+      "star": 5,
+      "propertyId": 7818554,
+      "geo": {
+        "lat": 20.203053,
+        "lng": -87.432571
+      },
+      "priceKRW": 224315,
+      "priceStatus": "조회됨",
+      "distanceM": 3487.95,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 1,175건. Tulum Bus station까지 도보 44분, ₩₩ · 1박 약 22만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 22만원",
+        "📝 리뷰 1,175건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "And I wanted to enjoy the property which was really nice.",
+          "score": "8",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "This is a stunningly beautiful property!",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Great location and very well done.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend this beautiful place.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Really cool & relaxing place to live",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "NABOA Hotel Tulum",
+      "agodaUrl": "https://www.agoda.com/naboa-tulum/hotel/all/tulum-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/690575334.jpg?k=592d7fa6492523852a0d2b0acd5edf651b9c95bcd1165898afceb70e1df0703b&o=",
+      "score": 9.6,
+      "reviewCount": 76,
+      "reviewCountFmt": "리뷰 76건",
+      "priceText": "₩₩ · 1박 약 45만원",
+      "walkMin": 39,
+      "refLabel": "Tulum Bus station",
+      "star": 5,
+      "propertyId": 74726359,
+      "geo": {
+        "lat": 20.183413,
+        "lng": -87.473122
+      },
+      "priceKRW": 445256,
+      "priceStatus": "조회됨",
+      "distanceM": 3150.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 76건. Tulum Bus station까지 도보 39분, ₩₩ · 1박 약 45만원.",
+      "metaTags": [
+        "💰 1박 약 45만원",
+        "📝 리뷰 76건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Bahia Principe Explore Coba - Hyatt Inclusive Collection - All Inclusive",
+      "agodaUrl": "https://www.agoda.com/bahia-principe-grand-coba-all-inclusive_2/hotel/all/tulum-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2451252/0/5ab33e2a8b25a5aad39d0fb6f3f04038.jpeg",
+      "score": 8,
+      "reviewCount": 301,
+      "reviewCountFmt": "리뷰 301건",
+      "priceText": "₩₩ · 1박 약 30만원",
+      "walkMin": 31,
+      "refLabel": "Akumal Beach",
+      "star": 5,
+      "propertyId": 46976,
+      "geo": {
+        "lat": 20.362038,
+        "lng": -87.338531
+      },
+      "priceKRW": 296828,
+      "priceStatus": "조회됨",
+      "distanceM": 2484.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8 · 리뷰 301건. Akumal Beach까지 도보 31분, ₩₩ · 1박 약 30만원.",
+      "metaTags": [
+        "💰 1박 약 30만원",
+        "📝 리뷰 301건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Anat Tantric Boutique Hotel",
+      "agodaUrl": "https://www.agoda.com/anat-tantric-boutique-hotel/hotel/tulum-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/61792510/0/2fc3933ed11fbed435a444ed4185ba55.jpg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 222,
+      "reviewCountFmt": "리뷰 222건",
+      "priceText": "₩₩ · 1박 약 22만원",
+      "walkMin": 47,
+      "refLabel": "Tulum Bus station",
+      "star": 5,
+      "propertyId": 61792510,
+      "geo": {
+        "lat": 20.199562,
+        "lng": -87.499062
+      },
+      "priceKRW": 224942,
+      "priceStatus": "조회됨",
+      "distanceM": 3766.31,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 222건. Tulum Bus station까지 도보 47분, ₩₩ · 1박 약 22만원.",
+      "metaTags": [
+        "💰 1박 약 22만원",
+        "📝 리뷰 222건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:59:49.722Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:59:49.722Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Trobbu Boutique Collection Riviera Maya - All Inclusive: reviewSample",
+        "NABOA Hotel Tulum: reviewSample",
+        "Bahia Principe Explore Coba - Hyatt Inclusive Collection - All Inclusive: reviewSample",
+        "Anat Tantric Boutique Hotel: reviewSample"
+      ]
+    }
+  }
+}

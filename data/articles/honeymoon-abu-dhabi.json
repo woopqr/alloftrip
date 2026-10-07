@@ -1,0 +1,730 @@
+{
+  "slug": "honeymoon-abu-dhabi",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "아부다비",
+  "citySlug": "abu-dhabi",
+  "cityId": 10182,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=10182",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[아부다비] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 아부다비 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 43%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>ERTH Hotel.</b>입니다 (평점 8.9 · 리뷰 1,562건 · 1박 약 118만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?ce=3",
+  "heroAlt": "아부다비 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "ERTH Hotel.",
+      "agodaUrl": "https://www.agoda.com/officers-club-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 1562,
+      "reviewCountFmt": "리뷰 1,562건",
+      "priceText": "₩₩₩ · 1박 약 118만원",
+      "walkMin": 15,
+      "refLabel": "셰이크 자이드 그랜드 모스크 센터",
+      "star": 5,
+      "propertyId": 253683,
+      "geo": {
+        "lat": 24.401373,
+        "lng": 54.474227
+      },
+      "priceKRW": 1180343,
+      "priceStatus": "조회됨",
+      "distanceM": 1225.76,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "셰이크 자이드 그랜드 모스크 센터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 1,562건. 셰이크 자이드 그랜드 모스크 센터까지 도보 15분, ₩₩₩ · 1박 약 118만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 118만원",
+        "📝 리뷰 1,562건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I had the best deep tissue massage I've ever had in the UAE.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Breakfast buffet is so vast and using fresh ingredients.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, unique and just overall relaxed vibe to the place",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staffs are very helpful and will help with any inquiry.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The breakfast and dinner at the main restaurant excellent.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "포시즌스 호텔 아부다비 앳 알 마르야 아일랜드 (Four Seasons Hotel Abu Dhabi at Al Maryah Island)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-abu-dhabi-at-al-maryah-island/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1267025/0/6b98d26c8663a3c84a64f3264291e30a.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 1268,
+      "reviewCountFmt": "리뷰 1,268건",
+      "priceText": "₩₩₩ · 1박 약 91만원",
+      "walkMin": 47,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 1267025,
+      "geo": {
+        "lat": 24.503179,
+        "lng": 54.387873
+      },
+      "priceKRW": 913493,
+      "priceStatus": "조회됨",
+      "distanceM": 3795.87,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "루브르 아부다비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,268건. 아부다비 센트럴 버스정류장까지 도보 47분, ₩₩₩ · 1박 약 91만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 91만원",
+        "📝 리뷰 1,268건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is by far the best Hotel I stayed at my whole life.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is super clean and the service is incredible.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Excellent hotel very well located in Abu Dhabi",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "All I can say - my favorite hotel in the world!!!!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Great place and location is very close to Cleveland hospital",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "스테이브리지 스위트 야스 아일랜드 아부다비 바이 IHG (Staybridge Suites Yas Island Abu Dhabi By IHG)",
+      "agodaUrl": "https://www.agoda.com/staybridge-suites-yas-island-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4884232/0/2b1613e3e7ad1f8c91e37a4e5042161b.jpg?ca=23&ce=0",
+      "score": 8.9,
+      "reviewCount": 2010,
+      "reviewCountFmt": "리뷰 2,010건",
+      "priceText": "₩₩ · 1박 약 68만원",
+      "walkMin": 48,
+      "refLabel": "Murur Abu Dhabi Bus Station",
+      "star": 5,
+      "propertyId": 168798,
+      "geo": {
+        "lat": 24.464914,
+        "lng": 54.597656
+      },
+      "priceKRW": 684895,
+      "priceStatus": "조회됨",
+      "distanceM": 3821.74,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "야스 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 2,010건. Murur Abu Dhabi Bus Station까지 도보 48분, ₩₩ · 1박 약 68만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 68만원",
+        "📝 리뷰 2,010건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Will definitely come back for our future stay in Abu dhabi",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing staffs, pool is ok for kids and very good location .",
+          "score": "9.6",
+          "country": "India",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Staying at this hotel is always enjoyable for us.",
+          "score": "7.2",
+          "country": "United Arab Emirates",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The staff are also very pleasantly social and expressing.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Staff were kind, food was good, pool and rooms were nice.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 리츠칼튼 아부다비, 그랜드 커낼 (The Ritz-Carlton Abu Dhabi, Grand Canal)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-abu-dhabi-grand-canal/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/412527/0/da4f528d6318e7083f5f1d317c103864.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 3748,
+      "reviewCountFmt": "리뷰 3,748건",
+      "priceText": "₩₩₩ · 1박 약 85만원",
+      "walkMin": 12,
+      "refLabel": "셰이크 자이드 그랜드 모스크 센터",
+      "star": 5,
+      "propertyId": 412527,
+      "geo": {
+        "lat": 24.411684,
+        "lng": 54.484615
+      },
+      "priceKRW": 854993,
+      "priceStatus": "조회됨",
+      "distanceM": 926.24,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "셰이크 자이드 그랜드 모스크 센터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 3,748건. 셰이크 자이드 그랜드 모스크 센터까지 도보 12분, ₩₩₩ · 1박 약 85만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 85만원",
+        "📝 리뷰 3,748건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Absolutely fantastic facilities and well as the hotel.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Great welcoming staff who were always ready to help.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The entire stay was excellent from check in to check out.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "And it is the best hotel I have ever stayed in Abu Dhabi.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Nice location on the canal and close to the Grand mosque",
+          "score": "8.8",
+          "country": "Ireland",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "알 와트바, 어 럭셔리 컬렉션 데저트 리조트 앤 스파, 아부다비 (Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/jumeirah-al-wathba-desert-resort-and-spa/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/13754269/0/085ea22d4e3cc4a1c1fad27e0352bb79.jpeg?ce=3",
+      "score": 9.4,
+      "reviewCount": 900,
+      "reviewCountFmt": "리뷰 900건",
+      "priceText": "₩₩ · 1박 약 65만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 13754269,
+      "geo": {
+        "lat": 24.138205,
+        "lng": 54.742329
+      },
+      "priceKRW": 652495,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 900건. ₩₩ · 1박 약 65만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 65만원",
+        "📝 리뷰 900건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the facilities, services, food and staff are too good",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The staff were incredibly kind, welcoming and helpful.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "And the service was excellent from start to finish.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Their teams made every meal a pleasure.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Definitely the best hotel during my trip in Abu Dhabi",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "쉐라톤 아부다비 호텔 앤 리조트 (Sheraton Abu Dhabi Hotel & Resort)",
+      "agodaUrl": "https://www.agoda.com/sheraton-abu-dhabi-hotel-resort_12/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/467543556.jpg?k=e6094b5ce8b44e9f1cc78b82ffeaffadd6a84f3156267ae04aec8364801b697b&o=",
+      "score": 9.1,
+      "reviewCount": 7972,
+      "reviewCountFmt": "리뷰 7,972건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 43,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 182665,
+      "geo": {
+        "lat": 24.500637,
+        "lng": 54.368629
+      },
+      "priceKRW": 404547,
+      "priceStatus": "조회됨",
+      "distanceM": 3436,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "헤리티지 빌리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 7,972건. 아부다비 센트럴 버스정류장까지 도보 43분, ₩₩ · 1박 약 40만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 7,972건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was also clean, the breakfast was also amazing.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "And from reception mr sajid very smiling and very helpful",
+          "score": "10",
+          "country": "Birleşik Arap Emirlikleri",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Nice resort stay, absolutely loved everything about it",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Room was very good size, nice bathroom and amenities.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The room was extraordinary, clean and with an awesome view.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2023.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:50:48.365Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:50:48.365Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "알 와트바, 어 럭셔리 컬렉션 데저트 리조트 앤 스파, 아부다비 (Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi): location"
+      ]
+    }
+  }
+}

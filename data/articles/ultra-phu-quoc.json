@@ -1,0 +1,714 @@
+{
+  "slug": "ultra-phu-quoc",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "푸꾸옥",
+  "citySlug": "phu-quoc",
+  "cityId": 17188,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17188",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[푸꾸옥] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 푸꾸옥 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 37%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>JW 메리어트 푸쿽 에메랄드 베이 리조트 앤 스파</b>입니다 (평점 9.2 · 리뷰 2,809건 · 1박 약 189만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/656782024.jpg?k=215fe5b0a2e9ecbf261f16526e99286f7183f5a9957d6a4056fa7a7f15c563cb&o=",
+  "heroAlt": "푸꾸옥 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "JW 메리어트 푸쿽 에메랄드 베이 리조트 앤 스파 (JW Marriott Phu Quoc Emerald Bay Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/jw-marriott-phu-quoc-emerald-bay-resort-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/656782024.jpg?k=215fe5b0a2e9ecbf261f16526e99286f7183f5a9957d6a4056fa7a7f15c563cb&o=",
+      "score": 9.2,
+      "reviewCount": 2809,
+      "reviewCountFmt": "리뷰 2,809건",
+      "priceText": "₩₩₩ · 1박 약 189만원",
+      "walkMin": 31,
+      "refLabel": "Hon Thom Cable Car",
+      "star": 5,
+      "propertyId": 1624474,
+      "geo": {
+        "lat": 10.032842,
+        "lng": 104.02935
+      },
+      "priceKRW": 1891661,
+      "priceStatus": "조회됨",
+      "distanceM": 2442.57,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "사오 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 2,809건. Hon Thom Cable Car까지 도보 31분, ₩₩₩ · 1박 약 189만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 189만원",
+        "📝 리뷰 2,809건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Secluded beach/ocean front room within steps from your room.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "What a treat, stunning property and with amazing facilities.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel was beautiful and they provide excellent service!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended, and we will definitely return.",
+          "score": "10",
+          "country": "Portugal",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I enjoyed everything here and customer service was awesome.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "인터컨티넨탈 푸꾸옥 롱비치 리조트 바이 IHG (InterContinental Phu Quoc Long Beach Resort By IHG)",
+      "agodaUrl": "https://www.agoda.com/intercontinental-phu-quoc-long-beach-resort/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3648660/0/73d2ea2706b2d12deee89a4f9e8565ee.jpeg?ce=2",
+      "score": 9,
+      "reviewCount": 5233,
+      "reviewCountFmt": "리뷰 5,233건",
+      "priceText": "₩₩ · 1박 약 70만원",
+      "walkMin": 122,
+      "refLabel": "Hon Thom Cable Car",
+      "star": 5,
+      "propertyId": 3648660,
+      "geo": {
+        "lat": 10.112444,
+        "lng": 103.983513
+      },
+      "priceKRW": 699618,
+      "priceStatus": "조회됨",
+      "distanceM": 9789.49,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 5,233건. Hon Thom Cable Car까지 도보 122분, ₩₩ · 1박 약 70만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 70만원",
+        "📝 리뷰 5,233건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I could come back to home with happy and memorable emotion.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "This has to be one of the best hotels that I have ever been.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Nice hotel great facility , clean , great room , great views",
+          "score": "8.8",
+          "country": "Bahrain",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "We upgraded our room, which was nice and spacious as well.",
+          "score": "7.6",
+          "country": "Georgia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "If you are looking at a true 5 star experience book here.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "그린 베이 푸쿽 리조트 앤 스파 (Green Bay Phu Quoc Resort and Spa)",
+      "agodaUrl": "https://www.agoda.com/green-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2169131/0/b87276dda9933896703e3f9162b9ed5c.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 2164,
+      "reviewCountFmt": "리뷰 2,164건",
+      "priceText": "₩₩ · 1박 약 59만원",
+      "walkMin": 65,
+      "refLabel": "빈펄 사파리 푸꾸옥",
+      "star": 5,
+      "propertyId": 2169131,
+      "geo": {
+        "lat": 10.290786,
+        "lng": 103.900108
+      },
+      "priceKRW": 585737,
+      "priceStatus": "조회됨",
+      "distanceM": 5237.41,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,164건. 빈펄 사파리 푸꾸옥까지 도보 65분, ₩₩ · 1박 약 59만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 59만원",
+        "📝 리뷰 2,164건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The facilities are all amazing, the rooms feel very special.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Our suite was spacious, clean, and very well-maintained.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "I will definitely come back if I visit Phu Quoc again.",
+          "score": "8.4",
+          "country": "Việt Nam",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Everything is there and staffs are friendly and welcoming",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly and pay attention to your needs.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "선셋 사나토 리조트 앤 빌라 (Sunset Sanato Resort & Villas)",
+      "agodaUrl": "https://www.agoda.com/sunset-sanato-resort-villas_2/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5943665/0/e1c9b73016487d90520e84a0605a6068.jpeg?ce=3",
+      "score": 8.5,
+      "reviewCount": 1200,
+      "reviewCountFmt": "리뷰 1,200건",
+      "priceText": "₩₩₩ · 1박 약 73만원",
+      "walkMin": 1,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 5943665,
+      "geo": {
+        "lat": 10.153337,
+        "lng": 103.973816
+      },
+      "priceKRW": 729133,
+      "priceStatus": "조회됨",
+      "distanceM": 87.29,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 1,200건. 롱 비치까지 도보 1분, ₩₩₩ · 1박 약 73만원.",
+      "metaTags": [
+        "💰 1박 약 73만원",
+        "📝 리뷰 1,200건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They were there all the time when we needed them.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "We will definately going to come back to this hotel.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Overall, a wonderful experience that I highly recommend!",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Our villa was just couple of steps away from the beach.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Villa comes with a private pool, very clean and cozy.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "프리미어 빌리지 푸꾸옥 리조트 - 매니지드 바이 아코르 (Premier Village Phu Quoc Resort - Managed by Accor)",
+      "agodaUrl": "https://www.agoda.com/premier-village-phu-quoc-resort-managed-by-accorhotels/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4518431/0/f0b9e42b7bc94b036e0e1ed424184335.jpeg",
+      "score": 8.7,
+      "reviewCount": 1846,
+      "reviewCountFmt": "리뷰 1,846건",
+      "priceText": "₩₩ · 1박 약 53만원",
+      "walkMin": 55,
+      "refLabel": "Hon Thom Cable Car",
+      "star": 5,
+      "propertyId": 4518431,
+      "geo": {
+        "lat": 10.010922,
+        "lng": 104.044296
+      },
+      "priceKRW": 533076,
+      "priceStatus": "조회됨",
+      "distanceM": 4424.85,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "사오 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 1,846건. Hon Thom Cable Car까지 도보 55분, ₩₩ · 1박 약 53만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 53만원",
+        "📝 리뷰 1,846건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 7.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The villa was exceptional and had a breathtaking view,",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "This resort deserves its price and it is worth every dollar.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The buffet breakfast is wonderful, offered many choices!",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "But what really sets Premier Village apart is the staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "I will be choose this resort if come on next time.",
+          "score": "7.6",
+          "country": "中國香港",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "세일링 클럽 시그니처 리조트 푸꾸옥 (Sailing Club Signature Resort Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/sailing-club-signature-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31187083/0/3815310b47b16ff71ee1a52b59181245.jpeg?ce=2",
+      "score": 8.9,
+      "reviewCount": 3841,
+      "reviewCountFmt": "리뷰 3,841건",
+      "priceText": "₩₩ · 1박 약 44만원",
+      "walkMin": 23,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 31187083,
+      "geo": {
+        "lat": 10.125341,
+        "lng": 103.995628
+      },
+      "priceKRW": 439081,
+      "priceStatus": "조회됨",
+      "distanceM": 1852.93,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,841건. 롱 비치까지 도보 23분, ₩₩ · 1박 약 44만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 44만원",
+        "📝 리뷰 3,841건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We enjoyed the private pool, which is quite spacious!",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Having said that the staff were incredibly helpful.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms, private pool and resort facilities are five star.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The hotel facilities were well-maintained and very clean.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The replies were surprisingly quick and very efficient.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:47:24.695Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:47:24.695Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

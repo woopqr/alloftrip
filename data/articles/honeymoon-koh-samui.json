@@ -1,0 +1,693 @@
+{
+  "slug": "honeymoon-koh-samui",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "코사무이",
+  "citySlug": "koh-samui",
+  "cityId": 17198,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17198",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[코사무이] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 코사무이 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 73%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>암마타라 푸라 풀 빌라</b>입니다 (평점 9.1 · 리뷰 753건 · 1박 약 51만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 22,
+        "pct": 73
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/285/285053/285053_16111819140048892293.jpg?ca=6&ce=1",
+  "heroAlt": "코사무이 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "암마타라 푸라 풀 빌라 (Ammatara Pura Pool Villa)",
+      "agodaUrl": "https://www.agoda.com/ammatara-pura-pool-villa/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/285/285053/285053_16111819140048892293.jpg?ca=6&ce=1",
+      "score": 9.1,
+      "reviewCount": 753,
+      "reviewCountFmt": "리뷰 753건",
+      "priceText": "₩₩ · 1박 약 51만원",
+      "walkMin": 1,
+      "refLabel": "라마이 비치",
+      "star": 5,
+      "propertyId": 285053,
+      "geo": {
+        "lat": 9.459149,
+        "lng": 100.042772
+      },
+      "priceKRW": 507861,
+      "priceStatus": "조회됨",
+      "distanceM": 0,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "라마이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 753건. 라마이 비치까지 도보 1분, ₩₩ · 1박 약 51만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 51만원",
+        "📝 리뷰 753건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This resort is well maintained and has amazing staffs.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "And we have our own pool that is super clean and warm.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms were amazing with the traditional thai decor",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Facilities provided will make you stay comfortable.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Huge viilas amazing pool and gazebo and even a kitchenette.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "콘래드 코사무이 (Conrad Koh Samui)",
+      "agodaUrl": "https://www.agoda.com/conrad-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/838801689.jpg?k=8b0081f5d471a389ba974e3fc0c9c2ff385cf3186502f583a31c791b7fda6a7e&o=",
+      "score": 9.1,
+      "reviewCount": 1050,
+      "reviewCountFmt": "리뷰 1,050건",
+      "priceText": "₩₩₩ · 1박 약 70만원",
+      "walkMin": 110,
+      "refLabel": "나 무앙 워터폴 I",
+      "star": 5,
+      "propertyId": 267449,
+      "geo": {
+        "lat": 9.419692,
+        "lng": 99.929024
+      },
+      "priceKRW": 701365,
+      "priceStatus": "조회됨",
+      "distanceM": 8831.05,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,050건. 나 무앙 워터폴 I까지 도보 110분, ₩₩₩ · 1박 약 70만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 70만원",
+        "📝 리뷰 1,050건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Jahn was absolutely outstanding and is not to be missed.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel was amazing it felt like a real retreat!",
+          "score": "10",
+          "country": "Bahrain",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Overall, a truly relaxing and enjoyable experience.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The service deserves special recognition.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "I was very satisfied with all the facilities and services.",
+          "score": "9.6",
+          "country": "泰國",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 시크릿 풀빌라 바이 더 라이브러리 코사무이 (The Secret Pool Villas by The Library Koh Samui)",
+      "agodaUrl": "https://www.agoda.com/the-secret-pool-villas-by-the-library-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3112132/-1/1a0c5be8ac3a5b5e1900752fceff5938.jpg?ca=20&ce=0",
+      "score": 9.2,
+      "reviewCount": 154,
+      "reviewCountFmt": "리뷰 154건",
+      "priceText": "₩₩ · 1박 약 45만원",
+      "walkMin": 24,
+      "refLabel": "차웽 노이 비치",
+      "star": 5,
+      "propertyId": 3112132,
+      "geo": {
+        "lat": 9.527129,
+        "lng": 100.060532
+      },
+      "priceKRW": 450181,
+      "priceStatus": "조회됨",
+      "distanceM": 1880.98,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "차웽 노이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 154건. 차웽 노이 비치까지 도보 24분, ₩₩ · 1박 약 45만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 45만원",
+        "📝 리뷰 154건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The villa has great speakers and is super spacious.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The staffs were really nice and helpful.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms was super big and spectacular.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Breakfast ala carte style with great presentation and taste.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I lived in one of the pool villa during my stay",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "실라바디 풀 스파 리조트 (Silavadee Pool Spa Resort)",
+      "agodaUrl": "https://www.agoda.com/silavadee-pool-spa-resort/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/103945/0/9b746241706ca1cd2056ee5af87103c8.jpeg?ce=2",
+      "score": 9,
+      "reviewCount": 3016,
+      "reviewCountFmt": "리뷰 3,016건",
+      "priceText": "₩₩ · 1박 약 29만원",
+      "walkMin": 5,
+      "refLabel": "라마이 비치",
+      "star": 5,
+      "propertyId": 103945,
+      "geo": {
+        "lat": 9.468288,
+        "lng": 100.069954
+      },
+      "priceKRW": 293385,
+      "priceStatus": "조회됨",
+      "distanceM": 371.24,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "라마이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 3,016건. 라마이 비치까지 도보 5분, ₩₩ · 1박 약 29만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 29만원",
+        "📝 리뷰 3,016건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They all provided me great service during my stay!",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Staff are amazing and so is everything about this place.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "It was truly a highlight of our stay and highly recommended.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Facilities are perfect and it's so quiet and relaxing here.",
+          "score": "9.6",
+          "country": "Finland",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The staff were highly attentive and responsive to requests,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "살라 사무이 차웽 비치 리조트 (SALA Samui Chaweng Beach Resort )",
+      "agodaUrl": "https://www.agoda.com/sala-samui-chaweng-beach/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1624710/0/7d9ccf175ab746c0ea9938d8b1853f7d.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 2667,
+      "reviewCountFmt": "리뷰 2,667건",
+      "priceText": "₩₩ · 1박 약 35만원",
+      "walkMin": 41,
+      "refLabel": "차웽 노이 비치",
+      "star": 5,
+      "propertyId": 1624710,
+      "geo": {
+        "lat": 9.537641,
+        "lng": 100.069891
+      },
+      "priceKRW": 348051,
+      "priceStatus": "조회됨",
+      "distanceM": 3293.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "차웽 노이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 2,667건. 차웽 노이 비치까지 도보 41분, ₩₩ · 1박 약 35만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 35만원",
+        "📝 리뷰 2,667건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room is well designed, clean and perfect for relaxation.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The pools and beach are everything you want from a vacation.",
+          "score": "10",
+          "country": "France",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The hotel is gorgeous and the beach is a sight to behold.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel is beautiful, and modern, and it is always clean.",
+          "score": "10",
+          "country": "France",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Sala Chaweng was one of the best resorts we have stayed at.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "한사르 사무이 리조트 (Hansar Samui Resort)",
+      "agodaUrl": "https://www.agoda.com/hansar-samui-resort/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/159251/0/cb894e479785c71819bdf759310054ad.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 6570,
+      "reviewCountFmt": "리뷰 6,570건",
+      "priceText": "₩₩ · 1박 약 25만원",
+      "walkMin": 9,
+      "refLabel": "피셔맨스 빌리지",
+      "star": 5,
+      "propertyId": 159251,
+      "geo": {
+        "lat": 9.561649,
+        "lng": 100.025879
+      },
+      "priceKRW": 248623,
+      "priceStatus": "조회됨",
+      "distanceM": 702,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사무이 코끼리 보호구역",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 6,570건. 피셔맨스 빌리지까지 도보 9분, ₩₩ · 1박 약 25만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 25만원",
+        "📝 리뷰 6,570건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, this hotel exceeded our expectations in every way.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel is clean, modern, stylish, and right on the beach.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Beautiful infinity pool, private beach, and a outdoor area.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "This has been the best hotel I've ever stayed at.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Location location location……. Amazing staff and facilities",
+          "score": "10",
+          "country": "Oman",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:54:12.972Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:54:12.972Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

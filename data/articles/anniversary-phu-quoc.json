@@ -1,0 +1,645 @@
+{
+  "slug": "anniversary-phu-quoc",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "푸꾸옥",
+  "citySlug": "phu-quoc",
+  "cityId": 17188,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17188",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[푸꾸옥] 안목 있는 커플이 기념일에 고르는 호텔",
+  "metaDescription": "2026년 11월 푸꾸옥 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 20%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>쉐라톤 푸꾸옥 롱 비치 리조트</b>입니다 (평점 8.8 · 리뷰 2,787건 · 1박 약 27만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 14,
+        "pct": 56
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 6,
+        "pct": 24
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 20
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1032420/0/c7c3dcfbf1d8e8d217818d38a7fc97de.jpeg?ce=3",
+  "heroAlt": "푸꾸옥 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "쉐라톤 푸꾸옥 롱 비치 리조트 (Sheraton Phu Quoc Long Beach Resort)",
+      "agodaUrl": "https://www.agoda.com/sheraton-phu-quoc-long-beach-resort/hotel/phu-qu-c-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1032420/0/c7c3dcfbf1d8e8d217818d38a7fc97de.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 2787,
+      "reviewCountFmt": "리뷰 2,787건",
+      "priceText": "₩₩ · 1박 약 27만원",
+      "walkMin": 3,
+      "refLabel": "빈원더스 푸꾸옥",
+      "star": 5,
+      "propertyId": 1032420,
+      "geo": {
+        "lat": 10.337489,
+        "lng": 103.849892
+      },
+      "priceKRW": 271488,
+      "priceStatus": "조회됨",
+      "distanceM": 202.57,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "빈펄 사파리 푸꾸옥"
+      ],
+      "blurb": "평점 8.8 · 리뷰 2,787건. 빈원더스 푸꾸옥까지 도보 3분, ₩₩ · 1박 약 27만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 27만원",
+        "📝 리뷰 2,787건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They also have free shuttle service to corona resort.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The property is great, and I really loved their hospitality.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The resort is beautiful, peaceful, and very family-friendly.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "If anyone coming to Phuquoc then this place is a must stay.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Any issues are resolved quickly and efficiently.",
+          "score": "10",
+          "country": "Mongolia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "월드호텔스 롱 비치 리조트 푸쿡 (WorldHotels Long Beach Resort Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/worldhotels-long-beach-resort-phu-quoc-h83294991/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/82466726/0/3d5231064e694f8a5df7794a90061f9b.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 712,
+      "reviewCountFmt": "리뷰 712건",
+      "priceText": "₩₩ · 1박 약 30만원",
+      "walkMin": 1,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 83294991,
+      "geo": {
+        "lat": 10.188999,
+        "lng": 103.966431
+      },
+      "priceKRW": 301190,
+      "priceStatus": "조회됨",
+      "distanceM": 91.99,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 712건. 롱 비치까지 도보 1분, ₩₩ · 1박 약 30만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 30만원",
+        "📝 리뷰 712건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hospitality was exceptional from the moment we arrived.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The room was stylish, modern, and felt genuinely high-end.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was delicious with so many varieties available.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Overall, one of the best resort experiences we have had.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "It was a wonderful experience, everything was perfect",
+          "score": "10",
+          "country": "France",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "빈펄 원더월드 푸꾸옥 (Vinpearl Wonderworld Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/vinpearl-discovery-1-phu-quoc_5/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6377313/0/d43c65b7364a19611641a530f8bda9f2.jpeg?ce=2",
+      "score": 8.7,
+      "reviewCount": 9626,
+      "reviewCountFmt": "리뷰 9,626건",
+      "priceText": "₩₩ · 1박 약 46만원",
+      "walkMin": 1,
+      "refLabel": "빈원더스 푸꾸옥",
+      "star": 5,
+      "propertyId": 6377313,
+      "geo": {
+        "lat": 10.338278,
+        "lng": 103.848633
+      },
+      "priceKRW": 455143,
+      "priceStatus": "조회됨",
+      "distanceM": 39.45,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "빈펄 사파리 푸꾸옥",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 9,626건. 빈원더스 푸꾸옥까지 도보 1분, ₩₩ · 1박 약 46만원.",
+      "metaTags": [
+        "💰 1박 약 46만원",
+        "📝 리뷰 9,626건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The entire villa was clean, neat, and well maintained.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Another huge positive is just how convenient everything is.",
+          "score": "10",
+          "country": "Ireland",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Overall my kids really love the villa and enjoy their stay",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Very nice property well managed, staff very helpful.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious, clean with nice private pool.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Ocean Bay Resort & Spa Phu Quoc",
+      "agodaUrl": "https://www.agoda.com/ocean-bay-phu-quoc-resort-and-spa/hotel/all/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/656410218.jpg?k=fb0bf20024e8cb65d35b0dcec4f5a498a66a757947571521572125594cc069db&o=",
+      "score": 8.9,
+      "reviewCount": 3432,
+      "reviewCountFmt": "리뷰 3,432건",
+      "priceText": "₩₩ · 1박 약 24만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 21977858,
+      "geo": {
+        "lat": 10.25301,
+        "lng": 103.941673
+      },
+      "priceKRW": 239054,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "즈엉동 시장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,432건. ₩₩ · 1박 약 24만원.",
+      "metaTags": [
+        "💰 1박 약 24만원",
+        "📝 리뷰 3,432건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "location",
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 75,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "M 빌라스 푸 꾸옥 (M Villas Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/m-villas-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16909722/0/afa24e4f1437dd5562135f42d74c4a47.jpeg?ce=3",
+      "score": 8.4,
+      "reviewCount": 486,
+      "reviewCountFmt": "리뷰 486건",
+      "priceText": "₩₩ · 1박 약 36만원",
+      "walkMin": 3,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 16909722,
+      "geo": {
+        "lat": 10.1329,
+        "lng": 103.979134
+      },
+      "priceKRW": 356494,
+      "priceStatus": "조회됨",
+      "distanceM": 205.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "일일 청소 서비스",
+        "주방",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 486건. 롱 비치까지 도보 3분, ₩₩ · 1박 약 36만원.",
+      "metaTags": [
+        "💰 1박 약 36만원",
+        "📝 리뷰 486건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was a plesant stay here I would definitely book again.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "The location is fantastic — just steps away from the sea.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "What truly makes this place exceptional is the staff.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Overall, we had a fantastic stay and created great memories.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The rooms were clean, comfortable, and well maintained.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "무븐픽 리조트 웨이벌리 푸 꾸옥 (Mövenpick Resort Waverly Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/movenpick-resort-waverly-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/21726065/0/6ec8a6f8dd973b531fa5e83e080d0bbc.jpeg?va=1&ce=3",
+      "score": 8.7,
+      "reviewCount": 1922,
+      "reviewCountFmt": "리뷰 1,922건",
+      "priceText": "₩₩ · 1박 약 21만원",
+      "walkMin": 76,
+      "refLabel": "푸꾸옥 시골",
+      "star": 5,
+      "propertyId": 14654959,
+      "geo": {
+        "lat": 10.283008,
+        "lng": 103.924171
+      },
+      "priceKRW": 208009,
+      "priceStatus": "조회됨",
+      "distanceM": 6048.08,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 1,922건. 푸꾸옥 시골까지 도보 76분, ₩₩ · 1박 약 21만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 21만원",
+        "📝 리뷰 1,922건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was an very nice facility, kind workers, great service.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "The pool was clean with free towels and pool noodles.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Their breakfast buffet had many choices and we all loved it.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "And they also facilitate a foam pool party every Saturday !!",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Everything’s good, staff are nice and kind!! worth staying!!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:47:58.750Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:47:58.750Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Ocean Bay Resort & Spa Phu Quoc: location, reviewSample"
+      ]
+    }
+  }
+}

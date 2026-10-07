@@ -1,0 +1,737 @@
+{
+  "slug": "ultra-hongkong",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "홍콩",
+  "citySlug": "hongkong",
+  "cityId": 16808,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16808",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[홍콩] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 홍콩 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 53%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>타운플레이스 웨스트 구룡</b>입니다 (평점 8.8 · 리뷰 3,512건 · 1박 약 287만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 16,
+        "pct": 53
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/38578359/-1/2bc4b050f93430c660b1a25f405a918a.jpg?ce=0",
+  "heroAlt": "홍콩 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "타운플레이스 웨스트 구룡 (Townplace West Kowloon)",
+      "agodaUrl": "https://www.agoda.com/townplace-west-kowloon/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38578359/-1/2bc4b050f93430c660b1a25f405a918a.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 3512,
+      "reviewCountFmt": "리뷰 3,512건",
+      "priceText": "₩₩₩ · 1박 약 287만원",
+      "walkMin": 6,
+      "refLabel": "MTR 남청역",
+      "star": 5,
+      "propertyId": 38578359,
+      "geo": {
+        "lat": 22.326676,
+        "lng": 114.149214
+      },
+      "priceKRW": 2870982,
+      "priceStatus": "조회됨",
+      "distanceM": 459.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "홍콩 스카이라인"
+      ],
+      "blurb": "평점 8.8 · 리뷰 3,512건. MTR 남청역까지 도보 6분, ₩₩₩ · 1박 약 287만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 287만원",
+        "📝 리뷰 3,512건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room is essentially comfy with a great harbour view!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great facilities with a budget and the view is immaculate",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Beautiful seaview suite nearby the W Kowloon HST station",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Rooms have upgraded technology and are modern.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The best hotel I have seen in Hong Kong 👍🏻👍🏻",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "포시즌스 호텔 홍콩 (Four Seasons Hotel Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68042/0/b5a4fa7f3f74de5312482c78d2f95e2d.jpeg?ce=3",
+      "score": 9.4,
+      "reviewCount": 2914,
+      "reviewCountFmt": "리뷰 2,914건",
+      "priceText": "₩₩₩ · 1박 약 166만원",
+      "walkMin": 3,
+      "refLabel": "機利文街 Gilman Street",
+      "star": 5,
+      "propertyId": 68042,
+      "geo": {
+        "lat": 22.286833,
+        "lng": 114.156532
+      },
+      "priceKRW": 1657202,
+      "priceStatus": "조회됨",
+      "distanceM": 247.52,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 2,914건. 機利文街 Gilman Street까지 도보 3분, ₩₩₩ · 1박 약 166만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 166만원",
+        "📝 리뷰 2,914건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "High quality and extremely well run with exceptional service",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Also our housekeeping is very mindful of the things we need.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Staff are always available and very quick to respond.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Food/Dining option within the hotel is also 5-star!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Good service absolutely amazing staff. Recommend",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "어퍼 하우스 홍콩 (Upper House Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/the-upper-house/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/216104/0/d2fe355b89ae998f528184803b9d414b.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 1795,
+      "reviewCountFmt": "리뷰 1,795건",
+      "priceText": "₩₩₩ · 1박 약 165만원",
+      "walkMin": 3,
+      "refLabel": "金鐘港鐵站 Admiralty MTR Station",
+      "star": 5,
+      "propertyId": 216104,
+      "geo": {
+        "lat": 22.277294,
+        "lng": 114.166295
+      },
+      "priceKRW": 1645792,
+      "priceStatus": "조회됨",
+      "distanceM": 203.69,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "오션 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,795건. 金鐘港鐵站 Admiralty MTR Station까지 도보 3분, ₩₩₩ · 1박 약 165만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 165만원",
+        "📝 리뷰 1,795건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "You are greeted on a first name basis it really is family",
+          "score": "10",
+          "country": "Jepang",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The interior design is modern and very charming",
+          "score": "10",
+          "country": "Jepang",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here again if given the opportunity.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "With a grand room design and excellent service.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The room meets our expectation and definitely worth it.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "만다린 오리엔탈 더 랜드마크 홍콩 (Mandarin Oriental The Landmark, Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/landmark-mandarin-oriental-hong-kong_2/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3849627/0/691b8a93ccf266ac16b7e578d1991ed8.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 315,
+      "reviewCountFmt": "리뷰 315건",
+      "priceText": "₩₩₩ · 1박 약 170만원",
+      "walkMin": 1,
+      "refLabel": "雪廠街 Ice House Street",
+      "star": 5,
+      "propertyId": 3849627,
+      "geo": {
+        "lat": 22.280611,
+        "lng": 114.157776
+      },
+      "priceKRW": 1695742,
+      "priceStatus": "조회됨",
+      "distanceM": 96.28,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 315건. 雪廠街 Ice House Street까지 도보 1분, ₩₩₩ · 1박 약 170만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 170만원",
+        "📝 리뷰 315건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Services at the hotel are excellent",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Everything in MO is perfect, including the dining experience",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent services, spacious n pretty room",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Excellent traditional hotel",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Very nice hotel, service and room is very good",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Rosewood Hong Kong",
+      "agodaUrl": "https://www.agoda.com/rosewood-hong-kong-h17209693/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/83731753/1607553951/ea49b6d799877917753fdc64581b01ea.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 2903,
+      "reviewCountFmt": "리뷰 2,903건",
+      "priceText": "₩₩₩ · 1박 약 144만원",
+      "walkMin": 2,
+      "refLabel": "East Tsim Sha Tsui MTR Station",
+      "star": 5,
+      "propertyId": 17209693,
+      "geo": {
+        "lat": 22.294977,
+        "lng": 114.175812
+      },
+      "priceKRW": 1435318,
+      "priceStatus": "조회됨",
+      "distanceM": 146.58,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 2,903건. East Tsim Sha Tsui MTR Station까지 도보 2분, ₩₩₩ · 1박 약 144만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 144만원",
+        "📝 리뷰 2,903건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff name Natalie from reception is very nice",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing room, lovely breakfast and stunning swimming pool.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "I will definitely stay there in my next trip to Hong Kong",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Felt so cozy the minute I walked into the room.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Amazing hotel with great staff and great location",
+          "score": "10",
+          "country": "Macau SAR, China",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "만다린 오리엔탈 홍콩 (Mandarin Oriental, Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-hong-kong_10/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3849632/0/5d25a9617178e465db09ba483e2b33d1.jpeg",
+      "score": 9.5,
+      "reviewCount": 3942,
+      "reviewCountFmt": "리뷰 3,942건",
+      "priceText": "₩₩₩ · 1박 약 134만원",
+      "walkMin": 2,
+      "refLabel": "雪廠街 Ice House Street",
+      "star": 5,
+      "propertyId": 3849632,
+      "geo": {
+        "lat": 22.281939,
+        "lng": 114.159393
+      },
+      "priceKRW": 1342641,
+      "priceStatus": "조회됨",
+      "distanceM": 128.8,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "빅토리아 피크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 3,942건. 雪廠街 Ice House Street까지 도보 2분, ₩₩₩ · 1박 약 134만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 134만원",
+        "📝 리뷰 3,942건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I felt why Mandarin is top class hotel in Hong Kong!!",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "An impeccable hotel with Chinese tradition and elegance",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect, right next to Central MTR station.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Habour view king suite is just outstanding and mind blowing",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The services provided were incredibly sweet and thoughtful.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:48:24.978Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:48:24.978Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

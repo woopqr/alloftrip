@@ -1,0 +1,615 @@
+{
+  "slug": "honeymoon-danang",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "다낭",
+  "citySlug": "danang",
+  "cityId": 16440,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16440",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[다낭] 신혼부부가 아낌없이 고르는 최상위 허니문 숙소",
+  "metaDescription": "2026년 11월 다낭 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 18%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>아니아 럭셔리 풀 리조트 빌라</b>입니다 (평점 9.6 · 리뷰 88건 · 1박 약 37만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 22,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 9,
+        "pct": 41
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 8,
+        "pct": 36
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 18
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/86653433/0/4a45503a651e7570dc56d1e7c35bfea8.jpg?ce=3",
+  "heroAlt": "다낭 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아니아 럭셔리 풀 리조트 빌라 (ANIA Luxury Pool Resort Villas )",
+      "agodaUrl": "https://www.agoda.com/ania-private-pool-villas-collection/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86653433/0/4a45503a651e7570dc56d1e7c35bfea8.jpg?ce=3",
+      "score": 9.6,
+      "reviewCount": 88,
+      "reviewCountFmt": "리뷰 88건",
+      "priceText": "₩₩ · 1박 약 37만원",
+      "walkMin": 67,
+      "refLabel": "다낭역",
+      "star": 5,
+      "propertyId": 86653433,
+      "geo": {
+        "lat": 16.04265,
+        "lng": 108.24943
+      },
+      "priceKRW": 373407,
+      "priceStatus": "조회됨",
+      "distanceM": 5365,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "미케 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 88건. 다낭역까지 도보 67분, ₩₩ · 1박 약 37만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 37만원",
+        "📝 리뷰 88건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was clean and comfortable, everything worked fine.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Villa massive, beach stunning, pool big, staff nice.. Happy",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The location is perfect, just a few steps from the beach.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Most importantly, the staff is very polite and helpful.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The room was spotless and felt very airy.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 파이브 빌라 앤 리조트 꽝남 - 다낭 (The Five Villas & Resort Quangnam-Danang)",
+      "agodaUrl": "https://www.agoda.com/the-five-villas-and-resort/hotel/dien-ban-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/11295767/-1/c15f2205c21e39992e0e1d36b229d1a0.png?ce=0",
+      "score": 8.8,
+      "reviewCount": 893,
+      "reviewCountFmt": "리뷰 893건",
+      "priceText": "₩₩ · 1박 약 36만원",
+      "walkMin": 6,
+      "refLabel": "논 누옥 비치",
+      "star": 5,
+      "propertyId": 11295767,
+      "geo": {
+        "lat": 15.963183,
+        "lng": 108.287849
+      },
+      "priceKRW": 358978,
+      "priceStatus": "조회됨",
+      "distanceM": 464.43,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "논 누옥 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 893건. 논 누옥 비치까지 도보 6분, ₩₩ · 1박 약 36만원.",
+      "metaTags": [
+        "💰 1박 약 36만원",
+        "📝 리뷰 893건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, we had a fantastic time at this resort.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "It has everything u need the minute u step into the resort.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "It's like heaven on earth if i have to describe the place.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The beach is just beyond words, clean and rejuvenating.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the 4 bedrooms villa, it was fabulous.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "블루 오션 빌라 다낭 (Blue Ocean Villas Danang)",
+      "agodaUrl": "https://www.agoda.com/blue-ocean-villas-danang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55306898/0/57239e29581ca020468a96b05b92d7dd.jpeg?ce=0",
+      "score": 8.7,
+      "reviewCount": 96,
+      "reviewCountFmt": "리뷰 96건",
+      "priceText": "₩₩ · 1박 약 44만원",
+      "walkMin": 2,
+      "refLabel": "논 누옥 비치",
+      "star": 5,
+      "propertyId": 55306898,
+      "geo": {
+        "lat": 15.975971,
+        "lng": 108.282074
+      },
+      "priceKRW": 435290,
+      "priceStatus": "조회됨",
+      "distanceM": 164.98,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "논 누옥 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 96건. 논 누옥 비치까지 도보 2분, ₩₩ · 1박 약 44만원.",
+      "metaTags": [
+        "💰 1박 약 44만원",
+        "📝 리뷰 96건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "오션 빌라스 비치 리조트 (Ocean Villas Beach Resort)",
+      "agodaUrl": "https://www.agoda.com/royal-villas-beach-resort/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37662602/0/7308242af2ffc375267d854e3ddba673.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 78,
+      "reviewCountFmt": "리뷰 78건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 61,
+      "refLabel": "논 누옥 비치",
+      "star": 5,
+      "propertyId": 37662602,
+      "geo": {
+        "lat": 16.010073,
+        "lng": 108.318253
+      },
+      "priceKRW": 433798,
+      "priceStatus": "조회됨",
+      "distanceM": 4913.6,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "논 누옥 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 78건. 논 누옥 비치까지 도보 61분, ₩₩ · 1박 약 43만원.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 78건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had a wonderful 3-night stay at this beautiful villa.",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We had so much fun just relaxing and playing at the villa.",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Perfect family stay with amazing support",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Thank you for the great experience!",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "My family stayed here and all of us were happy with it.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "푸라마 리조트 빌라 다낭 (Purama Resort Villa Da Nang)",
+      "agodaUrl": "https://www.agoda.com/purama-resort-villa-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49648459/0/a8a834cdc11f91952bebfe77bcd756da.png?ce=2",
+      "score": 7.9,
+      "reviewCount": 247,
+      "reviewCountFmt": "리뷰 247건",
+      "priceText": "₩₩ · 1박 약 38만원",
+      "walkMin": 76,
+      "refLabel": "다낭역",
+      "star": 5,
+      "propertyId": 49648459,
+      "geo": {
+        "lat": 16.036606,
+        "lng": 108.25274
+      },
+      "priceKRW": 376433,
+      "priceStatus": "조회됨",
+      "distanceM": 6060.62,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "미케 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 7.9 · 리뷰 247건. 다낭역까지 도보 76분, ₩₩ · 1박 약 38만원.",
+      "metaTags": [
+        "💰 1박 약 38만원",
+        "📝 리뷰 247건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was incredibly clean and in excellent condition.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Thanks to your kindness, it was the best villa ever 👍🏻",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I was so satisfied with everything.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The house was huge, which is suitable for extended family.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Thanks a lot for your kindly help and nice service❤️❤️❤️",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "프리미어 빌리지 비치 빌라 (Premier Village Beach Villas)",
+      "agodaUrl": "https://www.agoda.com/premier-village-resort-by-yastay/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/88059036/0/4e7ecc8cd60bb0f2bb6ee980da9907e6.jpg?ce=3",
+      "score": 8.6,
+      "reviewCount": 39,
+      "reviewCountFmt": "리뷰 39건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 69,
+      "refLabel": "다낭역",
+      "star": 5,
+      "propertyId": 88059036,
+      "geo": {
+        "lat": 16.042057,
+        "lng": 108.25083
+      },
+      "priceKRW": 402465,
+      "priceStatus": "조회됨",
+      "distanceM": 5524.36,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "미케 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 39건. 다낭역까지 도보 69분, ₩₩ · 1박 약 40만원.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 39건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff were wonderful and rooms and bathrooms were big.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Great villa near My Khe Beach",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:57:20.274Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:57:20.274Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "블루 오션 빌라 다낭 (Blue Ocean Villas Danang): reviewSample"
+      ]
+    }
+  }
+}

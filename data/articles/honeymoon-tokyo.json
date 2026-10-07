@@ -1,0 +1,702 @@
+{
+  "slug": "honeymoon-tokyo",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[도쿄] 신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+  "metaDescription": "2026년 11월 도쿄 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 50%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>페어몬트 도쿄</b>입니다 (평점 9.5 · 리뷰 304건 · 1박 약 183만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 14,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 8,
+        "pct": 29
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 14
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/70978375/0/3a490e6139752752b8059f9ade361b80.jpeg?va=1&ce=3",
+  "heroAlt": "도쿄 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "페어몬트 도쿄 (Fairmont Tokyo)",
+      "agodaUrl": "https://www.agoda.com/fairmont-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/70978375/0/3a490e6139752752b8059f9ade361b80.jpeg?va=1&ce=3",
+      "score": 9.5,
+      "reviewCount": 304,
+      "reviewCountFmt": "리뷰 304건",
+      "priceText": "₩₩₩ · 1박 약 183만원",
+      "walkMin": 3,
+      "refLabel": "Hinode",
+      "star": 5,
+      "propertyId": 70978375,
+      "geo": {
+        "lat": 35.650898,
+        "lng": 139.757599
+      },
+      "priceKRW": 1832743,
+      "priceStatus": "조회됨",
+      "distanceM": 236.36,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "오다이바",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 304건. Hinode까지 도보 3분, ₩₩₩ · 1박 약 183만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 183만원",
+        "📝 리뷰 304건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff were incredibly kind, and the room was spotless.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I’ll definitely stay here again on my next trip to Tokyo.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is brand new with gorgeous interiors.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended, great service and lovely experience!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel and excellent service",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "애스콧 마루노우치 도쿄 (Ascott Marunouchi Tokyo)",
+      "agodaUrl": "https://www.agoda.com/ascott-marunouchi-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/99400238.jpg?k=d0d41605d455a67f15c273d649014aec76b5ef1c347e1b272a52de1279a70459&o=",
+      "score": 9,
+      "reviewCount": 1387,
+      "reviewCountFmt": "리뷰 1,387건",
+      "priceText": "₩₩₩ · 1박 약 164만원",
+      "walkMin": 2,
+      "refLabel": "오테마치역",
+      "star": 5,
+      "propertyId": 1637756,
+      "geo": {
+        "lat": 35.68684,
+        "lng": 139.762863
+      },
+      "priceKRW": 1642821,
+      "priceStatus": "조회됨",
+      "distanceM": 170.03,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 1,387건. 오테마치역까지 도보 2분, ₩₩₩ · 1박 약 164만원.",
+      "metaTags": [
+        "💰 1박 약 164만원",
+        "📝 리뷰 1,387건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Ascott was the gold standard in room comfort and amenities.",
+          "score": "9.2",
+          "country": "Aruba",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms are large and of high-end, luxury appeal.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Huge room with excellent amenities and facilities.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "I also love the bathroom with a high water pressure shower.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Upscale hotel conveniently located near the MRT.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "팰리스 호텔 도쿄 (Palace Hotel Tokyo)",
+      "agodaUrl": "https://www.agoda.com/palace-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/569164/0/ccf907f71d9a3fa9998dcb31c69b1148.jpeg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 1690,
+      "reviewCountFmt": "리뷰 1,690건",
+      "priceText": "₩₩₩ · 1박 약 188만원",
+      "walkMin": 2,
+      "refLabel": "오테마치역",
+      "star": 5,
+      "propertyId": 569164,
+      "geo": {
+        "lat": 35.684607,
+        "lng": 139.76142
+      },
+      "priceKRW": 1875659,
+      "priceStatus": "조회됨",
+      "distanceM": 187.03,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워"
+      ],
+      "blurb": "평점 9.4 · 리뷰 1,690건. 오테마치역까지 도보 2분, ₩₩₩ · 1박 약 188만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 188만원",
+        "📝 리뷰 1,690건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our room was wonderful with balcony and a view of the park.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Exceptional service, beautiful hotel, definitely a 5 * hotel",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "I can't wait to be stay there again once I'm back in Tokyo.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The hotel is beautiful and honestly we couldnt fault it.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Wonderful location, amazing pool, everything was lovely.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "리츠칼튼, 도쿄 (The Ritz-Carlton, Tokyo)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/433374692.jpg?k=398c8f97f637eb5f8fbe48e6b6b25143a545c49c6e495e604ec0a30c5271e009&o=",
+      "score": 9,
+      "reviewCount": 641,
+      "reviewCountFmt": "리뷰 641건",
+      "priceText": "₩₩₩ · 1박 약 162만원",
+      "walkMin": 5,
+      "refLabel": "롯폰기역",
+      "star": 5,
+      "propertyId": 97518,
+      "geo": {
+        "lat": 35.666275,
+        "lng": 139.731247
+      },
+      "priceKRW": 1623574,
+      "priceStatus": "조회됨",
+      "distanceM": 386.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 641건. 롯폰기역까지 도보 5분, ₩₩₩ · 1박 약 162만원. 연인·커플 리뷰 비중 33%.",
+      "metaTags": [
+        "💰 1박 약 162만원",
+        "📝 리뷰 641건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 33,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 33,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 33,
+            "rating": 8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 33,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was our honeymoon everything was fantastic",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "It’s conveniently located",
+          "score": "7.6",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Great hotel as usual .",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 도쿄 에디션, 도라노몬 (The Tokyo EDITION, Toranomon)",
+      "agodaUrl": "https://www.agoda.com/the-tokyo-edition-toranomon/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643503065.jpg?k=6606327895650ea05018bf38240bed5fdf2345a54e7b3012e0de553ef69f227a&o=",
+      "score": 9.1,
+      "reviewCount": 869,
+      "reviewCountFmt": "리뷰 869건",
+      "priceText": "₩₩₩ · 1박 약 147만원",
+      "walkMin": 3,
+      "refLabel": "가미야초역",
+      "star": 5,
+      "propertyId": 13609165,
+      "geo": {
+        "lat": 35.665367,
+        "lng": 139.745132
+      },
+      "priceKRW": 1470401,
+      "priceStatus": "조회됨",
+      "distanceM": 269.2,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 869건. 가미야초역까지 도보 3분, ₩₩₩ · 1박 약 147만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 147만원",
+        "📝 리뷰 869건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was great to see how spacious the room was in Tokyo!!",
+          "score": "8.4",
+          "country": "South Korea",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel itself is new, spotless, and beautifully designed.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "I absolutely loved my stay at The Tokyo EDITION, Toranomon!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Truly one of the best hotel experiences I’ve ever had!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Paid for the tokyo tower view - absolutely amazing view!!",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "안다즈 도쿄 토라노몬 힐스 (Andaz Tokyo Toranomon Hills)",
+      "agodaUrl": "https://www.agoda.com/andaz-tokyo-a-concept-by-hyatt/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/567347/0/0f3b190b811cb49050134112b1495018.jpeg?va=1",
+      "score": 9.3,
+      "reviewCount": 766,
+      "reviewCountFmt": "리뷰 766건",
+      "priceText": "₩₩₩ · 1박 약 136만원",
+      "walkMin": 2,
+      "refLabel": "토라노몬힐즈역",
+      "star": 5,
+      "propertyId": 567347,
+      "geo": {
+        "lat": 35.666653,
+        "lng": 139.748352
+      },
+      "priceKRW": 1363146,
+      "priceStatus": "조회됨",
+      "distanceM": 124.56,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 766건. 토라노몬힐즈역까지 도보 2분, ₩₩₩ · 1박 약 136만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 136만원",
+        "📝 리뷰 766건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best service and amazing view of tokyo tower",
+          "score": "10",
+          "country": "캐나다",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Andaz is always my first choice whenever I visit Tokyo .",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Not to mention the view and location.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "My new favourite hotel in Tokyo",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "They kindly kept a birthday cake for me in the fridge.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:46:49.022Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:46:49.022Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "slug": "anniversary-rome",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "로마",
+  "citySlug": "rome",
+  "cityId": 16594,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16594",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[로마] 특별한 날을 완성하는 5성급 기념일 스테이",
+  "metaDescription": "2026년 11월 로마 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 75%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>호텔 팔라쪼 만프레디 - 스몰 럭셔리 호텔 오브 더 월드</b>입니다 (평점 8.8 · 리뷰 164건 · 1박 약 93만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 75
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 5,
+        "pct": 18
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/124845/-1/8484d28bf1538e5a7378676bf6a2bdfd.jpg?ca=7&ce=1",
+  "heroAlt": "로마 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 팔라쪼 만프레디 - 스몰 럭셔리 호텔 오브 더 월드 (Hotel Palazzo Manfredi – Small Luxury Hotels of the World)",
+      "agodaUrl": "https://www.agoda.com/hotel-palazzo-manfredi-relais-chateaux/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/124845/-1/8484d28bf1538e5a7378676bf6a2bdfd.jpg?ca=7&ce=1",
+      "score": 8.8,
+      "reviewCount": 164,
+      "reviewCountFmt": "리뷰 164건",
+      "priceText": "₩₩₩ · 1박 약 93만원",
+      "walkMin": 4,
+      "refLabel": "콜로세오역",
+      "star": 5,
+      "propertyId": 124845,
+      "geo": {
+        "lat": 41.890312,
+        "lng": 12.494921
+      },
+      "priceKRW": 928181,
+      "priceStatus": "조회됨",
+      "distanceM": 315.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 164건. 콜로세오역까지 도보 4분, ₩₩₩ · 1박 약 93만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 93만원",
+        "📝 리뷰 164건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was the best hotel I've ever been to.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "A Michelin star restaurant and impeccable service.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous hotel, great location but truly the service was 5*.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Perfect hotel for Rome city walk",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Great location across from the Colosseum!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "해리스 바 트레비 호텔 앤 레스토랑 (Harry's Bar Trevi Hotel & Restaurant)",
+      "agodaUrl": "https://www.agoda.com/harry-s-bar-trevi-hotel-restaurant/hotel/rome-it.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/79686192.jpg?k=1fb6c65aaf53676924c291a89be51fa20a66962812110778095902ebc507a639&o=",
+      "score": 9.3,
+      "reviewCount": 1214,
+      "reviewCountFmt": "리뷰 1,214건",
+      "priceText": "₩₩₩ · 1박 약 76만원",
+      "walkMin": 7,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 6724231,
+      "geo": {
+        "lat": 41.900318,
+        "lng": 12.48379
+      },
+      "priceKRW": 762435,
+      "priceStatus": "조회됨",
+      "distanceM": 565.09,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "Rome top guest-rated area",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,214건. 바르베리니 - 폰타나 디 트레비까지 도보 7분, ₩₩₩ · 1박 약 76만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 76만원",
+        "📝 리뷰 1,214건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel is literally 10 steps from the Trevi fountain.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Great staff, amazing service and breakfast was excellent!",
+          "score": "10",
+          "country": "Estonia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "I would go this hotel again if I go back to Rome !",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The hotel was cool and the front desk people were excellent.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Reception and Housekeeping staff is very good and helpful.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "인터컨티넨탈 로마 암바시아토리 팰리스 바이 IHG (Intercontinental Rome Ambasciatori Palace By IHG)",
+      "agodaUrl": "https://www.agoda.com/ambasciatori-palace-hotel_13/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/23092022/0/23847ce021c3ef276ac137f380e7ad54.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 317,
+      "reviewCountFmt": "리뷰 317건",
+      "priceText": "₩₩₩ · 1박 약 93만원",
+      "walkMin": 4,
+      "refLabel": "바르베리니 - 폰타나 디 트레비",
+      "star": 5,
+      "propertyId": 30444683,
+      "geo": {
+        "lat": 41.906342,
+        "lng": 12.489627
+      },
+      "priceKRW": 931196,
+      "priceStatus": "조회됨",
+      "distanceM": 306.6,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "Rome top guest-rated area",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 317건. 바르베리니 - 폰타나 디 트레비까지 도보 4분, ₩₩₩ · 1박 약 93만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 93만원",
+        "📝 리뷰 317건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Strongly recommend this hotel",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "However the restaurant food was perfection as was breakfast.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was perfect and included in the price.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "It was a pleasure to stay at this wonderful hotel.",
+          "score": "9.6",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Could not rate it any higher.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "팜 스위트 - 스몰 럭셔리 호텔 오브 더 월드 (Palm Suites - Small Luxury Hotels of the World)",
+      "agodaUrl": "https://www.agoda.com/palm-suites/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/637/6377523/6377523_18121819090070453627.jpg?ca=7&ce=1",
+      "score": 9.1,
+      "reviewCount": 315,
+      "reviewCountFmt": "리뷰 315건",
+      "priceText": "₩₩ · 1박 약 63만원",
+      "walkMin": 1,
+      "refLabel": "콜로세오역",
+      "star": 5,
+      "propertyId": 6377523,
+      "geo": {
+        "lat": 41.8922,
+        "lng": 12.490556
+      },
+      "priceKRW": 627671,
+      "priceStatus": "조회됨",
+      "distanceM": 113.57,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 315건. 콜로세오역까지 도보 1분, ₩₩ · 1박 약 63만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 63만원",
+        "📝 리뷰 315건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great living with clean room and warmly service",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Location is ideal starting point given proximity to subway.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Family suite was fantastic",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent Location",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Very nice hotel.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "빌라 아그리피나 그란 멜리아 - 더 리딩 호텔스 오브 더 월드 (Villa Agrippina Gran Meliá - The Leading Hotels of the World)",
+      "agodaUrl": "https://www.agoda.com/hotel-gran-melia-rome/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/290647/-1/4718b3796313a9dadf5be281c116d9fc.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 643,
+      "reviewCountFmt": "리뷰 643건",
+      "priceText": "₩₩₩ · 1박 약 77만원",
+      "walkMin": 7,
+      "refLabel": "로마 산 피에트로역",
+      "star": 5,
+      "propertyId": 290647,
+      "geo": {
+        "lat": 41.897861,
+        "lng": 12.46113
+      },
+      "priceKRW": 772979,
+      "priceStatus": "조회됨",
+      "distanceM": 585.73,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 643건. 로마 산 피에트로역까지 도보 7분, ₩₩₩ · 1박 약 77만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 77만원",
+        "📝 리뷰 643건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One the best Hotel in Vatican",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "GREAT location and staff",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great amenities & clean",
+          "score": "8",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "아난타라 팔라초 나이아디 - 어 리딩 호텔 오브 더 월드 (Anantara Palazzo Naiadi - A Leading Hotel of the World)",
+      "agodaUrl": "https://www.agoda.com/palazzo-naiadi-the-dedica-anthology-autograph-collection/hotel/rome-it.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/877152/0/0fbe7b71d875d49cc50f617e437a4455.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 814,
+      "reviewCountFmt": "리뷰 814건",
+      "priceText": "₩₩₩ · 1박 약 95만원",
+      "walkMin": 1,
+      "refLabel": "레푸블리카 - 테아트로 델오페라역",
+      "star": 5,
+      "propertyId": 877152,
+      "geo": {
+        "lat": 41.901955,
+        "lng": 12.496
+      },
+      "priceKRW": 948976,
+      "priceStatus": "조회됨",
+      "distanceM": 70.94,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "바실리카 디 샌 기오바니 인 레이터아노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 814건. 레푸블리카 - 테아트로 델오페라역까지 도보 1분, ₩₩₩ · 1박 약 95만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 95만원",
+        "📝 리뷰 814건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "And we had a perfect experience.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Location was great would love to come and stay against",
+          "score": "9.6",
+          "country": "Pakistan",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "It was nice and luxurious and they gave us a gift upgrade",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Amazing stay beautiful hotel super clean.",
+          "score": "9.6",
+          "country": "Pakistan",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "The beds were very comfortable.",
+          "score": "9.6",
+          "country": "Pakistan",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:59:03.744Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:59:03.744Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "slug": "anniversary-london",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "런던",
+  "citySlug": "london",
+  "cityId": 233,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=233",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[런던] 결혼기념일을 위한 최고급 호텔 & 스위트",
+  "metaDescription": "2026년 11월 런던 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 46%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>헤이마켓 호텔, 펌데일 호텔</b>입니다 (평점 9.6 · 리뷰 609건 · 1박 약 171만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 26,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 12,
+        "pct": 46
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 9,
+        "pct": 35
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 12
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 8
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/855784628.jpg?k=035d366bdc52820dd889678c1dfa8ebf394716e09058b155767d5d59aa105dbe&o=",
+  "heroAlt": "런던 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "헤이마켓 호텔, 펌데일 호텔 (Haymarket Hotel, Firmdale Hotels)",
+      "agodaUrl": "https://www.agoda.com/haymarket-hotel-firmdale-hotels_2/hotel/all/london-gb.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/855784628.jpg?k=035d366bdc52820dd889678c1dfa8ebf394716e09058b155767d5d59aa105dbe&o=",
+      "score": 9.6,
+      "reviewCount": 609,
+      "reviewCountFmt": "리뷰 609건",
+      "priceText": "₩₩₩ · 1박 약 171만원",
+      "walkMin": 4,
+      "refLabel": "피카딜리 서커스역",
+      "star": 5,
+      "propertyId": 3283903,
+      "geo": {
+        "lat": 51.508282,
+        "lng": -0.1314
+      },
+      "priceKRW": 1705784,
+      "priceStatus": "조회됨",
+      "distanceM": 280.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 609건. 피카딜리 서커스역까지 도보 4분, ₩₩₩ · 1박 약 171만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 171만원",
+        "📝 리뷰 609건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel is lovely and the food is excellent.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The food at the restaurant was fantastic.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous bright decor everywhere.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Wonderful stay!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Great location",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 버클리 (The Berkeley)",
+      "agodaUrl": "https://www.agoda.com/the-berkeley/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9085758/0/39e1ac02f929b22584fee1ffa66199d2.jpeg",
+      "score": 9.2,
+      "reviewCount": 316,
+      "reviewCountFmt": "리뷰 316건",
+      "priceText": "₩₩₩ · 1박 약 163만원",
+      "walkMin": 3,
+      "refLabel": "하이드 파크 코너역",
+      "star": 5,
+      "propertyId": 9085758,
+      "geo": {
+        "lat": 51.50172,
+        "lng": -0.15584
+      },
+      "priceKRW": 1631156,
+      "priceStatus": "조회됨",
+      "distanceM": 278,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 316건. 하이드 파크 코너역까지 도보 3분, ₩₩₩ · 1박 약 163만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 163만원",
+        "📝 리뷰 316건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Good luxury, stunning views and good food.",
+          "score": "10",
+          "country": "États-Unis",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great spa , cocktail bar.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Fantastic hotel.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Great staff.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "만다린 오리엔탈 하이드 파크 런던 (Mandarin Oriental Hyde Park, London)",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-hyde-park_3/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42967/-1/bcc77e2f26caca2ec5d23f5b25d25fa6.jpg?ca=7&ce=1",
+      "score": 9.3,
+      "reviewCount": 60,
+      "reviewCountFmt": "리뷰 60건",
+      "priceText": "₩₩₩ · 1박 약 192만원",
+      "walkMin": 2,
+      "refLabel": "나이츠브리지역",
+      "star": 5,
+      "propertyId": 3849623,
+      "geo": {
+        "lat": 51.502956,
+        "lng": -0.159768
+      },
+      "priceKRW": 1919007,
+      "priceStatus": "조회됨",
+      "distanceM": 159.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 60건. 나이츠브리지역까지 도보 2분, ₩₩₩ · 1박 약 192만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 192만원",
+        "📝 리뷰 60건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The service was extra and the room absolutely beautiful.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Luxury hotel and nice staff",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff cannot do enough for you.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Professional and kind staff.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Great hotel",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "로코 포르테 브라운스 호텔 (Rocco Forte Brown's Hotel)",
+      "agodaUrl": "https://www.agoda.com/rocco-forte-brown-s-hotel/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/165/165716/165716_15073023440033379556.jpg?ca=5&ce=1",
+      "score": 9.6,
+      "reviewCount": 200,
+      "reviewCountFmt": "리뷰 200건",
+      "priceText": "₩₩₩ · 1박 약 169만원",
+      "walkMin": 3,
+      "refLabel": "그린 파크역",
+      "star": 5,
+      "propertyId": 165716,
+      "geo": {
+        "lat": 51.509075,
+        "lng": -0.142123
+      },
+      "priceKRW": 1688016,
+      "priceStatus": "조회됨",
+      "distanceM": 254.06,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 200건. 그린 파크역까지 도보 3분, ₩₩₩ · 1박 약 169만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 169만원",
+        "📝 리뷰 200건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Highly recommend",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 스태퍼드 런던 (The Stafford London)",
+      "agodaUrl": "https://www.agoda.com/the-stafford-hotel-london/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/127511/0/96e17a4233a2363a05345c8fbd1e88c4.jpeg?ce=0",
+      "score": 9.3,
+      "reviewCount": 154,
+      "reviewCountFmt": "리뷰 154건",
+      "priceText": "₩₩₩ · 1박 약 180만원",
+      "walkMin": 4,
+      "refLabel": "그린 파크역",
+      "star": 5,
+      "propertyId": 127511,
+      "geo": {
+        "lat": 51.505352,
+        "lng": -0.138981
+      },
+      "priceKRW": 1804844,
+      "priceStatus": "조회됨",
+      "distanceM": 289.09,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 154건. 그린 파크역까지 도보 4분, ₩₩₩ · 1박 약 180만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 180만원",
+        "📝 리뷰 154건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Both the interior, the drinks and the staff absolutely top!",
+          "score": "8",
+          "country": "Schweiz",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Absolute gem of a hotel in gem of a location 👌🏼",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Charming staff who go above and beyond.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Would recommend and stay again.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Central and lovely hotel.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 보몬트 호텔 (The Beaumont Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-beaumont-hotel/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/789/789384/789384_16052523140042727652.jpg?ca=6&ce=1",
+      "score": 9.3,
+      "reviewCount": 1012,
+      "reviewCountFmt": "리뷰 1,012건",
+      "priceText": "₩₩₩ · 1박 약 161만원",
+      "walkMin": 3,
+      "refLabel": "본드 스트리트역",
+      "star": 5,
+      "propertyId": 9801028,
+      "geo": {
+        "lat": 51.513008,
+        "lng": -0.1523
+      },
+      "priceKRW": 1608890,
+      "priceStatus": "조회됨",
+      "distanceM": 234.64,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "웨스트민스터 애비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,012건. 본드 스트리트역까지 도보 3분, ₩₩₩ · 1박 약 161만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 161만원",
+        "📝 리뷰 1,012건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The team was super warm and personable, so thank you!",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Perfect location",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "High cleanliness",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Friendly staff",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Will Be back!!",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:58:14.434Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:58:14.434Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

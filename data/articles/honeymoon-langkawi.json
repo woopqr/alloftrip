@@ -1,0 +1,609 @@
+{
+  "slug": "honeymoon-langkawi",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "랑카위",
+  "citySlug": "langkawi",
+  "cityId": 16928,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16928",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[랑카위] 신혼부부가 아낌없이 고르는 최상위 허니문 숙소",
+  "metaDescription": "2026년 11월 랑카위 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 15%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>더 웨스틴 랑카위 리조트 앤 스파</b>입니다 (평점 8.8 · 리뷰 2,810건 · 1박 약 25만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 8,
+        "pct": 40
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 7,
+        "pct": 35
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 3,
+        "pct": 15
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/10444/-1/48b57fdd4f49199fbf93b7ec6a57446f.jpg?ca=9&ce=1",
+  "heroAlt": "랑카위 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 웨스틴 랑카위 리조트 앤 스파 (The Westin Langkawi Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/the-westin-langkawi-resort-spa/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10444/-1/48b57fdd4f49199fbf93b7ec6a57446f.jpg?ca=9&ce=1",
+      "score": 8.8,
+      "reviewCount": 2810,
+      "reviewCountFmt": "리뷰 2,810건",
+      "priceText": "₩₩ · 1박 약 25만원",
+      "walkMin": 13,
+      "refLabel": "이글 스퀘어",
+      "star": 5,
+      "propertyId": 10444,
+      "geo": {
+        "lat": 6.300639,
+        "lng": 99.855186
+      },
+      "priceKRW": 248991,
+      "priceStatus": "조회됨",
+      "distanceM": 1014.03,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "이글 스퀘어",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 2,810건. 이글 스퀘어까지 도보 13분, ₩₩ · 1박 약 25만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 25만원",
+        "📝 리뷰 2,810건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I was blessed with free upgrade room, with half ocean view.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Beautiful layout, clean water, and a great place to unwind.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The staff were exceptional and the facilities were amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Well maintained and can spent full day at the hotel itself.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Will definitely return to Westin if i'm back in Langkawi.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Hilton Burau Bay Langkawi Resort",
+      "agodaUrl": "https://www.agoda.com/mutiara-burau-bay-resort-langkawi_2/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/71903019/0/29ce8d0090255f0b16d831eec01a9c7f.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 347,
+      "reviewCountFmt": "리뷰 347건",
+      "priceText": "₩₩ · 1박 약 28만원",
+      "walkMin": 8,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 85367923,
+      "geo": {
+        "lat": 6.365659,
+        "lng": 99.67128
+      },
+      "priceKRW": 281511,
+      "priceStatus": "조회됨",
+      "distanceM": 600.08,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "오리엔탈 빌리지 & 랑카위 케이블 카",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 347건. Panorama Langkawi SkyCab까지 도보 8분, ₩₩ · 1박 약 28만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 28만원",
+        "📝 리뷰 347건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best stay experience i’ve had in a hotel.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay with superb service from start to finish.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "A truly memorable stay that exceeded all expectations.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The pool & beach were my kind of place to chill with a book.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Our room is overlooking the majestic Machinchang mountains.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Saujana Private Villas",
+      "agodaUrl": "https://www.agoda.com/saujana-private-villas-datai-langkawi/hotel/kampung-padang-masirat-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42947336/0/530a44ab1d2b49dfe02788e58b4a67d9.jpeg?ce=0",
+      "score": 9.8,
+      "reviewCount": 49,
+      "reviewCountFmt": "리뷰 49건",
+      "priceText": "₩₩ · 1박 약 38만원",
+      "walkMin": 76,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 42947336,
+      "geo": {
+        "lat": 6.425457,
+        "lng": 99.677185
+      },
+      "priceKRW": 384155,
+      "priceStatus": "조회됨",
+      "distanceM": 6083.01,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "랑카위 스카이 브리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.8 · 리뷰 49건. Panorama Langkawi SkyCab까지 도보 76분, ₩₩ · 1박 약 38만원.",
+      "metaTags": [
+        "💰 1박 약 38만원",
+        "📝 리뷰 49건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Lavanya Villa and Residence by Rimba Hill",
+      "agodaUrl": "https://www.agoda.com/lavanya-sea-view-apartment-with-resort-access/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/70986608/0/6abb80e51a975f58edfc665036b5622d.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 59,
+      "reviewCountFmt": "리뷰 59건",
+      "priceText": "₩₩ · 1박 약 30만원",
+      "walkMin": 22,
+      "refLabel": "언더워터월드",
+      "star": 5,
+      "propertyId": 70986608,
+      "geo": {
+        "lat": 6.27699,
+        "lng": 99.73181
+      },
+      "priceKRW": 296914,
+      "priceStatus": "조회됨",
+      "distanceM": 1792.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "텡가 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 59건. 언더워터월드까지 도보 22분, ₩₩ · 1박 약 30만원.",
+      "metaTags": [
+        "💰 1박 약 30만원",
+        "📝 리뷰 59건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Private pool with beautiful sunset view was a bonus.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Generous and kind with early check in and late check out",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Fantabulous stay at seaview penthouse with private pool",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Amazing property - Serene and Tranquil experience",
+          "score": "9.6",
+          "country": "India",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Spacious, clean & stunning views.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 세인트 레지스 랑카위 (The St. Regis Langkawi)",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-langkawi/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4866302/77759704/c42d6d99316be32e9fed6748ef5448f1.jpg?ca=28&ce=0",
+      "score": 9.2,
+      "reviewCount": 992,
+      "reviewCountFmt": "리뷰 992건",
+      "priceText": "₩₩ · 1박 약 65만원",
+      "walkMin": 24,
+      "refLabel": "이글 스퀘어",
+      "star": 5,
+      "propertyId": 1148604,
+      "geo": {
+        "lat": 6.296177,
+        "lng": 99.862534
+      },
+      "priceKRW": 645412,
+      "priceStatus": "조회됨",
+      "distanceM": 1881.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "이글 스퀘어"
+      ],
+      "blurb": "평점 9.2 · 리뷰 992건. 이글 스퀘어까지 도보 24분, ₩₩ · 1박 약 65만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 65만원",
+        "📝 리뷰 992건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The service was top notch and I enjoyed the facilities here.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The place itself is incredibly private and peaceful.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "From the room, to food, to swimming pool and also the beach.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "The beach, rooms, and champagne breakfast were terrific.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Breakfast spread was amazing and spoilt for choices.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "#1 Bedroom@ Hidden Paradise Villa",
+      "agodaUrl": "https://www.agoda.com/hidden-paradise-villa-h64247889/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/639458912.jpg?k=e5c12f9a7f4e5c27487908233673edc3af3b45c7b269443fa4c5a45199bf8f39&o=",
+      "score": 9.2,
+      "reviewCount": 45,
+      "reviewCountFmt": "리뷰 45건",
+      "priceText": "₩₩ · 1박 약 33만원",
+      "walkMin": 76,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 64252042,
+      "geo": {
+        "lat": 6.425479,
+        "lng": 99.666229
+      },
+      "priceKRW": 330461,
+      "priceStatus": "조회됨",
+      "distanceM": 6087.56,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "랑카위 스카이 브리지"
+      ],
+      "blurb": "평점 9.2 · 리뷰 45건. Panorama Langkawi SkyCab까지 도보 76분, ₩₩ · 1박 약 33만원.",
+      "metaTags": [
+        "💰 1박 약 33만원",
+        "📝 리뷰 45건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:52:16.190Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:52:16.190Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Saujana Private Villas: reviewSample",
+        "#1 Bedroom@ Hidden Paradise Villa: reviewSample"
+      ]
+    }
+  }
+}

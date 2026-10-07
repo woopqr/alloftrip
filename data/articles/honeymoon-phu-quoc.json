@@ -1,0 +1,729 @@
+{
+  "slug": "honeymoon-phu-quoc",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "푸꾸옥",
+  "citySlug": "phu-quoc",
+  "cityId": 17188,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17188",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[푸꾸옥] 신혼부부가 아낌없이 고르는 최상위 허니문 숙소",
+  "metaDescription": "2026년 11월 푸꾸옥 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 60%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>래디슨 블루 리조트 푸쿽</b>입니다 (평점 8.9 · 리뷰 2,550건 · 1박 약 45만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 18,
+        "pct": 60
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/5442703/0/2f3dc9eb48c575987b07c25c224244bb.jpeg?ce=2",
+  "heroAlt": "푸꾸옥 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "래디슨 블루 리조트 푸쿽 (Radisson Blu Resort Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/radisson-blu-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5442703/0/2f3dc9eb48c575987b07c25c224244bb.jpeg?ce=2",
+      "score": 8.9,
+      "reviewCount": 2550,
+      "reviewCountFmt": "리뷰 2,550건",
+      "priceText": "₩₩ · 1박 약 45만원",
+      "walkMin": 16,
+      "refLabel": "빈원더스 푸꾸옥",
+      "star": 5,
+      "propertyId": 5442703,
+      "geo": {
+        "lat": 10.328082,
+        "lng": 103.853661
+      },
+      "priceKRW": 447810,
+      "priceStatus": "조회됨",
+      "distanceM": 1296.14,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "빈펄 사파리 푸꾸옥",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 2,550건. 빈원더스 푸꾸옥까지 도보 16분, ₩₩ · 1박 약 45만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 45만원",
+        "📝 리뷰 2,550건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Don't miss the happy hours at the pool and beach bars.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "We love the facilities and easy access to the beach.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Overall we really enjoyed our stay stay at the Radisson Blu.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The rooms were just too good, layout, bedding and the views.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Overall, a fantastic resort that I would happily return to!",
+          "score": "10",
+          "country": "India",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "그랜드 리조트 오션 베이 푸꾸옥 (Grand Resort Ocean Bay Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/grand-resort-ocean-bay-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/47021962/0/33222cef782e6a37ae87eca7f607b1a5.png?ce=3",
+      "score": 8.6,
+      "reviewCount": 2143,
+      "reviewCountFmt": "리뷰 2,143건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 58,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 47021962,
+      "geo": {
+        "lat": 10.255892,
+        "lng": 103.940201
+      },
+      "priceKRW": 427040,
+      "priceStatus": "조회됨",
+      "distanceM": 4656.79,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 2,143건. 롱 비치까지 도보 58분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 2,143건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We absolutely loved the room and the breathtaking view.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great private pool villa, with access to beach directly.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Food, services, yoga class, especially the view are nice.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "And the breakfast buffet had plenty of delicious options.",
+          "score": "10",
+          "country": "Morocco",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Really enjoyed staying at the resort with the nature and sea",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "오션 베이 푸꾸옥 리조트 앤 스파 (Ocean Bay Phu Quoc Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/ocean-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/21967772/0/211197ce544158b45db0bd3ed5d4adee.png?ce=3",
+      "score": 8.9,
+      "reviewCount": 5254,
+      "reviewCountFmt": "리뷰 5,254건",
+      "priceText": "₩₩ · 1박 약 31만원",
+      "walkMin": 58,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 21967772,
+      "geo": {
+        "lat": 10.256044,
+        "lng": 103.93967
+      },
+      "priceKRW": 311857,
+      "priceStatus": "조회됨",
+      "distanceM": 4666.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 5,254건. 롱 비치까지 도보 58분, ₩₩ · 1박 약 31만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 31만원",
+        "📝 리뷰 5,254건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "That's how nice it was and the staff are so friendly.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "They also offered a free shuttle drop off from the airport.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Our room was beautiful and the bathroom is incredible.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "We stayed at the V9B villa first line to the beach,",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The beach access, pool and facilities were amazing.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "두짓 프린세스 문라이즈 비치 리조트 (Dusit Princess Moonrise Beach Resort)",
+      "agodaUrl": "https://www.agoda.com/dusit-princess-moonrise-beach-resort/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4968811/0/2a4bd2f8891941cdb7f0206c65119241.jpeg?ce=2",
+      "score": 9.2,
+      "reviewCount": 7128,
+      "reviewCountFmt": "리뷰 7,128건",
+      "priceText": "₩₩ · 1박 약 28만원",
+      "walkMin": 1,
+      "refLabel": "롱 비치",
+      "star": 5,
+      "propertyId": 4968811,
+      "geo": {
+        "lat": 10.181074,
+        "lng": 103.967445
+      },
+      "priceKRW": 283171,
+      "priceStatus": "조회됨",
+      "distanceM": 0,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "롱 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 7,128건. 롱 비치까지 도보 1분, ₩₩ · 1박 약 28만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 28만원",
+        "📝 리뷰 7,128건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The breakfast was good and great view for airplanes landing.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Very good staffs, incredible food, everything was awesome!!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "The staff were attentive and always ready to help promptly.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The infinity pool was the highlight of the stay",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "They also have a gym which has all the basic equipments.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "빈펄 리조트 앤 스파 푸꾸옥 (Vinpearl Resort & Spa Phú Quốc)",
+      "agodaUrl": "https://www.agoda.com/vinpearl-resort-spa-phu-qu-c/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/625168/0/cc7b344532b9fdc51042ef519e80cc35.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 11291,
+      "reviewCountFmt": "리뷰 11,291건",
+      "priceText": "₩₩ · 1박 약 22만원",
+      "walkMin": 2,
+      "refLabel": "빈원더스 푸꾸옥",
+      "star": 5,
+      "propertyId": 625168,
+      "geo": {
+        "lat": 10.337814,
+        "lng": 103.849205
+      },
+      "priceKRW": 220922,
+      "priceStatus": "조회됨",
+      "distanceM": 120.55,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "빈펄 사파리 푸꾸옥",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 11,291건. 빈원더스 푸꾸옥까지 도보 2분, ₩₩ · 1박 약 22만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 22만원",
+        "📝 리뷰 11,291건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "You could not find a better place to vacation than Vinpearl.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Widepread breakfast options with some indian option as well.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent customer service and very good buffet for 3 meals.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Beautiful resort, great beach and pool, with very good food.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Vinpearl is an amazing property located right on the beach.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "멜리아 빈펄 푸꾸옥 (Melia Vinpearl Phu Quoc)",
+      "agodaUrl": "https://www.agoda.com/vinpearl-discovery-2-phu-quoc_2/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1985199/0/1d3916b0c85240c95d9eab3f78b7d147.jpeg?ce=2",
+      "score": 8.6,
+      "reviewCount": 3301,
+      "reviewCountFmt": "리뷰 3,301건",
+      "priceText": "₩₩ · 1박 약 47만원",
+      "walkMin": 17,
+      "refLabel": "빈원더스 푸꾸옥",
+      "star": 5,
+      "propertyId": 1985199,
+      "geo": {
+        "lat": 10.350986,
+        "lng": 103.847267
+      },
+      "priceKRW": 469095,
+      "priceStatus": "조회됨",
+      "distanceM": 1393.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "빈원더스 푸꾸옥",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 3,301건. 빈원더스 푸꾸옥까지 도보 17분, ₩₩ · 1박 약 47만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 47만원",
+        "📝 리뷰 3,301건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Felt like I was in a Mansion in Bellaire Beverly Hills 👌",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Beautiful and spacious villas with private swimming pools.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "This gotta be the best 5 stars resorts that I have stayed.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Well organized with buggies running 24/7 for transport.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Really big property with private beach, spa, cafes etc.",
+          "score": "10",
+          "country": "India",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:47:43.983Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:47:43.983Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

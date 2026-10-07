@@ -1,0 +1,680 @@
+{
+  "slug": "anniversary-koh-samui",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "코사무이",
+  "citySlug": "koh-samui",
+  "cityId": 17198,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17198",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[코사무이] 특별한 날을 완성하는 5성급 기념일 스테이",
+  "metaDescription": "2026년 11월 코사무이 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 80%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>더 리츠칼튼, 코사무이</b>입니다 (평점 8.9 · 리뷰 1,230건 · 1박 약 60만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/818316644.jpg?k=a282af40c8fe86a915418aa39c2133e91269548facbe28920e7c0b2af01d038c&o=",
+  "heroAlt": "코사무이 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 리츠칼튼, 코사무이 (The Ritz-Carlton, Koh Samui)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/818316644.jpg?k=a282af40c8fe86a915418aa39c2133e91269548facbe28920e7c0b2af01d038c&o=",
+      "score": 8.9,
+      "reviewCount": 1230,
+      "reviewCountFmt": "리뷰 1,230건",
+      "priceText": "₩₩ · 1박 약 60만원",
+      "walkMin": 17,
+      "refLabel": "왓 플라이 램",
+      "star": 5,
+      "propertyId": 2987200,
+      "geo": {
+        "lat": 9.58,
+        "lng": 100.074844
+      },
+      "priceKRW": 595586,
+      "priceStatus": "조회됨",
+      "distanceM": 1372.12,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "왓 플라이 램"
+      ],
+      "blurb": "평점 8.9 · 리뷰 1,230건. 왓 플라이 램까지 도보 17분, ₩₩ · 1박 약 60만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 60만원",
+        "📝 리뷰 1,230건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was our honeymoon, best experience of luxury hotel ever",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Private pool private space for private time with my wife.",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Hotel is very good, clean and staff are all kind and polite.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "And the rooms are spacious and very comfortable and calm ☺️",
+          "score": "10",
+          "country": "Suiza",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Staff are amazing ,food is the best in the View Restaurant.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "니키 비치 리조트 앤 스파 (Nikki Beach Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/nikki-beach-resort-spa/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/208512/0/bbc1f63562da7c0cc40e573d2f22f236.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 1363,
+      "reviewCountFmt": "리뷰 1,363건",
+      "priceText": "₩₩ · 1박 약 20만원",
+      "walkMin": 85,
+      "refLabel": "나 무앙 워터폴 I",
+      "star": 5,
+      "propertyId": 208512,
+      "geo": {
+        "lat": 9.499075,
+        "lng": 99.934881
+      },
+      "priceKRW": 204868,
+      "priceStatus": "조회됨",
+      "distanceM": 6783.68,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,363건. 나 무앙 워터폴 I까지 도보 85분, ₩₩ · 1박 약 20만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 20만원",
+        "📝 리뷰 1,363건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Finally, all of the staff were so friendly and welcoming.",
+          "score": "9.6",
+          "country": "Malawi",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Amazing rooms & jaw-dropping view of sunsets!!",
+          "score": "10",
+          "country": "Oman",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "But the hotel is amazing and the service was top class.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "This hotel is the best experience I’ve have at samui.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Food at both the beach club and Escape restaurant is tasty.",
+          "score": "9.6",
+          "country": "Nederland",
+          "date": "2023.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Sareeraya Villas & Suites",
+      "agodaUrl": "https://www.agoda.com/sareeraya-villas-suites-hotel/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/109176/0/99b96577a26b9691092bbdfea5a3548d.jpeg?ce=3",
+      "score": 8.6,
+      "reviewCount": 1377,
+      "reviewCountFmt": "리뷰 1,377건",
+      "priceText": "₩₩ · 1박 약 24만원",
+      "walkMin": 42,
+      "refLabel": "차웽 노이 비치",
+      "star": 5,
+      "propertyId": 109176,
+      "geo": {
+        "lat": 9.538511,
+        "lng": 100.070241
+      },
+      "priceKRW": 236199,
+      "priceStatus": "조회됨",
+      "distanceM": 3381.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "차웽 노이 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 1,377건. 차웽 노이 비치까지 도보 42분, ₩₩ · 1박 약 24만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 24만원",
+        "📝 리뷰 1,377건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room is nice and spacious with a big balcony.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "One of the standout features was the generously sized rooms.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "We had a room overlooking the sea which was lovely.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "5 out of 5 for this resort everything is perfect",
+          "score": "10",
+          "country": "Pakistan",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The room was amazing and worth every penny.",
+          "score": "9.2",
+          "country": "Israel",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Cape Fahn Hotel – Private Islands Samui",
+      "agodaUrl": "https://www.agoda.com/cape-fahn-hotel/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5092165/-1/1a7a091952f9183f97b41fe053209e9f.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 253,
+      "reviewCountFmt": "리뷰 253건",
+      "priceText": "₩₩ · 1박 약 63만원",
+      "walkMin": 29,
+      "refLabel": "왓 플라이 램",
+      "star": 5,
+      "propertyId": 5092165,
+      "geo": {
+        "lat": 9.574238,
+        "lng": 100.087554
+      },
+      "priceKRW": 629754,
+      "priceStatus": "조회됨",
+      "distanceM": 2338.52,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "왓 플라이 램",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 253건. 왓 플라이 램까지 도보 29분, ₩₩ · 1박 약 63만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 63만원",
+        "📝 리뷰 253건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "If you're looking for privacy and seclusion, this is it!",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Staff were friendly, accommodating to every request.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "What a a resort what great service cant wait to come again!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "Cape Fahn was our favourite hotel on Koh Samui by far!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "We chose this hotel due to its location on a private island.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "로얄 무앙 사무이 빌라스 (Royal Muang Samui Villas)",
+      "agodaUrl": "https://www.agoda.com/royal-muang-samui-villas/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/105034/0/cb8793e65ca95f3d0e4fa9d270b41d8a.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 1697,
+      "reviewCountFmt": "리뷰 1,697건",
+      "priceText": "₩₩ · 1박 약 26만원",
+      "walkMin": 22,
+      "refLabel": "왓 플라이 램",
+      "star": 5,
+      "propertyId": 105034,
+      "geo": {
+        "lat": 9.570134,
+        "lng": 100.082893
+      },
+      "priceKRW": 259240,
+      "priceStatus": "조회됨",
+      "distanceM": 1797.17,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "센트럴 페스티벌 사무이",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,697건. 왓 플라이 램까지 도보 22분, ₩₩ · 1박 약 26만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 26만원",
+        "📝 리뷰 1,697건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The resort is very clean and well maintened",
+          "score": "9.6",
+          "country": "Zimbabwe",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The staff are very helpful and polite",
+          "score": "9.6",
+          "country": "Zimbabwe",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The cocktail happy hours are highly recommended",
+          "score": "9.6",
+          "country": "Zimbabwe",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We are here for second time and still loving this place.",
+          "score": "10",
+          "country": "România",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great resort, the rooms are huge and nicely decorated.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "멜라티 비치 리조트 앤 스파 (Melati Beach Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/melati-beach-resort-spa/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/96986/0/38765179b198990664182cd0861d0c04.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 1832,
+      "reviewCountFmt": "리뷰 1,832건",
+      "priceText": "₩₩ · 1박 약 24만원",
+      "walkMin": 25,
+      "refLabel": "왓 플라이 램",
+      "star": 5,
+      "propertyId": 96986,
+      "geo": {
+        "lat": 9.586254,
+        "lng": 100.075218
+      },
+      "priceKRW": 240653,
+      "priceStatus": "조회됨",
+      "distanceM": 1966.81,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "왓 플라이 램",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,832건. 왓 플라이 램까지 도보 25분, ₩₩ · 1박 약 24만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 24만원",
+        "📝 리뷰 1,832건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We spent four days at the resort and had an excellent time.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Breakfast is so good, I was very surprise how good it was.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "So beautiful, amazing staff and 5 star accommodations!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Lovely staff and the quiet privacy is great.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Their professionalism and courtesy truly stood out!",
+          "score": "7.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:54:38.469Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:54:38.469Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

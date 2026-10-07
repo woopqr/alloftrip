@@ -1,0 +1,710 @@
+{
+  "slug": "ultra-abu-dhabi",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "아부다비",
+  "citySlug": "abu-dhabi",
+  "cityId": 10182,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=10182",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[아부다비] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 아부다비 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 53%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>사디얏 로타나 리조트 앤 빌라</b>입니다 (평점 9.1 · 리뷰 1,353건 · 1박 약 153만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 16,
+        "pct": 53
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/845563163.jpg?k=90e9f7f605fc1757c8eac8ab686ad9de8bfb9ff36143f1204da88cbdb74fd863&o=",
+  "heroAlt": "아부다비 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "사디얏 로타나 리조트 앤 빌라 (Saadiyat Rotana Resort & Villas)",
+      "agodaUrl": "https://www.agoda.com/saadiyat-rotana-resort-villas/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/845563163.jpg?k=90e9f7f605fc1757c8eac8ab686ad9de8bfb9ff36143f1204da88cbdb74fd863&o=",
+      "score": 9.1,
+      "reviewCount": 1353,
+      "reviewCountFmt": "리뷰 1,353건",
+      "priceText": "₩₩₩ · 1박 약 153만원",
+      "walkMin": 120,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 3038644,
+      "geo": {
+        "lat": 24.541726,
+        "lng": 54.430434
+      },
+      "priceKRW": 1529988,
+      "priceStatus": "조회됨",
+      "distanceM": 9601.67,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "사디야트 퍼블릭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,353건. 아부다비 센트럴 버스정류장까지 도보 120분, ₩₩₩ · 1박 약 153만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 153만원",
+        "📝 리뷰 1,353건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The ambience & vibe of Saadiyat rotana is par excellence.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Honestly it was one of the best hotels I've stayed in.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Amazing Hotel, with the best beach and clear sea water",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "It was the most amazing staycation we had.",
+          "score": "8.4",
+          "country": "United Arab Emirates",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Everything was amazing the rooms, staff and food.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "에미레이트 팰리스 만다린 오리엔탈, 아부다비 (Emirates Palace Mandarin Oriental, Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/emirates-palace-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/74202/0/75ce9d47c4b0b8209377ce7627ccd687.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 1997,
+      "reviewCountFmt": "리뷰 1,997건",
+      "priceText": "₩₩₩ · 1박 약 163만원",
+      "walkMin": 42,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 74202,
+      "geo": {
+        "lat": 24.462013,
+        "lng": 54.317169
+      },
+      "priceKRW": 1631348,
+      "priceStatus": "조회됨",
+      "distanceM": 3325.06,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "에미레이트 궁전",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,997건. Abu Dhabi EK Bus Station까지 도보 42분, ₩₩₩ · 1박 약 163만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 163만원",
+        "📝 리뷰 1,997건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Service is exceptional and hotel facilities are top notch.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The best beach and service that you can have in abudhabi.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "From check in to check out just a wonderful experience",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "One of the nicest hotels I have ever stayed at.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The staff were flawless in their pursuit of service.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 세인트 레지스 사디얏 아일랜드 리조트, 아부다비 (The St. Regis Saadiyat Island Resort, Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-saadiyat-island-resort-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6357553/0/88945abd7a9e6dbb6a8537ac103bb4e4.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 1279,
+      "reviewCountFmt": "리뷰 1,279건",
+      "priceText": "₩₩₩ · 1박 약 135만원",
+      "walkMin": 115,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 6357553,
+      "geo": {
+        "lat": 24.541121,
+        "lng": 54.424747
+      },
+      "priceKRW": 1349990,
+      "priceStatus": "조회됨",
+      "distanceM": 9230.18,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "사디야트 퍼블릭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,279건. 아부다비 센트럴 버스정류장까지 도보 115분, ₩₩₩ · 1박 약 135만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 135만원",
+        "📝 리뷰 1,279건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Amazing place, peaceful, clean, lovely staffs!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Very good hotel with a nice beach and outstanding staff",
+          "score": "8.8",
+          "country": "Tunisia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "We had the best staycation experience in a long time.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Hotel feels like a dream and the staff is extremely helpful.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The hospitality at this place is second to none.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "로즈우드 호텔 아부다비 (Rosewood Hotel Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/rosewood-hotel-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/550128595.jpg?k=d3a2060e16b7bb448b6b89eb6507d25541f3b687cabb06be0a2eb890ccb0d9f2&o=",
+      "score": 9.2,
+      "reviewCount": 3060,
+      "reviewCountFmt": "리뷰 3,060건",
+      "priceText": "₩₩₩ · 1박 약 146만원",
+      "walkMin": 44,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 477867,
+      "geo": {
+        "lat": 24.500525,
+        "lng": 54.387623
+      },
+      "priceKRW": 1462489,
+      "priceStatus": "조회됨",
+      "distanceM": 3507.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "루브르 아부다비",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 3,060건. 아부다비 센트럴 버스정류장까지 도보 44분, ₩₩₩ · 1박 약 146만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 146만원",
+        "📝 리뷰 3,060건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Luxury, location, food, service, value everything is great.",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "April at the reception was really nice she upgraded my room",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Absolutely amazing Hotel,Staff and outstanding Service!!!",
+          "score": "10",
+          "country": "Brazil",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "One of our favourite hotels in the world ever!",
+          "score": "10",
+          "country": "Brazil",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Great hotel for business and leisure travellers.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "파크 하얏트 아부다비 (Park Hyatt Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/park-hyatt-abu-dhabi-hotel-and-villas/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/871445755.jpg?k=70979e46d1cdffc27aa7e34caf6cb4d8389d8050d7e479ad5089113bfe7be76a&o=",
+      "score": 9.3,
+      "reviewCount": 2474,
+      "reviewCountFmt": "리뷰 2,474건",
+      "priceText": "₩₩₩ · 1박 약 139만원",
+      "walkMin": 49,
+      "refLabel": "루브르 아부다비",
+      "star": 5,
+      "propertyId": 295478,
+      "geo": {
+        "lat": 24.545132,
+        "lng": 54.435539
+      },
+      "priceKRW": 1394990,
+      "priceStatus": "조회됨",
+      "distanceM": 3956.47,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "사디야트 퍼블릭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 2,474건. 루브르 아부다비까지 도보 49분, ₩₩₩ · 1박 약 139만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 139만원",
+        "📝 리뷰 2,474건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff is extremly friendly and attentive.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "We highly reccomend this hotel as all aspects are excellent.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable and amazing service",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Perfect staff, very beautifull place ❤️❤️❤️❤️",
+          "score": "10",
+          "country": "Lithuania",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Every detail in the hotel is thought through.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "주메이라 사디야트 아일랜드 아부다비 (Jumeirah Saadiyat Island Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/jumeirah-saadiyat-island/hotel/default-city-km.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41240324/0/12101c0d08e828ce85bdb7e7db6cba5a.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 1808,
+      "reviewCountFmt": "리뷰 1,808건",
+      "priceText": "₩₩₩ · 1박 약 139만원",
+      "walkMin": 77,
+      "refLabel": "루브르 아부다비",
+      "star": 5,
+      "propertyId": 41240324,
+      "geo": {
+        "lat": 24.560147,
+        "lng": 54.452303
+      },
+      "priceKRW": 1391883,
+      "priceStatus": "조회됨",
+      "distanceM": 6193,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "사디야트 퍼블릭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,808건. 루브르 아부다비까지 도보 77분, ₩₩₩ · 1박 약 139만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 139만원",
+        "📝 리뷰 1,808건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The Spa Facilities is mind blowing, and very relaxing.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The beach is just amazing!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Great food and atmosphere!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The view from the room is wonderful.",
+          "score": "10",
+          "country": "Kazakhstan",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Staff and facilities amazing",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:50:26.490Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:50:26.490Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

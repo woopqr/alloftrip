@@ -1,0 +1,698 @@
+{
+  "slug": "ultra-singapore",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "싱가포르",
+  "citySlug": "singapore",
+  "cityId": 4064,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4064",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[싱가포르] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 싱가포르 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 60%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>카펠라 싱가포르 호텔</b>입니다 (평점 9.1 · 리뷰 2,990건 · 1박 약 245만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 18,
+        "pct": 60
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/128838/0/0e95eba38f8658dda32748f80554d8af.jpeg?va=1&ce=3",
+  "heroAlt": "싱가포르 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "카펠라 싱가포르 호텔 (Capella Singapore Hotel)",
+      "agodaUrl": "https://www.agoda.com/capella-singapore-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/128838/0/0e95eba38f8658dda32748f80554d8af.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 2990,
+      "reviewCountFmt": "리뷰 2,990건",
+      "priceText": "₩₩₩ · 1박 약 245만원",
+      "walkMin": 9,
+      "refLabel": "Imbiah",
+      "star": 5,
+      "propertyId": 128838,
+      "geo": {
+        "lat": 1.249692,
+        "lng": 103.824501
+      },
+      "priceKRW": 2445102,
+      "priceStatus": "조회됨",
+      "distanceM": 732.04,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 2,990건. Imbiah까지 도보 9분, ₩₩₩ · 1박 약 245만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 245만원",
+        "📝 리뷰 2,990건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The stay was perfect and made our special day memorable.",
+          "score": "8",
+          "country": "South Korea",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "This is one of the best hotels I have stayed in my life",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Best hotel in Singapore with amazing service and facilities.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The garden villa itself was nothing short of spectacular.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The room itself was fantastic, with a great view of the sea.",
+          "score": "10",
+          "country": "Nigeria",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "래플즈 호텔 싱가포르 (Raffles Hotel Singapore)",
+      "agodaUrl": "https://www.agoda.com/raffles-hotel-singapore_9/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10614/0/5cd2b41b1249f153ca5bff825a86bfa5.jpeg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 1154,
+      "reviewCountFmt": "리뷰 1,154건",
+      "priceText": "₩₩₩ · 1박 약 177만원",
+      "walkMin": 2,
+      "refLabel": "MRT 에스플러네이드역",
+      "star": 5,
+      "propertyId": 10614,
+      "geo": {
+        "lat": 1.294747,
+        "lng": 103.854515
+      },
+      "priceKRW": 1769834,
+      "priceStatus": "조회됨",
+      "distanceM": 166.95,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "불치사 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 1,154건. MRT 에스플러네이드역까지 도보 2분, ₩₩₩ · 1박 약 177만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 177만원",
+        "📝 리뷰 1,154건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The bed was so comfortable & the interior room was amazing..",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Fantastic experience staying with Raffles Hotel!!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Could have great and awesome experience at Raffles Hotel.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "All the hotel staffs and service are amazing.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Nothing to say except that was marvellous.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 풀러턴 베이 호텔 (The Fullerton Bay Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-fullerton-bay-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/187129/0/07fccabb1742acd8a06dd8352da988e2.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 2251,
+      "reviewCountFmt": "리뷰 2,251건",
+      "priceText": "₩₩₩ · 1박 약 160만원",
+      "walkMin": 3,
+      "refLabel": "MRT 래플스플레이스역",
+      "star": 5,
+      "propertyId": 187129,
+      "geo": {
+        "lat": 1.28379,
+        "lng": 103.852982
+      },
+      "priceKRW": 1595237,
+      "priceStatus": "조회됨",
+      "distanceM": 202.18,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 2,251건. MRT 래플스플레이스역까지 도보 3분, ₩₩₩ · 1박 약 160만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 160만원",
+        "📝 리뷰 2,251건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "But this Fullerton Bay was among the top 5 in my lifetime.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The place very nice, clean and have the balcony is the best.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "The rooms are clean and the service from all staff is great.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The breakfast was varied and excellent and cooked to order.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "We cannot wait to be back at the Fullerton Bay Hotel again.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "마리나 베이 샌즈 (Marina Bay Sands )",
+      "agodaUrl": "https://www.agoda.com/marina-bay-sands/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/185945/0/f7143cd678ae77e9bcbec5436d244abd.jpeg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 48972,
+      "reviewCountFmt": "리뷰 48,972건",
+      "priceText": "₩₩₩ · 1박 약 146만원",
+      "walkMin": 4,
+      "refLabel": "Bayfront",
+      "star": 5,
+      "propertyId": 185945,
+      "geo": {
+        "lat": 1.283621,
+        "lng": 103.860725
+      },
+      "priceKRW": 1455856,
+      "priceStatus": "조회됨",
+      "distanceM": 319.95,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "불치사 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 48,972건. Bayfront까지 도보 4분, ₩₩₩ · 1박 약 146만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 146만원",
+        "📝 리뷰 48,972건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The beds were super comfy, the lights are sensor activated.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel provides a comfortable and welcoming environment.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The infinity pool is really fun and the view is superb.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "It feels great to stay at the iconic building of SG.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Everything just amazing . Room, view, pool, hospitality etc.",
+          "score": "10",
+          "country": "Турция",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "래플스 센토사 싱가포르 (Raffles Sentosa Singapore)",
+      "agodaUrl": "https://www.agoda.com/raffles-sentosa-singapore/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/883161986.jpg?k=87df0188b419ab610936e4e59ebe297e2a233f349572cd6b30ad81709be61335&o=",
+      "score": 8.7,
+      "reviewCount": 235,
+      "reviewCountFmt": "리뷰 235건",
+      "priceText": "₩₩₩ · 1박 약 175만원",
+      "walkMin": 17,
+      "refLabel": "Beach",
+      "star": 5,
+      "propertyId": 66741398,
+      "geo": {
+        "lat": 1.245749,
+        "lng": 103.828739
+      },
+      "priceKRW": 1752248,
+      "priceStatus": "조회됨",
+      "distanceM": 1367.33,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "유니버설 스튜디오",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 235건. Beach까지 도보 17분, ₩₩₩ · 1박 약 175만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 175만원",
+        "📝 리뷰 235건",
+        "⭐ 5성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great for a relaxing getaway with excellent amenities.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Bed was very comfy and breakfast was amazing",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Had a great experience at Raffles Sentosa!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "STAFFS AND WELCOME SERVICE ARE IMPECCABLE",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Spacious villa with a great private pool",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "콘래드 싱가포르 마리나 베이 (Conrad Singapore Marina Bay)",
+      "agodaUrl": "https://www.agoda.com/conrad-singapore-marina-bay/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10584/0/0d4ad2f138464c42c602adda2c32240d.jpeg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 6546,
+      "reviewCountFmt": "리뷰 6,546건",
+      "priceText": "₩₩₩ · 1박 약 146만원",
+      "walkMin": 3,
+      "refLabel": "MRT 프로메나드역",
+      "star": 5,
+      "propertyId": 10584,
+      "geo": {
+        "lat": 1.29343,
+        "lng": 103.85881
+      },
+      "priceKRW": 1455948,
+      "priceStatus": "조회됨",
+      "distanceM": 256.06,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "불치사 박물관"
+      ],
+      "blurb": "평점 9 · 리뷰 6,546건. MRT 프로메나드역까지 도보 3분, ₩₩₩ · 1박 약 146만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 146만원",
+        "📝 리뷰 6,546건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Bed and pillow was super comfy and washroom was super huge?",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Had a terrific 2 nights stay at Conrad with a family of 4.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Will definitely book this again when im back in singapore.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Conrad Centennial exceeded our expectations in every way.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Cleanness, service, location and everything is so great!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:56:15.654Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:56:15.654Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

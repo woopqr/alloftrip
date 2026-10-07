@@ -1,0 +1,705 @@
+{
+  "slug": "ultra-langkawi",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "랑카위",
+  "citySlug": "langkawi",
+  "cityId": 16928,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16928",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[랑카위] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 랑카위 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 47%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>더 다타이 랑카위</b>입니다 (평점 9.3 · 리뷰 1,356건 · 1박 약 148만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 14,
+        "pct": 47
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 14,
+        "pct": 47
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/10447/-1/fea22a5cead8b0e33c489a68d534bd9c.jpg?ca=8&ce=1",
+  "heroAlt": "랑카위 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 다타이 랑카위 (The Datai Langkawi)",
+      "agodaUrl": "https://www.agoda.com/the-datai-langkawi/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10447/-1/fea22a5cead8b0e33c489a68d534bd9c.jpg?ca=8&ce=1",
+      "score": 9.3,
+      "reviewCount": 1356,
+      "reviewCountFmt": "리뷰 1,356건",
+      "priceText": "₩₩₩ · 1박 약 148만원",
+      "walkMin": 72,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 10447,
+      "geo": {
+        "lat": 6.422569,
+        "lng": 99.670597
+      },
+      "priceKRW": 1477002,
+      "priceStatus": "조회됨",
+      "distanceM": 5734.21,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "텔라가 투주 폭포",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,356건. Panorama Langkawi SkyCab까지 도보 72분, ₩₩₩ · 1박 약 148만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 148만원",
+        "📝 리뷰 1,356건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The service was very kind and full of hospitality.",
+          "score": "9.6",
+          "country": "日本",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended for anyone seeking a remarkable getaway!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The hotel was everything we hoped for and more.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Service was superb, warm and friendly, yet non-intrusive.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Our stay at The Datai was nothing short of extraordinary.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "포 시즌스 리조트 랑카위, 말레이시아 (Four Seasons Resort Langkawi, Malaysia)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-langkawi-malaysia/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49264/-1/92d3723bd0a1d0aa2bf3cba2eab7d340.jpg?ce=0",
+      "score": 9.3,
+      "reviewCount": 920,
+      "reviewCountFmt": "리뷰 920건",
+      "priceText": "₩₩₩ · 1박 약 84만원",
+      "walkMin": 5,
+      "refLabel": "탄중 루 비치",
+      "star": 5,
+      "propertyId": 49264,
+      "geo": {
+        "lat": 6.446794,
+        "lng": 99.81088
+      },
+      "priceKRW": 839831,
+      "priceStatus": "조회됨",
+      "distanceM": 360.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "탄중 루 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 920건. 탄중 루 비치까지 도보 5분, ₩₩₩ · 1박 약 84만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 84만원",
+        "📝 리뷰 920건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We stayed for 2 nights and it was nothing but luxury.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent hospitality, best Four Seasons Hotel in Malaysia!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Absolutely loved our stay at Four Seasons resort Langkawi!",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We stayed at the beach villa with a plunge pool.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "We had an amazing holiday at Four Seasons Hotel Langkawi.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 리츠칼튼 랑카위 (The Ritz-Carlton, Langkawi)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-langkawi_4/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2264713/-1/7c72fe8deb28c1ef6c413c2ba03b0c34.jpg?ca=0&ce=1",
+      "score": 9.4,
+      "reviewCount": 1915,
+      "reviewCountFmt": "리뷰 1,915건",
+      "priceText": "₩₩₩ · 1박 약 92만원",
+      "walkMin": 37,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 2264713,
+      "geo": {
+        "lat": 6.359026,
+        "lng": 99.695648
+      },
+      "priceKRW": 923890,
+      "priceStatus": "조회됨",
+      "distanceM": 2954.36,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "오리엔탈 빌리지 & 랑카위 케이블 카",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 1,915건. Panorama Langkawi SkyCab까지 도보 37분, ₩₩₩ · 1박 약 92만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 92만원",
+        "📝 리뷰 1,915건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was a wonderful stay for us to celebrate our honeymoon.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Experience was exceptional than any of other hotel.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Breakfast is top notch and the service is always impeccable.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel is in a fantastic location with superb facilities.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The staff is amazing and very friendly",
+          "score": "10",
+          "country": "Bahrain",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "파크로얄 랑카위 리조트 (PARKROYAL Langkawi Resort)",
+      "agodaUrl": "https://www.agoda.com/parkroyal-langkawi-resort/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32359733/-1/eb25c57aa2b088ade136b2d338a07230.jpg?ce=0",
+      "score": 9.3,
+      "reviewCount": 4648,
+      "reviewCountFmt": "리뷰 4,648건",
+      "priceText": "₩₩ · 1박 약 34만원",
+      "walkMin": 14,
+      "refLabel": "언더워터월드",
+      "star": 5,
+      "propertyId": 32359733,
+      "geo": {
+        "lat": 6.28315,
+        "lng": 99.730827
+      },
+      "priceKRW": 336794,
+      "priceStatus": "조회됨",
+      "distanceM": 1117.64,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "텡가 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 4,648건. 언더워터월드까지 도보 14분, ₩₩ · 1박 약 34만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 34만원",
+        "📝 리뷰 4,648건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff, facilities, room, food, everything was extraordinary.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Despite this, the room was comfortable and well-appointed.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, spotless, and incredibly comfortable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The team truly went the extra mile to make us feel at home.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Loved our stay here and hope to stay again in the future.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 다나 랑카위 럭셔리 리조트 앤 비치 빌라 (The Danna Langkawi - A Member of Small Luxury Hotels of the World)",
+      "agodaUrl": "https://www.agoda.com/the-danna-langkawi-hotel/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/187034/-1/6bee0d6edebc2da7c843b06aea4459b8.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 3041,
+      "reviewCountFmt": "리뷰 3,041건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 14,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 187034,
+      "geo": {
+        "lat": 6.366966,
+        "lng": 99.680992
+      },
+      "priceKRW": 427897,
+      "priceStatus": "조회됨",
+      "distanceM": 1111.46,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "오리엔탈 빌리지 & 랑카위 케이블 카",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 3,041건. Panorama Langkawi SkyCab까지 도보 14분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 3,041건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great pool and access to the beach and exceptional views.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "High quality rooms and high quality service.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "We had an absolutely amazing stay at The Danna Langkawi.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Loved my stay here, amenities and staff were top class.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "There is a fantastic infinity pool and a private beach.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "펠랑기 비치 리조트 앤 스파 랑카위 (Pelangi Beach Resort & Spa, Langkawi)",
+      "agodaUrl": "https://www.agoda.com/meritus-pelangi-beach-resort-spa/hotel/langkawi-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10442/0/fce42a2ce79e7fe4014d3b078e22c505.jpg?ce=2",
+      "score": 8.8,
+      "reviewCount": 15664,
+      "reviewCountFmt": "리뷰 15,664건",
+      "priceText": "₩₩ · 1박 약 23만원",
+      "walkMin": 121,
+      "refLabel": "Panorama Langkawi SkyCab",
+      "star": 5,
+      "propertyId": 10442,
+      "geo": {
+        "lat": 6.299158,
+        "lng": 99.720848
+      },
+      "priceKRW": 229729,
+      "priceStatus": "조회됨",
+      "distanceM": 9658.95,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "텡가 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 15,664건. Panorama Langkawi SkyCab까지 도보 121분, ₩₩ · 1박 약 23만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 23만원",
+        "📝 리뷰 15,664건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Awesome pools, great food, good staff and nice amenities.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Lots of activities for both adults and kids.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "The breakfast spread was delicious with a great variety,",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was also lovely; clean, comfy and beautiful.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The pool is so heavenly; especially the Horizon Pool.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:52:03.971Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:52:03.971Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

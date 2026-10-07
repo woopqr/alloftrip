@@ -1,0 +1,558 @@
+{
+  "slug": "ultra-paris",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "파리",
+  "citySlug": "paris",
+  "cityId": 15470,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=15470",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[파리] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 파리 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 83%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>라 레세흐브 파리 호텔 앤 스파</b>입니다 (평점 9.7 · 리뷰 97건 · 1박 약 351만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 18,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 15,
+        "pct": 83
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 6
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 6
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 6
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/190511067.jpg?k=905c0f3081945aead2eee3c42a4ed34ca0cfb8eb25a78516a91fb4ef15e3bb9d&o=",
+  "heroAlt": "파리 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "라 레세흐브 파리 호텔 앤 스파 (La Reserve Paris Hotel & Spa)",
+      "agodaUrl": "https://www.agoda.com/la-reserve-paris-hotel-and-spa/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/190511067.jpg?k=905c0f3081945aead2eee3c42a4ed34ca0cfb8eb25a78516a91fb4ef15e3bb9d&o=",
+      "score": 9.7,
+      "reviewCount": 97,
+      "reviewCountFmt": "리뷰 97건",
+      "priceText": "₩₩₩ · 1박 약 351만원",
+      "walkMin": 3,
+      "refLabel": "프랭클린 D. 루즈벨트역",
+      "star": 5,
+      "propertyId": 10256536,
+      "geo": {
+        "lat": 48.869759,
+        "lng": 2.31328
+      },
+      "priceKRW": 3513620,
+      "priceStatus": "조회됨",
+      "distanceM": 247.25,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "뤽상부르 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.7 · 리뷰 97건. 프랭클린 D. 루즈벨트역까지 도보 3분, ₩₩₩ · 1박 약 351만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 351만원",
+        "📝 리뷰 97건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "A very elegant and comfortable hotel, conveniently located.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "We will stay at La Reserve next time we visit Paris.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Impeccable quality and of a very high standard.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "La Réserve will spoil you!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Everything was perfect.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "르 브리스톨 파리 - 언 오에트커 컬렉션 호텔 (Le Bristol Paris - an Oetker Collection Hotel)",
+      "agodaUrl": "https://www.agoda.com/le-bristol-paris-an-oetker-collection-hotel_2/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/715778144.jpg?k=680e998f69dcdbc3e97c96ee2a48bfd6363a6d0b5ba9c7fa36c2bc34427d6f3d&o=",
+      "score": 9.4,
+      "reviewCount": 143,
+      "reviewCountFmt": "리뷰 143건",
+      "priceText": "₩₩₩ · 1박 약 353만원",
+      "walkMin": 3,
+      "refLabel": "미로메닐역",
+      "star": 5,
+      "propertyId": 10256407,
+      "geo": {
+        "lat": 48.87183,
+        "lng": 2.315
+      },
+      "priceKRW": 3533874,
+      "priceStatus": "조회됨",
+      "distanceM": 248.15,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원"
+      ],
+      "blurb": "평점 9.4 · 리뷰 143건. 미로메닐역까지 도보 3분, ₩₩₩ · 1박 약 353만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 353만원",
+        "📝 리뷰 143건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had such a lovely stay at Le Bristol.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The most luxurious hotel I’ve stayed in.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "We loved the gym and pilates room too.",
+          "score": "10",
+          "country": "Monaco",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The food was excellent.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "What is there not to like at Le Bristol!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "리츠 파리 (Ritz Paris)",
+      "agodaUrl": "https://www.agoda.com/ritz-paris_3/hotel/paris-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/22880983/327499863/d18b753e147355361f04cd61da87eab4.jpeg?ce=0",
+      "score": 9.5,
+      "reviewCount": 55,
+      "reviewCountFmt": "리뷰 55건",
+      "priceText": "₩₩₩ · 1박 약 344만원",
+      "walkMin": 5,
+      "refLabel": "마들렌역",
+      "star": 5,
+      "propertyId": 9385518,
+      "geo": {
+        "lat": 48.867901,
+        "lng": 2.32878
+      },
+      "priceKRW": 3437297,
+      "priceStatus": "조회됨",
+      "distanceM": 381.92,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원"
+      ],
+      "blurb": "평점 9.5 · 리뷰 55건. 마들렌역까지 도보 5분, ₩₩₩ · 1박 약 344만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 344만원",
+        "📝 리뷰 55건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Clean, friendly staffs.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "It was really a great experience staying at the Paris Ritz.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Best Hotel in the world",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The best of the best.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The best of the best!",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "불가리 호텔 파리 (Bvlgari Hotel Paris)",
+      "agodaUrl": "https://www.agoda.com/bvlgari-hotel-paris/hotel/paris-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28854353/-1/596aaadda85535a4ad1ed0c5c7df5018.jpg?ce=0",
+      "score": 9.4,
+      "reviewCount": 165,
+      "reviewCountFmt": "리뷰 165건",
+      "priceText": "₩₩₩ · 1박 약 321만원",
+      "walkMin": 5,
+      "refLabel": "알마 - 마르소역",
+      "star": 5,
+      "propertyId": 28854353,
+      "geo": {
+        "lat": 48.868374,
+        "lng": 2.301447
+      },
+      "priceKRW": 3212262,
+      "priceStatus": "조회됨",
+      "distanceM": 362.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 165건. 알마 - 마르소역까지 도보 5분, ₩₩₩ · 1박 약 321만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 321만원",
+        "📝 리뷰 165건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Love the hotel its really the meaning of luxury",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The most nice staff i have ever seen since 2019",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "포시즌스 호텔 조지 V 파리 (Four Seasons Hotel George V Paris)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-george-v-paris/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/232783611.jpg?k=70a6c58744856c165976306d8e3be5ec4c29435ea93147f644df677ed512f6e5&o=",
+      "score": 9.6,
+      "reviewCount": 332,
+      "reviewCountFmt": "리뷰 332건",
+      "priceText": "₩₩₩ · 1박 약 317만원",
+      "walkMin": 4,
+      "refLabel": "조루주 V역",
+      "star": 5,
+      "propertyId": 10256902,
+      "geo": {
+        "lat": 48.868759,
+        "lng": 2.30089
+      },
+      "priceKRW": 3167059,
+      "priceStatus": "조회됨",
+      "distanceM": 354.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 332건. 조루주 V역까지 도보 4분, ₩₩₩ · 1박 약 317만원.",
+      "metaTags": [
+        "💰 1박 약 317만원",
+        "📝 리뷰 332건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Cheval Blanc Paris & Dior Spa Cheval Blanc Paris",
+      "agodaUrl": "https://www.agoda.com/cheval-blanc-paris-dior-spa-cheval-blanc-paris/hotel/all/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570774323.jpg?k=5fc9e42e82c18e13c1d30fca8bb903c9ec20bc92e10666bfa90a834027b82b56&o=",
+      "score": 9.5,
+      "reviewCount": 146,
+      "reviewCountFmt": "리뷰 146건",
+      "priceText": "₩₩₩ · 1박 약 321만원",
+      "walkMin": 1,
+      "refLabel": "Pont Neuf Metro Station",
+      "star": 5,
+      "propertyId": 26039232,
+      "geo": {
+        "lat": 48.858898,
+        "lng": 2.34205
+      },
+      "priceKRW": 3212262,
+      "priceStatus": "조회됨",
+      "distanceM": 41.58,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "뤽상부르 공원"
+      ],
+      "blurb": "평점 9.5 · 리뷰 146건. Pont Neuf Metro Station까지 도보 1분, ₩₩₩ · 1박 약 321만원.",
+      "metaTags": [
+        "💰 1박 약 321만원",
+        "📝 리뷰 146건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was best hotel I’ve ever stayed",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:52:56.414Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:52:56.414Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "포시즌스 호텔 조지 V 파리 (Four Seasons Hotel George V Paris): reviewSample"
+      ]
+    }
+  }
+}

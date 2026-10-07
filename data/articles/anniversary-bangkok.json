@@ -1,0 +1,712 @@
+{
+  "slug": "anniversary-bangkok",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[방콕] 두 사람만을 위한 럭셔리 기념일 리조트",
+  "metaDescription": "2026년 11월 방콕 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 57%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>월도프 아스토리아 방콕</b>입니다 (평점 9.1 · 리뷰 1,454건 · 1박 약 57만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 17,
+        "pct": 57
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4898044/0/7851c5efe9411db77dfeff4b341adb73.jpg?ce=3",
+  "heroAlt": "방콕 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "월도프 아스토리아 방콕 (Waldorf Astoria Bangkok)",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-bangkok_4/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4898044/0/7851c5efe9411db77dfeff4b341adb73.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 1454,
+      "reviewCountFmt": "리뷰 1,454건",
+      "priceText": "₩₩ · 1박 약 57만원",
+      "walkMin": 4,
+      "refLabel": "칫롬역",
+      "star": 5,
+      "propertyId": 4898044,
+      "geo": {
+        "lat": 13.742447,
+        "lng": 100.540421
+      },
+      "priceKRW": 566844,
+      "priceStatus": "조회됨",
+      "distanceM": 354.98,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "룸피니 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,454건. 칫롬역까지 도보 4분, ₩₩ · 1박 약 57만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 57만원",
+        "📝 리뷰 1,454건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Specially we would like to thank you for Manager Ron.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "The food and all the restaurants is beyond five star.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Their attentiveness extended beyond the usual.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The view and cocktails at the Loft bar was exceptional!",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Every single one of the staff was helpful & courteous.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "두짓 스위트 호텔 라차담리 (Dusit Suites Hotel Ratchadamri)",
+      "agodaUrl": "https://www.agoda.com/dusit-suites-hotel-ratchadamri-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/148863/0/4d45889bcf093ab2b3b55cba081487d9.jpeg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 3743,
+      "reviewCountFmt": "리뷰 3,743건",
+      "priceText": "₩₩ · 1박 약 22만원",
+      "walkMin": 3,
+      "refLabel": "라차담리역",
+      "star": 5,
+      "propertyId": 148863,
+      "geo": {
+        "lat": 13.738708,
+        "lng": 100.541306
+      },
+      "priceKRW": 219354,
+      "priceStatus": "조회됨",
+      "distanceM": 212.15,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "룸피니 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 3,743건. 라차담리역까지 도보 3분, ₩₩ · 1박 약 22만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 22만원",
+        "📝 리뷰 3,743건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I think this hotel is recommended, and it has good value.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Overall, a fantastic experience - five stars all the way!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Will definitely stay here again in our next visit .Tq Dusit.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "They even checked back with me when I returned to the room.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "As always, staff very accommodating and helpful.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 페닌슐라 방콕 (The Peninsula Bangkok)",
+      "agodaUrl": "https://www.agoda.com/the-peninsula-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/434993345.jpg?k=7a729dd2f098e2ef7dbd892a06eb154ffdc2b4a58fda929327008148b7916ee5&o=",
+      "score": 9.2,
+      "reviewCount": 5288,
+      "reviewCountFmt": "리뷰 5,288건",
+      "priceText": "₩₩ · 1박 약 63만원",
+      "walkMin": 6,
+      "refLabel": "짜른나콘역",
+      "star": 5,
+      "propertyId": 10715,
+      "geo": {
+        "lat": 13.723073,
+        "lng": 100.510956
+      },
+      "priceKRW": 629471,
+      "priceStatus": "조회됨",
+      "distanceM": 448.79,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "아시아티크 - 더 리버프론트"
+      ],
+      "blurb": "평점 9.2 · 리뷰 5,288건. 짜른나콘역까지 도보 6분, ₩₩ · 1박 약 63만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 63만원",
+        "📝 리뷰 5,288건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This may be my favorite hotel of any I've ever stayed at.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "I feel very welcome all the time that stayed in the hotel.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Water pressure was excellent, staff went above and beyond.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The room was wonderful with a beautiful view of the river.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "This is an exceptional hotel fully deserving its 5 stars.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "빌라 데바 리조트 앤 호텔 (VILLA DEVA RESORT & HOTEL BANGKOK)",
+      "agodaUrl": "https://www.agoda.com/villa-deva-resort-and-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/35137329/0/6df9867b149234196618481cbb37a93c.jpeg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 1931,
+      "reviewCountFmt": "리뷰 1,931건",
+      "priceText": "₩₩ · 1박 약 22만원",
+      "walkMin": 4,
+      "refLabel": "룸피니역",
+      "star": 5,
+      "propertyId": 35137329,
+      "geo": {
+        "lat": 13.722961,
+        "lng": 100.544591
+      },
+      "priceKRW": 221921,
+      "priceStatus": "조회됨",
+      "distanceM": 331.95,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "아시아티크 - 더 리버프론트",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,931건. 룸피니역까지 도보 4분, ₩₩ · 1박 약 22만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 22만원",
+        "📝 리뷰 1,931건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "And the wide-open, well-maintained pool was incredible.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Villadeva Resort is hands down the best place to stay.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Location is at center of bkk, easy to access any spots.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "All of the facilities and room were clean and modern,",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Looking for a pool that you can access right from the room.",
+          "score": "8.8",
+          "country": "中國澳門",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 오쿠라 프레스티지 방콕 (The Okura Prestige Bangkok)",
+      "agodaUrl": "https://www.agoda.com/the-okura-prestige-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/294217/0/d18ff22b720e0cefb5de9700f8973189.jpeg?va=1&ce=2",
+      "score": 9.2,
+      "reviewCount": 11537,
+      "reviewCountFmt": "리뷰 11,537건",
+      "priceText": "₩₩ · 1박 약 30만원",
+      "walkMin": 2,
+      "refLabel": "플런칫역",
+      "star": 5,
+      "propertyId": 294217,
+      "geo": {
+        "lat": 13.742689,
+        "lng": 100.54776
+      },
+      "priceKRW": 295717,
+      "priceStatus": "조회됨",
+      "distanceM": 136.98,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "룸피니 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 11,537건. 플런칫역까지 도보 2분, ₩₩ · 1박 약 30만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 30만원",
+        "📝 리뷰 11,537건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The gym was very good, well equipped, and enjoyable to use.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The level of service never wavered throughout our stay.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "I didn’t have any single complaint during my 5 nights stay.",
+          "score": "10",
+          "country": "ОАЭ",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "And had dinner in the Michelin star Elements Restaurant,",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "I would say it is perfect for couples or business trips.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "힐튼 방콕 수완나품 골프 리조트 앤 스파 (Hilton Bangkok Suvarnabhumi Golf Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/le-meridien-suvarnabhumi-bangkok-golf-resort-and-spa_5/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/82466703/0/b2385968f504c54d6b662529e50f4d28.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 1235,
+      "reviewCountFmt": "리뷰 1,235건",
+      "priceText": "₩₩ · 1박 약 22만원",
+      "walkMin": 79,
+      "refLabel": "수완나품역",
+      "star": 5,
+      "propertyId": 624337,
+      "geo": {
+        "lat": 13.656632,
+        "lng": 100.70578
+      },
+      "priceKRW": 219197,
+      "priceStatus": "조회됨",
+      "distanceM": 6304.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,235건. 수완나품역까지 도보 79분, ₩₩ · 1박 약 22만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 22만원",
+        "📝 리뷰 1,235건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Calm, welcoming and friendly staff all over the place.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Probably one of my top three hotels that I stayed in so far.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Quiet, clean, comfortable, good food in the restaurant.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "We went around the hotel every corner is luxurious",
+          "score": "10",
+          "country": "India",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Have free shuttle bus service to airport for guest as well",
+          "score": "9.6",
+          "country": "马来西亚",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:50:04.855Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:50:04.855Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

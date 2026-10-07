@@ -1,0 +1,600 @@
+{
+  "slug": "ultra-danang",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "다낭",
+  "citySlug": "danang",
+  "cityId": 16440,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16440",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[다낭] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 다낭 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 40%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>코아니바 럭셔리 빌라 비치 다낭</b>입니다 (평점 10 · 리뷰 300건 · 1박 약 87만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 40
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 30
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 25
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/93162842/0/1a0e6094e5474bb584a6121b2497f44d.jpg?va=1&ce=3",
+  "heroAlt": "다낭 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "코아니바 럭셔리 빌라 비치 다낭 (Koaniva Luxury Villa Beach Da Nang)",
+      "agodaUrl": "https://www.agoda.com/koaniva-luxury-villa-beach-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/93162842/0/1a0e6094e5474bb584a6121b2497f44d.jpg?va=1&ce=3",
+      "score": 10,
+      "reviewCount": 300,
+      "reviewCountFmt": "리뷰 300건",
+      "priceText": "₩₩₩ · 1박 약 87만원",
+      "walkMin": 8,
+      "refLabel": "다낭역",
+      "star": 5,
+      "propertyId": 93162842,
+      "geo": {
+        "lat": 16.066599,
+        "lng": 108.212242
+      },
+      "priceKRW": 868456,
+      "priceStatus": "조회됨",
+      "distanceM": 642.6,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "미케 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 10 · 리뷰 300건. 다낭역까지 도보 8분, ₩₩₩ · 1박 약 87만원.",
+      "metaTags": [
+        "💰 1박 약 87만원",
+        "📝 리뷰 300건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "인터컨티넨탈 다낭 선 페닌슐라 리조트 바이 IHG (InterContinental Danang Sun Peninsula Resort By IHG)",
+      "agodaUrl": "https://www.agoda.com/intercontinental-danang-sun-peninsula-resort/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/428850473.jpg?k=2d17b2dd618528271d24068071f67168b6aa7179b9a5c812f48b2e13f97ab146&o=",
+      "score": 9.1,
+      "reviewCount": 3446,
+      "reviewCountFmt": "리뷰 3,446건",
+      "priceText": "₩₩ · 1박 약 65만원",
+      "walkMin": 47,
+      "refLabel": "선짜산",
+      "star": 5,
+      "propertyId": 287965,
+      "geo": {
+        "lat": 16.119825,
+        "lng": 108.307175
+      },
+      "priceKRW": 649561,
+      "priceStatus": "조회됨",
+      "distanceM": 3754.51,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "다낭 해수관음상",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 3,446건. 선짜산까지 도보 47분, ₩₩ · 1박 약 65만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 65만원",
+        "📝 리뷰 3,446건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The view, size of the room, staff and facilities are superb.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Overall, it was an impeccable experience for my family.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "All are adults and still we enjoyed the resort a lot.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The rooms are spacious, clean, and offer breathtaking views.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "They replied email promptly even before I have arrived.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "티아 웰니스 리조트 - 스파 인클루시브 (TIA Wellness Resort - Spa Inclusive)",
+      "agodaUrl": "https://www.agoda.com/fusion-maia-resort-all-spa-inclusive/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/237529/0/c92c36c7a2be8471d79e1f5c489188f9.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 4118,
+      "reviewCountFmt": "리뷰 4,118건",
+      "priceText": "₩₩ · 1박 약 61만원",
+      "walkMin": 83,
+      "refLabel": "다낭역",
+      "star": 5,
+      "propertyId": 237529,
+      "geo": {
+        "lat": 16.03111,
+        "lng": 108.255243
+      },
+      "priceKRW": 608382,
+      "priceStatus": "조회됨",
+      "distanceM": 6665.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "미케 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 4,118건. 다낭역까지 도보 83분, ₩₩ · 1박 약 61만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 61만원",
+        "📝 리뷰 4,118건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "If you stay here, you'll have the best experience.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Beautiful staff and assistance with anything you need",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Awesome resort with wonderful staff and excellent services!",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Wonderful staffs, delicious foods and beautiful property.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The place is well designed with a beautiful garden and pool.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "다낭 메리어트 리조트 앤 스파, 논 누옥 비치 빌라스 (Danang Marriott Resort & Spa, Non Nuoc Beach Villas)",
+      "agodaUrl": "https://www.agoda.com/vinpearl-resort-spa-da-nang-h8674427/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1985160/-1/dcb82d5c0727aee5b33b3d72f3e77b11.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 3093,
+      "reviewCountFmt": "리뷰 3,093건",
+      "priceText": "₩₩ · 1박 약 47만원",
+      "walkMin": 7,
+      "refLabel": "논 누옥 비치",
+      "star": 5,
+      "propertyId": 1985160,
+      "geo": {
+        "lat": 15.994055,
+        "lng": 108.269272
+      },
+      "priceKRW": 472915,
+      "priceStatus": "조회됨",
+      "distanceM": 521.89,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "논 누옥 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,093건. 논 누옥 비치까지 도보 7분, ₩₩ · 1박 약 47만원.",
+      "metaTags": [
+        "💰 1박 약 47만원",
+        "📝 리뷰 3,093건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel is right on the beautiful and cleanest beach.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Otherwise, this is a wonderful place for a relaxing holiday.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel was outstanding, very large and luxurious villas.",
+          "score": "10",
+          "country": "Mexico",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "But the beach and pool and everything in villa are awesome",
+          "score": "8.8",
+          "country": "台灣",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The room is very beautiful and the staff is very helpful.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2023.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "반얀트리 랑코 (Banyan Tree Lang Co)",
+      "agodaUrl": "https://www.agoda.com/banyan-tree-lang-co/hotel/hue-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/338256/-1/87a4706d7516be4ca77bd51ae669c4d3.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 1595,
+      "reviewCountFmt": "리뷰 1,595건",
+      "priceText": "₩₩ · 1박 약 54만원",
+      "walkMin": 1,
+      "refLabel": "Canh Duong Beach",
+      "star": 5,
+      "propertyId": 338256,
+      "geo": {
+        "lat": 16.33878,
+        "lng": 107.95379
+      },
+      "priceKRW": 543100,
+      "priceStatus": "조회됨",
+      "distanceM": 38.07,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,595건. Canh Duong Beach까지 도보 1분, ₩₩ · 1박 약 54만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 54만원",
+        "📝 리뷰 1,595건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "That was one of the best hotel stays we have ever been to.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The villa I stayed was spacious enough with private pool.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The seaview villa got a nice view and heated pool.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed every moment of our time at Banyan Tree Lang Co.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The Room: The room was easily the best part of our stay.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "프리미어 빌라 다낭 리조트 (Premier Villa Danang Resort )",
+      "agodaUrl": "https://www.agoda.com/premier-village-danang-resort-managed-by-accorhotels_2/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86732273/0/d41f578f222c4174d9c68cfbb981e0d8.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 128,
+      "reviewCountFmt": "리뷰 128건",
+      "priceText": "₩₩ · 1박 약 50만원",
+      "walkMin": 67,
+      "refLabel": "다낭역",
+      "star": 5,
+      "propertyId": 86732273,
+      "geo": {
+        "lat": 16.04265,
+        "lng": 108.24943
+      },
+      "priceKRW": 497237,
+      "priceStatus": "조회됨",
+      "distanceM": 5365,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "미케 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 128건. 다낭역까지 도보 67분, ₩₩ · 1박 약 50만원.",
+      "metaTags": [
+        "💰 1박 약 50만원",
+        "📝 리뷰 128건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:57:07.955Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:57:07.955Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "코아니바 럭셔리 빌라 비치 다낭 (Koaniva Luxury Villa Beach Da Nang): reviewSample",
+        "프리미어 빌라 다낭 리조트 (Premier Villa Danang Resort ): reviewSample"
+      ]
+    }
+  }
+}

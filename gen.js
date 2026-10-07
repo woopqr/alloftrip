@@ -14,6 +14,7 @@ const path = require('path');
 const af = require('./lib/agoda-fetch');
 const md = require('./lib/morestaz-data');
 const agoda = require('./lib/agoda');
+const { safeImg } = require('./lib/safe-url');
 const { qualityForHotel, validateArticle } = require('./lib/content-quality');
 
 const ROOT = __dirname;
@@ -200,7 +201,7 @@ const shortName = s => String(s).split('(')[0].trim();
     const blurb = `평점 ${h.score} · 리뷰 ${Number(h.reviewCount).toLocaleString('ko-KR')}건.${h.walkMin ? ` ${refLabel}까지 도보 ${h.walkMin}분,` : ''} ${h.priceText}.${typeTxt ? ' ' + typeTxt + '.' : ''}`;
     const hotel = {
       rank: h.rank, name: h.name, agodaUrl: h.agodaUrl,
-      img: h.img ? 'https:' + h.img.replace(/^https?:/, '') : '',
+      img: safeImg(h.img ? 'https:' + h.img.replace(/^https?:/, '') : ''),
       score: h.score, reviewCount: h.reviewCount,
       reviewCountFmt: '리뷰 ' + Number(h.reviewCount).toLocaleString('ko-KR') + '건',
       priceText: h.priceText, walkMin: h.walkMin, refLabel,
@@ -223,7 +224,7 @@ const shortName = s => String(s).split('(')[0].trim();
     return hotel;
   });
 
-  const heroImg = hotels[0].img || '';
+  const heroImg = (hotels.find(x => x.img) || {}).img || '';
   const slug = `${theme.id}-${citySlug}`; // 도시×테마당 1개 글 — 매 갱신마다 같은 주소에 최신 요금·순위 반영
   const data = {
     slug, theme: theme.id, audience: theme.audience, emoji: theme.emoji,

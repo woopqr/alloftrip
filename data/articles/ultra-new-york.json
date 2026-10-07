@@ -1,0 +1,503 @@
+{
+  "slug": "ultra-new-york",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "뉴욕",
+  "citySlug": "new-york",
+  "cityId": 318,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=318",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[뉴욕] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 뉴욕 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 62%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>만다린 오리엔탈 뉴욕</b>입니다 (평점 9 · 리뷰 304건 · 1박 약 445만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 13,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 62
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 15
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 15
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 8
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
+  "heroAlt": "뉴욕 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "만다린 오리엔탈 뉴욕 (Mandarin Oriental, New York)",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-new-york_5/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
+      "score": 9,
+      "reviewCount": 304,
+      "reviewCountFmt": "리뷰 304건",
+      "priceText": "₩₩₩ · 1박 약 445만원",
+      "walkMin": 2,
+      "refLabel": "59번 스트리트-컬럼버스 서클역",
+      "star": 5,
+      "propertyId": 3849617,
+      "geo": {
+        "lat": 40.769089,
+        "lng": -73.983345
+      },
+      "priceKRW": 4451627,
+      "priceStatus": "조회됨",
+      "distanceM": 169.92,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 304건. 59번 스트리트-컬럼버스 서클역까지 도보 2분, ₩₩₩ · 1박 약 445만원. 연인·커플 리뷰 비중 67%.",
+      "metaTags": [
+        "💰 1박 약 445만원",
+        "📝 리뷰 304건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 67,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 67,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 33,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Thumbs up for their customer service.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Five Star in every way",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Perfection",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "포시즌스 호텔 뉴욕 (Four Seasons Hotel New York)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-new-york_2/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1267104/-1/a25707eb2e4054a316466e1e7eb78f06.jpg?va=1&ca=7&ce=1",
+      "score": 9.3,
+      "reviewCount": 77,
+      "reviewCountFmt": "리뷰 77건",
+      "priceText": "₩₩₩ · 1박 약 390만원",
+      "walkMin": 4,
+      "refLabel": "59번 스트리트-렉싱턴 애비뉴역",
+      "star": 5,
+      "propertyId": 1267104,
+      "geo": {
+        "lat": 40.761936,
+        "lng": -73.971367
+      },
+      "priceKRW": 3897765,
+      "priceStatus": "조회됨",
+      "distanceM": 298.07,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 77건. 59번 스트리트-렉싱턴 애비뉴역까지 도보 4분, ₩₩₩ · 1박 약 390만원.",
+      "metaTags": [
+        "💰 1박 약 390만원",
+        "📝 리뷰 77건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "바카라 호텔 앤 레지던스 뉴욕 (Baccarat Hotel and Residences New York)",
+      "agodaUrl": "https://www.agoda.com/baccarat-hotel-and-residences-new-york_3/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/180596947.jpg?k=cf4410d3ada8fcc33f005f6c3cc6524793719debc58cc598927d32786475dc68&o=",
+      "score": 9.1,
+      "reviewCount": 391,
+      "reviewCountFmt": "리뷰 391건",
+      "priceText": "₩₩₩ · 1박 약 292만원",
+      "walkMin": 2,
+      "refLabel": "5번 애비뉴-53번 스트리트역",
+      "star": 5,
+      "propertyId": 6950723,
+      "geo": {
+        "lat": 40.760818,
+        "lng": -73.977249
+      },
+      "priceKRW": 2915284,
+      "priceStatus": "조회됨",
+      "distanceM": 137.36,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 391건. 5번 애비뉴-53번 스트리트역까지 도보 2분, ₩₩₩ · 1박 약 292만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 292만원",
+        "📝 리뷰 391건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best hotels I have visited.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Everything is perfect.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotels in New York!",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Staff, property and cleanliness superb.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The service is everything.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2023.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 휘트비 호텔 (The Whitby Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-whitby-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/106790455.jpg?k=fbf2181972455c79b599942277989f2f22285d9872f068dd22ba0980d326bf2a&o=",
+      "score": 9.3,
+      "reviewCount": 299,
+      "reviewCountFmt": "리뷰 299건",
+      "priceText": "₩₩₩ · 1박 약 291만원",
+      "walkMin": 3,
+      "refLabel": "57번 스트리트역",
+      "star": 5,
+      "propertyId": 6950151,
+      "geo": {
+        "lat": 40.762661,
+        "lng": -73.975677
+      },
+      "priceKRW": 2914896,
+      "priceStatus": "조회됨",
+      "distanceM": 219.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "하이 라인"
+      ],
+      "blurb": "평점 9.3 · 리뷰 299건. 57번 스트리트역까지 도보 3분, ₩₩₩ · 1박 약 291만원.",
+      "metaTags": [
+        "💰 1박 약 291만원",
+        "📝 리뷰 299건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "카사 치프리아니 뉴욕 (Casa Cipriani New York)",
+      "agodaUrl": "https://www.agoda.com/casa-cipriani-new-york/hotel/princeton-nj-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500264371.jpg?k=a0089b46d83f8c4da304dd2767184e4aa7520431be7c3783c758c70b230fcbfe&o=",
+      "score": 9.2,
+      "reviewCount": 128,
+      "reviewCountFmt": "리뷰 128건",
+      "priceText": "₩₩₩ · 1박 약 275만원",
+      "walkMin": 2,
+      "refLabel": "사우스 페리-화이트홀 스트리트역",
+      "star": 5,
+      "propertyId": 56249939,
+      "geo": {
+        "lat": 40.70108,
+        "lng": -74.012253
+      },
+      "priceKRW": 2753655,
+      "priceStatus": "조회됨",
+      "distanceM": 162.34,
+      "locationStatus": "조회됨",
+      "facilities": [],
+      "blurb": "평점 9.2 · 리뷰 128건. 사우스 페리-화이트홀 스트리트역까지 도보 2분, ₩₩₩ · 1박 약 275만원.",
+      "metaTags": [
+        "💰 1박 약 275만원",
+        "📝 리뷰 128건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "콘래드 뉴욕 다운타운 (Conrad New York Downtown)",
+      "agodaUrl": "https://www.agoda.com/conrad-new-york-downtown/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2286352/0/e42937da94f51fc93b67e8261065f53b.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 1312,
+      "reviewCountFmt": "리뷰 1,312건",
+      "priceText": "₩₩₩ · 1박 약 243만원",
+      "walkMin": 5,
+      "refLabel": "PATH",
+      "star": 5,
+      "propertyId": 272190,
+      "geo": {
+        "lat": 40.714817,
+        "lng": -74.016098
+      },
+      "priceKRW": 2430222,
+      "priceStatus": "조회됨",
+      "distanceM": 394.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "자유의여신상"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,312건. PATH까지 도보 5분, ₩₩₩ · 1박 약 243만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 243만원",
+        "📝 리뷰 1,312건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Huge suite in a very convenient location!",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "The attention to detail by the cleaner was amazing.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Clean and modern rooms with large walk-in shower.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms were amazing and the staff, excellent!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Room smells pleasant and clean without strong fragrance.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:51:21.453Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:51:21.453Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "포시즌스 호텔 뉴욕 (Four Seasons Hotel New York): reviewSample",
+        "더 휘트비 호텔 (The Whitby Hotel): reviewSample",
+        "카사 치프리아니 뉴욕 (Casa Cipriani New York): reviewSample"
+      ]
+    }
+  }
+}

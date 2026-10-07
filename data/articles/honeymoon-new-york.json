@@ -1,0 +1,565 @@
+{
+  "slug": "honeymoon-new-york",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "뉴욕",
+  "citySlug": "new-york",
+  "cityId": 318,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=318",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[뉴욕] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 뉴욕 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 56%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>더 리츠칼튼 뉴욕, 센트럴 파크</b>입니다 (평점 9 · 리뷰 267건 · 1박 약 237만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 16,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 56
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 25
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 19
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/2456621/0/c8bcd2f3237c34c57bf74523f6ba895c.jpeg?va=1&ce=0",
+  "heroAlt": "뉴욕 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 리츠칼튼 뉴욕, 센트럴 파크 (The Ritz-Carlton New York, Central Park)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2456621/0/c8bcd2f3237c34c57bf74523f6ba895c.jpeg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 267,
+      "reviewCountFmt": "리뷰 267건",
+      "priceText": "₩₩₩ · 1박 약 237만원",
+      "walkMin": 3,
+      "refLabel": "5번 애비뉴-59번 스트리트역",
+      "star": 5,
+      "propertyId": 2456621,
+      "geo": {
+        "lat": 40.765026,
+        "lng": -73.974991
+      },
+      "priceKRW": 2373943,
+      "priceStatus": "조회됨",
+      "distanceM": 201.52,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 267건. 5번 애비뉴-59번 스트리트역까지 도보 3분, ₩₩₩ · 1박 약 237만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 237만원",
+        "📝 리뷰 267건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I really enjoyed the stay inritz Carlton Central Park.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Vry good sevice",
+          "score": "10",
+          "country": "India",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "월도프 아스토리아 뉴욕 (Waldorf Astoria New York)",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7477/0/8723574019faec668756869bdeeae5be.jpg?va=1&ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 276,
+      "reviewCountFmt": "리뷰 276건",
+      "priceText": "₩₩₩ · 1박 약 239만원",
+      "walkMin": 1,
+      "refLabel": "51번-53번 스트리트-렉싱턴 애비뉴역",
+      "star": 5,
+      "propertyId": 7477,
+      "geo": {
+        "lat": 40.756248,
+        "lng": -73.972542
+      },
+      "priceKRW": 2391268,
+      "priceStatus": "조회됨",
+      "distanceM": 103.52,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 276건. 51번-53번 스트리트-렉싱턴 애비뉴역까지 도보 1분, ₩₩₩ · 1박 약 239만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 239만원",
+        "📝 리뷰 276건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We loved every moment and can’t wait to return!",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "It was an amazing stay, and we can’t wait to return!",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Exceptional Hotel, Exceptional Service!",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms luxurious and comfortable,",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The staff were warm and attentive,",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 마크 호텔 (The Mark Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-mark-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/211/211821/211821_15071800490032545994.jpg?va=1&ca=4&ce=1",
+      "score": 9.2,
+      "reviewCount": 157,
+      "reviewCountFmt": "리뷰 157건",
+      "priceText": "₩₩₩ · 1박 약 246만원",
+      "walkMin": 4,
+      "refLabel": "77번 스트리트역",
+      "star": 5,
+      "propertyId": 211821,
+      "geo": {
+        "lat": 40.775253,
+        "lng": -73.963432
+      },
+      "priceKRW": 2458017,
+      "priceStatus": "조회됨",
+      "distanceM": 352.32,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 157건. 77번 스트리트역까지 도보 4분, ₩₩₩ · 1박 약 246만원. 연인·커플 리뷰 비중 50%.",
+      "metaTags": [
+        "💰 1박 약 246만원",
+        "📝 리뷰 157건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 50,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The Perfect hotel in NY",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The best hotel in NY",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "로웰 호텔 (Lowell Hotel)",
+      "agodaUrl": "https://www.agoda.com/lowell-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4892925/0/1ac53e2e13f5520dca297660b81b724e.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 74,
+      "reviewCountFmt": "리뷰 74건",
+      "priceText": "₩₩₩ · 1박 약 256만원",
+      "walkMin": 4,
+      "refLabel": "5번 애비뉴-59번 스트리트역",
+      "star": 5,
+      "propertyId": 7011025,
+      "geo": {
+        "lat": 40.765739,
+        "lng": -73.969254
+      },
+      "priceKRW": 2558300,
+      "priceStatus": "조회됨",
+      "distanceM": 303.13,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 74건. 5번 애비뉴-59번 스트리트역까지 도보 4분, ₩₩₩ · 1박 약 256만원.",
+      "metaTags": [
+        "💰 1박 약 256만원",
+        "📝 리뷰 74건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 페닌슐라 뉴욕 호텔 (The Peninsula New York Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-peninsula-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/617395839.jpg?k=ed49b09385bd8dac46bd61f1ed8612decca69ed630867fe6f789719249424150&o=",
+      "score": 9.1,
+      "reviewCount": 466,
+      "reviewCountFmt": "리뷰 466건",
+      "priceText": "₩₩₩ · 1박 약 235만원",
+      "walkMin": 2,
+      "refLabel": "5번 애비뉴-53번 스트리트역",
+      "star": 5,
+      "propertyId": 174255,
+      "geo": {
+        "lat": 40.761627,
+        "lng": -73.975067
+      },
+      "priceKRW": 2348220,
+      "priceStatus": "조회됨",
+      "distanceM": 155.87,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "하이 라인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 466건. 5번 애비뉴-53번 스트리트역까지 도보 2분, ₩₩₩ · 1박 약 235만원.",
+      "metaTags": [
+        "💰 1박 약 235만원",
+        "📝 리뷰 466건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 67,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 33,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 67,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "With this hotel - one can never go wrong!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Best Hotel Ever!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The best hotel",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "포시즌스 호텔 뉴욕 다운타운 (Four Seasons Hotel New York Downtown)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-new-york-downtown/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/206/206039/206039_17011307000050291183.jpg?va=1&ca=6&ce=1",
+      "score": 9.1,
+      "reviewCount": 334,
+      "reviewCountFmt": "리뷰 334건",
+      "priceText": "₩₩₩ · 1박 약 222만원",
+      "walkMin": 3,
+      "refLabel": "City Hall Station",
+      "star": 5,
+      "propertyId": 206039,
+      "geo": {
+        "lat": 40.712688,
+        "lng": -74.009224
+      },
+      "priceKRW": 2216140,
+      "priceStatus": "조회됨",
+      "distanceM": 231.44,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "자유의여신상",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 334건. City Hall Station까지 도보 3분, ₩₩₩ · 1박 약 222만원. 연인·커플 리뷰 비중 50%.",
+      "metaTags": [
+        "💰 1박 약 222만원",
+        "📝 리뷰 334건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 50,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 50,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 50,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Amazing front desk guy, I wish I remembered his name.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Very welcoming and kind.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Great location if you need to be downtown!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Best service, best room!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:51:32.135Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:51:32.135Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "로웰 호텔 (Lowell Hotel): reviewSample"
+      ]
+    }
+  }
+}

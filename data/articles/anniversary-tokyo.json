@@ -1,0 +1,553 @@
+{
+  "slug": "anniversary-tokyo",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[도쿄] 결혼기념일을 위한 최고급 호텔 & 스위트",
+  "metaDescription": "2026년 11월 도쿄 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 85%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>The Okura Heritage Tokyo</b>입니다 (평점 9.6 · 리뷰 492건 · 1박 약 139만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 17,
+        "pct": 85
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/268526230.jpg?k=7c276943d8d4e1546b0809c8e6bca7b053ecc2cdeabbd9661ef3c3d0e0dd0808&o=",
+  "heroAlt": "도쿄 기념일 여행 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Okura Heritage Tokyo",
+      "agodaUrl": "https://www.agoda.com/the-okura-heritage-tokyo/hotel/all/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/268526230.jpg?k=7c276943d8d4e1546b0809c8e6bca7b053ecc2cdeabbd9661ef3c3d0e0dd0808&o=",
+      "score": 9.6,
+      "reviewCount": 492,
+      "reviewCountFmt": "리뷰 492건",
+      "priceText": "₩₩₩ · 1박 약 139만원",
+      "walkMin": 3,
+      "refLabel": "토라노몬힐즈역",
+      "star": 5,
+      "propertyId": 21806544,
+      "geo": {
+        "lat": 35.667088,
+        "lng": 139.745529
+      },
+      "priceKRW": 1392058,
+      "priceStatus": "조회됨",
+      "distanceM": 225.82,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "도쿄 타워"
+      ],
+      "blurb": "평점 9.6 · 리뷰 492건. 토라노몬힐즈역까지 도보 3분, ₩₩₩ · 1박 약 139만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 139만원",
+        "📝 리뷰 492건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Perfect location with beautiful balcony!",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful balcony, nice restaurants, modern room",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "We had a very pleasant stay in this hotel.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Room was spacious and very comfortable.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms are nice, clean and spacious.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Fufu Tokyo Ginza",
+      "agodaUrl": "https://www.agoda.com/fufu-tokyo-ginza-h81557027/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/96538292/0/33061f6906f3bc0ed0c980f7d328655b.jpeg?va=1&ce=3",
+      "score": 9.5,
+      "reviewCount": 55,
+      "reviewCountFmt": "리뷰 55건",
+      "priceText": "₩₩₩ · 1박 약 175만원",
+      "walkMin": 1,
+      "refLabel": "긴자잇초메역",
+      "star": 5,
+      "propertyId": 86517474,
+      "geo": {
+        "lat": 35.674168,
+        "lng": 139.7677
+      },
+      "priceKRW": 1750728,
+      "priceStatus": "조회됨",
+      "distanceM": 69.94,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "도쿄 타워"
+      ],
+      "blurb": "평점 9.5 · 리뷰 55건. 긴자잇초메역까지 도보 1분, ₩₩₩ · 1박 약 175만원.",
+      "metaTags": [
+        "💰 1박 약 175만원",
+        "📝 리뷰 55건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "SLL Urban Suites Ebisu",
+      "agodaUrl": "https://www.agoda.com/sll-urban-suites-ebisu/hotel/all/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/889944070.jpg?k=0e184379957191119a9dfc00f976e538214a4f5778f1af7140e71cdfa0f58126&o=",
+      "score": 9.8,
+      "reviewCount": 69,
+      "reviewCountFmt": "리뷰 69건",
+      "priceText": "₩₩₩ · 1박 약 106만원",
+      "walkMin": 8,
+      "refLabel": "에비스역",
+      "star": 5,
+      "propertyId": 75865163,
+      "geo": {
+        "lat": 35.646004,
+        "lng": 139.717377
+      },
+      "priceKRW": 1058478,
+      "priceStatus": "조회됨",
+      "distanceM": 664.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "도쿄 타워"
+      ],
+      "blurb": "평점 9.8 · 리뷰 69건. 에비스역까지 도보 8분, ₩₩₩ · 1박 약 106만원.",
+      "metaTags": [
+        "💰 1박 약 106만원",
+        "📝 리뷰 69건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "벨루스타 도쿄, 어 팬 퍼시픽 호텔 (BELLUSTAR TOKYO, A Pan Pacific Hotel)",
+      "agodaUrl": "https://www.agoda.com/bellustar-tokyo-a-pan-pacific-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36433617/0/6cc8fc85685e5a2aa26d8772d59cd697.jpeg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 838,
+      "reviewCountFmt": "리뷰 838건",
+      "priceText": "₩₩₩ · 1박 약 130만원",
+      "walkMin": 1,
+      "refLabel": "세이부 신주쿠역",
+      "star": 5,
+      "propertyId": 36433617,
+      "geo": {
+        "lat": 35.695896,
+        "lng": 139.700653
+      },
+      "priceKRW": 1304608,
+      "priceStatus": "조회됨",
+      "distanceM": 81.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "하치코"
+      ],
+      "blurb": "평점 9.4 · 리뷰 838건. 세이부 신주쿠역까지 도보 1분, ₩₩₩ · 1박 약 130만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 130만원",
+        "📝 리뷰 838건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the very best hotels I have ever stayed in.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "One of the best luxury hotel stays we've ever had.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "On par with any Ritz Carlton around the world.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was big, clean and facilities were wonderful.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Hands down best hotel I have stayed in Tokyo.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "1 Hotel Tokyo",
+      "agodaUrl": "https://www.agoda.com/1-hotel-tokyo/hotel/all/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/766044747.jpg?k=7c31d1e8109305ef68e1d052dc6e25824d57c6e1b15e186f29fbfee497a030ca&o=",
+      "score": 9.4,
+      "reviewCount": 348,
+      "reviewCountFmt": "리뷰 348건",
+      "priceText": "₩₩₩ · 1박 약 129만원",
+      "walkMin": 5,
+      "refLabel": "다메이케산노역",
+      "star": 5,
+      "propertyId": 76675434,
+      "geo": {
+        "lat": 35.669926,
+        "lng": 139.740662
+      },
+      "priceKRW": 1291895,
+      "priceStatus": "조회됨",
+      "distanceM": 422.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 348건. 다메이케산노역까지 도보 5분, ₩₩₩ · 1박 약 129만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 129만원",
+        "📝 리뷰 348건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "If we visit Tokyo again, we will definitely stay here again.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "We will always remember our stay with great happiness.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Thank you so much for making our honeymoon so special.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Our honeymoon at 1 Hotel was truly perfect.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Everything was new, clean, and well maintained.",
+          "score": "7.6",
+          "country": "Sweden",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "게이오 플라자 호텔 도쿄 (Keio Plaza Hotel Tokyo)",
+      "agodaUrl": "https://www.agoda.com/keio-plaza-hotel-tokyo_3/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7263/0/52508d8a9b23b4b6d813303abe4f00dd.jpeg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 26786,
+      "reviewCountFmt": "리뷰 26,786건",
+      "priceText": "₩₩₩ · 1박 약 73만원",
+      "walkMin": 2,
+      "refLabel": "도초마에역",
+      "star": 5,
+      "propertyId": 7263,
+      "geo": {
+        "lat": 35.689968,
+        "lng": 139.694412
+      },
+      "priceKRW": 727608,
+      "priceStatus": "조회됨",
+      "distanceM": 167.75,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "하치코",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 26,786건. 도초마에역까지 도보 2분, ₩₩₩ · 1박 약 73만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 73만원",
+        "📝 리뷰 26,786건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was spacious and clean, with excellent amenities.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "They offer many amenities including multiple restaurants.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Breakfast is very good and the restaurants are good too.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "It is near an extensive public transportation center.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Great location and easy access to trains and buses.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:47:01.100Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:47:01.100Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Fufu Tokyo Ginza: reviewSample",
+        "SLL Urban Suites Ebisu: reviewSample"
+      ]
+    }
+  }
+}

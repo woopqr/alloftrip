@@ -1,0 +1,508 @@
+{
+  "slug": "honeymoon-cancun",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "칸쿤",
+  "citySlug": "cancun",
+  "cityId": 5954,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5954",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[칸쿤] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 칸쿤 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 75%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>Secrets The Vine Cancun Resort & Spa - All Inclusive -  Adults Only</b>입니다 (평점 9 · 리뷰 233건 · 1박 약 75만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 12,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 75
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 8
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/2459421/0/b3bbe8203483eeb573118f2b6d6421a7.jpg?va=1&ce=3",
+  "heroAlt": "칸쿤 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Secrets The Vine Cancun Resort & Spa - All Inclusive -  Adults Only",
+      "agodaUrl": "https://www.agoda.com/secrets-the-vine-cancun-resort-spa-all-inclusive-adult-only/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2459421/0/b3bbe8203483eeb573118f2b6d6421a7.jpg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 233,
+      "reviewCountFmt": "리뷰 233건",
+      "priceText": "₩₩₩ · 1박 약 75만원",
+      "walkMin": 18,
+      "refLabel": "아베니다 쿠쿨칸",
+      "star": 5,
+      "propertyId": 2459421,
+      "geo": {
+        "lat": 21.090296,
+        "lng": -86.770699
+      },
+      "priceKRW": 745751,
+      "priceStatus": "조회됨",
+      "distanceM": 1461.31,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "플라야 델파인",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 233건. 아베니다 쿠쿨칸까지 도보 18분, ₩₩₩ · 1박 약 75만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 75만원",
+        "📝 리뷰 233건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Absolutely I will come this resort again.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms were spacious, and impeccably clean.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "If possible go Gor the Honeymoon Suite Ocean View room.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The pools were great and plentiful (4 to choose from).",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Best option is by the pool, still with great ocean views.",
+          "score": "7.6",
+          "country": "Argentina",
+          "date": "2022.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Almare, a Luxury Collection Resort, Isla Mujeres Cancun, Adult All-Inclusive",
+      "agodaUrl": "https://www.agoda.com/almare-isla-mujeres/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2457535/0/fe3c46798d6c533a2269c6a7dcf45e64.jpg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 61,
+      "reviewCountFmt": "리뷰 61건",
+      "priceText": "₩₩₩ · 1박 약 93만원",
+      "walkMin": 1,
+      "refLabel": "Lancheros Beach",
+      "star": 5,
+      "propertyId": 2457535,
+      "geo": {
+        "lat": 21.218523,
+        "lng": -86.728851
+      },
+      "priceKRW": 926124,
+      "priceStatus": "조회됨",
+      "distanceM": 20.84,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 61건. Lancheros Beach까지 도보 1분, ₩₩₩ · 1박 약 93만원.",
+      "metaTags": [
+        "💰 1박 약 93만원",
+        "📝 리뷰 61건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "AVA Resort Cancun - All Inclusive",
+      "agodaUrl": "https://www.agoda.com/ava-resort-cancun-all-inclusive/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55317998/0/abb3a0f9a9271dfa31f714a4dc7c01ee.jpeg?va=1&ce=3",
+      "score": 8.3,
+      "reviewCount": 403,
+      "reviewCountFmt": "리뷰 403건",
+      "priceText": "₩₩₩ · 1박 약 71만원",
+      "walkMin": 32,
+      "refLabel": "웻앤와일드 칸쿤",
+      "star": 5,
+      "propertyId": 55317998,
+      "geo": {
+        "lat": 21.014696,
+        "lng": -86.837639
+      },
+      "priceKRW": 705407,
+      "priceStatus": "조회됨",
+      "distanceM": 2598.75,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "소치밀코 칸쿤 바이 스카렛",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 403건. 웻앤와일드 칸쿤까지 도보 32분, ₩₩₩ · 1박 약 71만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 71만원",
+        "📝 리뷰 403건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall it was an excellent place to stay and would go again",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Well maintained exceptional service and fantastic rooms",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "I had a wonderful family vacation and truly enjoyed my stay.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The AVA Resort is definitely louxery hotel.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The food was amazing in all the restaurants and buffet.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Royalton Reserve Paraíso de la Bonita, A Luxury Collection Resort, Riviera Maya, Adult All-Inclusive",
+      "agodaUrl": "https://www.agoda.com/zoetry-paraiso-de-la-bonita-riviera-maya-all-inclusive_3/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2465829/0/0fe3e937d037b62be22e8d26a7786210.jpeg?va=1",
+      "score": 9.4,
+      "reviewCount": 93,
+      "reviewCountFmt": "리뷰 93건",
+      "priceText": "₩₩₩ · 1박 약 85만원",
+      "walkMin": 120,
+      "refLabel": "소치밀코 칸쿤 바이 스카렛",
+      "star": 5,
+      "propertyId": 80162303,
+      "geo": {
+        "lat": 20.911039,
+        "lng": -86.847031
+      },
+      "priceKRW": 845557,
+      "priceStatus": "조회됨",
+      "distanceM": 9594.37,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 93건. 소치밀코 칸쿤 바이 스카렛까지 도보 120분, ₩₩₩ · 1박 약 85만원.",
+      "metaTags": [
+        "💰 1박 약 85만원",
+        "📝 리뷰 93건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "문 팰리스 더 그랜드 칸쿤 - 올인클루시브 (Moon Palace The Grand Cancun - All Inclusive)",
+      "agodaUrl": "https://www.agoda.com/the-grand-at-moon-palace-all-inclusive_6/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7011046/0/1098a5567ec0f3d39fd7a61518a84722.jpeg?va=1&ce=3",
+      "score": 8.2,
+      "reviewCount": 516,
+      "reviewCountFmt": "리뷰 516건",
+      "priceText": "₩₩₩ · 1박 약 100만원",
+      "walkMin": 42,
+      "refLabel": "소치밀코 칸쿤 바이 스카렛",
+      "star": 5,
+      "propertyId": 7011046,
+      "geo": {
+        "lat": 20.988239,
+        "lng": -86.829239
+      },
+      "priceKRW": 1000601,
+      "priceStatus": "조회됨",
+      "distanceM": 3378.55,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "소치밀코 칸쿤 바이 스카렛",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 516건. 소치밀코 칸쿤 바이 스카렛까지 도보 42분, ₩₩₩ · 1박 약 100만원.",
+      "metaTags": [
+        "💰 1박 약 100만원",
+        "📝 리뷰 516건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Secrets Riviera Cancún Resort & Spa - Adults Only - All Inclusive",
+      "agodaUrl": "https://www.agoda.com/secrets-riviera-cancun-resort-spa/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/23044389/0/e3c44f762f5756c4fea4cb7da1fbb15c.jpeg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 108,
+      "reviewCountFmt": "리뷰 108건",
+      "priceText": "₩₩ · 1박 약 68만원",
+      "walkMin": 1,
+      "refLabel": "Playa Punta Caracol",
+      "star": 5,
+      "propertyId": 23044389,
+      "geo": {
+        "lat": 20.902712,
+        "lng": -86.849564
+      },
+      "priceKRW": 679222,
+      "priceStatus": "조회됨",
+      "distanceM": 106.5,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스"
+      ],
+      "blurb": "평점 8.6 · 리뷰 108건. Playa Punta Caracol까지 도보 1분, ₩₩ · 1박 약 68만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 68만원",
+        "📝 리뷰 108건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Employees were nice",
+          "score": "10",
+          "country": "미국",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "It was amazing!!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:55:41.145Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:55:41.145Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Almare, a Luxury Collection Resort, Isla Mujeres Cancun, Adult All-Inclusive: reviewSample",
+        "Royalton Reserve Paraíso de la Bonita, A Luxury Collection Resort, Riviera Maya, Adult All-Inclusive: reviewSample",
+        "문 팰리스 더 그랜드 칸쿤 - 올인클루시브 (Moon Palace The Grand Cancun - All Inclusive): reviewSample"
+      ]
+    }
+  }
+}

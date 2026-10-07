@@ -1,0 +1,627 @@
+{
+  "slug": "ultra-cancun",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "칸쿤",
+  "citySlug": "cancun",
+  "cityId": 5954,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5954",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[칸쿤] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 칸쿤 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 88%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>임프레션 이슬라 무헤레스 바이 시크릿 – 성인 전용 – 올 인클루시브</b>입니다 (평점 9.3 · 리뷰 194건 · 1박 약 252만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 22,
+        "pct": 88
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 8
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?va=1&ce=3",
+  "heroAlt": "칸쿤 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "임프레션 이슬라 무헤레스 바이 시크릿 – 성인 전용 – 올 인클루시브 (Impression Isla Mujeres by Secrets – Adults only – All Inclusive)",
+      "agodaUrl": "https://www.agoda.com/secrets-impression-isla-mujeres/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 194,
+      "reviewCountFmt": "리뷰 194건",
+      "priceText": "₩₩₩ · 1박 약 252만원",
+      "walkMin": 1,
+      "refLabel": "Indios Beach",
+      "star": 5,
+      "propertyId": 33406879,
+      "geo": {
+        "lat": 21.212769,
+        "lng": -86.72319
+      },
+      "priceKRW": 2523487,
+      "priceStatus": "조회됨",
+      "distanceM": 65.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 194건. Indios Beach까지 도보 1분, ₩₩₩ · 1박 약 252만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 252만원",
+        "📝 리뷰 194건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We will definitely come back again.",
+          "score": "10",
+          "country": "캐나다",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "We really appreciated his kindness and attention.",
+          "score": "10",
+          "country": "캐나다",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "르 블랑 스파 리조트 칸쿤 – 성인 전용 – 올 인클루시브 (Le Blanc Spa Resort Cancun – Adults Only – All Inclusive)",
+      "agodaUrl": "https://www.agoda.com/le-blanc-spa-resort-all-inclusive-adults-only_2/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2457916/0/cb11caa64fda5484405f0a6977cb2eee.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 421,
+      "reviewCountFmt": "리뷰 421건",
+      "priceText": "₩₩₩ · 1박 약 154만원",
+      "walkMin": 108,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 2457916,
+      "geo": {
+        "lat": 21.126194,
+        "lng": -86.753479
+      },
+      "priceKRW": 1544767,
+      "priceStatus": "조회됨",
+      "distanceM": 8662.86,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "플라야 토르투가스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 421건. Cancun Bus Station까지 도보 108분, ₩₩₩ · 1박 약 154만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 154만원",
+        "📝 리뷰 421건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great service, staff and food.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Food, Service, crazyness for a good way.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful pool views and direct access to the beach.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "But we have been here before and it is an incredible hotel!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Way over a 5 star resort in Can Cun!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Waldorf Astoria Riviera Maya",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-cancun/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/18694436/0/e15d00a64d9acca876d49410b1c14e39.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 151,
+      "reviewCountFmt": "리뷰 151건",
+      "priceText": "₩₩₩ · 1박 약 127만원",
+      "walkMin": 41,
+      "refLabel": "소치밀코 칸쿤 바이 스카렛",
+      "star": 5,
+      "propertyId": 21964836,
+      "geo": {
+        "lat": 20.966711,
+        "lng": -86.863937
+      },
+      "priceKRW": 1271413,
+      "priceStatus": "조회됨",
+      "distanceM": 3316.59,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "소치밀코 칸쿤 바이 스카렛",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 151건. 소치밀코 칸쿤 바이 스카렛까지 도보 41분, ₩₩₩ · 1박 약 127만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 127만원",
+        "📝 리뷰 151건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff is so friendly, they go above and beyond.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The Waldorf makes you feel like an absolute princess.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "BOOK IT! Amazing!!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "아틀리에 플라야 무헤레스 - 올인클루시브 - 성인 전용 (Atelier Playa Mujeres - All Inclusive - Adults Only)",
+      "agodaUrl": "https://www.agoda.com/inspira-by-atelier-playa-mujeres-all-inclusive-resort/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9771240/0/0ab5337b2f12a1f3f46c4d7e1c9f555e.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 264,
+      "reviewCountFmt": "리뷰 264건",
+      "priceText": "₩₩₩ · 1박 약 111만원",
+      "walkMin": 124,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 9771240,
+      "geo": {
+        "lat": 21.252681,
+        "lng": -86.812784
+      },
+      "priceKRW": 1105884,
+      "priceStatus": "조회됨",
+      "distanceM": 9945.61,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 264건. Cancun Bus Station까지 도보 124분, ₩₩₩ · 1박 약 111만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 111만원",
+        "📝 리뷰 264건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great food and drinks (inlcuding mocktails)",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Loved this resort and will definitely be returning.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "This resort is one of a kind and i highly recommend",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "A great vacation for a relaxing couples getaway..",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "20 restaurants, cafe and bars to choose from..",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "라이브 아쿠아 비치 리조트 칸쿤 - 성인 전용 - 올 인클루시브 (Live Aqua Beach Resort Cancun - Adults Only - All Inclusive)",
+      "agodaUrl": "https://www.agoda.com/live-aqua-beach-resort-cancun-adults-only-all-inclusive_2/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2458545/0/d7e6ff48ab4e75e1a66b6e7f09dc6600.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 227,
+      "reviewCountFmt": "리뷰 227건",
+      "priceText": "₩₩₩ · 1박 약 83만원",
+      "walkMin": 113,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 2458545,
+      "geo": {
+        "lat": 21.107782,
+        "lng": -86.763161
+      },
+      "priceKRW": 833413,
+      "priceStatus": "조회됨",
+      "distanceM": 9075.18,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "플라야 토르투가스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 227건. Cancun Bus Station까지 도보 113분, ₩₩₩ · 1박 약 83만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 83만원",
+        "📝 리뷰 227건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room was spacious, bed super comfy and great amenities.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "This is such. Great resort with good food and staff.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the Garden View room which was perfect for us.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious, comfortable and functional.",
+          "score": "10",
+          "country": "Jamaica",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel is beautiful, well designed and clean.",
+          "score": "10",
+          "country": "Jamaica",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "시크릿츠 플라야 블랑카 코스타 무헤레스 - 올 인클루시브 - 성인 전용 (Secrets Playa Blanca Costa Mujeres - All Inclusive - Adults Only)",
+      "agodaUrl": "https://www.agoda.com/secrets-playa-blanca-costa-mujeres/hotel/cuautitlan-izcalli-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42552525/0/9d164c067e9b677beb8be55e861ff0af.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 573,
+      "reviewCountFmt": "리뷰 573건",
+      "priceText": "₩₩₩ · 1박 약 104만원",
+      "walkMin": 40,
+      "refLabel": "Mujeres Beach",
+      "star": 5,
+      "propertyId": 42552525,
+      "geo": {
+        "lat": 21.295889,
+        "lng": -86.813469
+      },
+      "priceKRW": 1044361,
+      "priceStatus": "조회됨",
+      "distanceM": 3174.74,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 573건. Mujeres Beach까지 도보 40분, ₩₩₩ · 1박 약 104만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 104만원",
+        "📝 리뷰 573건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location was great with barely any Sargassum.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "From food to rooms it’s luxury!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend this resort to everyone!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Easy to get seats, fantastic quality.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The attention to detail was amazing.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:55:33.218Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:55:33.218Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "slug": "honeymoon-paris",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "파리",
+  "citySlug": "paris",
+  "cityId": 15470,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=15470",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[파리] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 파리 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 36%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>호텔 드 크리용</b>입니다 (평점 9.4 · 리뷰 66건 · 1박 약 286만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 11,
+        "pct": 39
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 36
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 18
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/104377336.jpg?k=da0eb1611f46976483f96f50b1ec7a5926f8e9f4352114c6149ea6911bf3a1f7&o=",
+  "heroAlt": "파리 허니문 최고급 숙소",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 드 크리용 (Hotel de Crillon)",
+      "agodaUrl": "https://www.agoda.com/hotel-de-crillon_2/hotel/all/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/104377336.jpg?k=da0eb1611f46976483f96f50b1ec7a5926f8e9f4352114c6149ea6911bf3a1f7&o=",
+      "score": 9.4,
+      "reviewCount": 66,
+      "reviewCountFmt": "리뷰 66건",
+      "priceText": "₩₩₩ · 1박 약 286만원",
+      "walkMin": 2,
+      "refLabel": "콩코드역",
+      "star": 5,
+      "propertyId": 2482550,
+      "geo": {
+        "lat": 48.867069,
+        "lng": 2.3214
+      },
+      "priceKRW": 2862690,
+      "priceStatus": "조회됨",
+      "distanceM": 179.07,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "뤽상부르 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 66건. 콩코드역까지 도보 2분, ₩₩₩ · 1박 약 286만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 286만원",
+        "📝 리뷰 66건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The only place to stay in Paris, amazing hotel.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Great Hotel,Great staff!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "The public rooms are stunning.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Lovely pool and spa.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Bathrooms lovely.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "호텔 더 페닌슐라 파리 (Hotel The Peninsula Paris)",
+      "agodaUrl": "https://www.agoda.com/ha-tel-the-peninsula-paris/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/661822699.jpg?k=50b3cc74228c88a488b6fddba94ce0271c625dec2973be9ae5c6a00937cc6c1a&o=",
+      "score": 9.3,
+      "reviewCount": 600,
+      "reviewCountFmt": "리뷰 600건",
+      "priceText": "₩₩₩ · 1박 약 264만원",
+      "walkMin": 1,
+      "refLabel": "클레베역",
+      "star": 5,
+      "propertyId": 13823116,
+      "geo": {
+        "lat": 48.871059,
+        "lng": 2.29329
+      },
+      "priceKRW": 2643133,
+      "priceStatus": "조회됨",
+      "distanceM": 67.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원"
+      ],
+      "blurb": "평점 9.3 · 리뷰 600건. 클레베역까지 도보 1분, ₩₩₩ · 1박 약 264만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 264만원",
+        "📝 리뷰 600건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would really come back if I am ever in Paris again.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Very nice, great location, and friendly staff.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent location and safety choice ever",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "For me the best Hotel in Paris",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Second 5 star service and safety choice!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "디즈니랜드® 호텔 (Disneyland® Hotel)",
+      "agodaUrl": "https://www.agoda.com/disneyland-hotel_16/hotel/all/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/571810091.jpg?k=d5c668f695a04853b9b681f6310711cc8b817c5c074e1ec94cdad9e6c3a8420c&o=",
+      "score": 8.9,
+      "reviewCount": 62,
+      "reviewCountFmt": "리뷰 62건",
+      "priceText": "₩₩₩ · 1박 약 230만원",
+      "walkMin": 7,
+      "refLabel": "Frontierland Depot",
+      "star": 5,
+      "propertyId": 7591520,
+      "geo": {
+        "lat": 48.870159,
+        "lng": 2.779855
+      },
+      "priceKRW": 2299021,
+      "priceStatus": "조회됨",
+      "distanceM": 564.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 62건. Frontierland Depot까지 도보 7분, ₩₩₩ · 1박 약 230만원.",
+      "metaTags": [
+        "💰 1박 약 230만원",
+        "📝 리뷰 62건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We will recommend it for everyone",
+          "score": "8.8",
+          "country": "台灣",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Superb Hotel to stay.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended!!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful Hotel",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Wonderful stay!",
+          "score": "9.6",
+          "country": "Saudi Arabia",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "샹그릴라 호텔 파리 (Shangri-La Hotel, Paris)",
+      "agodaUrl": "https://www.agoda.com/shangri-la-hotel-paris_3/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/887922554.jpg?k=80514960899c77308b21ca503f5dede968ead28b566b783105f004f2e4c2c32c&o=",
+      "score": 9.4,
+      "reviewCount": 285,
+      "reviewCountFmt": "리뷰 285건",
+      "priceText": "₩₩₩ · 1박 약 246만원",
+      "walkMin": 1,
+      "refLabel": "예나역",
+      "star": 5,
+      "propertyId": 13836152,
+      "geo": {
+        "lat": 48.863972,
+        "lng": 2.2933
+      },
+      "priceKRW": 2458868,
+      "priceStatus": "조회됨",
+      "distanceM": 109.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원"
+      ],
+      "blurb": "평점 9.4 · 리뷰 285건. 예나역까지 도보 1분, ₩₩₩ · 1박 약 246만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 246만원",
+        "📝 리뷰 285건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.1
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The luxurious room offered stunning Eiffel Tower views,",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The hotel just maker my trip complete perfect.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staff responded very promptly and were very helpful.",
+          "score": "7.2",
+          "country": "Thailand",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Shangri-La Paris exceeded all expectations.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Great view of Eiffel from terrace",
+          "score": "7.2",
+          "country": "Thailand",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "만다린 오리엔탈 파리 (Mandarin Oriental, Paris)",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-paris_10/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/579804529.jpg?k=62a2152b17c7024a82c16a60af643325aaef85e3bd42d19e736747c293d32328&o=",
+      "score": 9,
+      "reviewCount": 191,
+      "reviewCountFmt": "리뷰 191건",
+      "priceText": "₩₩₩ · 1박 약 204만원",
+      "walkMin": 4,
+      "refLabel": "마들렌역",
+      "star": 5,
+      "propertyId": 3849634,
+      "geo": {
+        "lat": 48.867241,
+        "lng": 2.32682
+      },
+      "priceKRW": 2035196,
+      "priceStatus": "조회됨",
+      "distanceM": 334.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 191건. 마들렌역까지 도보 4분, ₩₩₩ · 1박 약 204만원.",
+      "metaTags": [
+        "💰 1박 약 204만원",
+        "📝 리뷰 191건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff was friendly and accommodating.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "This hotel was 😍",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "So beautiful !!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Great location.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "르 로얄 몽소 호텔 래플스 파리 (Le Royal Monceau Hotel Raffles Paris)",
+      "agodaUrl": "https://www.agoda.com/le-royal-monceau-hotel-raffles-paris/hotel/paris-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/242957/0/ea5f6a1561a3c5b3aaa0bc4893ee0034.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 238,
+      "reviewCountFmt": "리뷰 238건",
+      "priceText": "₩₩₩ · 1박 약 184만원",
+      "walkMin": 4,
+      "refLabel": "테른역",
+      "star": 5,
+      "propertyId": 242957,
+      "geo": {
+        "lat": 48.875835,
+        "lng": 2.300412
+      },
+      "priceKRW": 1841085,
+      "priceStatus": "조회됨",
+      "distanceM": 294.08,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "뤽상부르 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 238건. 테른역까지 도보 4분, ₩₩₩ · 1박 약 184만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 184만원",
+        "📝 리뷰 238건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Tom was also very courteous and helpful at the reception.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "I will come back.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Excellent Stay",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T23:53:17.269Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T23:53:17.269Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
