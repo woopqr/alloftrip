@@ -14,7 +14,7 @@
   "metaDescription": "2026년 11월 몰디브 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
   "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
   "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
-  "verdict": "이 숙소들의 리뷰 중 약 100%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>W 몰디브</b>입니다 (평점 9.4 · 리뷰 127건 · 1박 약 415만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 100%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>W 몰디브</b>입니다 (평점 9.4 · 리뷰 127건 · 1박 약 440만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
   "aggregate": {
     "total": 15,
     "distribution": [
@@ -26,19 +26,19 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/790/79099/79099_19012210410071569049.jpg?ca=13&ce=1",
+  "heroImg": "https://pix8.agoda.net/hotelImages/790/79099/79099_19012210410071569049.jpg?va=1&ca=13&ce=1",
   "heroAlt": "몰디브 허니문 최고급 숙소",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
       "name": "W 몰디브 (W Maldives)",
       "agodaUrl": "https://www.agoda.com/w-maldives/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/790/79099/79099_19012210410071569049.jpg?ca=13&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/790/79099/79099_19012210410071569049.jpg?va=1&ca=13&ce=1",
       "score": 9.4,
       "reviewCount": 127,
       "reviewCountFmt": "리뷰 127건",
-      "priceText": "₩₩₩ · 1박 약 415만원",
+      "priceText": "₩₩₩ · 1박 약 440만원",
       "walkMin": null,
       "refLabel": "중심가",
       "star": 5,
@@ -47,7 +47,7 @@
         "lat": 4.007253,
         "lng": 72.810684
       },
-      "priceKRW": 4149671,
+      "priceKRW": 4397484,
       "priceStatus": "조회됨",
       "distanceM": null,
       "locationStatus": "위치 상세 확인 필요",
@@ -59,9 +59,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.4 · 리뷰 127건. ₩₩₩ · 1박 약 415만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.4 · 리뷰 127건. ₩₩₩ · 1박 약 440만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 415만원",
+        "💰 1박 약 440만원",
         "📝 리뷰 127건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -130,11 +130,11 @@
       "rank": 2,
       "name": "소네바 푸시 (Soneva Fushi)",
       "agodaUrl": "https://www.agoda.com/soneva-fushi/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/12164/-1/74fa28286e732513983739b21bfb124e.jpg?ca=13&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/12164/-1/74fa28286e732513983739b21bfb124e.jpg?va=1&ca=13&ce=1",
       "score": 9.5,
       "reviewCount": 49,
       "reviewCountFmt": "리뷰 49건",
-      "priceText": "₩₩₩ · 1박 약 433만원",
+      "priceText": "₩₩₩ · 1박 약 452만원",
       "walkMin": 7,
       "refLabel": "Dolphin Beach",
       "star": 5,
@@ -143,7 +143,7 @@
         "lat": 5.11283,
         "lng": 73.078308
       },
-      "priceKRW": 4332403,
+      "priceKRW": 4517065,
       "priceStatus": "조회됨",
       "distanceM": 591.05,
       "locationStatus": "조회됨",
@@ -158,9 +158,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.5 · 리뷰 49건. Dolphin Beach까지 도보 7분, ₩₩₩ · 1박 약 433만원.",
+      "blurb": "평점 9.5 · 리뷰 49건. Dolphin Beach까지 도보 7분, ₩₩₩ · 1박 약 452만원.",
       "metaTags": [
-        "💰 1박 약 433만원",
+        "💰 1박 약 452만원",
         "📝 리뷰 49건",
         "⭐ 5성급"
       ],
@@ -178,13 +178,64 @@
     },
     {
       "rank": 3,
+      "name": "COMO 말리푸시 (COMO Maalifushi)",
+      "agodaUrl": "https://www.agoda.com/como-maalifushi/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/371355321.jpg?k=d857dba710e4e753b483a16f1895a7daa6004ba0d10a30940ec16b6bb75248ae&o=",
+      "score": 9.7,
+      "reviewCount": 95,
+      "reviewCountFmt": "리뷰 95건",
+      "priceText": "₩₩₩ · 1박 약 418만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 529297,
+      "geo": {
+        "lat": 2.30985,
+        "lng": 73.298119
+      },
+      "priceKRW": 4184463,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.7 · 리뷰 95건. ₩₩₩ · 1박 약 418만원.",
+      "metaTags": [
+        "💰 1박 약 418만원",
+        "📝 리뷰 95건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "location",
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 75,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 4,
       "name": "소네바 자니 (Soneva Jani)",
       "agodaUrl": "https://www.agoda.com/soneva-jani/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1255203/-1/1e198018b0224355b7db1ce00d40ceaf.jpg?ca=17&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/1255203/-1/1e198018b0224355b7db1ce00d40ceaf.jpg?va=1&ca=17&ce=1",
       "score": 8.9,
       "reviewCount": 34,
       "reviewCountFmt": "리뷰 34건",
-      "priceText": "₩₩₩ · 1박 약 402만원",
+      "priceText": "₩₩₩ · 1박 약 405만원",
       "walkMin": 64,
       "refLabel": "Manadhoo Beach",
       "star": 5,
@@ -193,7 +244,7 @@
         "lat": 5.713871,
         "lng": 73.41581
       },
-      "priceKRW": 4022189,
+      "priceKRW": 4046072,
       "priceStatus": "조회됨",
       "distanceM": 5116.1,
       "locationStatus": "조회됨",
@@ -208,9 +259,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 8.9 · 리뷰 34건. Manadhoo Beach까지 도보 64분, ₩₩₩ · 1박 약 402만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 8.9 · 리뷰 34건. Manadhoo Beach까지 도보 64분, ₩₩₩ · 1박 약 405만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 402만원",
+        "💰 1박 약 405만원",
         "📝 리뷰 34건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -274,65 +325,14 @@
       }
     },
     {
-      "rank": 4,
-      "name": "COMO 말리푸시 (COMO Maalifushi)",
-      "agodaUrl": "https://www.agoda.com/como-maalifushi/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/371355321.jpg?k=d857dba710e4e753b483a16f1895a7daa6004ba0d10a30940ec16b6bb75248ae&o=",
-      "score": 9.7,
-      "reviewCount": 95,
-      "reviewCountFmt": "리뷰 95건",
-      "priceText": "₩₩₩ · 1박 약 410만원",
-      "walkMin": null,
-      "refLabel": "중심가",
-      "star": 5,
-      "propertyId": 529297,
-      "geo": {
-        "lat": 2.30985,
-        "lng": 73.298119
-      },
-      "priceKRW": 4097208,
-      "priceStatus": "조회됨",
-      "distanceM": null,
-      "locationStatus": "위치 상세 확인 필요",
-      "facilities": [
-        "수영장",
-        "공항 이동 교통편 서비스",
-        "사우나",
-        "체육관/피트니스",
-        "Wi-Fi (무료)",
-        "개폐식 창문",
-        "발코니/테라스",
-        "책상",
-        "전용 수영장"
-      ],
-      "blurb": "평점 9.7 · 리뷰 95건. ₩₩₩ · 1박 약 410만원.",
-      "metaTags": [
-        "💰 1박 약 410만원",
-        "📝 리뷰 95건",
-        "⭐ 5성급"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "location",
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 75,
-        "priceStatus": "confirmed",
-        "locationStatus": "unavailable"
-      }
-    },
-    {
       "rank": 5,
       "name": "더 할시온 프라이빗 아일스 몰디브, 오토그래프 컬렉션 (The Halcyon Private Isles Maldives, Autograph Collection)",
       "agodaUrl": "https://www.agoda.com/the-halcyon-private-isles-maldives-autograph-collection-h256734/hotel/maldive-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/256734/0/0c6c0a111f5407275a3fd71765532d5a.jpg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/256734/0/0c6c0a111f5407275a3fd71765532d5a.jpg?va=1&ce=3",
       "score": 9.3,
       "reviewCount": 58,
       "reviewCountFmt": "리뷰 58건",
-      "priceText": "₩₩₩ · 1박 약 402만원",
+      "priceText": "₩₩₩ · 1박 약 401만원",
       "walkMin": null,
       "refLabel": "중심가",
       "star": 5,
@@ -341,7 +341,7 @@
         "lat": 0.586385,
         "lng": 73.093414
       },
-      "priceKRW": 4021334,
+      "priceKRW": 4011108,
       "priceStatus": "조회됨",
       "distanceM": null,
       "locationStatus": "위치 상세 확인 필요",
@@ -353,9 +353,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.3 · 리뷰 58건. ₩₩₩ · 1박 약 402만원.",
+      "blurb": "평점 9.3 · 리뷰 58건. ₩₩₩ · 1박 약 401만원.",
       "metaTags": [
-        "💰 1박 약 402만원",
+        "💰 1박 약 401만원",
         "📝 리뷰 58건",
         "⭐ 5성급"
       ],
@@ -376,11 +376,11 @@
       "rank": 6,
       "name": "후바펜 푸시 몰디브 (Huvafen Fushi Maldives)",
       "agodaUrl": "https://www.agoda.com/huvafen-fushi-maldives/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/70351/-1/7f67db9e72e714b1ed4d87992eb83629.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/70351/-1/7f67db9e72e714b1ed4d87992eb83629.jpg?va=1&ce=0",
       "score": 9.4,
       "reviewCount": 206,
       "reviewCountFmt": "리뷰 206건",
-      "priceText": "₩₩₩ · 1박 약 339만원",
+      "priceText": "₩₩₩ · 1박 약 340만원",
       "walkMin": 85,
       "refLabel": "Bodu Hithi Beach",
       "star": 5,
@@ -389,7 +389,7 @@
         "lat": 4.368213,
         "lng": 73.37014
       },
-      "priceKRW": 3387423,
+      "priceKRW": 3404726,
       "priceStatus": "조회됨",
       "distanceM": 6839.31,
       "locationStatus": "조회됨",
@@ -404,9 +404,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9.4 · 리뷰 206건. Bodu Hithi Beach까지 도보 85분, ₩₩₩ · 1박 약 339만원. 연인·커플 리뷰 비중 100%.",
+      "blurb": "평점 9.4 · 리뷰 206건. Bodu Hithi Beach까지 도보 85분, ₩₩₩ · 1박 약 340만원. 연인·커플 리뷰 비중 100%.",
       "metaTags": [
-        "💰 1박 약 339만원",
+        "💰 1박 약 340만원",
         "📝 리뷰 206건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -472,16 +472,16 @@
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-06T05:54:16.439Z",
+    "fetchedAt": "2026-10-07T10:41:53.437Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T05:54:16.439Z",
+    "fetchedAt": "2026-10-07T10:41:53.437Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

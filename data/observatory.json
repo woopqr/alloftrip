@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 4,
+  "cursor": 5,
   "observations": [
     {
       "city": "몰디브",
@@ -515,6 +515,135 @@
           "priceKRW": 486752,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/mondrian-cancun-h50565376/hotel/cancun-mx.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "홍콩",
+      "citySlug": "hongkong",
+      "cityId": 16808,
+      "observedAt": "2026-10-07T10:41:54.425Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "216104",
+          "name": "어퍼 하우스 홍콩 (Upper House Hong Kong)",
+          "priceKRW": 1764803,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-upper-house/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "3849627",
+          "name": "만다린 오리엔탈 더 랜드마크 홍콩 (Mandarin Oriental The Landmark, Hong Kong)",
+          "priceKRW": 1618663,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/landmark-mandarin-oriental-hong-kong_2/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "17209693",
+          "name": "Rosewood Hong Kong",
+          "priceKRW": 1649562,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rosewood-hong-kong-h17209693/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "68042",
+          "name": "포시즌스 호텔 홍콩 (Four Seasons Hotel Hong Kong)",
+          "priceKRW": 1522314,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "3849632",
+          "name": "만다린 오리엔탈 홍콩 (Mandarin Oriental, Hong Kong)",
+          "priceKRW": 1361821,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-hong-kong_10/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "9729",
+          "name": "더 페닌슐라 홍콩 (The Peninsula Hong Kong)",
+          "priceKRW": 1164268,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-peninsula-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "2730",
+          "name": "리젠트 홍콩 바이 IHG (Regent Hong Kong By IHG)",
+          "priceKRW": 1006847,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/regent-hong-kong_7/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "6410796",
+          "name": "K11 아터스 (K11 ARTUS)",
+          "priceKRW": 987186,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/k11-artus_2/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "1516",
+          "name": "리츠칼튼, 홍콩 (The Ritz-Carlton, Hong Kong)",
+          "priceKRW": 936512,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "2728001",
+          "name": "더 머레이, 홍콩, 어 니콜로 호텔 (The Murray, Hong Kong, a Niccolo Hotel)",
+          "priceKRW": 818966,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-murray-hong-kong-a-niccolo-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "6907351",
+          "name": "더 세인트 레지스 홍콩 (The St. Regis Hong Kong)",
+          "priceKRW": 780427,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-st-regis-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "4030",
+          "name": "아일랜드 샹그릴라, 홍콩 (Island Shangri-La, Hong Kong)",
+          "priceKRW": 751522,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/island-shangri-la-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "5913",
+          "name": "그랜드 하얏트 홍콩 (Grand Hyatt Hong Kong)",
+          "priceKRW": 635190,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-hyatt-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "5263",
+          "name": "콘래드 홍콩 (Conrad Hong Kong)",
+          "priceKRW": 601868,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/conrad-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "1916",
+          "name": "JW 메리어트 호텔 홍콩 (JW Marriott Hotel Hong Kong)",
+          "priceKRW": 586187,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jw-marriott-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "2183",
+          "name": "르네상스 홍콩 하버 뷰 호텔 (Renaissance Hong Kong Harbour View Hotel)",
+          "priceKRW": 481745,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/renaissance-hong-kong-harbour-view-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "7312",
+          "name": "더 미라 홍콩 (The Mira Hong Kong)",
+          "priceKRW": 346254,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-mira-hong-kong_8/hotel/hong-kong-hk.html?cid=1925461"
         }
       ]
     }

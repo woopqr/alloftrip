@@ -1,0 +1,542 @@
+{
+  "slug": "ultra-seychelles",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "세이셸",
+  "citySlug": "seychelles",
+  "cityId": 669661,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=669661",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[세이셸] 가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+  "metaDescription": "2026년 11월 세이셸 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 71%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>아난타라 마이아 세이셸즈 빌라스</b>입니다 (평점 9.5 · 리뷰 169건 · 1박 약 412만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 17,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 12,
+        "pct": 71
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 5,
+        "pct": 29
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/199059/0/d5362ea15fa6ececf74acb67b5cef7bd.jpg?ce=3",
+  "heroAlt": "세이셸 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아난타라 마이아 세이셸즈 빌라스 (Anantara Maia Seychelles Villas)",
+      "agodaUrl": "https://www.agoda.com/maia-luxury-resort-and-spa/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/199059/0/d5362ea15fa6ececf74acb67b5cef7bd.jpg?ce=3",
+      "score": 9.5,
+      "reviewCount": 169,
+      "reviewCountFmt": "리뷰 169건",
+      "priceText": "₩₩₩ · 1박 약 412만원",
+      "walkMin": 98,
+      "refLabel": "몬 블랑",
+      "star": 5,
+      "propertyId": 199059,
+      "geo": {
+        "lat": -4.716896,
+        "lng": 55.479498
+      },
+      "priceKRW": 4119184,
+      "priceStatus": "조회됨",
+      "distanceM": 7830.61,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 169건. 몬 블랑까지 도보 98분, ₩₩₩ · 1박 약 412만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 412만원",
+        "📝 리뷰 169건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The villa was extraordinary with amazing view of the beach.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The beach is clean and not crowded.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Amazing stay",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Definitely recommended.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Everything was great.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "포시즌 리조트 세이셸  (Four Seasons Resort Seychelles)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765555032.jpg?k=ff8d48e8b96381d8b101349d219837af378f13737270a68c90d1327cae632437&o=",
+      "score": 9.4,
+      "reviewCount": 250,
+      "reviewCountFmt": "리뷰 250건",
+      "priceText": "₩₩₩ · 1박 약 324만원",
+      "walkMin": 63,
+      "refLabel": "앙스 앙탕당스",
+      "star": 5,
+      "propertyId": 182766,
+      "geo": {
+        "lat": -4.754653,
+        "lng": 55.465775
+      },
+      "priceKRW": 3239935,
+      "priceStatus": "조회됨",
+      "distanceM": 5047.58,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 250건. 앙스 앙탕당스까지 도보 63분, ₩₩₩ · 1박 약 324만원. 연인·커플 리뷰 비중 50%.",
+      "metaTags": [
+        "💰 1박 약 324만원",
+        "📝 리뷰 250건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 50,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 50,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best resorts we have ever been….",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Amazing stay .. loved the room and the vibes",
+          "score": "8.8",
+          "country": "United Arab Emirates",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Raffles Seychelles",
+      "agodaUrl": "https://www.agoda.com/raffles-praslin-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/285373/0/30d0fa5a0632553930e133da96f5e93c.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 198,
+      "reviewCountFmt": "리뷰 198건",
+      "priceText": "₩₩₩ · 1박 약 286만원",
+      "walkMin": 27,
+      "refLabel": "앙스 라지오 비치",
+      "star": 5,
+      "propertyId": 285373,
+      "geo": {
+        "lat": -4.30602,
+        "lng": 55.717022
+      },
+      "priceKRW": 2862925,
+      "priceStatus": "조회됨",
+      "distanceM": 2171.37,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "앙스 라지오 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 198건. 앙스 라지오 비치까지 도보 27분, ₩₩₩ · 1박 약 286만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 286만원",
+        "📝 리뷰 198건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "From the staff to the room everything was amazing.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Furthermore, the bed was exceptionally relaxing!",
+          "score": "8",
+          "country": "Egypt",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Definitely, one should go for it if they can!",
+          "score": "8",
+          "country": "Egypt",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "This hotel is as beautiful as Seychelles.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Very good property, best services and best food",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Denis Private Island Seychelles",
+      "agodaUrl": "https://www.agoda.com/denis-private-island-seychelles_2/hotel/all/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/90042263.jpg?k=9fee6d7a6d86b401e8b5c2f32990d53e2d6e805e744f14142850962f6d5765b3&o=",
+      "score": 9.6,
+      "reviewCount": 79,
+      "reviewCountFmt": "리뷰 79건",
+      "priceText": "₩₩₩ · 1박 약 273만원",
+      "walkMin": 1,
+      "refLabel": "Denis Private Island Beach",
+      "star": 5,
+      "propertyId": 7415495,
+      "geo": {
+        "lat": -3.8009,
+        "lng": 55.66386
+      },
+      "priceKRW": 2734822,
+      "priceStatus": "조회됨",
+      "distanceM": 79.37,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.6 · 리뷰 79건. Denis Private Island Beach까지 도보 1분, ₩₩₩ · 1박 약 273만원.",
+      "metaTags": [
+        "💰 1박 약 273만원",
+        "📝 리뷰 79건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "포 시즌스 리조트 세이셸 앳 데로시 아일랜드 (Four Seasons Resort Seychelles at Desroches Island)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles-at-desroches-island/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5547511/-1/9af7f8956d24caa9248ba051a295e787.jpg?ca=7&ce=1",
+      "score": 9.5,
+      "reviewCount": 95,
+      "reviewCountFmt": "리뷰 95건",
+      "priceText": "₩₩₩ · 1박 약 216만원",
+      "walkMin": 2,
+      "refLabel": "Desroches Island Beach",
+      "star": 5,
+      "propertyId": 5547511,
+      "geo": {
+        "lat": -5.697267,
+        "lng": 53.651195
+      },
+      "priceKRW": 2155732,
+      "priceStatus": "조회됨",
+      "distanceM": 175.82,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 95건. Desroches Island Beach까지 도보 2분, ₩₩₩ · 1박 약 216만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 216만원",
+        "📝 리뷰 95건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Food at all the restaurants great and staff brilliant.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The island and hotel is absolutely stunning.",
+          "score": "10",
+          "country": "Botswana",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "I wish I could give this resort an 11 out of 10.",
+          "score": "10",
+          "country": "Botswana",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Thank you FS Desroches Island.",
+          "score": "10",
+          "country": "Botswana",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Island paradise",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Waldorf Astoria Seychelles Platte Island",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-seychelles-platte-island/hotel/default-city-km.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/39797457/0/91fd085ea5a787f59f4657d8e6b193dd.jpeg?ce=0",
+      "score": 9.7,
+      "reviewCount": 57,
+      "reviewCountFmt": "리뷰 57건",
+      "priceText": "₩₩₩ · 1박 약 224만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 55175108,
+      "geo": {
+        "lat": -5.863472,
+        "lng": 55.38258
+      },
+      "priceKRW": 2241348,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.7 · 리뷰 57건. ₩₩₩ · 1박 약 224만원.",
+      "metaTags": [
+        "💰 1박 약 224만원",
+        "📝 리뷰 57건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "location",
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 75,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T10:41:43.248Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T10:41:43.248Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Denis Private Island Seychelles: reviewSample",
+        "Waldorf Astoria Seychelles Platte Island: location, reviewSample"
+      ]
+    }
+  }
+}
