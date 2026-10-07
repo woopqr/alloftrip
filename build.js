@@ -179,6 +179,8 @@ function buildContext(data) {
   return {
     ...data, title, metaDescription, site: SITE, hotels,
     local: localCtx, hasLocalFood: !!localCtx?.hasFood, hasLocalSpots: !!localCtx?.hasSpots,
+    ...(() => { try { const c = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/catalog', data.citySlug + '.json'), 'utf8')); const n = (c.hotels || []).filter(h => h.score >= 8).length;
+      return n >= 3 ? { directoryUrl: `/articles/luxury-hotels-${data.citySlug}`, directoryCount: n } : {}; } catch (_) { return {}; } })(),
     intro: uniqueIntro(data),
     hasAggregate: !!data.aggregate,
     aggregateChartHtml: aggregateChart(data.aggregate, themeKey),

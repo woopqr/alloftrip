@@ -22,7 +22,7 @@ const BASE = `https://${SITE.domain}`;
 // '국내 특별 여행지'(domestic)는 자동 테마가 아닌 에디토리얼 기획 카테고리로 맨 앞에 노출.
 const SPECIALS = path.join(ROOT, 'data/specials');
 const MAGAZINE = path.join(ROOT, 'data/magazine');
-const CATS = [{ id: 'hotlist', label: '럭셔리 핫리스트', emoji: '🏆' }, { id: 'news', label: '럭셔리 트래블 뉴스', emoji: '📰' }, { id: 'insider', label: '럭셔리 여행 가이드', emoji: '📖' }, { id: 'celebrity', label: '셀럽 & 스크린', emoji: '🎬' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
+const CATS = [{ id: 'hotlist', label: '럭셔리 핫리스트', emoji: '🏆' }, { id: 'directory', label: '도시별 5성급 총람', emoji: '🗂️' }, { id: 'news', label: '럭셔리 트래블 뉴스', emoji: '📰' }, { id: 'insider', label: '럭셔리 여행 가이드', emoji: '📖' }, { id: 'celebrity', label: '셀럽 & 스크린', emoji: '🎬' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
 
 // 특별기획 글은 이미지가 없으므로 지역명 타이포 카드(SVG data-URI)를 썸네일로 사용
 function specialCardImg(region) {
@@ -193,7 +193,7 @@ function regenAll(metas) {
 
   // 홈(전체 최신 피드)
   // 홈: 핫리스트는 세계 TOP 50만(지역·브랜드 페이지는 카테고리에서)
-  const homeMetas = metas.filter(m => m.theme !== 'hotlist' || m.slug === 'luxury-hotlist-world');
+  const homeMetas = metas.filter(m => (m.theme !== 'hotlist' || m.slug === 'luxury-hotlist-world') && m.theme !== 'directory');
   const homePages = writePages(shell, { kind: 'home', base: '/', metas: homeMetas }, activeCats);
 
   // 카테고리별
@@ -247,7 +247,9 @@ function rebuildAll() {
   const { render } = require('./build');
   const hot = require('./lib/hotlist').buildHotlists({ render, site: SITE, regions: JSON.parse(fs.readFileSync(path.join(ROOT, 'data/regions.json'), 'utf8')) })
     .sort((a, b) => String(a.sortKey).localeCompare(String(b.sortKey)));
-  const metas = [...hot.filter(m => m.slug === 'luxury-hotlist-world'), ...specials, ...magazineMetas(), ...hot.filter(m => m.slug !== 'luxury-hotlist-world'), ...articleMetas()];
+  const dirs = require('./lib/hotlist').buildDirectories({ render, site: SITE, regions: JSON.parse(fs.readFileSync(path.join(ROOT, 'data/regions.json'), 'utf8')), cities: JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8')) })
+    .sort((a, b) => b.count - a.count);
+  const metas = [...hot.filter(m => m.slug === 'luxury-hotlist-world'), ...specials, ...magazineMetas(), ...hot.filter(m => m.slug !== 'luxury-hotlist-world'), ...dirs, ...articleMetas()];
   const info = regenAll(metas);
   regenSearchIndex(metas);
   regenSitemap(metas, info);

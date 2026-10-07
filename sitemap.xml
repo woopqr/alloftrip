@@ -17,6 +17,10 @@
   <url><loc>https://alloftrip.com/category/hotlist</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://alloftrip.com/category/hotlist/2</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
   <url><loc>https://alloftrip.com/category/hotlist/3</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://alloftrip.com/category/directory</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://alloftrip.com/category/directory/2</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://alloftrip.com/category/directory/3</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://alloftrip.com/category/directory/4</loc><lastmod>2026-10-07</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
   <url><loc>https://alloftrip.com/category/news</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://alloftrip.com/category/insider</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://alloftrip.com/category/ultra</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -73,6 +77,45 @@
   <url><loc>https://alloftrip.com/articles/luxury-brand-six-senses</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/luxury-brand-ritz-carlton-reserve</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/luxury-brand-soneva</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-london</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-maldives</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-paris</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-phuket</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-tokyo</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-bangkok</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-singapore</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-doha</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-rome</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-sydney</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-hongkong</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-kyoto</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-abu-dhabi</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-new-york</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-barcelona</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-koh-samui</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-cancun</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-dubai</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-mauritius</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-galle</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-macau</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-danang</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-phu-quoc</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-bali</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-seychelles</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-hakone</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-tulum</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-krabi</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-langkawi</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-santorini</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-ras-al-khaimah</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-honolulu</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-nice</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-guam</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-niseko</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-bora-bora</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-los-cabos</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-okinawa</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/luxury-hotels-maui-wailea</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/anniversary-seychelles</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/honeymoon-bali</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/honeymoon-maldives</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>

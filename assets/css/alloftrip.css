@@ -144,3 +144,4 @@ footer{border-top:3px solid var(--ink)}
 .hl-links a{color:var(--text);text-decoration:underline;text-underline-offset:3px}
 .hl-links a.hl-cta{background:var(--ink);color:var(--bg);text-decoration:none;padding:7px 12px;font-weight:700}
 @media(max-width:640px){.hl-item{grid-template-columns:44px 1fr}.hl-img{grid-column:2}.hl-body{grid-column:2}.hl-no{font-size:1.8rem}}
+.dirlink{margin:28px 0;padding:14px 0;border-top:2px solid var(--ink);border-bottom:1px solid var(--ink);font-family:var(--serif);font-weight:700}.dirlink a{color:var(--text);text-decoration:none}.dirlink a:hover{color:var(--accent)}
