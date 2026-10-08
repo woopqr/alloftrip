@@ -1,0 +1,660 @@
+{
+  "slug": "anniversary-hakone",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "하코네",
+  "citySlug": "hakone",
+  "cityId": 79849,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=79849",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[하코네] 결혼기념일을 위한 최고급 호텔 & 스위트",
+  "metaDescription": "2026년 11월 하코네 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 55%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>하코네 히수이 호텔</b>입니다 (평점 9 · 리뷰 83건 · 1박 약 61만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 29,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 16,
+        "pct": 55
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 8,
+        "pct": 28
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 14
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/847874/0/284a3ab2de5e715454f4633850b84176.jpeg?va=1&ce=0",
+  "heroAlt": "하코네 기념일 여행 최고급 숙소",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하코네 히수이 호텔 (Hakone Hisui Hotel)",
+      "agodaUrl": "https://www.agoda.com/hakone-hisui-hotel/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/847874/0/284a3ab2de5e715454f4633850b84176.jpeg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 83,
+      "reviewCountFmt": "리뷰 83건",
+      "priceText": "₩₩ · 1박 약 61만원",
+      "walkMin": 3,
+      "refLabel": "센고쿠하라 분카센터 마에 버스정류장",
+      "star": 5,
+      "propertyId": 847874,
+      "geo": {
+        "lat": 35.26813,
+        "lng": 139.009448
+      },
+      "priceKRW": 612981,
+      "priceStatus": "조회됨",
+      "distanceM": 239.8,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "오카다 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 83건. 센고쿠하라 분카센터 마에 버스정류장까지 도보 3분, ₩₩ · 1박 약 61만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 61만원",
+        "📝 리뷰 83건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 100,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 매우 크고 온천 경험은 훌륭합니다!",
+          "score": "8",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "호텔에는 멋진 전망과 정말 좋은 레스토랑이 있습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 훌륭한 경험.",
+          "score": "8",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "추천합니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Hakone Honbako 箱根本箱",
+      "agodaUrl": "https://www.agoda.com/hakone-honbako/hotel/all/hakone-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/408367841.jpg?k=2746bd34ce253b591a7fbd539f94f94617919edf2d0be255ac1d793a2d11b109&o=",
+      "score": 9.3,
+      "reviewCount": 919,
+      "reviewCountFmt": "리뷰 919건",
+      "priceText": "₩₩₩ · 1박 약 82만원",
+      "walkMin": 5,
+      "refLabel": "나카고라역",
+      "star": 5,
+      "propertyId": 39911984,
+      "geo": {
+        "lat": 35.251122,
+        "lng": 139.038712
+      },
+      "priceKRW": 816892,
+      "priceStatus": "조회됨",
+      "distanceM": 368.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "오카다 미술관"
+      ],
+      "blurb": "평점 9.3 · 리뷰 919건. 나카고라역까지 도보 5분, ₩₩₩ · 1박 약 82만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 82만원",
+        "📝 리뷰 919건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 식사는 내 마음을 감동시키는 이야기였습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "모든 음식은 깨끗하고 신선하며 풍미가 가득했습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하코네 혼바코에 머무는 동안 마치 집에 돌아온 것 같은 느낌이 들었습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "현대와 전통이 조화를 이루는 온천",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "객실에는 전용 온천 욕조가 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "호텔 시키 노 야카타 하코네 아시노코 (Hotel Shiki no Yakata Hakone Ashinoko)",
+      "agodaUrl": "https://www.agoda.com/hotel-shiki-no-yakata-hakone-ashinoko/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37697719/0/1eed4acb746b8fd409a0541bba649884.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 125,
+      "reviewCountFmt": "리뷰 125건",
+      "priceText": "₩₩₩ · 1박 약 72만원",
+      "walkMin": 4,
+      "refLabel": "후타고자야 버스정류장",
+      "star": 5,
+      "propertyId": 37697719,
+      "geo": {
+        "lat": 35.207878,
+        "lng": 139.035248
+      },
+      "priceKRW": 722763,
+      "priceStatus": "조회됨",
+      "distanceM": 325.04,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "Hakone Sekisho and Hakone Sekisho Museum",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 125건. 후타고자야 버스정류장까지 도보 4분, ₩₩₩ · 1박 약 72만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 72만원",
+        "📝 리뷰 125건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 정말 훌륭합니다. 그들은 매우 따뜻하고 친절했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "이것은 우리가 경험한 최고의 호텔 경험 중 하나였습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "전망이 너무 멋졌고 개인 온천이 깨끗하고 뜨거웠습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭했고 머물며 휴식을 취하기에 좋은 곳이었습니다.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "힐튼 오다와라 리조트 앤 스파 (Hilton Odawara Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/hilton-odawara-resort-spa/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/79118/0/468083038b1e8bf3704351721e02df83.jpeg?va=1&ce=3",
+      "score": 8.5,
+      "reviewCount": 1315,
+      "reviewCountFmt": "리뷰 1,315건",
+      "priceText": "₩₩ · 1박 약 36만원",
+      "walkMin": 10,
+      "refLabel": "Nebukawa",
+      "star": 5,
+      "propertyId": 79118,
+      "geo": {
+        "lat": 35.206917,
+        "lng": 139.131317
+      },
+      "priceKRW": 357050,
+      "priceStatus": "조회됨",
+      "distanceM": 823.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 1,315건. Nebukawa까지 도보 10분, ₩₩ · 1박 약 36만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 36만원",
+        "📝 리뷰 1,315건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 시설을 즐기기 위해 더 오래 머물고 싶습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "아침과 저녁 뷔페는 선택의 폭이 넓어 놀랍습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "많은 레크리에이션 시설과 아주 좋은 온천이 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "음식, 서비스 및 기차역까지 가는 버스는 환상적이었습니다!",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 깔끔하고 유틸리티도 매우 좋습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "후지야 호텔 (The Fujiya Hotel )",
+      "agodaUrl": "https://www.agoda.com/fujiya-hotel/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45575/0/8d5a81b0f9e0e5c816429dd8ba5baf9a.jpeg?va=1&ce=2",
+      "score": 9.1,
+      "reviewCount": 3791,
+      "reviewCountFmt": "리뷰 3,791건",
+      "priceText": "₩₩ · 1박 약 46만원",
+      "walkMin": 6,
+      "refLabel": "미야노시타역",
+      "star": 5,
+      "propertyId": 45575,
+      "geo": {
+        "lat": 35.244297,
+        "lng": 139.05896
+      },
+      "priceKRW": 461643,
+      "priceStatus": "조회됨",
+      "distanceM": 447.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "오카다 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 3,791건. 미야노시타역까지 도보 6분, ₩₩ · 1박 약 46만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 46만원",
+        "📝 리뷰 3,791건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "서비스, ​​편의 시설 및 전반적인 경험은 최고 수준입니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "온천은 숨이 막힐 정도로 아름답고 (흠잡을 데 없이) 깨끗합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "그리고 부지와 건축물은 볼거리입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "기대 이상이었고 직원들도 훌륭했습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "아름답게 관리되었으며 직원들은 매우 전문적이었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "놀 하코네 묘진다이 (nol hakone myojindai)",
+      "agodaUrl": "https://www.agoda.com/hotel-harvest-hakone-myojindaira/hotel/kanagawa-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51817295/0/2d0f329dad39117c1aa54dead10e3682.jpeg?va=1",
+      "score": 9.2,
+      "reviewCount": 1342,
+      "reviewCountFmt": "리뷰 1,342건",
+      "priceText": "₩₩ · 1박 약 53만원",
+      "walkMin": 10,
+      "refLabel": "Miyagino Sales Office Bus Stop",
+      "star": 5,
+      "propertyId": 51817295,
+      "geo": {
+        "lat": 35.260784,
+        "lng": 139.049316
+      },
+      "priceKRW": 532535,
+      "priceStatus": "조회됨",
+      "distanceM": 827.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "오카다 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,342건. Miyagino Sales Office Bus Stop까지 도보 10분, ₩₩ · 1박 약 53만원.",
+      "metaTags": [
+        "💰 1박 약 53만원",
+        "📝 리뷰 1,342건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 음식과 수영장을 위해서만 여기에 다시 머물고 싶습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "수영장 밖으로 나가면 냉수풀과 사우나가 있습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 배운 몇 가지 사항을 가지고 도전적으로 다시 머물 것입니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "어린이 식사는 우리가 먹어 본 것 중 최고입니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실에는 훌륭한 전용 온천이 제공됩니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-08T18:09:43.928Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T18:09:43.928Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
