@@ -1,0 +1,653 @@
+{
+  "slug": "ultra-hakone",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "하코네",
+  "citySlug": "hakone",
+  "cityId": 79849,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=79849",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[하코네] 가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+  "metaDescription": "2026년 11월 하코네 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 56%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>가나야 리조트 하코네</b>입니다 (평점 9.2 · 리뷰 133건 · 1박 약 178만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 14,
+        "pct": 56
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 12
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 12
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/43452957/-1/ba24b9b3078e850141125bf6a1a8dbe4.jpg?va=1&ce=0",
+  "heroAlt": "하코네 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "가나야 리조트 하코네 (KANAYA RESORT HAKONE)",
+      "agodaUrl": "https://www.agoda.com/kanaya-resort-hakone_2/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/43452957/-1/ba24b9b3078e850141125bf6a1a8dbe4.jpg?va=1&ce=0",
+      "score": 9.2,
+      "reviewCount": 133,
+      "reviewCountFmt": "리뷰 133건",
+      "priceText": "₩₩₩ · 1박 약 178만원",
+      "walkMin": 12,
+      "refLabel": "Sounzan Funicular Station",
+      "star": 5,
+      "propertyId": 43452957,
+      "geo": {
+        "lat": 35.251072,
+        "lng": 139.026703
+      },
+      "priceKRW": 1776873,
+      "priceStatus": "조회됨",
+      "distanceM": 961.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "오카다 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 133건. Sounzan Funicular Station까지 도보 12분, ₩₩₩ · 1박 약 178만원.",
+      "metaTags": [
+        "💰 1박 약 178만원",
+        "📝 리뷰 133건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Nice and clean hotel, delicious food and good atmosphere.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "All the staffs are very friendly and supportive.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Our group had an excellent stay at this property.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "The one of the best onsen hotel I have stayed",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Once again, the food is amazing and you should try!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "하코네 고와키엔 텐-유 (Hakone Kowakien TEN-YU)",
+      "agodaUrl": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1410571/-1/94d75391104ede15c9972942008b5abb.jpg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 7796,
+      "reviewCountFmt": "리뷰 7,796건",
+      "priceText": "₩₩₩ · 1박 약 128만원",
+      "walkMin": 4,
+      "refLabel": "호라이엔 버스정류장",
+      "star": 5,
+      "propertyId": 1410571,
+      "geo": {
+        "lat": 35.238614,
+        "lng": 139.044416
+      },
+      "priceKRW": 1280119,
+      "priceStatus": "조회됨",
+      "distanceM": 343.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "나루카와 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 7,796건. 호라이엔 버스정류장까지 도보 4분, ₩₩₩ · 1박 약 128만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 128만원",
+        "📝 리뷰 7,796건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Each day they swap them around, so you can experience both.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing hospitality, great onsen, and very relaxing.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Loved the hotel and the garden ! Such a magical experience!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "My favorite perk was the onsen—it was absolutely stunning!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The room and facilities were all very clean and well kept.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "센고쿠바라 코콘 (Sengokubara COCON)",
+      "agodaUrl": "https://www.agoda.com/h46244411/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/89548446/0/24c199658525771fe26c00ee0daaf764.jpg?va=1&ce=3",
+      "score": 9.8,
+      "reviewCount": 49,
+      "reviewCountFmt": "리뷰 49건",
+      "priceText": "₩₩₩ · 1박 약 152만원",
+      "walkMin": 1,
+      "refLabel": "팰리스 호텔 하코네마에 버스정류장",
+      "star": 5,
+      "propertyId": 89548446,
+      "geo": {
+        "lat": 35.2467,
+        "lng": 138.99844
+      },
+      "priceKRW": 1518484,
+      "priceStatus": "조회됨",
+      "distanceM": 92.93,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "오카다 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.8 · 리뷰 49건. 팰리스 호텔 하코네마에 버스정류장까지 도보 1분, ₩₩₩ · 1박 약 152만원.",
+      "metaTags": [
+        "💰 1박 약 152만원",
+        "📝 리뷰 49건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "후키야 료칸 (Fukiya Ryokan)",
+      "agodaUrl": "https://www.agoda.com/fukiya/hotel/kanagawa-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41976405/0/9f7861318bfc9283f638d18bf53d9471.jpg?va=1&ce=0",
+      "score": 9.4,
+      "reviewCount": 111,
+      "reviewCountFmt": "리뷰 111건",
+      "priceText": "₩₩₩ · 1박 약 123만원",
+      "walkMin": 7,
+      "refLabel": "Kouen Iriguchi Bus Station",
+      "star": 5,
+      "propertyId": 41976405,
+      "geo": {
+        "lat": 35.144344,
+        "lng": 139.080109
+      },
+      "priceKRW": 1233349,
+      "priceStatus": "조회됨",
+      "distanceM": 597.99,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 111건. Kouen Iriguchi Bus Station까지 도보 7분, ₩₩₩ · 1박 약 123만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 123만원",
+        "📝 리뷰 111건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff was incredibly attentive and made us feel welcome.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "A Peaceful and Authentic Ryokan Experience",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "A lovely ryokan with open air baths",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Our stay at Fukiya Ryokan was exceptional!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent food and services.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Atami Izusan Karaku ORIX HOTELS & RESORTS",
+      "agodaUrl": "https://www.agoda.com/atami-izusan-karaku-h46623414/hotel/atami-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/65416630/1016353231/7612cabf5e4ed4d8eba7568f31d48875.jpg?va=1&ce=0",
+      "score": 9.1,
+      "reviewCount": 170,
+      "reviewCountFmt": "리뷰 170건",
+      "priceText": "₩₩₩ · 1박 약 94만원",
+      "walkMin": 17,
+      "refLabel": "Atami Station",
+      "star": 5,
+      "propertyId": 65416630,
+      "geo": {
+        "lat": 35.112633,
+        "lng": 139.08675
+      },
+      "priceKRW": 935070,
+      "priceStatus": "조회됨",
+      "distanceM": 1329.17,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "체육관/피트니스",
+        "아타미 선 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 170건. Atami Station까지 도보 17분, ₩₩₩ · 1박 약 94만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 94만원",
+        "📝 리뷰 170건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I had a super good and enjoyable stay here.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Very pleased to come.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent service with nice hotel",
+          "score": "10",
+          "country": "中國澳門",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We had an amazing stay and truly loved every moment.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Service, dinner and breakfast were excellent!",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "하코네 리트리트 빌라 1/f (Hakone Retreat villa 1/f)",
+      "agodaUrl": "https://www.agoda.com/hakone-retreat-villa-1-f_2/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5000565/0/be5d502faffc81221df6d04cf0557fd6.jpg?va=1&ce=2",
+      "score": 9.1,
+      "reviewCount": 964,
+      "reviewCountFmt": "리뷰 964건",
+      "priceText": "₩₩₩ · 1박 약 81만원",
+      "walkMin": 4,
+      "refLabel": "시나노크 버스정류장",
+      "star": 5,
+      "propertyId": 5000565,
+      "geo": {
+        "lat": 35.267525,
+        "lng": 139.019745
+      },
+      "priceKRW": 808071,
+      "priceStatus": "조회됨",
+      "distanceM": 295.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "오카다 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 964건. 시나노크 버스정류장까지 도보 4분, ₩₩₩ · 1박 약 81만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 81만원",
+        "📝 리뷰 964건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very enjoyable Trip and one of the best Onsen Villa in town",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Definitely recommend getting a room with a private onsen.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "It was a perfect calm retreat after a few days in Tokyo.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The bath in hot water is a delight for all senses.",
+          "score": "10",
+          "country": "Polska",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Hotel quality is excellent and services are great.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-08T11:02:05.725Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T11:02:05.725Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "센고쿠바라 코콘 (Sengokubara COCON): reviewSample"
+      ]
+    }
+  }
+}

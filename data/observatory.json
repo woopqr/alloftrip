@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 8,
+  "cursor": 9,
   "observations": [
     {
       "city": "몰디브",
@@ -1010,6 +1010,170 @@
           "priceKRW": 1184441,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/haymarket-hotel-firmdale-hotels_2/hotel/all/london-gb.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "몰디브",
+      "citySlug": "maldives",
+      "cityId": 17759,
+      "observedAt": "2026-10-08T11:02:19.472Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "5750598",
+          "name": "쿠다두 몰디브 프라이빗 아일랜드 - 럭셔리 올 인클루시브 (Kudadoo Maldives Private Island – Luxury All inclusive)",
+          "priceKRW": 11525497,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kudadoo-maldives-private-island-luxury-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "23738295",
+          "name": "더 리츠칼튼 몰디브, 파리 아일랜드 (The Ritz-Carlton Maldives, Fari Islands)",
+          "priceKRW": 6660084,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461"
+        },
+        {
+          "key": "1267405",
+          "name": "더 세인트 레지스 몰디브 봄물리 리조트 (The St. Regis Maldives Vommuli Resort)",
+          "priceKRW": 5731234,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-st-regis-maldives-vommuli-resort/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "22139529",
+          "name": "Patina Maldives, Fari Islands",
+          "priceKRW": 5512401,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/patina-maldives-fari-islands_2/hotel/all/maldive-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "6601321",
+          "name": "월도프 아스토리아 몰디브 이타푸시 (Waldorf Astoria Maldives Ithaafushi)",
+          "priceKRW": 5186169,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/waldorf-astoria-maldives-ithaafushi/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "12164",
+          "name": "소네바 푸시 (Soneva Fushi)",
+          "priceKRW": 4519484,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/soneva-fushi/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "1255203",
+          "name": "소네바 자니 (Soneva Jani)",
+          "priceKRW": 4519484,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/soneva-jani/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "79099",
+          "name": "W 몰디브 (W Maldives)",
+          "priceKRW": 4399839,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/w-maldives/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "529297",
+          "name": "COMO 말리푸시 (COMO Maalifushi)",
+          "priceKRW": 4037849,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/como-maalifushi/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "256734",
+          "name": "더 할시온 프라이빗 아일스 몰디브, 오토그래프 컬렉션 (The Halcyon Private Isles Maldives, Autograph Collection)",
+          "priceKRW": 3840921,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-halcyon-private-isles-maldives-autograph-collection-h256734/hotel/maldive-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "178294",
+          "name": "아난타라 키하바 몰디브 빌라 (Anantara Kihavah Maldives Villas)",
+          "priceKRW": 3513321,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anantara-kihavah-maldives-villas/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "70351",
+          "name": "후바펜 푸시 몰디브 (Huvafen Fushi Maldives)",
+          "priceKRW": 3382808,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/huvafen-fushi-maldives/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "67594597",
+          "name": "파티나 몰디브 (Patina Maldives)",
+          "priceKRW": 3067568,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/patina-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461"
+        },
+        {
+          "key": "409631",
+          "name": "아웃트리거 몰디브 마푸시바루 리조트 (Outrigger Maldives Maafushivaru Resort)",
+          "priceKRW": 2785808,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/maafushivaru-maldives-resort/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "61870202",
+          "name": "JW 메리어트 몰디브 카푸 아톨 아일랜드 리조트 (JW Marriott Maldives Kaafu Atoll Island Resort)",
+          "priceKRW": 2731253,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jw-marriott-maldives-kaafu-atoll-island-resort/hotel/maldive-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "41483",
+          "name": "릴리 비치 리조트 앤 스파 - 올 인클루시브 (Lily Beach Resort & Spa - All Inclusive)",
+          "priceKRW": 2540909,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lily-beach-resort-spa/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "40316040",
+          "name": "주메이라 올하할리 아일랜드 (Jumeirah Olhahali Island)",
+          "priceKRW": 2473011,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jumeirah-olhahali-island/hotel/maldive-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "1162982",
+          "name": "밀라이두 몰디브 (Milaidhoo Maldives)",
+          "priceKRW": 2465509,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/milaidhoo-island-maldives/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "564118",
+          "name": "칸돌루 몰디브 (Kandolhu Maldives)",
+          "priceKRW": 2423809,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kandolhu-maldives/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "186617",
+          "name": "날라두 프라이빗 아일랜드 몰디브 (Naladhu Private Island Maldives)",
+          "priceKRW": 2305933,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "9612246",
+          "name": "풀만 몰디브 마무타 올-인클루시브 리조트 (Pullman Maldives Maamutaa All-Inclusive Resort)",
+          "priceKRW": 2375898,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/pullman-maldives-maamutaa-resort/hotel/maldives-islands-mv.html?cid=1925461"
+        },
+        {
+          "key": "161831",
+          "name": "파크 하얏트 몰디브 하다하 (Park Hyatt Maldives Hadahaa)",
+          "priceKRW": 1920930,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/park-hyatt-maldives-hadahaa/hotel/maldives-islands-mv.html?cid=1925461"
         }
       ]
     }
