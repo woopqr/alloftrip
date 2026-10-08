@@ -1,0 +1,743 @@
+{
+  "slug": "wellness-abu-dhabi",
+  "theme": "wellness",
+  "audience": "웰니스·스파",
+  "emoji": "🧖",
+  "city": "아부다비",
+  "citySlug": "abu-dhabi",
+  "cityId": 10182,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=10182",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[아부다비] 스파 하나로 여행이 되는 5성급 리트리트",
+  "metaDescription": "2026년 11월 아부다비 웰니스·스파 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+  "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 43%가 연인·커플 여행자의 리뷰입니다. 웰니스·스파 기준 1순위는 <b>메리어트 호텔 알 포산, 아부다비</b>입니다 (평점 8.7 · 리뷰 2,232건 · 1박 약 55만원). 가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/763396842.jpg?k=1799e67078adc0855510b763da0c4cf3caf80b3360bde90e03302b2c29d1aa7d&o=",
+  "heroAlt": "아부다비 웰니스·스파 최고급 숙소",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "메리어트 호텔 알 포산, 아부다비 (Marriott Hotel Al Forsan, Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/marriott-hotel-al-forsan-abu-dhabi_9/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/763396842.jpg?k=1799e67078adc0855510b763da0c4cf3caf80b3360bde90e03302b2c29d1aa7d&o=",
+      "score": 8.7,
+      "reviewCount": 2232,
+      "reviewCountFmt": "리뷰 2,232건",
+      "priceText": "₩₩ · 1박 약 55만원",
+      "walkMin": 95,
+      "refLabel": "PRT Line",
+      "star": 5,
+      "propertyId": 2061316,
+      "geo": {
+        "lat": 24.407167,
+        "lng": 54.548244
+      },
+      "priceKRW": 547024,
+      "priceStatus": "조회됨",
+      "distanceM": 7589.57,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 2,232건. PRT Line까지 도보 95분, ₩₩ · 1박 약 55만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 55만원",
+        "📝 리뷰 2,232건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔은 고급스러움과 편안함을 선사합니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 현대적이며 흠잡을 데 없이 깨끗합니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "시설은 깨끗하고 현대적이며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "비즈니스 여행객과 휴가 여행객 모두에게 이상적인 장소입니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 아늑하며 직원들은 사랑스럽고 도움이 됩니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.02",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "릭소스 마리나 아부다비 (Rixos Marina Abu Dhabi)",
+      "agodaUrl": "https://www.agoda.com/fairmont-marina-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/882710217.jpg?k=ba730fcbf27ffc4ebf3e65de36de24b3f9cf7bd306b604f354cdcfb534746922&o=",
+      "score": 9,
+      "reviewCount": 2901,
+      "reviewCountFmt": "리뷰 2,901건",
+      "priceText": "₩₩ · 1박 약 49만원",
+      "walkMin": 31,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 35536330,
+      "geo": {
+        "lat": 24.480538,
+        "lng": 54.322
+      },
+      "priceKRW": 486468,
+      "priceStatus": "조회됨",
+      "distanceM": 2467.14,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "에미레이트 궁전",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,901건. Abu Dhabi EK Bus Station까지 도보 31분, ₩₩ · 1박 약 49만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 49만원",
+        "📝 리뷰 2,901건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치도 편리하고 조식도 훌륭했습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "Rixos 호텔은 내 생일을 더욱 특별하고 기억에 남게 만들어주었습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "Rixy Kids Club의 Laura와 Amera는 훌륭했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "자체 해변이 있고 3개의 놀라운 수영장이 있습니다.",
+          "score": "9.6",
+          "country": "Slovenia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Andaz Capital Gate Abu Dhabi, By Hyatt",
+      "agodaUrl": "https://www.agoda.com/hyatt-capital-gate-abu-dhabi/hotel/al-aysh-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/284873/0/9bcb9a993ce4e2270f4659977b023a21.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 4731,
+      "reviewCountFmt": "리뷰 4,731건",
+      "priceText": "₩₩ · 1박 약 47만원",
+      "walkMin": 103,
+      "refLabel": "아부다비 센트럴 버스정류장",
+      "star": 5,
+      "propertyId": 284873,
+      "geo": {
+        "lat": 24.418758,
+        "lng": 54.434536
+      },
+      "priceKRW": 472642,
+      "priceStatus": "조회됨",
+      "distanceM": 8224.11,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "셰이크 자이드 그랜드 모스크 센터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 4,731건. 아부다비 센트럴 버스정류장까지 도보 103분, ₩₩ · 1박 약 47만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 47만원",
+        "📝 리뷰 4,731건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이번이 두 번째이지만 결코 우리를 놀라게 하지 못합니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 친절하고 도움이되는 직원과 함께 매우 깨끗합니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 우리의 요구와 요구에 매우 잘 응해주었습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "이 놀라운 호텔에서는 하룻밤만으로는 충분하지 않습니다",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 매우 넓고 아름다웠어요",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.01",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "밥 알 카사르 호텔 (Bab Al Qasr Hotel)",
+      "agodaUrl": "https://www.agoda.com/bab-al-qasr-hotel_2/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2099519/0/27c1d978c28ae8ad8ac492789cbce66a.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 3578,
+      "reviewCountFmt": "리뷰 3,578건",
+      "priceText": "₩₩ · 1박 약 36만원",
+      "walkMin": 42,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 2099519,
+      "geo": {
+        "lat": 24.457968,
+        "lng": 54.320099
+      },
+      "priceKRW": 360180,
+      "priceStatus": "조회됨",
+      "distanceM": 3325.73,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "에미레이트 궁전",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,578건. Abu Dhabi EK Bus Station까지 도보 42분, ₩₩ · 1박 약 36만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 36만원",
+        "📝 리뷰 3,578건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아름다운 호텔, 전용 해변을 포함한 훌륭한 시설.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔을 적극 추천하며 다시 거기에 머물 것입니다.",
+          "score": "10",
+          "country": "Jordan",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 가족 친화적인 분위기를 지닌 훌륭한 해변과 수영장.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 직원들은 당신을 위해 충분하지 못했습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "그리고 전반적으로 가격대비 훌륭했습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Yas Plaza Marina By IHG",
+      "agodaUrl": "https://www.agoda.com/yas-plaza-marina-by-ihg-h338393/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/338393/0/a8b8e2f1338939d34b9009c58f29ca4e.jpeg?va=1&ce=3",
+      "score": 8.7,
+      "reviewCount": 4410,
+      "reviewCountFmt": "리뷰 4,410건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 48,
+      "refLabel": "Murur Abu Dhabi Bus Station",
+      "star": 5,
+      "propertyId": 338393,
+      "geo": {
+        "lat": 24.466127,
+        "lng": 54.599228
+      },
+      "priceKRW": 395298,
+      "priceStatus": "조회됨",
+      "distanceM": 3840.62,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "야스 비치"
+      ],
+      "blurb": "평점 8.7 · 리뷰 4,410건. Murur Abu Dhabi Bus Station까지 도보 48분, ₩₩ · 1박 약 40만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 4,410건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 야스섬 주변에서 매우 접근이 용이합니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 호텔 요금에 포함된 훌륭한 아침 식사였습니다.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "호텔과 객실은 매우 깨끗하고 편안했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 방에서 식사를 시도했고 음식도 훌륭했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "리셉션 직원 Honey는 매우 도움이 되고 효율적이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.12",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "페어몬트 밥 알 바흐 (Fairmont Bab Al Bahr)",
+      "agodaUrl": "https://www.agoda.com/fairmont-bab-al-bahr/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/166742/0/ede3906625c16664ac4d703f68ed9567.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 2410,
+      "reviewCountFmt": "리뷰 2,410건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 19,
+      "refLabel": "셰이크 자이드 그랜드 모스크 센터",
+      "star": 5,
+      "propertyId": 166742,
+      "geo": {
+        "lat": 24.415148,
+        "lng": 54.490471
+      },
+      "priceKRW": 427714,
+      "priceStatus": "조회됨",
+      "distanceM": 1548.45,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "셰이크 자이드 그랜드 모스크 센터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 2,410건. 셰이크 자이드 그랜드 모스크 센터까지 도보 19분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 2,410건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아침 식사에는 다양한 옵션이 있으며 호텔은 삐걱 거리며 깨끗합니다.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "편안하고 활력을 되찾는 잊을 수 없는 숙박입니다.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "고객이 항상 옳다고 말하는 것은 진심입니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "정말 즐거운 숙박이었으며 앞으로도 페어몬트에서 많은 숙박을 하게 될 것입니다!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 업그레이드되었고 전망은 훌륭했습니다.",
+          "score": "9.6",
+          "country": "South Africa",
+          "date": "2024.08",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-08T03:37:45.383Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T03:37:45.383Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

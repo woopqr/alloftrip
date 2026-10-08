@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 7,
+  "cursor": 8,
   "observations": [
     {
       "city": "몰디브",
@@ -881,6 +881,135 @@
           "priceKRW": 539388,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/tomoya-residence-hotel-kyoto-nijo-takakura/hotel/kyoto-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "런던",
+      "citySlug": "london",
+      "cityId": 233,
+      "observedAt": "2026-10-08T03:38:10.879Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "71143983",
+          "name": "The Chancery Rosewood",
+          "priceKRW": 2943343,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-chancery-rosewood/hotel/all/westminster-gb.html?cid=1925461"
+        },
+        {
+          "key": "3034",
+          "name": "Claridge's, Maybourne",
+          "priceKRW": 2500244,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/claridge-s/hotel/all/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "82325668",
+          "name": "만다린 오리엔탈 메이페어 런던 (Mandarin Oriental Mayfair, London)",
+          "priceKRW": 2317274,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-mayfair-london/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "6755401",
+          "name": "더 코노트 (The Connaught)",
+          "priceKRW": 2229680,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-connaught/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "823699",
+          "name": "45 파크 레인 - 도체스터 콜렉션 (45 Park Lane - Dorchester Collection)",
+          "priceKRW": 2211984,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/45-park-lane-dorchester-collection/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "47498371",
+          "name": "The Peninsula London",
+          "priceKRW": 2203588,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-peninsula-london/hotel/all/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "263767",
+          "name": "코린티아 호텔 런던 (Corinthia Hotel London)",
+          "priceKRW": 2123505,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/corinthia-hotel-london/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "37318786",
+          "name": "래플스 런던 앳 더 OWO (Raffles London at The OWO)",
+          "priceKRW": 2017329,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/raffles-london-at-the-owo/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "2572032",
+          "name": "불가리 호텔 런던 (Bvlgari Hotel London)",
+          "priceKRW": 1920710,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bulgari-hotel-london_3/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "304",
+          "name": "더 도체스더 (The Dorchester)",
+          "priceKRW": 1795744,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-dorchester/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "8452",
+          "name": "더 카도간 어 벨몬드 호텔 런던 (The Cadogan A Belmond Hotel London)",
+          "priceKRW": 1751891,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cadogan-london-hotel/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "9801028",
+          "name": "더 보몬트 호텔 (The Beaumont Hotel)",
+          "priceKRW": 1627679,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-beaumont-hotel/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "9085758",
+          "name": "더 버클리 (The Berkeley)",
+          "priceKRW": 1624481,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-berkeley/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "3849623",
+          "name": "만다린 오리엔탈 하이드 파크 런던 (Mandarin Oriental Hyde Park, London)",
+          "priceKRW": 1579357,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-hyde-park_3/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "165716",
+          "name": "로코 포르테 브라운스 호텔 (Rocco Forte Brown's Hotel)",
+          "priceKRW": 1458589,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rocco-forte-brown-s-hotel/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "127511",
+          "name": "더 스태퍼드 런던 (The Stafford London)",
+          "priceKRW": 1368776,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-stafford-hotel-london/hotel/london-gb.html?cid=1925461"
+        },
+        {
+          "key": "3283903",
+          "name": "헤이마켓 호텔, 펌데일 호텔 (Haymarket Hotel, Firmdale Hotels)",
+          "priceKRW": 1184441,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/haymarket-hotel-firmdale-hotels_2/hotel/all/london-gb.html?cid=1925461"
         }
       ]
     }
