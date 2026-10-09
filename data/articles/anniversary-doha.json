@@ -1,0 +1,672 @@
+{
+  "slug": "anniversary-doha",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "도하",
+  "citySlug": "doha",
+  "cityId": 4472,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4472",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[도하] 안목 있는 커플이 기념일에 고르는 호텔",
+  "metaDescription": "2026년 11월 도하 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 26%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>프레이저 스위트 도하</b>입니다 (평점 9 · 리뷰 2,752건 · 1박 약 20만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 27,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 11,
+        "pct": 41
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 26
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 6,
+        "pct": 22
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 11
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/283752/0/ed498f14ed962a1c8fc05535ee146329.jpeg?va=1&ce=3",
+  "heroAlt": "도하 기념일 여행 최고급 숙소",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "프레이저 스위트 도하 (Fraser Suites Doha)",
+      "agodaUrl": "https://www.agoda.com/fraser-suites-doha/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/283752/0/ed498f14ed962a1c8fc05535ee146329.jpeg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 2752,
+      "reviewCountFmt": "리뷰 2,752건",
+      "priceText": "₩₩ · 1박 약 20만원",
+      "walkMin": 10,
+      "refLabel": "National Museum Station",
+      "star": 5,
+      "propertyId": 283752,
+      "geo": {
+        "lat": 25.290247,
+        "lng": 51.543844
+      },
+      "priceKRW": 200243,
+      "priceStatus": "조회됨",
+      "distanceM": 829.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "카타르 국립박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,752건. National Museum Station까지 도보 10분, ₩₩ · 1박 약 20만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 20만원",
+        "📝 리뷰 2,752건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The breakfasts were good, and the dinners were delicious.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Nice breakfast buffet and awesome pool area.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, comfortable, and well-maintained.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "My stay was very excellent, the staff is very accommodating",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "Amazing stay especialy thank to Nahila she was helpful",
+          "score": "10",
+          "country": "المملكة العربية السعودية",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Dusit Hotel & Suites – Doha",
+      "agodaUrl": "https://www.agoda.com/dusit-doha-hotel-suites/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34563323/0/b49538e35daa55a2be555ee3536a6818.jpeg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 247,
+      "reviewCountFmt": "리뷰 247건",
+      "priceText": "₩₩ · 1박 약 38만원",
+      "walkMin": 9,
+      "refLabel": "DECC Station",
+      "star": 5,
+      "propertyId": 34563323,
+      "geo": {
+        "lat": 25.32778,
+        "lng": 51.532124
+      },
+      "priceKRW": 375455,
+      "priceStatus": "조회됨",
+      "distanceM": 698.47,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "카타르 국립박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 247건. DECC Station까지 도보 9분, ₩₩ · 1박 약 38만원.",
+      "metaTags": [
+        "💰 1박 약 38만원",
+        "📝 리뷰 247건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I highly recommended your hotel to my guest who are asking.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "It's a beautiful hotel, suite are very spacious and luxury.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful place, very spacious and we got free upgrade!",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Very clean and nice place and very good staff",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Thank you for all the staff for the excellent service.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "매그넘 호텔 스위트 (Magnum Hotel Suites)",
+      "agodaUrl": "https://www.agoda.com/governor-west-bay-suites-residence/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/364817/-1/8d9488b35bdcf2bc53cceda0fa6708c6.jpg?va=1&ce=0",
+      "score": 7.9,
+      "reviewCount": 1429,
+      "reviewCountFmt": "리뷰 1,429건",
+      "priceText": "₩₩ · 1박 약 20만원",
+      "walkMin": 9,
+      "refLabel": "DECC Station",
+      "star": 5,
+      "propertyId": 364817,
+      "geo": {
+        "lat": 25.329157,
+        "lng": 51.529011
+      },
+      "priceKRW": 200082,
+      "priceStatus": "조회됨",
+      "distanceM": 697.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "수크 와키프",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 7.9 · 리뷰 1,429건. DECC Station까지 도보 9분, ₩₩ · 1박 약 20만원.",
+      "metaTags": [
+        "💰 1박 약 20만원",
+        "📝 리뷰 1,429건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The accommodations were nothing short of luxurious.",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Excellent Stay. Staff are accommodating and very welcoming.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Friendly, accommodating staff, willing to help with a smile.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay as the services are really really good.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly and good customer service.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 세인트 레지스 마르사 아라비아 아일랜드, 더 펄 카타르 (The St. Regis Marsa Arabia Island, The Pearl Qatar)",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-marsa-arabia-island-the-pearl-qatar/hotel/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/475266569.jpg?k=6e0e0549f21749ec7eb38f68daf94a4c3381763e11ec47edd89927c38918bc34&o=",
+      "score": 9.3,
+      "reviewCount": 1132,
+      "reviewCountFmt": "리뷰 1,132건",
+      "priceText": "₩₩ · 1박 약 56만원",
+      "walkMin": 24,
+      "refLabel": "Legtaifiya Station",
+      "star": 5,
+      "propertyId": 36114389,
+      "geo": {
+        "lat": 25.36903,
+        "lng": 51.544121
+      },
+      "priceKRW": 561343,
+      "priceStatus": "조회됨",
+      "distanceM": 1942.11,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "시티 센터 몰",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,132건. Legtaifiya Station까지 도보 24분, ₩₩ · 1박 약 56만원. 연인·커플 리뷰 비중 50%.",
+      "metaTags": [
+        "💰 1박 약 56만원",
+        "📝 리뷰 1,132건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 50,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 50,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everything was perfect",
+          "score": "9.6",
+          "country": "Jordan",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Great for families",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "쉐라톤 그랜드 도하 리조트 앤 컨벤션 호텔 (Sheraton Grand Doha Resort & Convention Hotel)",
+      "agodaUrl": "https://www.agoda.com/sheraton-grand-doha-resort-convention-hotel/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59994/0/a6b66de9da8eb42ad912d8141172ee19.jpg?va=1&ca=7&ce=1",
+      "score": 9.2,
+      "reviewCount": 1262,
+      "reviewCountFmt": "리뷰 1,262건",
+      "priceText": "₩₩ · 1박 약 33만원",
+      "walkMin": 12,
+      "refLabel": "DECC Station",
+      "star": 5,
+      "propertyId": 59994,
+      "geo": {
+        "lat": 25.319717,
+        "lng": 51.536732
+      },
+      "priceKRW": 328523,
+      "priceStatus": "조회됨",
+      "distanceM": 989.71,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "카타르 국립박물관"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,262건. DECC Station까지 도보 12분, ₩₩ · 1박 약 33만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 33만원",
+        "📝 리뷰 1,262건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "My stay at Sheraton Grand Doha was truly unforgettable.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Great welcome and great service from Sheraton's team.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "You can spend the whole day in the hotel's garden and beach.",
+          "score": "8.8",
+          "country": "Saudi Arabia",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Shout out to the chef and staff for the wonderful service.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The breakfast is overwhelming because of so many choices!",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "알 메실라, 어 럭셔리 컬렉션 리조트 앤 스파, 도하 (Al Messila, a Luxury Collection Resort & Spa, Doha)",
+      "agodaUrl": "https://www.agoda.com/al-messila-a-luxury-collection-resort-spa-doha/hotel/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/429342931.jpg?k=29d9ffce7e99f15757fc9b8ebec8c798fc99357d61e3a6fecc82cee13dd9f5f1&o=",
+      "score": 9,
+      "reviewCount": 999,
+      "reviewCountFmt": "리뷰 999건",
+      "priceText": "₩₩ · 1박 약 28만원",
+      "walkMin": 16,
+      "refLabel": "Al Messila Station",
+      "star": 5,
+      "propertyId": 7415045,
+      "geo": {
+        "lat": 25.302769,
+        "lng": 51.475346
+      },
+      "priceKRW": 279751,
+      "priceStatus": "조회됨",
+      "distanceM": 1318.99,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "펄 기념비"
+      ],
+      "blurb": "평점 9 · 리뷰 999건. Al Messila Station까지 도보 16분, ₩₩ · 1박 약 28만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 28만원",
+        "📝 리뷰 999건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff were very accommodating and helpful.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay here..Thanks and Godbless",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Pool area was so beautiful and breathtaking.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "We had BBQ Grilled Dinner buffet by the pool.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great service very kind and made us feel very welcome.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T23:41:44.351Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T23:41:44.351Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

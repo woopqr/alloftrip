@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 13,
+  "cursor": 14,
   "observations": [
     {
       "city": "몰디브",
@@ -1765,6 +1765,184 @@
           "key": "272190",
           "name": "콘래드 뉴욕 다운타운 (Conrad New York Downtown)",
           "priceKRW": 923232,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/conrad-new-york-downtown/hotel/new-york-ny-us.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "뉴욕",
+      "citySlug": "new-york",
+      "cityId": 318,
+      "observedAt": "2026-10-09T23:42:03.923Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "1267104",
+          "name": "포시즌스 호텔 뉴욕 (Four Seasons Hotel New York)",
+          "priceKRW": 3908226,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-new-york_2/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950467",
+          "name": "크로스비 스트리트 호텔 (Crosby Street Hotel)",
+          "priceKRW": 2660951,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/crosby-street-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "211821",
+          "name": "더 마크 호텔 (The Mark Hotel)",
+          "priceKRW": 2630918,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-mark-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950574",
+          "name": "더 그리니치 호텔 (The Greenwich Hotel)",
+          "priceKRW": 2583951,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-greenwich-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950723",
+          "name": "바카라 호텔 앤 레지던스 뉴욕 (Baccarat Hotel and Residences New York)",
+          "priceKRW": 2532234,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/baccarat-hotel-and-residences-new-york_3/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "7477",
+          "name": "월도프 아스토리아 뉴욕 (Waldorf Astoria New York)",
+          "priceKRW": 2485234,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/waldorf-astoria-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950151",
+          "name": "더 휘트비 호텔 (The Whitby Hotel)",
+          "priceKRW": 2460762,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-whitby-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "3849617",
+          "name": "만다린 오리엔탈 뉴욕 (Mandarin Oriental, New York)",
+          "priceKRW": 2367943,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-new-york_5/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "174255",
+          "name": "더 페닌슐라 뉴욕 호텔 (The Peninsula New York Hotel)",
+          "priceKRW": 2354522,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-peninsula-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "2456621",
+          "name": "더 리츠칼튼 뉴욕, 센트럴 파크 (The Ritz-Carlton New York, Central Park)",
+          "priceKRW": 2354133,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "7011025",
+          "name": "로웰 호텔 (Lowell Hotel)",
+          "priceKRW": 2192829,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lowell-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "3018399",
+          "name": "The Plaza, A Fairmont Hotel",
+          "priceKRW": 2073229,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-plaza_2/hotel/all/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "56249939",
+          "name": "카사 치프리아니 뉴욕 (Casa Cipriani New York)",
+          "priceKRW": 2011229,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/casa-cipriani-new-york/hotel/princeton-nj-us.html?cid=1925461"
+        },
+        {
+          "key": "211906",
+          "name": "더 랭함 - 뉴욕 - 피프스 애비뉴 (The Langham- New York- Fifth Avenue)",
+          "priceKRW": 1958776,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-langham-new-york-fifth-avenue/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "83526",
+          "name": "더 칼라일, 어 로즈우드 호텔 (The Carlyle, A Rosewood Hotel)",
+          "priceKRW": 1817254,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-carlyle-a-rosewood-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "206039",
+          "name": "포시즌스 호텔 뉴욕 다운타운 (Four Seasons Hotel New York Downtown)",
+          "priceKRW": 1521457,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-new-york-downtown/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "10913715",
+          "name": "이퀴녹스 호텔 허드슨 야드 뉴욕 시티 (Equinox Hotel Hudson Yards New York City)",
+          "priceKRW": 1339670,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/equinox-hotel-hudson-yards-new-york-city/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "161220",
+          "name": "더 피에르, 어 타지 호텔, 뉴욕 (The Pierre, A Taj Hotel, New York)",
+          "priceKRW": 1263794,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-pierre-a-taj-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "2551427",
+          "name": "더 네드 노매드 (The Ned NoMad)",
+          "priceKRW": 1258898,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-nomad-hotel_4/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "50276",
+          "name": "뢰스 리젠시 호텔 뉴욕 (Loews Regency Hotel New York)",
+          "priceKRW": 1167389,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/loews-regency-hotel-new-york/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950758",
+          "name": "1 호텔 센트럴 파크 (1 Hotel Central Park)",
+          "priceKRW": 1002831,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/1-hotel-central-park/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950420",
+          "name": "1 호텔 브루클린 브리지 (1 Hotel Brooklyn Bridge)",
+          "priceKRW": 981908,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/1-hotel-brooklyn-bridge/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "2912075",
+          "name": "더 런던, 어 럭셔리 컬렉션 호텔, 뉴욕 시티 (The London, a Luxury Collection Hotel, New York City)",
+          "priceKRW": 973342,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/conrad-new-york-midtown-h55831834/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "272190",
+          "name": "콘래드 뉴욕 다운타운 (Conrad New York Downtown)",
+          "priceKRW": 922365,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/conrad-new-york-downtown/hotel/new-york-ny-us.html?cid=1925461"
         }
