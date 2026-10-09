@@ -1,0 +1,548 @@
+{
+  "slug": "wellness-hakone",
+  "theme": "wellness",
+  "audience": "웰니스·스파",
+  "emoji": "🧖",
+  "city": "하코네",
+  "citySlug": "hakone",
+  "cityId": 79849,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=79849",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[하코네] 완벽한 휴식을 위한 최고급 웰니스 리조트",
+  "metaDescription": "2026년 11월 하코네 웰니스·스파 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "진짜 휴식은 공간에서 시작됩니다. 완전히 스위치를 끄고 쉬기 위해 만들어진 최고급 스파 리조트와 웰니스 리트리트만 골랐습니다.",
+  "viewpoint": "가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 53%가 연인·커플 여행자의 리뷰입니다. 웰니스·스파 기준 1순위는 <b>하코네 코와키엔 호텔</b>입니다 (평점 8.8 · 리뷰 2,132건 · 1박 약 40만원). 가격대와 리뷰 깊이를 기준으로, 스파 시설이 뛰어난 5성 리조트와 조용한 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 17,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 53
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 29
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 12
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 6
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/50169341/-1/c47a10c70100917178c24c25cdf97cdd.jpg?va=1&ce=0",
+  "heroAlt": "하코네 웰니스·스파 최고급 숙소",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하코네 코와키엔 호텔 (Hakone Kowakien Hotel)",
+      "agodaUrl": "https://www.agoda.com/hakone-kowakien-yunessun-inn/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50169341/-1/c47a10c70100917178c24c25cdf97cdd.jpg?va=1&ce=0",
+      "score": 8.8,
+      "reviewCount": 2132,
+      "reviewCountFmt": "리뷰 2,132건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 3,
+      "refLabel": "호라이엔 버스정류장",
+      "star": 5,
+      "propertyId": 50169341,
+      "geo": {
+        "lat": 35.238903,
+        "lng": 139.047456
+      },
+      "priceKRW": 399548,
+      "priceStatus": "조회됨",
+      "distanceM": 240.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "나루카와 미술관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 2,132건. 호라이엔 버스정류장까지 도보 3분, ₩₩ · 1박 약 40만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 2,132건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very well designed hotel and onsen, highly recommend.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The hotel is accessible, with a bus stop nearby.",
+          "score": "9.6",
+          "country": "中國澳門",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Facilities in the room and public area are well maintained.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Super good spread for their breakfast and dinner buffet.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Overall, highly recommend for a unique onsen retreat 👍🏻",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "하코네 사료 킨토키 (Hakone Saryo Kintoki)",
+      "agodaUrl": "https://www.agoda.com/h69140649/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/67603697/0/2323d82202138a9f5dc0aec0e9beec03.jpg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 364,
+      "reviewCountFmt": "리뷰 364건",
+      "priceText": "₩₩ · 1박 약 30만원",
+      "walkMin": 7,
+      "refLabel": "센고쿠 안나이조 마에 버스정류장",
+      "star": 5,
+      "propertyId": 67603697,
+      "geo": {
+        "lat": 35.277622,
+        "lng": 139.009048
+      },
+      "priceKRW": 295604,
+      "priceStatus": "조회됨",
+      "distanceM": 599.85,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "오와쿠다니",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 364건. 센고쿠 안나이조 마에 버스정류장까지 도보 7분, ₩₩ · 1박 약 30만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 30만원",
+        "📝 리뷰 364건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room is very spacious and comfortable.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "In 10 mins he prepared everything for us.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Extraordinary stay",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Stunning hospitality",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "He is very kind and generous.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "오쿠유가와라 산스이로 (Oku-Yugawara Sansuirou)",
+      "agodaUrl": "https://www.agoda.com/hakone-yugawara-sansuirou/hotel/yugawara-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/399368/0/50456ae11946850f6ce867b18f1e27ac.jpg?va=1&ce=2",
+      "score": 8.2,
+      "reviewCount": 362,
+      "reviewCountFmt": "리뷰 362건",
+      "priceText": "₩₩ · 1박 약 41만원",
+      "walkMin": 1,
+      "refLabel": "Okuyugawarairiguchi Bus Stop",
+      "star": 5,
+      "propertyId": 399368,
+      "geo": {
+        "lat": 35.159809,
+        "lng": 139.060608
+      },
+      "priceKRW": 407421,
+      "priceStatus": "조회됨",
+      "distanceM": 32.75,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 362건. Okuyugawarairiguchi Bus Stop까지 도보 1분, ₩₩ · 1박 약 41만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 41만원",
+        "📝 리뷰 362건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Flawless service and everything to its perfection!",
+          "score": "10",
+          "country": "美國",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "I am grateful for the staff for an unforgettable experience.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The food, room and baths were excellent.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Excellent ryokan experience",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "It is a very historic Ryokan in Yugawara.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "하코네 콜링 (HAKONE CALLING)",
+      "agodaUrl": "https://www.agoda.com/hakone-calling/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/91369674/0/a5aaa5fbd609b3958ff2b82f5cb3bd1f.jpg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 623,
+      "reviewCountFmt": "리뷰 623건",
+      "priceText": "₩₩ · 1박 약 38만원",
+      "walkMin": 1,
+      "refLabel": "하코네유모토역",
+      "star": 5,
+      "propertyId": 91369674,
+      "geo": {
+        "lat": 35.232647,
+        "lng": 139.10333
+      },
+      "priceKRW": 380349,
+      "priceStatus": "조회됨",
+      "distanceM": 74.28,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "주방",
+        "대중교통 이용 편리",
+        "하코네 야외 박물관"
+      ],
+      "blurb": "평점 9.1 · 리뷰 623건. 하코네유모토역까지 도보 1분, ₩₩ · 1박 약 38만원.",
+      "metaTags": [
+        "💰 1박 약 38만원",
+        "📝 리뷰 623건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "호텔 센고쿠하라 533 (Hotel Sengokuhara 533)",
+      "agodaUrl": "https://www.agoda.com/533/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/70990680/0/d285ca93af089f7db245ebcad7fa16f1.jpg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 447,
+      "reviewCountFmt": "리뷰 447건",
+      "priceText": "₩₩ · 1박 약 34만원",
+      "walkMin": 7,
+      "refLabel": "센고쿠하라 분카센터 마에 버스정류장",
+      "star": 5,
+      "propertyId": 70990680,
+      "geo": {
+        "lat": 35.270348,
+        "lng": 139.00496
+      },
+      "priceKRW": 338756,
+      "priceStatus": "조회됨",
+      "distanceM": 560.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "오와쿠다니",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 447건. 센고쿠하라 분카센터 마에 버스정류장까지 도보 7분, ₩₩ · 1박 약 34만원.",
+      "metaTags": [
+        "💰 1박 약 34만원",
+        "📝 리뷰 447건",
+        "⭐ 5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Sen Yugawara",
+      "agodaUrl": "https://www.agoda.com/yugawara-kameya-ryokan/hotel/yugawara-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45934390/-1/6fa289d30e008f61b630a29d8507a2f3.jpg?va=1&ce=0",
+      "score": 8,
+      "reviewCount": 91,
+      "reviewCountFmt": "리뷰 91건",
+      "priceText": "₩₩ · 1박 약 25만원",
+      "walkMin": 2,
+      "refLabel": "Kouen Iriguchi Bus Station",
+      "star": 5,
+      "propertyId": 45934390,
+      "geo": {
+        "lat": 35.14741,
+        "lng": 139.07344
+      },
+      "priceKRW": 251998,
+      "priceStatus": "조회됨",
+      "distanceM": 134.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리"
+      ],
+      "blurb": "평점 8 · 리뷰 91건. Kouen Iriguchi Bus Station까지 도보 2분, ₩₩ · 1박 약 25만원.",
+      "metaTags": [
+        "💰 1박 약 25만원",
+        "📝 리뷰 91건",
+        "⭐ 5성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Friendly staff, good room.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Nice hotel.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T00:02:29.601Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T00:02:29.601Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "하코네 콜링 (HAKONE CALLING): reviewSample",
+        "호텔 센고쿠하라 533 (Hotel Sengokuhara 533): reviewSample"
+      ]
+    }
+  }
+}

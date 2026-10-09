@@ -1,0 +1,716 @@
+{
+  "slug": "ultra-macau",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "마카오",
+  "citySlug": "macau",
+  "cityId": 21397,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=21397",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[마카오] 가장 비싸고 가장 완벽한 최상위 호텔 TOP",
+  "metaDescription": "2026년 11월 마카오 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 63%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>MGM 마카오</b>입니다 (평점 8.6 · 리뷰 1,163건 · 1박 약 175만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 19,
+        "pct": 63
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/100/100101/100101_15012216040024769897.jpg?va=1&ca=3&ce=1",
+  "heroAlt": "마카오 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "MGM 마카오 (MGM MACAU)",
+      "agodaUrl": "https://www.agoda.com/mgm-macau/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/100/100101/100101_15012216040024769897.jpg?va=1&ca=3&ce=1",
+      "score": 8.6,
+      "reviewCount": 1163,
+      "reviewCountFmt": "리뷰 1,163건",
+      "priceText": "₩₩₩ · 1박 약 175만원",
+      "walkMin": 21,
+      "refLabel": "Guia Cable Car",
+      "star": 5,
+      "propertyId": 100101,
+      "geo": {
+        "lat": 22.185568,
+        "lng": 113.548065
+      },
+      "priceKRW": 1748293,
+      "priceStatus": "조회됨",
+      "distanceM": 1700.65,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "시티 오브 드림 카지노",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 1,163건. Guia Cable Car까지 도보 21분, ₩₩₩ · 1박 약 175만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 175만원",
+        "📝 리뷰 1,163건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I will stay in this hotel again in the near future.",
+          "score": "9.6",
+          "country": "Macau SAR, China",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "It has the most amazing staff and the most amazing service.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "It's not a cheap hotel, but room is lovely and clean.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "I would also highly recommend to go for Spa at this resort.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "It was magical and felt so calm after the Spa Therapy.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 런더너 호텔 (The Londoner Hotel)",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-macao-cotai-central-h9175173/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/24120272/0/f270ed154f464b5161404038c9c300aa.jpeg?va=1&ce=3",
+      "score": 9.6,
+      "reviewCount": 1824,
+      "reviewCountFmt": "리뷰 1,824건",
+      "priceText": "₩₩₩ · 1박 약 78만원",
+      "walkMin": 5,
+      "refLabel": "Macau LRT Cotai East Station",
+      "star": 5,
+      "propertyId": 24120272,
+      "geo": {
+        "lat": 22.146746,
+        "lng": 113.565895
+      },
+      "priceKRW": 782986,
+      "priceStatus": "조회됨",
+      "distanceM": 374.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "마카오 자이언트 판다 파빌리온",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.6 · 리뷰 1,824건. Macau LRT Cotai East Station까지 도보 5분, ₩₩₩ · 1박 약 78만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 78만원",
+        "📝 리뷰 1,824건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We booked the Louis Suite which has access to the lounge.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "She decorated our room with rose pedals and a big red heart.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The food from the Residence Club was absolutely wonderful.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The room is spotless and the room service is very sweet.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We had a amazing stay at The Londoner again this year.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "MGM 코타이 (MGM COTAI)",
+      "agodaUrl": "https://www.agoda.com/mgm-cotai/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2671046/-1/90319213d87620b6f2608375492ed0db.jpg?va=1&ca=6&ce=1",
+      "score": 8.7,
+      "reviewCount": 1912,
+      "reviewCountFmt": "리뷰 1,912건",
+      "priceText": "₩₩₩ · 1박 약 83만원",
+      "walkMin": 2,
+      "refLabel": "Macau LRT Cotai East Station",
+      "star": 5,
+      "propertyId": 2671046,
+      "geo": {
+        "lat": 22.147015,
+        "lng": 113.568085
+      },
+      "priceKRW": 830066,
+      "priceStatus": "조회됨",
+      "distanceM": 176.61,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "마카오 자이언트 판다 파빌리온",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 1,912건. Macau LRT Cotai East Station까지 도보 2분, ₩₩₩ · 1박 약 83만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 83만원",
+        "📝 리뷰 1,912건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Convent and user friendly hotel, will be back again!",
+          "score": "10",
+          "country": "新加坡",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfy,would like to stay here next time !",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "It has the most amazing staff and the most amazing service.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel with fabulous food and facilities",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "The swimming pool is great as there are three warm jacuzzi.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "포시즌스 호텔 마카오 (Four Seasons Hotel Macao)",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-macao/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/446555/0/4cfd478ade96d1d682a3662ee3b2ef71.jpeg?va=1",
+      "score": 9.4,
+      "reviewCount": 4893,
+      "reviewCountFmt": "리뷰 4,893건",
+      "priceText": "₩₩ · 1박 약 54만원",
+      "walkMin": 5,
+      "refLabel": "Macau LRT Cotai West Station",
+      "star": 5,
+      "propertyId": 446555,
+      "geo": {
+        "lat": 22.145674,
+        "lng": 113.561852
+      },
+      "priceKRW": 541211,
+      "priceStatus": "조회됨",
+      "distanceM": 416.17,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "마카오 자이언트 판다 파빌리온",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 4,893건. Macau LRT Cotai West Station까지 도보 5분, ₩₩ · 1박 약 54만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 54만원",
+        "📝 리뷰 4,893건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is one of the most fantastic hotel in the world",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "This 5-star hotel offers exceptional hospitality services.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great location and the staffs provide excellent service.",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The room is beautiful with great amenities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The hot tub in the spa is very very very very nice.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "더 베네시안 마카오 (The Venetian Macao)",
+      "agodaUrl": "https://www.agoda.com/the-venetian-macao-resort-hotel/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/85650/3163416/784b28d9ac4ce0c944212a4ba147b3b5.jpeg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 66096,
+      "reviewCountFmt": "리뷰 66,096건",
+      "priceText": "₩₩ · 1박 약 26만원",
+      "walkMin": 7,
+      "refLabel": "Macau LRT Cotai West Station",
+      "star": 5,
+      "propertyId": 85650,
+      "geo": {
+        "lat": 22.14794,
+        "lng": 113.56194
+      },
+      "priceKRW": 261902,
+      "priceStatus": "조회됨",
+      "distanceM": 526.36,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "마카오 자이언트 판다 파빌리온",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 66,096건. Macau LRT Cotai West Station까지 도보 7분, ₩₩ · 1박 약 26만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 26만원",
+        "📝 리뷰 66,096건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This was the most elaborate hotel I have ever experienced.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We were there for a couple of days and had a fantastic time.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, comfortable, and elegantly designed.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Our room luxurious and the environment was great.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The staff went above and beyond to make our stay special.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "윈 팰리스 (Wynn Palace)",
+      "agodaUrl": "https://www.agoda.com/wynn-palace/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1265876/0/dedec82c4eba73c18bf608af9304d02c.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 7484,
+      "reviewCountFmt": "리뷰 7,484건",
+      "priceText": "₩₩ · 1박 약 44만원",
+      "walkMin": 2,
+      "refLabel": "Macau LRT Cotai East Station",
+      "star": 5,
+      "propertyId": 1265876,
+      "geo": {
+        "lat": 22.147198,
+        "lng": 113.570335
+      },
+      "priceKRW": 439279,
+      "priceStatus": "조회됨",
+      "distanceM": 171.4,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "마카오 자이언트 판다 파빌리온",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 7,484건. Macau LRT Cotai East Station까지 도보 2분, ₩₩ · 1박 약 44만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 44만원",
+        "📝 리뷰 7,484건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very luxurious and rooms are broad and clean,",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Wynn Palace is probably the best hotel in Macau.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "The room was well designed with real palace like experience.",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Staff service was also excellent and thoughtful.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Last minutes booking and as always , best stay in Macau .",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T00:02:46.109Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T00:02:46.109Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
