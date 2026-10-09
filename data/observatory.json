@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 11,
+  "cursor": 12,
   "observations": [
     {
       "city": "몰디브",
@@ -1458,6 +1458,135 @@
           "key": "31470849",
           "name": "Labourdonnais Waterfront Hotel",
           "priceKRW": 430506,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/labourdonnais-waterfront-hotel_3/hotel/mauritius-island-mu.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "모리셔스",
+      "citySlug": "mauritius",
+      "cityId": 19226,
+      "observedAt": "2026-10-09T11:01:01.246Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "68363",
+          "name": "마라디바 빌라 리조트 앤 스파 (Maradiva Villas Resort & Spa)",
+          "priceKRW": 2155518,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/maradiva-villas-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "5809978",
+          "name": "포 시즌스 리조트 모리셔스 앳 아나히타 (Four Seasons Resort Mauritius at Anahita)",
+          "priceKRW": 1890026,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-resort-mauritius-at-anahita/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "3534613",
+          "name": "콩스탕스 프랭스 모리스 (Constance Prince Maurice)",
+          "priceKRW": 1567247,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/constance-prince-maurice/hotel/all/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "190302",
+          "name": "럭스* 그랜드 베이 (LUX* Grand Baie)",
+          "priceKRW": 1531509,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/merville-beach-resort-grand-baie/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "522630",
+          "name": "The Oberoi, Mauritius",
+          "priceKRW": 1446608,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-oberoi-mauritius-hotel/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "293435",
+          "name": "샨티 모리스 리조트 앤 스파 (Shanti Maurice Resort & Spa)",
+          "priceKRW": 1343107,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "199217",
+          "name": "La Maison 20 Degrés Sud - Relais & Châteaux",
+          "priceKRW": 1063508,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/20-degres-sud-boutique-hotel/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "199836",
+          "name": "라 피로그 모리셔스 (La Pirogue Mauritius)",
+          "priceKRW": 1028657,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-pirogue-a-sun-resort/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "59245",
+          "name": "헤리티지 아왈리 골프 앤 스파 리조트 - 올 인클루시브 (Heritage Awali Golf & Spa Resort - All Inclusive)",
+          "priceKRW": 961258,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/heritage-awali-golf-spa-resort-all-inclusive/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "3534614",
+          "name": "콘스탄스 벨 마 플라주 (Constance Belle Mare Plage)",
+          "priceKRW": 923946,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/constance-belle-mare-plage_6/hotel/all/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "79031",
+          "name": "소피텔 모리셔스 림페리얼 리조트 앤 스파 (Sofitel Mauritius L’Imperial Resort & Spa)",
+          "priceKRW": 878802,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sofitel-mauritius-l-imperial-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "2407663",
+          "name": "C Mauritius Palmar",
+          "priceKRW": 780154,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/c-mauritius-all-inclusive/hotel/all/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "36717352",
+          "name": "르 자디스 비치 리조트 앤 웰니스 - 매니지드 바이 반얀트리 호텔 앤 리조트 (Le Jadis Beach Resort & Wellness - Managed by Banyan Tree Hotels & Resorts)",
+          "priceKRW": 577742,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/angsana-balaclava-mauritius_2/hotel/balaclava-mu.html?cid=1925461"
+        },
+        {
+          "key": "217318",
+          "name": "Maritim Resort & Spa Mauritius",
+          "priceKRW": 461833,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/maritim-resort-spa-mauritius/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "5442783",
+          "name": "씨센스 부티크 호텔 앤 스파 - 성인 전용 - 모리셔스 (Seasense Boutique Hotel and Spa - Adults Only - Mauritius)",
+          "priceKRW": 449399,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/seasense-boutique-hotel-and-spa-ex-le-surcouf-hotel/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "630052",
+          "name": "아웃리거 모리셔스 비치 리조트 (Outrigger Mauritius Beach Resort)",
+          "priceKRW": 444383,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/outrigger-mauritius-beach-resort/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "31470849",
+          "name": "Labourdonnais Waterfront Hotel",
+          "priceKRW": 432887,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/labourdonnais-waterfront-hotel_3/hotel/mauritius-island-mu.html?cid=1925461"
         }
