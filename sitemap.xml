@@ -15,6 +15,7 @@
   <url><loc>https://alloftrip.com/page/7</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://alloftrip.com/page/8</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://alloftrip.com/page/9</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
+  <url><loc>https://alloftrip.com/page/10</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url>
   <url><loc>https://alloftrip.com/category/hotlist</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://alloftrip.com/category/hotlist/2</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
   <url><loc>https://alloftrip.com/category/hotlist/3</loc><lastmod>2026-10-09</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>
@@ -127,10 +128,13 @@
   <url><loc>https://alloftrip.com/articles/luxury-hotels-maui-wailea</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/anniversary-macau</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/honeymoon-macau</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/ultra-doha</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/ultra-macau</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/ultra-phuket</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/wellness-hakone</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/wellness-macau</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/wellness-maldives</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://alloftrip.com/articles/wellness-phuket</loc><lastmod>2026-10-09</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/anniversary-hakone</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/honeymoon-hakone</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/ultra-dubai</loc><lastmod>2026-10-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -210,5 +214,4 @@
   <url><loc>https://alloftrip.com/articles/ultra-singapore</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/ultra-tokyo</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alloftrip.com/articles/ultra-tulum</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://alloftrip.com/articles/wellness-phuket</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

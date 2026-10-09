@@ -1,0 +1,542 @@
+{
+  "slug": "ultra-doha",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "도하",
+  "citySlug": "doha",
+  "cityId": 4472,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4472",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[도하] 베스트 오브 베스트 — 최정상 럭셔리 스테이",
+  "metaDescription": "2026년 11월 도하 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 60%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>Katara Hills Doha, LXR Hotels & Resorts</b>입니다 (평점 9.1 · 리뷰 128건 · 1박 약 119만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 15,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 60
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/915235901.jpg?k=07549d7187a9ea53c935c2045b04442d022d5e109f9b78cbc91c3b763ba7618b&o=",
+  "heroAlt": "도하 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Katara Hills Doha, LXR Hotels & Resorts",
+      "agodaUrl": "https://www.agoda.com/katara-hills-doha-lxr-hotels-resorts/hotel/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/915235901.jpg?k=07549d7187a9ea53c935c2045b04442d022d5e109f9b78cbc91c3b763ba7618b&o=",
+      "score": 9.1,
+      "reviewCount": 128,
+      "reviewCountFmt": "리뷰 128건",
+      "priceText": "₩₩₩ · 1박 약 119만원",
+      "walkMin": 4,
+      "refLabel": "Al Qassar Station",
+      "star": 5,
+      "propertyId": 36370644,
+      "geo": {
+        "lat": 25.352745,
+        "lng": 51.524246
+      },
+      "priceKRW": 1188552,
+      "priceStatus": "조회됨",
+      "distanceM": 292.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "코니쉬",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 128건. Al Qassar Station까지 도보 4분, ₩₩₩ · 1박 약 119만원.",
+      "metaTags": [
+        "💰 1박 약 119만원",
+        "📝 리뷰 128건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "바나나 아일랜드 리조트 도하 바이 아난타라 (Banana Island Resort Doha By Anantara)",
+      "agodaUrl": "https://www.agoda.com/banana-island-resort-doha-by-anantara/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/625579/0/75a709730f6b26603f3bd9a583a1e4da.jpg?ce=2",
+      "score": 8.8,
+      "reviewCount": 2072,
+      "reviewCountFmt": "리뷰 2,072건",
+      "priceText": "₩₩ · 1박 약 52만원",
+      "walkMin": 67,
+      "refLabel": "Hamad Intl Airport T1 Station",
+      "star": 5,
+      "propertyId": 625579,
+      "geo": {
+        "lat": 25.296543,
+        "lng": 51.646042
+      },
+      "priceKRW": 519500,
+      "priceStatus": "조회됨",
+      "distanceM": 5376.01,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 2,072건. Hamad Intl Airport T1 Station까지 도보 67분, ₩₩ · 1박 약 52만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 52만원",
+        "📝 리뷰 2,072건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The food was delicious, and every meal felt special.",
+          "score": "10",
+          "country": "Armenia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel is really nice and the staff are very friendly",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The best place ever if you want to recharge your soul.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The beach are clean, stuff are accommodating and kind.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "I like this resort .. and all staff is very good",
+          "score": "9.6",
+          "country": "الأردن",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Central Inn Al Sadd Suites Hotels",
+      "agodaUrl": "https://www.agoda.com/central-inn-al-sadd-h58344552/hotel/all/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/565621987.jpg?k=321e00eda378fa7b53d2265aa1bc20bdd102270ad5cfb95abc6ebfac928296b5&o=",
+      "score": 8.1,
+      "reviewCount": 637,
+      "reviewCountFmt": "리뷰 637건",
+      "priceText": "₩₩ · 1박 약 66만원",
+      "walkMin": 6,
+      "refLabel": "Joaan Metro Gold line Station",
+      "star": 5,
+      "propertyId": 58344552,
+      "geo": {
+        "lat": 25.285053,
+        "lng": 51.499039
+      },
+      "priceKRW": 663191,
+      "priceStatus": "조회됨",
+      "distanceM": 481.34,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "대중교통 이용 편리",
+        "펄 기념비"
+      ],
+      "blurb": "평점 8.1 · 리뷰 637건. Joaan Metro Gold line Station까지 도보 6분, ₩₩ · 1박 약 66만원.",
+      "metaTags": [
+        "💰 1박 약 66만원",
+        "📝 리뷰 637건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Four Seasons Resort and Residences at The Pearl - Qatar",
+      "agodaUrl": "https://www.agoda.com/four-seasons-private-residence-at-the-pearl-qatar/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37022031/-1/7a6871874ebe23966d068c7485b52532.jpg?ce=0",
+      "score": 9.5,
+      "reviewCount": 312,
+      "reviewCountFmt": "리뷰 312건",
+      "priceText": "₩₩ · 1박 약 66만원",
+      "walkMin": 25,
+      "refLabel": "Legtaifiya Station",
+      "star": 5,
+      "propertyId": 37022031,
+      "geo": {
+        "lat": 25.36287,
+        "lng": 51.543198
+      },
+      "priceKRW": 663191,
+      "priceStatus": "조회됨",
+      "distanceM": 2036.66,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "착시 박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 312건. Legtaifiya Station까지 도보 25분, ₩₩ · 1박 약 66만원.",
+      "metaTags": [
+        "💰 1박 약 66만원",
+        "📝 리뷰 312건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Maysan Doha, LXR Hotels & Resorts",
+      "agodaUrl": "https://www.agoda.com/maysan-doha-lxr-hotels-resorts/hotel/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/895796943.jpg?k=d386ecaf716c889b46347d769b605cee5eecd6b2c493c78a9b9975f2bb891066&o=",
+      "score": 8.8,
+      "reviewCount": 30,
+      "reviewCountFmt": "리뷰 30건",
+      "priceText": "₩₩₩ · 1박 약 73만원",
+      "walkMin": 17,
+      "refLabel": "Al Aziziyah Station",
+      "star": 5,
+      "propertyId": 36370633,
+      "geo": {
+        "lat": 25.263805,
+        "lng": 51.43264
+      },
+      "priceKRW": 732634,
+      "priceStatus": "조회됨",
+      "distanceM": 1335.55,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "아스파이어 공원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 30건. Al Aziziyah Station까지 도보 17분, ₩₩₩ · 1박 약 73만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 73만원",
+        "📝 리뷰 30건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I have a wonderful time at the resort.",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Nice place for relaxation",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I really enjoyed my stay at the hotel.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Great place ..great escape from the world.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The best place I have ever seen",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "The Bentley Luxury Hotel and Suites",
+      "agodaUrl": "https://www.agoda.com/the-bentley-luxury-hotel-suites/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/25538366/-1/69031a5bb981aa0e8bbcb96e621f42f5.jpg?ca=21&ce=0",
+      "score": 8.8,
+      "reviewCount": 9356,
+      "reviewCountFmt": "리뷰 9,356건",
+      "priceText": "₩₩ · 1박 약 26만원",
+      "walkMin": 7,
+      "refLabel": "West Bay Qatar Energy Station",
+      "star": 5,
+      "propertyId": 25538366,
+      "geo": {
+        "lat": 25.320127,
+        "lng": 51.520901
+      },
+      "priceKRW": 257473,
+      "priceStatus": "조회됨",
+      "distanceM": 567.7,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "카타르 국립박물관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 9,356건. West Bay Qatar Energy Station까지 도보 7분, ₩₩ · 1박 약 26만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 26만원",
+        "📝 리뷰 9,356건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Really nice hotel, one of the best hotels I have stayed in.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The staff was exceptional and helpful in every day.",
+          "score": "10",
+          "country": "North Macedonia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "The rooms are pretty big, spacious and we love the interior.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Our suite was simply amazing and we really enjoyed our stay!",
+          "score": "10",
+          "country": "North Macedonia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Amazing best city view on roof swimming pool I had in Doha.",
+          "score": "9.2",
+          "country": "中国",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T17:42:39.926Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T17:42:39.926Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Katara Hills Doha, LXR Hotels & Resorts: reviewSample",
+        "Central Inn Al Sadd Suites Hotels: reviewSample",
+        "Four Seasons Resort and Residences at The Pearl - Qatar: reviewSample"
+      ]
+    }
+  }
+}
