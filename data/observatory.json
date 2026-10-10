@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 15,
+  "cursor": 16,
   "observations": [
     {
       "city": "몰디브",
@@ -2074,6 +2074,156 @@
           "priceKRW": 1101855,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/chateau-voltaire/hotel/all/paris-fr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "푸꾸옥",
+      "citySlug": "phu-quoc",
+      "cityId": 17188,
+      "observedAt": "2026-10-10T10:15:18.481Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "16909722",
+          "name": "M 빌라스 푸 꾸옥 (M Villas Phu Quoc)",
+          "priceKRW": 841548,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/m-villas-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "5943665",
+          "name": "선셋 사나토 리조트 앤 빌라 (Sunset Sanato Resort & Villas)",
+          "priceKRW": 758545,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sunset-sanato-resort-villas_2/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "6377313",
+          "name": "빈펄 원더월드 푸꾸옥 (Vinpearl Wonderworld Phu Quoc)",
+          "priceKRW": 661900,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/vinpearl-discovery-1-phu-quoc_5/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "4518431",
+          "name": "프리미어 빌리지 푸꾸옥 리조트 - 매니지드 바이 아코르 (Premier Village Phu Quoc Resort - Managed by Accor)",
+          "priceKRW": 648560,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/premier-village-phu-quoc-resort-managed-by-accorhotels/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "1624474",
+          "name": "JW 메리어트 푸쿽 에메랄드 베이 리조트 앤 스파 (JW Marriott Phu Quoc Emerald Bay Resort & Spa)",
+          "priceKRW": 594034,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jw-marriott-phu-quoc-emerald-bay-resort-spa/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "3648660",
+          "name": "인터컨티넨탈 푸꾸옥 롱비치 리조트 바이 IHG (InterContinental Phu Quoc Long Beach Resort By IHG)",
+          "priceKRW": 549348,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/intercontinental-phu-quoc-long-beach-resort/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "2169131",
+          "name": "그린 베이 푸쿽 리조트 앤 스파 (Green Bay Phu Quoc Resort and Spa)",
+          "priceKRW": 539462,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/green-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "31187083",
+          "name": "세일링 클럽 시그니처 리조트 푸꾸옥 (Sailing Club Signature Resort Phu Quoc)",
+          "priceKRW": 454444,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sailing-club-signature-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "46992320",
+          "name": "라 페스타 푸꾸옥, 큐리오 컬렉션 바이 힐튼 (La Festa Phu Quoc, Curio Collection by Hilton)",
+          "priceKRW": 411616,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-festa-phu-quoc-curio-collection-by-hilton/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "47021962",
+          "name": "그랜드 리조트 오션 베이 푸꾸옥 (Grand Resort Ocean Bay Phu Quoc)",
+          "priceKRW": 369521,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-resort-ocean-bay-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "5442703",
+          "name": "래디슨 블루 리조트 푸쿽 (Radisson Blu Resort Phu Quoc)",
+          "priceKRW": 355832,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/radisson-blu-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "21774298",
+          "name": "크라운 플라자 푸꾸옥 스타베이 바이 IHG (Crowne Plaza Phu Quoc Starbay By IHG)",
+          "priceKRW": 340870,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/crowne-plaza-phu-quoc-starbay/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "2430159",
+          "name": "씨쉘 푸꾸옥 호텔 앤 스파 (Seashells Phu Quoc Hotel & Spa)",
+          "priceKRW": 326840,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/seashells-phu-quoc-hotel-spa/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "83294991",
+          "name": "월드호텔스 롱 비치 리조트 푸쿡 (WorldHotels Long Beach Resort Phu Quoc)",
+          "priceKRW": 303412,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/worldhotels-long-beach-resort-phu-quoc-h83294991/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "1985199",
+          "name": "멜리아 빈펄 푸꾸옥 (Melia Vinpearl Phu Quoc)",
+          "priceKRW": 286053,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/vinpearl-discovery-2-phu-quoc_2/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "1032420",
+          "name": "쉐라톤 푸꾸옥 롱 비치 리조트 (Sheraton Phu Quoc Long Beach Resort)",
+          "priceKRW": 285254,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sheraton-phu-quoc-long-beach-resort/hotel/phu-qu-c-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "21967772",
+          "name": "오션 베이 푸꾸옥 리조트 앤 스파 (Ocean Bay Phu Quoc Resort & Spa)",
+          "priceKRW": 268044,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ocean-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "70425",
+          "name": "라 베란다 리조트 푸쿽 - M갤러리 (La Veranda Resort Phu Quoc - MGallery)",
+          "priceKRW": 276649,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-veranda-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "14654959",
+          "name": "무븐픽 리조트 웨이벌리 푸 꾸옥 (Mövenpick Resort Waverly Phu Quoc)",
+          "priceKRW": 272603,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/movenpick-resort-waverly-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        },
+        {
+          "key": "4462454",
+          "name": "티엔 탄 푸쿠옥 리조트 (Thien Thanh Phu Quoc Resort)",
+          "priceKRW": 250295,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/thien-thanh-phu-quoc-resort/hotel/phu-quoc-island-vn.html?cid=1925461"
         }
       ]
     }

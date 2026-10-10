@@ -1,0 +1,660 @@
+{
+  "slug": "honeymoon-krabi",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "크라비",
+  "citySlug": "krabi",
+  "cityId": 14865,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14865",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[크라비] 신혼여행 최고급 리조트 BEST — 평생 한 번의 숙소",
+  "metaDescription": "2026년 11월 크라비 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 87%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>나카만다 리조트 앤 스파</b>입니다 (평점 9 · 리뷰 2,591건 · 1박 약 51만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 26,
+        "pct": 87
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/44886/0/0bddb1964d9f6807d43738c1c49c6d60.jpeg?va=1&ce=3",
+  "heroAlt": "크라비 허니문 최고급 숙소",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "나카만다 리조트 앤 스파 (Nakamanda Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/nakamanda-resort-spa/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44886/0/0bddb1964d9f6807d43738c1c49c6d60.jpeg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 2591,
+      "reviewCountFmt": "리뷰 2,591건",
+      "priceText": "₩₩ · 1박 약 51만원",
+      "walkMin": 66,
+      "refLabel": "노파라타라 비치",
+      "star": 5,
+      "propertyId": 44886,
+      "geo": {
+        "lat": 8.055391,
+        "lng": 98.750702
+      },
+      "priceKRW": 511685,
+      "priceStatus": "조회됨",
+      "distanceM": 5316.63,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "클롱 무앙 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,591건. 노파라타라 비치까지 도보 66분, ₩₩ · 1박 약 51만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 51만원",
+        "📝 리뷰 2,591건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "숙소는 아름답고 환대는 훌륭합니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "나는 또한 현장 레스토랑과 수영장을 즐겼습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 매우 편안하고 넓은 객실 디자인을 좋아했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 요청하지 않고 더 나은 방으로 업그레이드되었습니다.",
+          "score": "9.2",
+          "country": "China",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "아침 식사 메뉴는 매일 바뀌는데 우리는 그 음식을 좋아합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "아나나 에콜로지컬 리조트 크라비 (Anana Ecological Resort Krabi)",
+      "agodaUrl": "https://www.agoda.com/anana-ecological-resort-krabi_3/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6430486/0/0d9315bd0b7b7ae868c055e59cfe9a72.jpg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 3954,
+      "reviewCountFmt": "리뷰 3,954건",
+      "priceText": "₩₩ · 1박 약 36만원",
+      "walkMin": 24,
+      "refLabel": "아오낭 비치",
+      "star": 5,
+      "propertyId": 6430486,
+      "geo": {
+        "lat": 8.035941,
+        "lng": 98.841209
+      },
+      "priceKRW": 363215,
+      "priceStatus": "조회됨",
+      "distanceM": 1886.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "아오낭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,954건. 아오낭 비치까지 도보 24분, ₩₩ · 1박 약 36만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 36만원",
+        "📝 리뷰 3,954건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그들의 서비스 덕분에 우리는 진심으로 환영받고 보살핌을 받고 있다는 느낌을 받았습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안하며 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "그러나 리조트의 아름다움은 멋진 위치에 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "방은 적당한 크기였고 침대는 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 따뜻하고 친절했으며 항상 도움을 주었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 쉘씨 크라비 럭셔리 비치 프론트 리조트 앤 풀 빌라 (The ShellSea Krabi Luxury Beach Front Resort & Pool Villa)",
+      "agodaUrl": "https://www.agoda.com/the-shell-sea-krabi/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1270506/0/438e8ee9d191172ee25857501ff45e0e.jpeg?va=1&ce=3",
+      "score": 8.8,
+      "reviewCount": 1265,
+      "reviewCountFmt": "리뷰 1,265건",
+      "priceText": "₩₩ · 1박 약 38만원",
+      "walkMin": 66,
+      "refLabel": "라일레이 해변",
+      "star": 5,
+      "propertyId": 1270506,
+      "geo": {
+        "lat": 8.025702,
+        "lng": 98.88331
+      },
+      "priceKRW": 377102,
+      "priceStatus": "조회됨",
+      "distanceM": 5249.74,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,265건. 라일레이 해변까지 도보 66분, ₩₩ · 1박 약 38만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 38만원",
+        "📝 리뷰 1,265건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 매우 깨끗하고 좋았으며 직원들은 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "그들은 모두 모든 숙박을 매우 특별하게 만들었습니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 현대적이며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "가장 인상 깊었던 점은 직원들의 친절함이었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "럭셔리함과 자연을 추구하는 분들에게 적극 추천합니다.",
+          "score": "9.6",
+          "country": "الإمارات العربية المتحدة",
+          "date": "2026.01",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "하이 트리 리조트, 끄라비 (High Tree Resort, Krabi)",
+      "agodaUrl": "https://www.agoda.com/high-tree-resort-krabi/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/61734761/0/e93ee10d83c90697519fe5f6c3e470fc.jpeg?va=1&ce=3",
+      "score": 9.5,
+      "reviewCount": 478,
+      "reviewCountFmt": "리뷰 478건",
+      "priceText": "₩₩ · 1박 약 42만원",
+      "walkMin": 51,
+      "refLabel": "라일레이 해변",
+      "star": 5,
+      "propertyId": 61734761,
+      "geo": {
+        "lat": 8.030514,
+        "lng": 98.86981
+      },
+      "priceKRW": 424857,
+      "priceStatus": "조회됨",
+      "distanceM": 4077.98,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "아오낭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 478건. 라일레이 해변까지 도보 51분, ₩₩ · 1박 약 42만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 42만원",
+        "📝 리뷰 478건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실 내 개인화된 관심이 차이를 만듭니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "놀라운 Nok 또는 Noky에 대한 특별한 언급입니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "호텔 가격은 저렴하지만 서비스 5⭐️⭐️⭐️음식은 할랄이고 훌륭합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 믿을 수 없을 정도로 친절하고 배려하며 세심했습니다.",
+          "score": "7.6",
+          "country": "ישראל",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "나와 내 파트너는 이 숙소를 추천합니다 :)",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "호텔 아담 끄라비 (Hotel Adam Krabi)",
+      "agodaUrl": "https://www.agoda.com/hotel-adam-krabi/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46863856/0/367bc4fc334d15fb3b858a7e33a000b8.jpeg?va=1",
+      "score": 9.4,
+      "reviewCount": 2573,
+      "reviewCountFmt": "리뷰 2,573건",
+      "priceText": "₩₩ · 1박 약 49만원",
+      "walkMin": 9,
+      "refLabel": "아오낭 비치",
+      "star": 5,
+      "propertyId": 46863856,
+      "geo": {
+        "lat": 8.032804,
+        "lng": 98.829391
+      },
+      "priceKRW": 494847,
+      "priceStatus": "조회됨",
+      "distanceM": 689.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "아오낭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 2,573건. 아오낭 비치까지 도보 9분, ₩₩ · 1박 약 49만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 49만원",
+        "📝 리뷰 2,573건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 완벽하고 직원들은 매우 친절하고 사려 깊습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 여기서 체류를 연장할 수 있었으면 좋았을 텐데요!",
+          "score": "10",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "호텔은 아름다웠고, 모든 것이 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "그 외에는 방이 넓고 매우 편안했습니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "프라이빗 풀이 있는 방을 이용했는데 정말 좋았어요!!",
+          "score": "10",
+          "country": "Israel",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "바라나 크라비 호텔 (VARANA Krabi Hotel)",
+      "agodaUrl": "https://www.agoda.com/varana-hotel/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37130656/0/a5192665af75c52f03d9555d8be381e0.jpeg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 2842,
+      "reviewCountFmt": "리뷰 2,842건",
+      "priceText": "₩₩ · 1박 약 29만원",
+      "walkMin": 68,
+      "refLabel": "노파라타라 비치",
+      "star": 5,
+      "propertyId": 37130656,
+      "geo": {
+        "lat": 8.057204,
+        "lng": 98.750343
+      },
+      "priceKRW": 291043,
+      "priceStatus": "조회됨",
+      "distanceM": 5402.03,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "클롱 무앙 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,842건. 노파라타라 비치까지 도보 68분, ₩₩ · 1박 약 29만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 29만원",
+        "📝 리뷰 2,842건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 리조트는 정말 너무 훌륭하고 좋은 인상을 받았습니다.",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방은 정말 사랑스럽고 넓었고 수영장 전망이 보였습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 자연스럽고 건강하며 세심하게 준비된 느낌이었습니다.",
+          "score": "10",
+          "country": "Lithuania",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "자쿠지 바다전망실에서 보이는 풍경은 숨이 막힐 정도 입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 머물기에 좋은 곳이며 이 호텔을 추천합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T10:14:57.413Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T10:14:57.413Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
