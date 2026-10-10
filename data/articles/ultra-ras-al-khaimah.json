@@ -1,0 +1,698 @@
+{
+  "slug": "ultra-ras-al-khaimah",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "라스알카이마",
+  "citySlug": "ras-al-khaimah",
+  "cityId": 12050,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=12050",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[라스알카이마] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 라스알카이마 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 50%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>리츠칼튼 라스 알 카이마, 알 와디 데저트</b>입니다 (평점 9.3 · 리뷰 1,983건 · 1박 약 106만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 7,
+        "pct": 23
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
+  "heroAlt": "라스알카이마 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리츠칼튼 라스 알 카이마, 알 와디 데저트 (The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-ras-al-khaimah-al-wadi-desert/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
+      "score": 9.3,
+      "reviewCount": 1983,
+      "reviewCountFmt": "리뷰 1,983건",
+      "priceText": "₩₩₩ · 1박 약 106만원",
+      "walkMin": null,
+      "refLabel": "중심가",
+      "star": 5,
+      "propertyId": 1781723,
+      "geo": {
+        "lat": 25.583921,
+        "lng": 55.834423
+      },
+      "priceKRW": 1063526,
+      "priceStatus": "조회됨",
+      "distanceM": null,
+      "locationStatus": "위치 상세 확인 필요",
+      "facilities": [
+        "일일 청소 서비스"
+      ],
+      "blurb": "평점 9.3 · 리뷰 1,983건. ₩₩₩ · 1박 약 106만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 106만원",
+        "📝 리뷰 1,983건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Saber ensured we were warmly greeted upon arrival.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location and extremely attentive staff.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "I went with my friend and our villa was upgraded for free.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "My experience at The Ritz-Carlton was absolutely amazing 🤍",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Akshay at the front desk was fast and efficient.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "리츠칼튼 라스 알 카이마, 알 함라 비치 (The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach)",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-ras-al-khaimah-al-hamra-beach_2/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/479647854.jpg?k=da5ce430c622746b62083b047c19e4a71020ef72f19b65ee2658dac264773b81&o=",
+      "score": 8.9,
+      "reviewCount": 779,
+      "reviewCountFmt": "리뷰 779건",
+      "priceText": "₩₩₩ · 1박 약 105만원",
+      "walkMin": 6,
+      "refLabel": "알 자지라 알 함라 요새",
+      "star": 5,
+      "propertyId": 2987322,
+      "geo": {
+        "lat": 25.694324,
+        "lng": 55.775818
+      },
+      "priceKRW": 1054576,
+      "priceStatus": "조회됨",
+      "distanceM": 448.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "알 함라 몰",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 779건. 알 자지라 알 함라 요새까지 도보 6분, ₩₩₩ · 1박 약 105만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 105만원",
+        "📝 리뷰 779건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Perfect destination hotel to unwind for the week end.",
+          "score": "8",
+          "country": "United Arab Emirates",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Their outstanding service made our stay even more enjoyable.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the villa with private pool",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great staff, villas nicer in real life than in the pictures",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "A flawless experience at the RC Al Hamra in RAK.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "아난타라 미나 라스 알 카이마 리조트 (Anantara Mina Ras Al Khaimah Resort)",
+      "agodaUrl": "https://www.agoda.com/anantara-mina-al-arab-ras-al-khaimah-resort/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/525370390.jpg?k=fddba8c1e6ea25a6f828e273a036c2e4aafc37d4a6e098eadd0d3c4c017ba234&o=",
+      "score": 9.1,
+      "reviewCount": 2251,
+      "reviewCountFmt": "리뷰 2,251건",
+      "priceText": "₩₩ · 1박 약 44만원",
+      "walkMin": 89,
+      "refLabel": "Rak Bus Station",
+      "star": 5,
+      "propertyId": 44853232,
+      "geo": {
+        "lat": 25.721333,
+        "lng": 55.850952
+      },
+      "priceKRW": 436956,
+      "priceStatus": "조회됨",
+      "distanceM": 7156.39,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "아이스랜드 워터파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 2,251건. Rak Bus Station까지 도보 89분, ₩₩ · 1박 약 44만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 44만원",
+        "📝 리뷰 2,251건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Sulaiman make sure everything was perfect during the stay",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Will come back so many times for the best service",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Thank you, Anantara team, for your amazing hospitality!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel is absolutely perfect with no faults at all",
+          "score": "10",
+          "country": "Egypt",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Genuinely an amazing hotel, with amazing staff.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Rixos Al Mairid Ras Al Khaimah",
+      "agodaUrl": "https://www.agoda.com/hilton-ras-al-khaimah-resort-amp-spa/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59337288/0/5e8698f6a64cf842f042d2d8b669296d.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 1271,
+      "reviewCountFmt": "리뷰 1,271건",
+      "priceText": "₩₩₩ · 1박 약 76만원",
+      "walkMin": 101,
+      "refLabel": "Rak Bus Station",
+      "star": 5,
+      "propertyId": 59337288,
+      "geo": {
+        "lat": 25.81386,
+        "lng": 55.958141
+      },
+      "priceKRW": 760537,
+      "priceStatus": "조회됨",
+      "distanceM": 8086.88,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "알 마나르 몰",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 1,271건. Rak Bus Station까지 도보 101분, ₩₩₩ · 1박 약 76만원.",
+      "metaTags": [
+        "💰 1박 약 76만원",
+        "📝 리뷰 1,271건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "In a nutshell, an amazing stay in an amazing resort!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotel ever iFantastic experience",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I liked it so much the kids enjoyed the pools and the beach!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The team is extremely friendly, welcoming, and helpful.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Overall we enjoyed our overnight staycation.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "인터컨티넨탈 라스알카이마 리조트 앤 스파 바이 IHG (InterContinental Ras Al Khaimah Resort And Spa By IHG)",
+      "agodaUrl": "https://www.agoda.com/intercontinental-ras-al-khaimah-resort-and-spa/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/27884223/0/817be554456d4f96d0ce610a9c08d2c3.jpeg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 2638,
+      "reviewCountFmt": "리뷰 2,638건",
+      "priceText": "₩₩ · 1박 약 29만원",
+      "walkMin": 91,
+      "refLabel": "Rak Bus Station",
+      "star": 5,
+      "propertyId": 27884223,
+      "geo": {
+        "lat": 25.725895,
+        "lng": 55.847134
+      },
+      "priceKRW": 293412,
+      "priceStatus": "조회됨",
+      "distanceM": 7257.81,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "아이스랜드 워터파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,638건. Rak Bus Station까지 도보 91분, ₩₩ · 1박 약 29만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 29만원",
+        "📝 리뷰 2,638건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It's a paradise! Loved every moment exploring the resort.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "They upgraded our room to a villa suite so it was great.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Thank you Intercontinental, hopefully we can come back again",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Great location, facilities and brilliant staff.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The staff are friendly and attentive as well.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "무벤픽 리조트 알 마르잔 아일랜드 (Mövenpick Resort Al Marjan Island)",
+      "agodaUrl": "https://www.agoda.com/movenpick-resort-al-marjan-island/hotel/umm-al-quwain-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31037405/0/2c8ef9348409def00afac4d698f7934f.jpeg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 5168,
+      "reviewCountFmt": "리뷰 5,168건",
+      "priceText": "₩₩ · 1박 약 27만원",
+      "walkMin": 49,
+      "refLabel": "알 자지라 알 함라 요새",
+      "star": 5,
+      "propertyId": 31590195,
+      "geo": {
+        "lat": 25.672798,
+        "lng": 55.741772
+      },
+      "priceKRW": 273600,
+      "priceStatus": "조회됨",
+      "distanceM": 3937.37,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "알 함라 몰",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 5,168건. 알 자지라 알 함라 요새까지 도보 49분, ₩₩ · 1박 약 27만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 27만원",
+        "📝 리뷰 5,168건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the highlights is dining at the Moroccan restaurant.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very amazing hotel and facility as well ,staff very helpful.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The service was excellent and requests were handled quickly.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Amazing view from the room and excellent breakfast buffet 👌",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "They were all very very friendly and helpful and polite..",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T03:17:29.158Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-16 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T03:17:29.158Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "리츠칼튼 라스 알 카이마, 알 와디 데저트 (The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert): location"
+      ]
+    }
+  }
+}

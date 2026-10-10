@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 14,
+  "cursor": 15,
   "observations": [
     {
       "city": "몰디브",
@@ -1945,6 +1945,135 @@
           "priceKRW": 922365,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/conrad-new-york-downtown/hotel/new-york-ny-us.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "파리",
+      "citySlug": "paris",
+      "cityId": 15470,
+      "observedAt": "2026-10-10T03:17:46.953Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "3849634",
+          "name": "만다린 오리엔탈 파리 (Mandarin Oriental, Paris)",
+          "priceKRW": 3701780,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-paris_10/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "9385518",
+          "name": "리츠 파리 (Ritz Paris)",
+          "priceKRW": 3610976,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ritz-paris_3/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10256407",
+          "name": "르 브리스톨 파리 - 언 오에트커 컬렉션 호텔 (Le Bristol Paris - an Oetker Collection Hotel)",
+          "priceKRW": 3316528,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/le-bristol-paris-an-oetker-collection-hotel_2/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "26039232",
+          "name": "Cheval Blanc Paris & Dior Spa Cheval Blanc Paris",
+          "priceKRW": 3203571,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cheval-blanc-paris-dior-spa-cheval-blanc-paris/hotel/all/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "28854353",
+          "name": "불가리 호텔 파리 (Bvlgari Hotel Paris)",
+          "priceKRW": 3203571,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bvlgari-hotel-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10256902",
+          "name": "포시즌스 호텔 조지 V 파리 (Four Seasons Hotel George V Paris)",
+          "priceKRW": 3158489,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-george-v-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10256536",
+          "name": "라 레세흐브 파리 호텔 앤 스파 (La Reserve Paris Hotel & Spa)",
+          "priceKRW": 3063683,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-reserve-paris-hotel-and-spa/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "13823116",
+          "name": "호텔 더 페닌슐라 파리 (Hotel The Peninsula Paris)",
+          "priceKRW": 2969344,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ha-tel-the-peninsula-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "2482550",
+          "name": "호텔 드 크리용 (Hotel de Crillon)",
+          "priceKRW": 2878516,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-de-crillon_2/hotel/all/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "13836152",
+          "name": "샹그릴라 호텔 파리 (Shangri-La Hotel, Paris)",
+          "priceKRW": 2602486,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shangri-la-hotel-paris_3/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "7591520",
+          "name": "디즈니랜드® 호텔 (Disneyland® Hotel)",
+          "priceKRW": 2752008,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/disneyland-hotel_16/hotel/all/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10257516",
+          "name": "호텔 플라자 아테네 - 도체스터 컬렉션 (Hotel Plaza Athenee - Dorchester Collection)",
+          "priceKRW": 2406217,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-plaza-athenee-dorchester-collection_2/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "13829298",
+          "name": "르 메우리스 도체스터 컬렉션 (Le Meurice – Dorchester Collection)",
+          "priceKRW": 2347025,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/le-meurice_11/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "2261095",
+          "name": "Fouquet's Paris",
+          "priceKRW": 2067521,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-barriere-le-fouquet-s-paris_2/hotel/all/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "242957",
+          "name": "르 로얄 몽소 호텔 래플스 파리 (Le Royal Monceau Hotel Raffles Paris)",
+          "priceKRW": 1836103,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/le-royal-monceau-hotel-raffles-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "3723",
+          "name": "프린스 드 갈, 어 럭셔리 컬렉션 호텔, 파리 (Prince de Galles, a Luxury Collection Hotel, Paris)",
+          "priceKRW": 1509324,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/prince-de-galles-a-luxury-collection-hotel-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "26849736",
+          "name": "Château Voltaire (Chateau Voltaire)",
+          "priceKRW": 1101855,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/chateau-voltaire/hotel/all/paris-fr.html?cid=1925461"
         }
       ]
     }
