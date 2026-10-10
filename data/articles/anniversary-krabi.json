@@ -1,0 +1,665 @@
+{
+  "slug": "anniversary-krabi",
+  "theme": "anniversary",
+  "audience": "기념일 여행",
+  "emoji": "🥂",
+  "city": "크라비",
+  "citySlug": "krabi",
+  "cityId": 14865,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14865",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[크라비] 결혼기념일을 위한 최고급 호텔 & 스위트",
+  "metaDescription": "2026년 11월 크라비 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
+  "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 44%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>반얀 트리 끄라비</b>입니다 (평점 9.2 · 리뷰 1,818건 · 1박 약 150만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "aggregate": {
+    "total": 27,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 12,
+        "pct": 44
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 11,
+        "pct": 41
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/15883990/-1/824d37080a037258f15d78b2f25a459b.jpg?va=1&ca=15&ce=1",
+  "heroAlt": "크라비 기념일 여행 최고급 숙소",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "반얀 트리 끄라비 (Banyan Tree Krabi)",
+      "agodaUrl": "https://www.agoda.com/banyan-tree-krabi/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/15883990/-1/824d37080a037258f15d78b2f25a459b.jpg?va=1&ca=15&ce=1",
+      "score": 9.2,
+      "reviewCount": 1818,
+      "reviewCountFmt": "리뷰 1,818건",
+      "priceText": "₩₩₩ · 1박 약 150만원",
+      "walkMin": 97,
+      "refLabel": "노파라타라 비치",
+      "star": 5,
+      "propertyId": 15883990,
+      "geo": {
+        "lat": 8.095243,
+        "lng": 98.747993
+      },
+      "priceKRW": 1495822,
+      "priceStatus": "조회됨",
+      "distanceM": 7745.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "클롱 무앙 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,818건. 노파라타라 비치까지 도보 97분, ₩₩₩ · 1박 약 150만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 150만원",
+        "📝 리뷰 1,818건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This has to be the best hotel stay we have ever experienced.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Such amazing hospitality and vibes was enjoyable and luxury",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Their impeccable service made our stay even more memorable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The room, the food, the spa, the beach and again the staff.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "They truly think of everything to make your stay perfect.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "풀라이 베이, 어 리츠칼튼 리저브 (Phulay Bay, a Ritz-Carlton Reserve)",
+      "agodaUrl": "https://www.agoda.com/phulay-bay-a-ritz-carlton-reserve/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/484/48412/48412_17062218060053986819.jpg?va=1&ca=6&ce=1",
+      "score": 9.4,
+      "reviewCount": 558,
+      "reviewCountFmt": "리뷰 558건",
+      "priceText": "₩₩₩ · 1박 약 150만원",
+      "walkMin": 90,
+      "refLabel": "노파라타라 비치",
+      "star": 5,
+      "propertyId": 48412,
+      "geo": {
+        "lat": 8.084979,
+        "lng": 98.745796
+      },
+      "priceKRW": 1495822,
+      "priceStatus": "조회됨",
+      "distanceM": 7187.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "클롱 무앙 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 558건. 노파라타라 비치까지 도보 90분, ₩₩₩ · 1박 약 150만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 150만원",
+        "📝 리뷰 558건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The food was perfect and the amenities even better.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Amazing service thank u soo much for the general manger ❤️",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "What truly elevates Phulay Bay is the phenomenal staff.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The ocean village room is truly exceptional",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Our stay last weekend had been nothing but amazing.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "그랜드 머큐어 끄라비 아오낭 (Grand Mercure Krabi Ao Nang)",
+      "agodaUrl": "https://www.agoda.com/grand-mercure-krabi-aonang/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81666314/0/b418c12ec93691079d93b412923cdc1e.jpg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 203,
+      "reviewCountFmt": "리뷰 203건",
+      "priceText": "₩₩ · 1박 약 43만원",
+      "walkMin": 11,
+      "refLabel": "아오낭 비치",
+      "star": 5,
+      "propertyId": 81666314,
+      "geo": {
+        "lat": 8.034958,
+        "lng": 98.829216
+      },
+      "priceKRW": 434976,
+      "priceStatus": "조회됨",
+      "distanceM": 848.01,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "아오낭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 203건. 아오낭 비치까지 도보 11분, ₩₩ · 1박 약 43만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 43만원",
+        "📝 리뷰 203건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Vino, the restaurant on site, has some really good food too.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "3)The room is super clean, useful, and spacious.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Peaceful atmosphere, great service, and very friendly staff.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The room is super clean, useful, and spacious.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Pizza and Thai dishes are unbelievably tasty.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "홀리데이 아오낭 비치 리조트, 끄라비 (Holiday Ao Nang Beach Resort, Krabi)",
+      "agodaUrl": "https://www.agoda.com/holiday-ao-nang-beach-resort-krabi/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/108579/-1/69bc03fb36fd4794ac67510085700bd6.jpg?va=1&ce=0",
+      "score": 8.5,
+      "reviewCount": 6397,
+      "reviewCountFmt": "리뷰 6,397건",
+      "priceText": "₩₩ · 1박 약 32만원",
+      "walkMin": 1,
+      "refLabel": "노파라타라 비치",
+      "star": 5,
+      "propertyId": 108579,
+      "geo": {
+        "lat": 8.039731,
+        "lng": 98.815254
+      },
+      "priceKRW": 321108,
+      "priceStatus": "조회됨",
+      "distanceM": 39.73,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "아오낭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 6,397건. 노파라타라 비치까지 도보 1분, ₩₩ · 1박 약 32만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 32만원",
+        "📝 리뷰 6,397건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, a fantastic stay for families — highly recommended.",
+          "score": "10",
+          "country": "Emirats Àrabs Units",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The food was amazing, facilities and staff were exceptional.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "We were also impressed with the reliable Wi-Fi connection.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Just one word.-brilliant ...in all dept...no complains",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "My kids love the pool that was connected with slide.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "에코 인 코티지 바이 아오낭 힐 (Eco Inn Cottage by Aonang Hill)",
+      "agodaUrl": "https://www.agoda.com/ecoinn-cottage-krabi/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44463690/-1/034e4f8f9a75e712780a9bdfa31f34c1.jpg?va=1&ce=0",
+      "score": 9.2,
+      "reviewCount": 564,
+      "reviewCountFmt": "리뷰 564건",
+      "priceText": "₩₩ · 1박 약 24만원",
+      "walkMin": 11,
+      "refLabel": "아오낭 비치",
+      "star": 5,
+      "propertyId": 44463690,
+      "geo": {
+        "lat": 8.035237,
+        "lng": 98.82936
+      },
+      "priceKRW": 240033,
+      "priceStatus": "조회됨",
+      "distanceM": 885.71,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "아오낭 비치"
+      ],
+      "blurb": "평점 9.2 · 리뷰 564건. 아오낭 비치까지 도보 11분, ₩₩ · 1박 약 24만원. 연인·커플 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 1박 약 24만원",
+        "📝 리뷰 564건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had a family room which was a great size and clean .",
+          "score": "7.6",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Great location, the view is beautiful, next to restaurants.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great Hotel with a very nice Pool and Garden.",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Would absolutely recommend, a hidden gem",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Very solid spot! It's right in the heart of Ao Nang, Krabi.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "골든 팜 리조트 (Golden Palm Resort)",
+      "agodaUrl": "https://www.agoda.com/golden-palm-resort-h34055596/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34055596/0/604bb6c3b4536e109d69b8f341f0e14d.jpg?va=1&ce=2",
+      "score": 6.6,
+      "reviewCount": 31,
+      "reviewCountFmt": "리뷰 31건",
+      "priceText": "₩₩ · 1박 약 24만원",
+      "walkMin": 47,
+      "refLabel": "아오낭 비치",
+      "star": 5,
+      "propertyId": 34055596,
+      "geo": {
+        "lat": 8.043221,
+        "lng": 98.856773
+      },
+      "priceKRW": 240096,
+      "priceStatus": "조회됨",
+      "distanceM": 3778.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "아오낭 비치",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 6.6 · 리뷰 31건. 아오낭 비치까지 도보 47분, ₩₩ · 1박 약 24만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 24만원",
+        "📝 리뷰 31건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Excellent value and the best service imaginable.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Very big, clean and modern rooms.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T16:34:16.584Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T16:34:16.584Z",
+    "source": "agoda citySearch",
+    "daysAhead": 36,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

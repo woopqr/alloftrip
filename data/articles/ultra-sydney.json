@@ -1,0 +1,686 @@
+{
+  "slug": "ultra-sydney",
+  "theme": "ultra",
+  "audience": "울트라 럭셔리",
+  "emoji": "👑",
+  "city": "시드니",
+  "citySlug": "sydney",
+  "cityId": 14370,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14370",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[시드니] 버킷리스트에 올릴 울트라 럭셔리 호텔 & 빌라",
+  "metaDescription": "2026년 11월 시드니 울트라 럭셔리 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "숙소 자체가 목적지가 되는 여행이 있습니다. 그 도시에서 가장 높은 가격대, 가장 좋은 평가를 받는 스위트와 펜트하우스, 프라이빗 빌라를 모았습니다.",
+  "viewpoint": "오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 67%가 연인·커플 여행자의 리뷰입니다. 울트라 럭셔리 기준 1순위는 <b>파크 하얏트 - 시드니</b>입니다 (평점 9.3 · 리뷰 512건 · 1박 약 167만원). 오직 최정상만: 가장 높은 가격과 가장 탄탄한 리뷰 순으로, 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/41730116/0/a8c38c2b81b22ae731d96b32edc5b7f1.jpeg?va=1&ce=3",
+  "heroAlt": "시드니 울트라 럭셔리 최고급 숙소",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "파크 하얏트 - 시드니 (Park Hyatt - Sydney)",
+      "agodaUrl": "https://www.agoda.com/park-hyatt-sydney_5/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41730116/0/a8c38c2b81b22ae731d96b32edc5b7f1.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 512,
+      "reviewCountFmt": "리뷰 512건",
+      "priceText": "₩₩₩ · 1박 약 167만원",
+      "walkMin": 8,
+      "refLabel": "서큘러 키역",
+      "star": 5,
+      "propertyId": 41730116,
+      "geo": {
+        "lat": -33.855659,
+        "lng": 151.209396
+      },
+      "priceKRW": 1672097,
+      "priceStatus": "조회됨",
+      "distanceM": 628.63,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 512건. 서큘러 키역까지 도보 8분, ₩₩₩ · 1박 약 167만원.",
+      "metaTags": [
+        "💰 1박 약 167만원",
+        "📝 리뷰 512건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The service is very nice, highly recommended!",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Impeccable service great location and facilities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "5 star all the way from service to location !",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "View was splendid from the room and roof top pool.",
+          "score": "10",
+          "country": "澳洲",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The staff were so good to me and my family.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "카펠라 시드니 (Capella Sydney)",
+      "agodaUrl": "https://www.agoda.com/capella-sydney-h41691969/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45894224/0/0673dd7ccb289dd3483f370fb78f0110.jpeg?va=1&ce=3",
+      "score": 9.5,
+      "reviewCount": 1340,
+      "reviewCountFmt": "리뷰 1,340건",
+      "priceText": "₩₩₩ · 1박 약 110만원",
+      "walkMin": 2,
+      "refLabel": "Sydney Light Rail",
+      "star": 5,
+      "propertyId": 45894224,
+      "geo": {
+        "lat": -33.863091,
+        "lng": 151.210363
+      },
+      "priceKRW": 1103454,
+      "priceStatus": "조회됨",
+      "distanceM": 174.85,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.5 · 리뷰 1,340건. Sydney Light Rail까지 도보 2분, ₩₩₩ · 1박 약 110만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 110만원",
+        "📝 리뷰 1,340건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Every space of this hotel was thought out and awe inspiring.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Capella is the ultimate luxury place to stay in Sydney.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "It was curated to make your stay unforgettable.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "This was no chocolate on your pillow surprise.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Attention to detail, presentation and staff are fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Crown Towers Sydney",
+      "agodaUrl": "https://www.agoda.com/crown-towers-sydney_2/hotel/all/sydney-au.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/603946581.jpg?k=e77c6491b98d516dd77735599991a9615b1ac802ed98ab375d4465cf2c475d40&o=",
+      "score": 8.9,
+      "reviewCount": 2212,
+      "reviewCountFmt": "리뷰 2,212건",
+      "priceText": "₩₩₩ · 1박 약 90만원",
+      "walkMin": 7,
+      "refLabel": "윈야드역",
+      "star": 5,
+      "propertyId": 32586621,
+      "geo": {
+        "lat": -33.86256,
+        "lng": 151.201202
+      },
+      "priceKRW": 895668,
+      "priceStatus": "조회됨",
+      "distanceM": 533.41,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든"
+      ],
+      "blurb": "평점 8.9 · 리뷰 2,212건. 윈야드역까지 도보 7분, ₩₩₩ · 1박 약 90만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 90만원",
+        "📝 리뷰 2,212건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our room was spacious, modern, clean, and very comfortable.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Location wonderful, as is the pool and restaurants on site.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Every detail was covered and the views were spectacular.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Everything you need at a great location!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The facilities were great and the service was excellent.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "풀맨 키 그랜드 시드니 하버 (Pullman Quay Grand Sydney Harbour)",
+      "agodaUrl": "https://www.agoda.com/pullman-quay-grand-sydney-harbour/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2853/0/e1e6114ad2aef61e3bfabc27f7fbc957.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 1349,
+      "reviewCountFmt": "리뷰 1,349건",
+      "priceText": "₩₩₩ · 1박 약 76만원",
+      "walkMin": 3,
+      "refLabel": "서큘러 키역",
+      "star": 5,
+      "propertyId": 2853,
+      "geo": {
+        "lat": -33.860687,
+        "lng": 151.212936
+      },
+      "priceKRW": 763467,
+      "priceStatus": "조회됨",
+      "distanceM": 218.23,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 1,349건. 서큘러 키역까지 도보 3분, ₩₩₩ · 1박 약 76만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 76만원",
+        "📝 리뷰 1,349건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I can’t say enough good things about this hotel.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The room was exceptional — easily 100% worth it.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Views of the harbour bridge from our balcony.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Booked the harbour bridge view room and it was amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Fabulous location and spacious suite with everything",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "메리톤 스위트 서섹스 스트리트 (Meriton Suites Sussex Street)",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-sussex-street_2/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8673927/0/b0b2f78fdeed995314d7a9fd0e7de540.jpeg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 7990,
+      "reviewCountFmt": "리뷰 7,990건",
+      "priceText": "₩₩ · 1박 약 41만원",
+      "walkMin": 4,
+      "refLabel": "타운 홀역",
+      "star": 5,
+      "propertyId": 8673927,
+      "geo": {
+        "lat": -33.872193,
+        "lng": 151.204091
+      },
+      "priceKRW": 412178,
+      "priceStatus": "조회됨",
+      "distanceM": 309.06,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 7,990건. 타운 홀역까지 도보 4분, ₩₩ · 1박 약 41만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 41만원",
+        "📝 리뷰 7,990건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We have a comfortable stay at Meriton Suites Sussex Suite.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Great experience, 5 star accommodation, excellent team.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Our Studio was lovely & clean & has everything you required.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "They made our time at the Meriton one to remember.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Excellent stay. Very spacious rooms and centrally located.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "메리톤 스위트 켄트 스트리트 (Meriton Suites Kent Street)",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-kent-street/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/148869/-1/607026d81e03b524da202795e9b99cf7.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 11859,
+      "reviewCountFmt": "리뷰 11,859건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 4,
+      "refLabel": "타운 홀역",
+      "star": 5,
+      "propertyId": 148869,
+      "geo": {
+        "lat": -33.875938,
+        "lng": 151.205673
+      },
+      "priceKRW": 398127,
+      "priceStatus": "조회됨",
+      "distanceM": 293.74,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 11,859건. 타운 홀역까지 도보 4분, ₩₩ · 1박 약 40만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 11,859건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff were genuinely friendly and exceptionally helpful.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "It really feels like a home away from home.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Our spacious suite was very comfortable and well equipped.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and the bed is comfortable to sleep in.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "When it comes to location, this hotel is second to none.",
+          "score": "8",
+          "country": "Indonesia",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T16:34:34.096Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T16:34:34.096Z",
+    "source": "agoda citySearch",
+    "daysAhead": 36,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
