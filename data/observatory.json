@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 17,
+  "cursor": 18,
   "observations": [
     {
       "city": "몰디브",
@@ -2374,6 +2374,107 @@
           "priceKRW": 277552,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/movenpick-resort-waverly-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "푸켓",
+      "citySlug": "phuket",
+      "cityId": 16056,
+      "observedAt": "2026-10-10T23:05:49.986Z",
+      "daysAhead": 30,
+      "condition": "성인 2명, 객실 1개, 1박, KRW(세금·봉사료 포함), 5성급",
+      "hotels": [
+        {
+          "key": "2838322",
+          "name": "로즈우드 푸켓 (Rosewood Phuket)",
+          "priceKRW": 2135171,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rosewood-phuket_3/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "296788",
+          "name": "빌라 반 푸 프라나 (Villa Baan Phu Prana)",
+          "priceKRW": 2051196,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/villa-baan-phu-prana/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3073929",
+          "name": "Trisara Villas & Residences Phuket",
+          "priceKRW": 1972213,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/trisara-sha-plus_2/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "17641654",
+          "name": "V 빌라 푸켓 - 엠갤러리 (V Villas Phuket - Mgallery)",
+          "priceKRW": 1708137,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/v-villas-phuket-mgallery/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3072111",
+          "name": "Keemala",
+          "priceKRW": 1586826,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/keemala-sha-plus_3/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "177991",
+          "name": "더 쇼어 앳 카타타니 - 성인 전용 (The Shore at Katathani - Adults only)",
+          "priceKRW": 1343428,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-shore-at-katathani-adults-only/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "527702",
+          "name": "아난타라 라얀 푸켓 리조트 (SHA Extra Plus) (Anantara Layan Phuket Resort)",
+          "priceKRW": 1298253,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anantara-layan-phuket-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10936",
+          "name": "더 수린 푸켓 (The Surin Phuket)",
+          "priceKRW": 1183529,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-surin-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10884",
+          "name": "반얀트리 푸켓 (Banyan Tree Phuket )",
+          "priceKRW": 1055293,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/banyan-tree-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "37161110",
+          "name": "Three Monkeys Villas",
+          "priceKRW": 999331,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/three-monkeys-villas/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3078894",
+          "name": "Kata Rocks",
+          "priceKRW": 1053770,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kata-rocks-sha-extra-plus_2/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3082798",
+          "name": "Andara Resort Villas",
+          "priceKRW": 952921,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/andara-resort-villas_4/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "6592301",
+          "name": "인터컨티넨탈 푸켓 리조트 바이 IHG (InterContinental Phuket Resort By IHG)",
+          "priceKRW": 878979,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/intercontinental-phuket-resort/hotel/phuket-th.html?cid=1925461"
         }
       ]
     }

@@ -1,0 +1,701 @@
+{
+  "slug": "honeymoon-sydney",
+  "theme": "honeymoon",
+  "audience": "허니문",
+  "emoji": "💍",
+  "city": "시드니",
+  "citySlug": "sydney",
+  "cityId": 14370,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14370",
+  "season": "",
+  "seasonNote": "",
+  "travelMonthLabel": "2026년 11월",
+  "title": "[시드니] 허니무너를 위한 프라이빗 풀빌라 & 5성 리조트",
+  "metaDescription": "2026년 11월 시드니 허니문 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
+  "intro": "신혼여행은 '어디에 묵느냐'가 여행의 전부가 되는 단 한 번의 여행입니다. 5성급 중에서도 가장 높은 가격대와 깊이 있는 리뷰를 갖춘 리조트와 풀빌라만 모았습니다.",
+  "viewpoint": "가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 67%가 연인·커플 여행자의 리뷰입니다. 허니문 기준 1순위는 <b>메리톤 스위트 노스 시드니</b>입니다 (평점 8.9 · 리뷰 3,156건 · 1박 약 44만원). 가격대가 가장 높고 커플 리뷰가 풍부한 5성급 리조트와 프라이빗 빌라를 우선했습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/123/1239345/1239345_16071313370044640613.jpg?va=1&ca=6&ce=1",
+  "heroAlt": "시드니 허니문 최고급 숙소",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "메리톤 스위트 노스 시드니 (Meriton Suites North Sydney)",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-north-sydney/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/123/1239345/1239345_16071313370044640613.jpg?va=1&ca=6&ce=1",
+      "score": 8.9,
+      "reviewCount": 3156,
+      "reviewCountFmt": "리뷰 3,156건",
+      "priceText": "₩₩ · 1박 약 44만원",
+      "walkMin": 3,
+      "refLabel": "노스 시드니역",
+      "star": 5,
+      "propertyId": 8707172,
+      "geo": {
+        "lat": -33.83942,
+        "lng": 151.209915
+      },
+      "priceKRW": 435224,
+      "priceStatus": "조회됨",
+      "distanceM": 265.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,156건. 노스 시드니역까지 도보 3분, ₩₩ · 1박 약 44만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 44만원",
+        "📝 리뷰 3,156건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I have never stayed in a hotel that has been as clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Staff were friendly and helpful throughout the stay,",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Appartments are excellent and have breath taking views.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "I highly recommended this hotel for anyone visiting Sydney.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, modern, and very comfortable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 세벨 키 웨스트 스위트 시드니 (The Sebel Quay West Suites Sydney)",
+      "agodaUrl": "https://www.agoda.com/quay-west-suites-sydney/hotel/sydney-au.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/914543792.jpg?k=06c62cc081c8595235b5890ba0bc896dba5d621c046e09e3aa9be397d95e2260&o=",
+      "score": 9,
+      "reviewCount": 2095,
+      "reviewCountFmt": "리뷰 2,095건",
+      "priceText": "₩₩ · 1박 약 47만원",
+      "walkMin": 3,
+      "refLabel": "Sydney Light Rail",
+      "star": 5,
+      "propertyId": 4761,
+      "geo": {
+        "lat": -33.861813,
+        "lng": 151.206802
+      },
+      "priceKRW": 467047,
+      "priceStatus": "조회됨",
+      "distanceM": 257.01,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,095건. Sydney Light Rail까지 도보 3분, ₩₩ · 1박 약 47만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 47만원",
+        "📝 리뷰 2,095건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location is perfect just 5 mins walk to Circular Quay.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "The pool and spa was a plus, did I mention the view?",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "We had the best stay during New Year's eve period.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "When we got inside our room, it was spotless and spacious.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Amazing views, rooms and place was comfortable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Shangri-La Sydney",
+      "agodaUrl": "https://www.agoda.com/shangri-la-sydney_15/hotel/all/sydney-au.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/328134332.jpg?k=7a56b09459962508c3658ff40974828853cd3d0cb812e5aa452facffe86fd14a&o=",
+      "score": 8.9,
+      "reviewCount": 12340,
+      "reviewCountFmt": "리뷰 12,340건",
+      "priceText": "₩₩ · 1박 약 53만원",
+      "walkMin": 4,
+      "refLabel": "Sydney Light Rail",
+      "star": 5,
+      "propertyId": 3135685,
+      "geo": {
+        "lat": -33.861298,
+        "lng": 151.206268
+      },
+      "priceKRW": 527192,
+      "priceStatus": "조회됨",
+      "distanceM": 308.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 12,340건. Sydney Light Rail까지 도보 4분, ₩₩ · 1박 약 53만원. 연인·커플 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 1박 약 53만원",
+        "📝 리뷰 12,340건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I have no complaints—it’s worth every single dollar spent.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "One of the best places to stay in with a wonderful view.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Perfect location, luxurious amenities and superb staff.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The facilities are fantastic and rooms are decent size.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "Beautiful breakfast and cool bar and view on level 36",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "메리톤 스위트 제틀랜드 (Meriton Suites Zetland)",
+      "agodaUrl": "https://www.agoda.com/meriton-suites-zetland/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8707177/0/465279f9e372a1eb5709bd15764346f5.jpeg?va=1&ce=3",
+      "score": 8.8,
+      "reviewCount": 4888,
+      "reviewCountFmt": "리뷰 4,888건",
+      "priceText": "₩₩ · 1박 약 40만원",
+      "walkMin": 12,
+      "refLabel": "Green Square",
+      "star": 5,
+      "propertyId": 8707177,
+      "geo": {
+        "lat": -33.908058,
+        "lng": 151.212753
+      },
+      "priceKRW": 397785,
+      "priceStatus": "조회됨",
+      "distanceM": 973.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 4,888건. Green Square까지 도보 12분, ₩₩ · 1박 약 40만원. 연인·커플 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 1박 약 40만원",
+        "📝 리뷰 4,888건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room was surprisingly spacious, comfortable and clean",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean, modern, and felt brand new.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Location is great just 15min away from the city",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Would stay again and can recommend Meriton Zetland",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Meriton Suites Zetland offers a good deal for the room size.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "스카이 스위트 시드니 (SKYE Suites Sydney)",
+      "agodaUrl": "https://www.agoda.com/skye-suites-sydney_2/hotel/sydney-au.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/161830952.jpg?k=33937cf73e31c96fb804eeda3bebfb3c9a7ba090ad33fe6eb3e3ef80609e1fd0&o=",
+      "score": 9,
+      "reviewCount": 2755,
+      "reviewCountFmt": "리뷰 2,755건",
+      "priceText": "₩₩ · 1박 약 35만원",
+      "walkMin": 4,
+      "refLabel": "윈야드역",
+      "star": 5,
+      "propertyId": 41735673,
+      "geo": {
+        "lat": -33.868302,
+        "lng": 151.20475
+      },
+      "priceKRW": 352896,
+      "priceStatus": "조회됨",
+      "distanceM": 290.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,755건. 윈야드역까지 도보 4분, ₩₩ · 1박 약 35만원. 연인·커플 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 1박 약 35만원",
+        "📝 리뷰 2,755건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Close to Darling harbor and circular quays,train to airport.",
+          "score": "9.2",
+          "country": "中国",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Highly recomended, great facilities.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "Pool and Gym facilities are great.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Great service, friendly staff,comfortable bad.",
+          "score": "9.2",
+          "country": "中国",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend staying at Skye Suites Sydney.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "프레이저 스위트 시드니 (Fraser Suites Sydney)",
+      "agodaUrl": "https://www.agoda.com/fraser-suites-sydney/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/84937/0/819ee5205c897c1abcded679667be685.jpeg?va=1&ce=2",
+      "score": 8.7,
+      "reviewCount": 3438,
+      "reviewCountFmt": "리뷰 3,438건",
+      "priceText": "₩₩ · 1박 약 35만원",
+      "walkMin": 3,
+      "refLabel": "타운 홀역",
+      "star": 5,
+      "propertyId": 84937,
+      "geo": {
+        "lat": -33.874832,
+        "lng": 151.205399
+      },
+      "priceKRW": 354731,
+      "priceStatus": "조회됨",
+      "distanceM": 206.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "차이니즈 프렌쉽 가든",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 3,438건. 타운 홀역까지 도보 3분, ₩₩ · 1박 약 35만원. 연인·커플 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 1박 약 35만원",
+        "📝 리뷰 3,438건",
+        "⭐ 5성급",
+        "🏝️ 리조트·빌라",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The facilities of the gym and pool/ sauna/ spa were amazing.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Great customer service and just a really nice and easy stay!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and space good to fit family of 3 person.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Close enogh ro walk ro QVB and Westfield and Sydney tower.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The cleanliness and service throughout my stay was amazing",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "아고다 citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T23:05:17.050Z",
+    "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T23:05:17.051Z",
+    "source": "agoda citySearch",
+    "daysAhead": 36,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

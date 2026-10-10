@@ -14,7 +14,7 @@
   "metaDescription": "2026년 11월 모리셔스 기념일 여행 — 5성급 중에서도 가장 높은 가격대와 풍부한 실제 리뷰를 갖춘 최고급 호텔·리조트 6곳을 아고다 실데이터로 엄선했습니다. 1박 요금·평점·투숙객 유형까지 비교하세요.",
   "intro": "기념일에는 그에 걸맞은 주소가 필요합니다. 가장 높은 등급, 가장 좋은 평가를 받는 호텔과 리조트에서 두 사람의 날을 기념해 보세요.",
   "viewpoint": "랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
-  "verdict": "이 숙소들의 리뷰 중 약 43%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>힐튼 마우리티어스 리조트 앤 스파</b>입니다 (평점 8.8 · 리뷰 702건 · 1박 약 93만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
+  "verdict": "이 숙소들의 리뷰 중 약 43%가 연인·커플 여행자의 리뷰입니다. 기념일 여행 기준 1순위는 <b>힐튼 마우리티어스 리조트 앤 스파</b>입니다 (평점 8.8 · 리뷰 702건 · 1박 약 90만원). 랜드마크급 5성 호텔과 리조트 가운데 리뷰가 가장 탄탄하고 최상위 객실을 갖춘 곳을 골랐습니다.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -44,19 +44,19 @@
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/857092688.jpg?k=e471849a9349d42989566213401fceb570a7251194884ced41e4c791cb5747f1&o=",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/927022200.jpg?k=14c9aa2c056f2238a89d5575a974c16025717a451c4812f650b9fbd590568e64&o=",
   "heroAlt": "모리셔스 기념일 여행 최고급 숙소",
-  "updated": "2026-10-06",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
       "name": "힐튼 마우리티어스 리조트 앤 스파 (Hilton Mauritius Resort & Spa)",
       "agodaUrl": "https://www.agoda.com/hilton-mauritius-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/857092688.jpg?k=e471849a9349d42989566213401fceb570a7251194884ced41e4c791cb5747f1&o=",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/927022200.jpg?k=14c9aa2c056f2238a89d5575a974c16025717a451c4812f650b9fbd590568e64&o=",
       "score": 8.8,
       "reviewCount": 702,
       "reviewCountFmt": "리뷰 702건",
-      "priceText": "₩₩₩ · 1박 약 93만원",
+      "priceText": "₩₩₩ · 1박 약 90만원",
       "walkMin": 1,
       "refLabel": "플릭 앙 플락 비치",
       "star": 5,
@@ -65,7 +65,7 @@
         "lat": -20.307281,
         "lng": 57.366486
       },
-      "priceKRW": 928853,
+      "priceKRW": 896717,
       "priceStatus": "조회됨",
       "distanceM": 23,
       "locationStatus": "조회됨",
@@ -74,9 +74,9 @@
         "일일 청소 서비스",
         "플릭 앙 플락 비치"
       ],
-      "blurb": "평점 8.8 · 리뷰 702건. 플릭 앙 플락 비치까지 도보 1분, ₩₩₩ · 1박 약 93만원. 연인·커플 리뷰 비중 20%.",
+      "blurb": "평점 8.8 · 리뷰 702건. 플릭 앙 플락 비치까지 도보 1분, ₩₩₩ · 1박 약 90만원. 연인·커플 리뷰 비중 20%.",
       "metaTags": [
-        "💰 1박 약 93만원",
+        "💰 1박 약 90만원",
         "📝 리뷰 702건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
@@ -167,9 +167,9 @@
       "agodaUrl": "https://www.agoda.com/constance-belle-mare-plage_6/hotel/all/mauritius-island-mu.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/103936927.jpg?k=4359e0ffb1488039c903fe933039029796adbc970fcff6ce369ba933e4e24c68&o=",
       "score": 8.8,
-      "reviewCount": 3357,
-      "reviewCountFmt": "리뷰 3,357건",
-      "priceText": "₩₩₩ · 1박 약 105만원",
+      "reviewCount": 3358,
+      "reviewCountFmt": "리뷰 3,358건",
+      "priceText": "₩₩₩ · 1박 약 104만원",
       "walkMin": 1,
       "refLabel": "벨리 메어 비치",
       "star": 5,
@@ -178,7 +178,7 @@
         "lat": -20.164673,
         "lng": 57.764168
       },
-      "priceKRW": 1054252,
+      "priceKRW": 1042491,
       "priceStatus": "조회됨",
       "distanceM": 54.22,
       "locationStatus": "조회됨",
@@ -188,10 +188,10 @@
         "사우나",
         "일일 청소 서비스"
       ],
-      "blurb": "평점 8.8 · 리뷰 3,357건. 벨리 메어 비치까지 도보 1분, ₩₩₩ · 1박 약 105만원.",
+      "blurb": "평점 8.8 · 리뷰 3,358건. 벨리 메어 비치까지 도보 1분, ₩₩₩ · 1박 약 104만원.",
       "metaTags": [
-        "💰 1박 약 105만원",
-        "📝 리뷰 3,357건",
+        "💰 1박 약 104만원",
+        "📝 리뷰 3,358건",
         "⭐ 5성급",
         "👥 가족 선호"
       ],
@@ -270,7 +270,7 @@
         "lat": -20.298611,
         "lng": 57.36488
       },
-      "priceKRW": 996211,
+      "priceKRW": 1000158,
       "priceStatus": "조회됨",
       "distanceM": 114.1,
       "locationStatus": "조회됨",
@@ -369,7 +369,7 @@
         "lat": -20.510635,
         "lng": 57.417918
       },
-      "priceKRW": 432635,
+      "priceKRW": 427158,
       "priceStatus": "조회됨",
       "distanceM": 8327.5,
       "locationStatus": "조회됨",
@@ -442,17 +442,17 @@
           "translated": false
         },
         {
-          "text": "A wonderful welcome and a great stay with the courteous team",
-          "score": "8.4",
-          "country": "Mauritius",
-          "date": "2025.03",
-          "translated": false
-        },
-        {
           "text": "I can't recommend it highly enough and can't wait to return!",
           "score": "10",
           "country": "المملكة العربية السعودية",
           "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "A wonderful welcome and a great stay with the courteous team",
+          "score": "8.4",
+          "country": "Mauritius",
+          "date": "2025.03",
           "translated": false
         }
       ],
@@ -470,9 +470,9 @@
       "agodaUrl": "https://www.agoda.com/angsana-balaclava-mauritius_2/hotel/balaclava-mu.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/36717352/-1/7c7e55cfa5b0505cb15c7f9c8320aecd.jpg?ce=0",
       "score": 8.3,
-      "reviewCount": 937,
-      "reviewCountFmt": "리뷰 937건",
-      "priceText": "₩₩ · 1박 약 59만원",
+      "reviewCount": 938,
+      "reviewCountFmt": "리뷰 938건",
+      "priceText": "₩₩ · 1박 약 62만원",
       "walkMin": 89,
       "refLabel": "시테 라 큐레 버스터미널",
       "star": 5,
@@ -481,7 +481,7 @@
         "lat": -20.09343,
         "lng": 57.517532
       },
-      "priceKRW": 589673,
+      "priceKRW": 618727,
       "priceStatus": "조회됨",
       "distanceM": 7090.54,
       "locationStatus": "조회됨",
@@ -496,10 +496,10 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 8.3 · 리뷰 937건. 시테 라 큐레 버스터미널까지 도보 89분, ₩₩ · 1박 약 59만원. 연인·커플 리뷰 비중 60%.",
+      "blurb": "평점 8.3 · 리뷰 938건. 시테 라 큐레 버스터미널까지 도보 89분, ₩₩ · 1박 약 62만원. 연인·커플 리뷰 비중 60%.",
       "metaTags": [
-        "💰 1박 약 59만원",
-        "📝 리뷰 937건",
+        "💰 1박 약 62만원",
+        "📝 리뷰 938건",
         "⭐ 5성급",
         "🏝️ 리조트·빌라",
         "👥 연인·커플 선호"
@@ -584,7 +584,7 @@
       "score": 9,
       "reviewCount": 397,
       "reviewCountFmt": "리뷰 397건",
-      "priceText": "₩₩₩ · 1박 약 84만원",
+      "priceText": "₩₩₩ · 1박 약 83만원",
       "walkMin": 32,
       "refLabel": "Mont Choisy Bus Stop",
       "star": 5,
@@ -593,7 +593,7 @@
         "lat": -20.004875,
         "lng": 57.570698
       },
-      "priceKRW": 844022,
+      "priceKRW": 834239,
       "priceStatus": "조회됨",
       "distanceM": 2552.05,
       "locationStatus": "조회됨",
@@ -608,9 +608,9 @@
         "책상",
         "전용 수영장"
       ],
-      "blurb": "평점 9 · 리뷰 397건. Mont Choisy Bus Stop까지 도보 32분, ₩₩₩ · 1박 약 84만원. 연인·커플 리뷰 비중 80%.",
+      "blurb": "평점 9 · 리뷰 397건. Mont Choisy Bus Stop까지 도보 32분, ₩₩₩ · 1박 약 83만원. 연인·커플 리뷰 비중 80%.",
       "metaTags": [
-        "💰 1박 약 84만원",
+        "💰 1박 약 83만원",
         "📝 리뷰 397건",
         "⭐ 5성급",
         "👥 연인·커플 선호"
@@ -683,16 +683,16 @@
   ],
   "methodology": {
     "source": "아고다 citySearch 검색 응답",
-    "fetchedAt": "2026-10-06T20:40:15.953Z",
+    "fetchedAt": "2026-10-10T23:05:48.785Z",
     "searchCondition": "5성급 한정 · 성인 2명 · 객실 1개 · 1박 · 체크인 2026-11-15 · 원화(세금·봉사료 포함)",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T20:40:15.953Z",
+    "fetchedAt": "2026-10-10T23:05:48.785Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 36,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
